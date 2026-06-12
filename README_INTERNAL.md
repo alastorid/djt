@@ -7,8 +7,8 @@ reading the latest posts.
 ## Purpose
 
 Relay DJT polls independent public archives of Donald J. Trump's Truth Social
-account, stores text posts in `djt.json`, and displays the 10 newest posts in
-the root README.
+account, stores text posts in `djt.json`, and displays posts from the last
+three days in the root README.
 
 The repository preserves:
 

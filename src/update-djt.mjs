@@ -14,7 +14,7 @@ import {
 } from "./truth-posts.mjs";
 
 const DEFAULT_OVERLAP_HOURS = 24;
-const README_POST_COUNT = 10;
+const README_DAYS = 3;
 const README_POSTS_START = "<!-- DJT_POSTS_START -->";
 const README_POSTS_END = "<!-- DJT_POSTS_END -->";
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
@@ -218,7 +218,13 @@ function quoteMarkdown(text) {
 }
 
 export function renderReadmePosts(posts, updatedAt) {
-  const entries = posts.slice(0, README_POST_COUNT).map((post) => {
+  const cutoff = new Date(
+    new Date(updatedAt).getTime() - README_DAYS * 24 * HOUR_MS,
+  );
+  const recentPosts = posts.filter(
+    (post) => new Date(post.createdAt) >= cutoff,
+  );
+  const entries = recentPosts.map((post) => {
     const latestVersion = post.versions.at(-1);
     const labels = [];
     if (post.deleted) {
@@ -235,7 +241,7 @@ ${quoteMarkdown(latestVersion.text)}${annotation}`;
   });
 
   return `${README_POSTS_START}
-_Latest ${Math.min(posts.length, README_POST_COUNT)}, newest first. Checked ${formatPostDate(updatedAt)}._
+_Last ${README_DAYS} days, newest first. ${recentPosts.length} posts._
 
 ${entries.join("\n\n---\n\n")}
 ${README_POSTS_END}`;
@@ -363,7 +369,7 @@ async function main() {
     await rename(temporaryPath, outputPath);
   }
 
-  const readmeChanged = await updateReadme(posts, updatedAt);
+  const readmeChanged = await updateReadme(posts, now.toISOString());
   console.log(
     `Fetched Roll Call ${freshPosts.length}, Trump's Truth ${fallbackPosts.length}, ` +
       `and deleted ${deletedPosts.length}; ` +
