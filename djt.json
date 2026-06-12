@@ -2,8 +2,8 @@
   "account": "@realDonaldTrump",
   "profileUrl": "https://truthsocial.com/@realDonaldTrump",
   "source": "https://rollcall.com/wp-json/factbase/v1/twitter",
-  "fetchDays": 3,
-  "updatedAt": "2026-06-12T16:58:47.268Z",
+  "recentOverlapHours": 24,
+  "updatedAt": "2026-06-12T17:31:01.992Z",
   "count": 36,
   "posts": [
     {

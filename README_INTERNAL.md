@@ -52,7 +52,7 @@ npm run read -- --days 3 --json
 
 Each update:
 
-1. Fetches text posts from the latest three days.
+1. Fetches text posts using a 24-hour overlap.
 2. Fetches deleted records back to the oldest stored post date.
 3. Deduplicates observations by Truth Social post ID.
 4. Adds new posts.
@@ -65,6 +65,20 @@ Each update:
 9. Leaves both files untouched when nothing changed.
 
 Do not remove or duplicate the generated README markers.
+
+The 24-hour overlap gives scheduled runs substantial recovery room if GitHub
+Actions starts late or misses several runs. Recent volume normally fits in one
+50-record API page. Pagination remains enabled as a fallback for unusually
+busy periods.
+
+Override the overlap for a local or one-off run:
+
+```bash
+DJT_OVERLAP_HOURS=36 npm run update
+```
+
+For scheduled runs, edit `DJT_OVERLAP_HOURS` in
+`.github/workflows/update-djt.yml`.
 
 ## Version Semantics
 

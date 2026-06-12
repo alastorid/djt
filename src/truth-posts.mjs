@@ -2,6 +2,7 @@ export const ARCHIVE_API =
   "https://rollcall.com/wp-json/factbase/v1/twitter";
 export const PROFILE_URL = "https://truthsocial.com/@realDonaldTrump";
 export const USERNAME = "realDonaldTrump";
+export const HOUR_MS = 60 * 60 * 1000;
 export const DAY_MS = 24 * 60 * 60 * 1000;
 
 const MAX_PAGES = 50;

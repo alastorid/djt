@@ -5,19 +5,29 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   ARCHIVE_API,
-  DAY_MS,
+  HOUR_MS,
   PROFILE_URL,
   USERNAME,
   fetchPosts,
 } from "./truth-posts.mjs";
 
-const FETCH_DAYS = 3;
+const DEFAULT_OVERLAP_HOURS = 24;
 const README_POST_COUNT = 10;
 const README_POSTS_START = "<!-- DJT_POSTS_START -->";
 const README_POSTS_END = "<!-- DJT_POSTS_END -->";
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
 const outputPath = path.resolve(scriptDirectory, "..", "djt.json");
 const readmePath = path.resolve(scriptDirectory, "..", "README.md");
+
+function overlapHours() {
+  const value = Number(
+    process.env.DJT_OVERLAP_HOURS || DEFAULT_OVERLAP_HOURS,
+  );
+  if (!Number.isFinite(value) || value <= 0) {
+    throw new Error("DJT_OVERLAP_HOURS must be a positive number.");
+  }
+  return value;
+}
 
 function validatePosts(posts) {
   if (!Array.isArray(posts)) {
@@ -232,7 +242,10 @@ async function updateReadme(posts, updatedAt) {
 
 async function main() {
   const now = new Date();
-  const cutoff = new Date(now.getTime() - FETCH_DAYS * DAY_MS);
+  const recentOverlapHours = overlapHours();
+  const cutoff = new Date(
+    now.getTime() - recentOverlapHours * HOUR_MS,
+  );
   const {
     posts: existingPosts,
     previousUpdatedAt,
@@ -260,17 +273,22 @@ async function main() {
   const postsChanged =
     !existingDocument ||
     JSON.stringify(existingDocument.posts) !== JSON.stringify(posts);
+  const settingsChanged =
+    !existingDocument ||
+    existingDocument.recentOverlapHours !== recentOverlapHours ||
+    Object.hasOwn(existingDocument, "fetchDays");
+  const archiveChanged = postsChanged || settingsChanged;
 
-  const updatedAt = postsChanged
+  const updatedAt = archiveChanged
     ? now.toISOString()
     : existingDocument.updatedAt;
 
-  if (postsChanged) {
+  if (archiveChanged) {
     const document = {
       account: `@${USERNAME}`,
       profileUrl: PROFILE_URL,
       source: ARCHIVE_API,
-      fetchDays: FETCH_DAYS,
+      recentOverlapHours,
       updatedAt,
       count: posts.length,
       posts,
@@ -284,7 +302,7 @@ async function main() {
   const readmeChanged = await updateReadme(posts, updatedAt);
   console.log(
     `Fetched ${freshPosts.length} recent and ${deletedPosts.length} deleted; ` +
-      `${postsChanged ? `merged ${posts.length}` : "no archive changes"}; ` +
+      `${archiveChanged ? `merged ${posts.length}` : "no archive changes"}; ` +
       `${readmeChanged ? "updated README.md" : "README.md unchanged"}`,
   );
 }
