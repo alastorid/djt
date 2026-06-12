@@ -1,0 +1,15 @@
+{
+  "name": "djt-truth-reader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read Donald Trump's text posts from Truth Social for the last seven days.",
+  "type": "module",
+  "scripts": {
+    "read": "node src/read-posts.mjs",
+    "read:json": "node src/read-posts.mjs --json",
+    "update": "node src/update-djt.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

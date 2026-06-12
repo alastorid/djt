@@ -1,0 +1,41 @@
+name: Update DJT archive
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+concurrency:
+  group: update-djt-archive
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Shuffle the pile
+        run: node src/update-djt.mjs
+
+      - name: Put things back
+        run: |
+          if git diff --quiet -- djt.json README.md; then
+            echo "Nothing moved."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add djt.json README.md
+          git commit -m "Move things around"
+          git push

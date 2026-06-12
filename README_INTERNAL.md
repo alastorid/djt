@@ -1,0 +1,140 @@
+# Relay DJT Maintainer Guide
+
+This file explains how the repository works. The public-facing
+[`README.md`](./README.md) is partly generated and is intended for quickly
+reading the latest posts.
+
+## Purpose
+
+Relay DJT polls a public archive of Donald J. Trump's Truth Social account,
+stores text posts in `djt.json`, and displays the 10 newest posts in the root
+README.
+
+The repository preserves:
+
+- Posts older than the current fetch window
+- Previously observed versions of edited text
+- Deleted posts and available deletion timestamps
+- Original Truth Social post IDs, URLs, and creation times
+
+## Files
+
+- `src/truth-posts.mjs`: Fetches and normalizes source records.
+- `src/read-posts.mjs`: Prints posts for a requested rolling window.
+- `src/update-djt.mjs`: Merges observations, writes `djt.json`, and regenerates
+  the latest-post section in `README.md`.
+- `djt.json`: Persistent versioned archive, sorted newest first.
+- `.github/workflows/update-djt.yml`: Scheduled updater and commit job.
+- `README.md`: Public project page and generated latest-post feed.
+
+## Commands
+
+Install:
+
+```bash
+npm install
+```
+
+Update the persistent archive and README:
+
+```bash
+npm run update
+```
+
+Read without changing stored files:
+
+```bash
+npm run read -- --days 3
+npm run read -- --days 3 --json
+```
+
+## Update Process
+
+Each update:
+
+1. Fetches text posts from the latest three days.
+2. Fetches deleted records back to the oldest stored post date.
+3. Deduplicates observations by Truth Social post ID.
+4. Adds new posts.
+5. Appends a version when the current text differs from the last stored
+   version.
+6. Marks deleted posts without removing their text or version history.
+7. Sorts all posts newest first.
+8. Rewrites the generated section between `DJT_POSTS_START` and
+   `DJT_POSTS_END` in `README.md`.
+9. Leaves both files untouched when nothing changed.
+
+Do not remove or duplicate the generated README markers.
+
+## Version Semantics
+
+The source does not provide an authoritative edit timestamp. Each version uses
+`firstSeenAt`, which records when Relay DJT first observed that text.
+
+```json
+{
+  "currentVersion": 2,
+  "versions": [
+    {
+      "version": 1,
+      "text": "Original text",
+      "firstSeenAt": "2026-06-12T10:00:00.000Z"
+    },
+    {
+      "version": 2,
+      "text": "Edited text",
+      "firstSeenAt": "2026-06-12T10:10:00.000Z"
+    }
+  ]
+}
+```
+
+Deletion fields:
+
+- `deleted`: Whether the source reports the post as deleted.
+- `deletedAt`: Source-provided deletion time, when available.
+- `deletedDetectedAt`: When Relay DJT first observed the deletion.
+
+## GitHub Actions
+
+The workflow runs every 10 minutes and supports manual dispatch. It has
+`contents: write` permission and commits only `djt.json` and `README.md`.
+
+GitHub schedules are best effort, so runs can start later than the exact cron
+minute. Concurrency is limited to one updater to avoid overlapping commits.
+
+## Data Source
+
+Truth Social currently blocks direct automated API requests. The fetcher uses
+the public Roll Call/Factba.se social archive:
+
+```text
+https://rollcall.com/wp-json/factbase/v1/twitter
+```
+
+Edit and deletion detection depend on that archive publishing the change.
+Media-only placeholders and ReTruth markers are intentionally excluded.
+
+## Troubleshooting
+
+Run the updater locally and inspect its summary:
+
+```bash
+npm run update
+git diff -- djt.json README.md
+```
+
+Check recent workflow runs:
+
+```bash
+gh run list --workflow update-djt.yml
+```
+
+Manually start an update:
+
+```bash
+gh workflow run update-djt.yml
+```
+
+If a workflow cannot push, confirm that repository Actions settings allow
+GitHub Actions to create and approve commits with the configured token.
