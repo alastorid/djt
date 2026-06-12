@@ -7,8 +7,10 @@ import {
   ARCHIVE_API,
   HOUR_MS,
   PROFILE_URL,
+  TRUMPS_TRUTH_URL,
   USERNAME,
   fetchPosts,
+  fetchTrumpsTruthPosts,
 } from "./truth-posts.mjs";
 
 const DEFAULT_OVERLAP_HOURS = 24;
@@ -168,6 +170,30 @@ export function mergePosts(
   );
 }
 
+export function selectObservations(
+  existingPosts,
+  rollCallPosts,
+  fallbackPosts,
+  deletedPosts,
+) {
+  const existingIds = new Set(existingPosts.map((post) => post.id));
+  const observationsById = new Map();
+
+  for (const post of rollCallPosts) {
+    observationsById.set(post.id, post);
+  }
+  for (const post of fallbackPosts) {
+    if (!observationsById.has(post.id) && !existingIds.has(post.id)) {
+      observationsById.set(post.id, post);
+    }
+  }
+  for (const post of deletedPosts) {
+    observationsById.set(post.id, post);
+  }
+
+  return [...observationsById.values()];
+}
+
 function formatPostDate(date) {
   return new Intl.DateTimeFormat("en-US", {
     month: "long",
@@ -256,17 +282,52 @@ async function main() {
       new Date(post.createdAt) < oldest ? new Date(post.createdAt) : oldest,
     cutoff,
   );
-  const [freshPosts, deletedPosts] = await Promise.all([
+  const [rollCallRecent, trumpsTruthRecent, rollCallDeleted] =
+    await Promise.allSettled([
     fetchPosts(cutoff, now),
+    fetchTrumpsTruthPosts(cutoff, now),
     fetchPosts(oldestStoredDate, now, { deletedOnly: true }),
   ]);
-  const observationsById = new Map();
-  for (const post of [...freshPosts, ...deletedPosts]) {
-    observationsById.set(post.id, post);
+  if (
+    rollCallRecent.status === "rejected" &&
+    trumpsTruthRecent.status === "rejected"
+  ) {
+    throw new Error(
+      `All recent sources failed. Roll Call: ${rollCallRecent.reason.message}; ` +
+        `Trump's Truth: ${trumpsTruthRecent.reason.message}`,
+    );
   }
+  if (rollCallRecent.status === "rejected") {
+    console.warn(
+      `Warning: Roll Call recent feed failed: ${rollCallRecent.reason.message}`,
+    );
+  }
+  if (trumpsTruthRecent.status === "rejected") {
+    console.warn(
+      `Warning: Trump's Truth recent feed failed: ${trumpsTruthRecent.reason.message}`,
+    );
+  }
+  if (rollCallDeleted.status === "rejected") {
+    console.warn(
+      `Warning: Roll Call deletion audit failed: ${rollCallDeleted.reason.message}`,
+    );
+  }
+
+  const freshPosts =
+    rollCallRecent.status === "fulfilled" ? rollCallRecent.value : [];
+  const fallbackPosts =
+    trumpsTruthRecent.status === "fulfilled" ? trumpsTruthRecent.value : [];
+  const deletedPosts =
+    rollCallDeleted.status === "fulfilled" ? rollCallDeleted.value : [];
+  const observations = selectObservations(
+    existingPosts,
+    freshPosts,
+    fallbackPosts,
+    deletedPosts,
+  );
   const posts = mergePosts(
     existingPosts,
-    [...observationsById.values()],
+    observations,
     now.toISOString(),
     previousUpdatedAt,
   );
@@ -276,7 +337,10 @@ async function main() {
   const settingsChanged =
     !existingDocument ||
     existingDocument.recentOverlapHours !== recentOverlapHours ||
-    Object.hasOwn(existingDocument, "fetchDays");
+    Object.hasOwn(existingDocument, "fetchDays") ||
+    Object.hasOwn(existingDocument, "source") ||
+    JSON.stringify(existingDocument.sources) !==
+      JSON.stringify([ARCHIVE_API, TRUMPS_TRUTH_URL]);
   const archiveChanged = postsChanged || settingsChanged;
 
   const updatedAt = archiveChanged
@@ -287,7 +351,7 @@ async function main() {
     const document = {
       account: `@${USERNAME}`,
       profileUrl: PROFILE_URL,
-      source: ARCHIVE_API,
+      sources: [ARCHIVE_API, TRUMPS_TRUTH_URL],
       recentOverlapHours,
       updatedAt,
       count: posts.length,
@@ -301,7 +365,8 @@ async function main() {
 
   const readmeChanged = await updateReadme(posts, updatedAt);
   console.log(
-    `Fetched ${freshPosts.length} recent and ${deletedPosts.length} deleted; ` +
+    `Fetched Roll Call ${freshPosts.length}, Trump's Truth ${fallbackPosts.length}, ` +
+      `and deleted ${deletedPosts.length}; ` +
       `${archiveChanged ? `merged ${posts.length}` : "no archive changes"}; ` +
       `${readmeChanged ? "updated README.md" : "README.md unchanged"}`,
   );

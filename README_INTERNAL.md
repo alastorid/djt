@@ -6,9 +6,9 @@ reading the latest posts.
 
 ## Purpose
 
-Relay DJT polls a public archive of Donald J. Trump's Truth Social account,
-stores text posts in `djt.json`, and displays the 10 newest posts in the root
-README.
+Relay DJT polls independent public archives of Donald J. Trump's Truth Social
+account, stores text posts in `djt.json`, and displays the 10 newest posts in
+the root README.
 
 The repository preserves:
 
@@ -52,8 +52,8 @@ npm run read -- --days 3 --json
 
 Each update:
 
-1. Fetches text posts using a 24-hour overlap.
-2. Fetches deleted records back to the oldest stored post date.
+1. Fetches text posts from Roll Call and Trump's Truth using a 24-hour overlap.
+2. Fetches Roll Call deleted records back to the oldest stored post date.
 3. Deduplicates observations by Truth Social post ID.
 4. Adds new posts.
 5. Appends a version when the current text differs from the last stored
@@ -120,14 +120,21 @@ minute. Concurrency is limited to one updater to avoid overlapping commits.
 ## Data Source
 
 Truth Social currently blocks direct automated API requests. The fetcher uses
-the public Roll Call/Factba.se social archive:
+two independent public archives:
 
 ```text
 https://rollcall.com/wp-json/factbase/v1/twitter
+https://trumpstruth.org/
 ```
 
-Edit and deletion detection depend on that archive publishing the change.
-Media-only placeholders and ReTruth markers are intentionally excluded.
+Roll Call is authoritative for edits and deletions. Trump's Truth contributes
+new IDs that Roll Call misses and keeps recent collection working when Roll
+Call is unavailable. Existing text is not replaced from the fallback source,
+which prevents formatting differences from being mistaken for edits.
+
+The update fails only when both recent-post sources fail. A Roll Call deletion
+audit failure is nonfatal and is retried on the next run. Media-only
+placeholders and ReTruth markers are intentionally excluded.
 
 ## Troubleshooting
 
