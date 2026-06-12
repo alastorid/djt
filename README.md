@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [June 12, 2026 at 5:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116739176330480134)
 
@@ -231,24 +231,6 @@ _Last 3 days, newest first. 36 posts._
 ### [June 9, 2026 at 8:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723001472960111)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116722993359636132
-
----
-
-### [June 9, 2026 at 6:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116722436233594406)
-
-> William Pulte, who is working closely with Tulsi Gabbard, will be taking over as Acting Director of National Intelligence on Friday, June 19th. He will remain as Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Freddie Mac. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 9, 2026 at 5:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116722383986616231)
-
-> Record $327.1 Billion Exports Help Shrink U.S. Trade Deficit: https:// dallasexpress.com/national/rec ord-327-1-billion-exports-help-shrink-u-s-trade-deficit-in-april/
-
----
-
-### [June 9, 2026 at 5:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116722381318407443)
-
-> US trade deficit widens by the most in nearly 34 years: https://www. reuters.com/business/us-trade- deficit-widens-by-most-nearly-34-years-november-2026-01-29/
 <!-- DJT_POSTS_END -->
 
 ---
