@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-12T17:39:08.714Z",
-  "count": 36,
+  "updatedAt": "2026-06-12T21:15:45.828Z",
+  "count": 37,
   "posts": [
+    {
+      "id": "116739176330480134",
+      "createdAt": "2026-06-12T17:07:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116739176330480134",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This Sunday Night, during the historic Freedom 250 UFC Fight at the White House, The Department of War will debut their first TV Ad, entitled \"Peace Through Strength.\" WATCH IT BELOW. The Warrior Ethos is BACK at the War Department, and we call on our greatest young Americans to join our Great Fighting (when necessary!) Machine. President DONALD J. TRUMP\n https://www. war.gov",
+          "firstSeenAt": "2026-06-12T21:15:45.828Z"
+        }
+      ]
+    },
     {
       "id": "116738087808561603",
       "createdAt": "2026-06-12T12:30:57-04:00",

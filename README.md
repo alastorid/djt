@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 12, 2026 at 5:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116739176330480134)
+
+> This Sunday Night, during the historic Freedom 250 UFC Fight at the White House, The Department of War will debut their first TV Ad, entitled "Peace Through Strength." WATCH IT BELOW. The Warrior Ethos is BACK at the War Department, and we call on our greatest young Americans to join our Great Fighting (when necessary!) Machine. President DONALD J. TRUMP
+>  https://www. war.gov
+
+---
 
 ### [June 12, 2026 at 12:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116738087808561603)
 
