@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [June 13, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116743353225555838)
 
@@ -161,16 +161,6 @@ _Last 3 days, newest first. 23 posts._
 ### [June 10, 2026 at 1:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726967259692558)
 
 > Congratulations to my friend, Prime Minister Narendra Modi, on becoming India’s longest-serving Prime Minister – And a Great One he is! He is a strong, healthy, and wise man, and will have many years of Greatness and Success ahead of him! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 11:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726429558380513)
-
-> Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Security hostage because of unrelated issues. They should stop playing politics with the safety of our Great Country.
->
-> I have named William Pulte to be Acting Director of National Intelligence, who will take over on June 19th, and have asked him to execute the immediate and needed downsizing of the office, reverting staff to their home agencies. At the same time, I am looking for a permanent ODNI Nominee with experience in National Security.
->
-> FISA 702 is very important to our Military, and keeping the American People safe, especially during the World Cup and America250 Celebrations. If nothing is done, this important Law will expire this week. I am asking Congress to send me a short-term extension of FISA to provide time for the selection and confirmation of a permanent Head of the Agency. I would like to thank Director Pulte for his time and commitment. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
