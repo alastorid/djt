@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [June 13, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116743353225555838)
+
+> Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team. Keep it going! President DJT
+
+---
 
 ### [June 12, 2026 at 9:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116740105083348004)
 
@@ -165,18 +171,6 @@ _Last 3 days, newest first. 24 posts._
 > I have named William Pulte to be Acting Director of National Intelligence, who will take over on June 19th, and have asked him to execute the immediate and needed downsizing of the office, reverting staff to their home agencies. At the same time, I am looking for a permanent ODNI Nominee with experience in National Security.
 >
 > FISA 702 is very important to our Military, and keeping the American People safe, especially during the World Cup and America250 Celebrations. If nothing is done, this important Law will expire this week. I am asking Congress to send me a short-term extension of FISA to provide time for the selection and confirmation of a permanent Head of the Agency. I would like to thank Director Pulte for his time and commitment. President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 9:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726055495215764)
-
-> Wow! CITI was ranked Number 1 in topping M&A Advisory Market by Value in Q1. Congratulations to Jane F and ALL of her great people. They’ve worked really hard! BIG comeback for CITI!!! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726011433927314)
-
-> In a reversal, Mar-a-Lago helipad to remain past end of Trump's term: https://www. palmbeachpost.com/story/news/t rump/2026/06/09/in-a-reversal-mar-a-lago-helipad-to-remain-past-end-of-trumps-term-palm-beach-florida/90455786007/
 <!-- DJT_POSTS_END -->
 
 ---
