@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 24 posts._
 
 ### [June 12, 2026 at 9:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116740105083348004)
 
@@ -177,18 +177,6 @@ _Last 3 days, newest first. 26 posts._
 ### [June 10, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726011433927314)
 
 > In a reversal, Mar-a-Lago helipad to remain past end of Trump's term: https://www. palmbeachpost.com/story/news/t rump/2026/06/09/in-a-reversal-mar-a-lago-helipad-to-remain-past-end-of-trumps-term-palm-beach-florida/90455786007/
-
----
-
-### [June 10, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725591109474316)
-
-> The Fake News Media refuses to report how EFFECTIVE the U.S. Naval BLOCKADE is, the most successful Blockade in the history of Naval Warfare. NOTHING GETS THROUGH unless we want it to. IT IS A STEEL WALL! Iran is doing ZERO business, not paying their military, or any of their bills, and quickly becoming a FAILED NATION! Lots of oil is getting out. Praise be to Allah! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725476229257491)
-
-> Iran’s Military is a complete and total mess. Much of it, like their Navy and Air Force, doesn’t even exist anymore - They have been completely defeated. Iran is all talk and no action. The Bully of the Middle East is DEAD!!! They’ve taken too long to negotiate a deal that would have been great for them, now they will have to pay the price!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
