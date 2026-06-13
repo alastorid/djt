@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 26 posts._
 
 ### [June 12, 2026 at 9:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116740105083348004)
 
@@ -189,18 +189,6 @@ _Last 3 days, newest first. 28 posts._
 ### [June 10, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725476229257491)
 
 > Iran’s Military is a complete and total mess. Much of it, like their Navy and Air Force, doesn’t even exist anymore - They have been completely defeated. Iran is all talk and no action. The Bully of the Middle East is DEAD!!! They’ve taken too long to negotiate a deal that would have been great for them, now they will have to pay the price!!! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 6:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725444469272742)
-
-> Joe Scarborough’s ever shrinking, low rated show, one of the most inaccurate detailers of truthful facts on television, is being crushed in the ratings. His serious case on Trump Derangement Syndrome, often referred to as TDS, has made him a laughing stock among those who know what is going on in the “Wonderful World of Television.” His show is being cut because his ratings are TERRIBLE, and Mike and Willie, who wants to be his father but doesn’t have the talent, are falling further and further into the TDS Swamp! They all suffer from Low Ratings Disease!!! President DJT
-
----
-
-### [June 10, 2026 at 6:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725365354632342)
-
-> Stephen A. Smith is an arrogant fool, a low IQ individual. In other words, he’s “dumb as a rock,” and totally unqualified to ever think of running for high political office, or even low political office, for that matter! He’d get annihilated in a debate by the most incompetent of politicians. Joe Biden’s now “fabled” performance would look great by comparison to anything that this loudmouth huckster has to offer, which isn’t much! Within a few weeks, they’d laugh him out of politics!!!
 <!-- DJT_POSTS_END -->
 
 ---
