@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 20 posts._
+
+### [June 13, 2026 at 12:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116743815454221461)
+
+> The Obama Library ten years from now will be a “Mecca” for those who hate America! President DJT
+
+---
+
+### [June 13, 2026 at 12:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116743808155352167)
+
+> Barack Hussein Obama’s Deal with Iran, the JCPOA, was an easy, beautiful, smooth road to a Nuclear Weapon, which Iran would have had six years ago, and would have used long before now. My Agreement with Iran is the exact opposite, A WALL TO NO NUCLEAR WEAPON! In fact, they no longer want a Nuclear Weapon, nor will they have one, either through purchase, development, or any other form of procurement. The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL. Our relationship with Iran is a much different and better one than previous Administrations have had. Unlike Obama’s Hundreds of Billions of Dollars in payments to them, including 1.7 Billion Dollars in green, cold cash, no money will exchange hands. At the appropriate time, when all is calm, we will go in and get the Nuclear Dust, buried deep under the powerful sunken granite mountains, thanks to our beautiful B-2 Bombers and their brilliant pilots, and downblend and destroy it, whether in Iran, or the United States. We look forward to working with Iran, and the entire Middle East, long into the future. Hopefully, this process will all work out quickly, easily, and smoothly. If it doesn’t, we have the ultimate alternative, hopefully never to be used again! Thank you for your attention to this matter!!! President DONALD J. TRUMP
+
+---
 
 ### [June 13, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116743353225555838)
 
@@ -137,30 +149,6 @@ _Last 3 days, newest first. 22 posts._
 > 5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.
 >
 > Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 1:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116727075577305840)
-
-> Last month, I directed our Great U.S. Military to execute a secret mission to support Oil Tankers and other Commercial Ships through the Straight of Hormuz. Today, I am pleased to announce that this effort has resulted in more than 100 MILLION Barrels of Oil making its way through the Straight, and into the Open Market. More than 200 Commercial Ships have safely traveled through the Strait. This wildly successful effort is because the UNITED STATES of AMERICA CONTROLS the Strait of Hormuz — NOT Iran. Their military is defeated, and their economy is lost. It’s over for Iran! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 1:43 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116727049222420250)
-
-> Congratulations to Colombian Presidential Candidate, “El Tigre (THE TIGER),” Abelardo de la Espriella, a Smart, Strong, and Tough Leader, on his decisive Victory in the first round of the Colombian Presidential Election! Abelardo fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. As President, Abelardo will be tremendously successful in leading Colombia to Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, Crack Down on Crime and Drugs, and Restore LAW AND ORDER! Abelardo will face off against a Radical Left Marxist in the Runoff on June 21st — The results of this Election are very important to the future of Colombia and its relationship to the United States which, if Abelardo wins, and because of his competence and love of his Country, will have the total support and strength of the United States behind him. Because of his tremendous accomplishments in life, and his political support for me, it is my Honor to give Abelardo my Complete and Total Endorsement. “EL TIGRE” ABELARDO DE LA ESPRIELLA WILL NOT LET THE WONDERFUL PEOPLE OF COLOMBIA DOWN. It will rise to a new height of Greatness! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726989523401101)
-
-> Congratulations to Nikol Pashinyan for his decisive victory in Armenia’s National Elections. I was very proud to have Endorsed him for Re-Election, and have no doubt that, with him as the Leader of the beautiful Country of Armenia, it will attain levels of Greatness and Success beyond everyone’s wildest expectations! President DONALD J. TRUMP
-
----
-
-### [June 10, 2026 at 1:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116726967259692558)
-
-> Congratulations to my friend, Prime Minister Narendra Modi, on becoming India’s longest-serving Prime Minister – And a Great One he is! He is a strong, healthy, and wise man, and will have many years of Greatness and Success ahead of him! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
