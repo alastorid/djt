@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [June 13, 2026 at 6:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116745209532202669)
+
+> Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP
+
+---
 
 ### [June 13, 2026 at 2:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116744329783387013)
 

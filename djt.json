@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-13T19:53:27.611Z",
-  "count": 42,
+  "updatedAt": "2026-06-13T23:49:11.225Z",
+  "count": 43,
   "posts": [
+    {
+      "id": "116745209532202669",
+      "createdAt": "2026-06-13T18:42:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116745209532202669",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-13T23:49:11.225Z"
+        }
+      ]
+    },
     {
       "id": "116744329783387013",
       "createdAt": "2026-06-13T14:58:22-04:00",
