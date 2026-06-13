@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [June 12, 2026 at 9:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116740105083348004)
+
+> At my direction, the United States Southern Command delivered a swift and lethal kinetic strike to successfully execute Niño Guerrero, the infamous leader of Tren De Aragua, one of the most bloodthirsty Terrorist Organizations on Planet Earth. Before I returned to office, Joe Biden opened our Southern Border to millions of Illegal Criminals, and allowed this foreign army to rape, maim, and murder American Citizens with total impunity. During my Campaign, I pledged to expel these monsters from our Country, and bring Justice to the families of those they slaughtered, including the precious 12-year-old Jocelyn Nungaray, 22-year-old Laken Reilly, and countless other beautiful souls. With this action, the United States Military has brought retribution for them, their families, and their loved ones. Early in my Administration, I delivered on my promise to designate Tren de Aragua as a Foreign Terrorist Organization, deport thousands of evil criminals, and wage war against the Cartels, who have long been waging war against our Citizens, while weak leaders left America helpless and defensive. This action was coordinated closely with our friends in Venezuela, with whom we are working very well. As a result, Tren de Aragua terrorists no longer have safe haven in Venezuela or anywhere else and, under my leadership, we will find these vicious murderers and drugs lords anytime, anyplace, and send them to the depths of hell where they belong. GOD BLESS AMERICA! President DONALD J. TRUMP
+
+---
 
 ### [June 12, 2026 at 5:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116739176330480134)
 
@@ -195,42 +201,6 @@ _Last 3 days, newest first. 33 posts._
 ### [June 10, 2026 at 6:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116725365354632342)
 
 > Stephen A. Smith is an arrogant fool, a low IQ individual. In other words, he’s “dumb as a rock,” and totally unqualified to ever think of running for high political office, or even low political office, for that matter! He’d get annihilated in a debate by the most incompetent of politicians. Joe Biden’s now “fabled” performance would look great by comparison to anything that this loudmouth huckster has to offer, which isn’t much! Within a few weeks, they’d laugh him out of politics!!!
-
----
-
-### [June 9, 2026 at 11:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723667949197572)
-
-> Key senator presses to term limit parliamentarian, clear possible path for election law: https:// justthenews.com/government/con gress/key-senator-presses-term-limit-parliamentarian-clear-possible-path-election-law
-
----
-
-### [June 9, 2026 at 11:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723666009941892)
-
-> JD Vance refers evidence of Minnesota fraud, Walz inaction to DOJ for criminal inquiry: https:// justthenews.com/accountability /waste-fraud-and-abuse/jd-vance-refers-evidence-minnesota-fraud-walz-inaction-doj
-
----
-
-### [June 9, 2026 at 10:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723481501831841)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723480830148350
-
----
-
-### [June 9, 2026 at 10:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723480830148350)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116723479960785181
-
----
-
-### [June 9, 2026 at 9:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723301122482300)
-
-> Congratulations to Senator Lindsey Graham of the Great State of South Carolina on his BIG WIN tonight. With almost 60% of the vote against a large field of very capable candidates, there will be no runoff. Now Lindsey will be able to devote his time to passing the desperately needed, and long overdue, SAVE AMERICA ACT! President DJT
-
----
-
-### [June 9, 2026 at 8:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116723001472960111)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116722993359636132
 <!-- DJT_POSTS_END -->
 
 ---
