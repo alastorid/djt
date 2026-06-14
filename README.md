@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [June 14, 2026 at 12:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749412213359330)
 
@@ -148,20 +148,6 @@ _Last 3 days, newest first. 24 posts._
 ### [June 11, 2026 at 6:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116733724226062708)
 
 > These are the weapons we are seizing from Mexican Cartels. They are killing thousands of Americans each and every year! President DONALD J. TRUMP
-
----
-
-### [June 11, 2026 at 2:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116732777898985789)
-
-> I am pleased to announce the Nomination of very Highly Respected Jay Clayton, former Chairman of the Securities and Exchange Commission, the former Head of Sullivan & Cromwell, one of the most prominent and successful Law Firms anywhere in the World, and the current United States Attorney for the Southern District of New York, to be the next Director of National Intelligence and, importantly, to serve in my Cabinet. Few people anywhere in the Legal Community are respected at the level of Jay. I encourage the United States Senate to confirm Jay as soon as possible. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 11, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116732652997120164)
-
-> Based on the fact that discussions with the Islamic Republic of Iran have been brought to the highest level of Iranian leadership and approved, I have, as President of the United States of America, cancelled the scheduled strikes and bombings against Iran this evening. Discussions and final points have been, in both concept and great detail, approved by all parties involved, including the United States, Israel, Saudi Arabia, UAE, Qatar, Turkey, Pakistan, Bahrain, Kuwait, Jordan, Egypt, and others. The Naval Blockade will remain in full force and effect until this Transaction is finalized — Time and place of the signing to be announced shortly.
-> DONALD J. TRUMP
-> PRESIDENT OF THE UNITED STATES OF AMERICA
 <!-- DJT_POSTS_END -->
 
 ---
