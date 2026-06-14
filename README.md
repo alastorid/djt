@@ -5,6 +5,12 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 22 posts._
 
+### [June 14, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749002714205339)
+
+> This morning’s attack on Beirut should not have happened, particularly on a special day when we are so close to a Peace Deal with Iran. Israel has the right to defend itself against threats, but the attack it was responding to was very small and meaningless, nobody was hurt, injured, or killed, and should not disrupt this important process. We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down. There should be no more attacks by Israel anywhere in Lebanon, but there should also be no more attacks by any other party, including Hezbollah, against Israel. This could be the beginning of a long and beautiful peace — Let’s not blow it! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
+
 ### [June 14, 2026 at 12:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116746683568766400)
 
 > It is my Great Honor to endorse “MAGA” Mike Collins, a Highly Respected Congressman who has been with me from the very beginning, and is running for the United States Senate in Georgia, a very special place to me, and where we just had a BIG Presidential Election Win with the Most Votes Received by any single Candidate in Georgia’s History, for any Election. Mike is strongly supported by the most Highly Respected MAGA Patriots in Georgia and beyond, and many Republicans in the U.S. House and Senate — He is a WARRIOR and WINNER!
@@ -137,12 +143,6 @@ _Last 3 days, newest first. 22 posts._
 > Based on the fact that discussions with the Islamic Republic of Iran have been brought to the highest level of Iranian leadership and approved, I have, as President of the United States of America, cancelled the scheduled strikes and bombings against Iran this evening. Discussions and final points have been, in both concept and great detail, approved by all parties involved, including the United States, Israel, Saudi Arabia, UAE, Qatar, Turkey, Pakistan, Bahrain, Kuwait, Jordan, Egypt, and others. The Naval Blockade will remain in full force and effect until this Transaction is finalized — Time and place of the signing to be announced shortly.
 > DONALD J. TRUMP
 > PRESIDENT OF THE UNITED STATES OF AMERICA
-
----
-
-### [June 11, 2026 at 10:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116732049110199246)
-
-> The United States States of America cannot live with the shackles of Birthright Citizenship. It is not economically, or otherwise, sustainable, and no other Country in the World, of consequence, does it! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
