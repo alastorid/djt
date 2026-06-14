@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 25 posts._
+
+### [June 14, 2026 at 2:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749924240483636)
+
+> What do they have to be afraid of. Republicans are moving too fast on nominations!!!
+
+---
+
+### [June 14, 2026 at 2:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749870028302766)
+
+> Why are the Dumocrats so afraid of of Bill Pulte at DNI??? He would only be Acting! What do they have to be afraid of, what are they hiding? There must be something BIG, mustn’t there??? President DJT
+
+---
+
+### [June 14, 2026 at 2:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749841607391318)
+
+> A few Dumocrats are against FISA, with or without Bill Pulte going to DNI, as Acting. What kind of a deal is that. Besides, I’m against FISA if it doesn’t come with The Save America Act (Full version!) firmly attached to it. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [June 14, 2026 at 12:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749412213359330)
 
