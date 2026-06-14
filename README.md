@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [June 14, 2026 at 12:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116746683568766400)
 
@@ -143,12 +143,6 @@ _Last 3 days, newest first. 23 posts._
 ### [June 11, 2026 at 10:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116732049110199246)
 
 > The United States States of America cannot live with the shackles of Birthright Citizenship. It is not economically, or otherwise, sustainable, and no other Country in the World, of consequence, does it! President DJT
-
----
-
-### [June 11, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116731447139970106)
-
-> The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most its offensive capability, are GONE!), VERY HARD TONIGHT. At some point in the not too distant future, we will be taking Kharg Island, and other oil infrastructure points, and assume total control of their Oil and Gas Markets, much like we have with Venezuela, which is working out brilliantly for both Venezuela and the United States of America. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
