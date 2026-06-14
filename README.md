@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [June 14, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750814874397998)
+
+> This Great Deal will bring Peace and Security to the whole Region. Many presidents have tried to make Peace with Iran, and all have failed before me. The Leaders of the Region have, for the first time, found a President who can help them achieve real Peace. With the opening of the Strait upon the signing of the Deal on Friday, for purposes of mine removal, oil will flow on both ends again for the Region, and the World! President DONALD J. TRUMP
+
+---
+
+### [June 14, 2026 at 5:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750587569914985)
+
+> The Deal with the Islamic Republic of Iran is now complete. Congratulations to all! I hereby fully authorize the toll free opening of the Strait of Hormuz, and, simultaneously herewith, authorize the immediate removal of the United States Naval blockade. Ships of the World, start your engines. Let the oil flow! President DONALD J. TRUMP
+
+---
 
 ### [June 14, 2026 at 4:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750372942466677)
 
@@ -172,12 +184,6 @@ _Last 3 days, newest first. 27 posts._
 ### [June 11, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116734152330542415)
 
 > Jamie Raskin, a Loser in Life, who worked endlessly during my First Term to impeach me, and failed miserably, wasting the Country’s money, time, and effort, will guaranteed be trying to do it again, despite one of the most successful Presidencies in History. The last one that went after me on Impeachment was a pathetic soul, Al Green, who just lost his race in a landslide to an unknown candidate but, in my opinion, one that had more talent than Raskin. He spent time on the Unselect Committee of Political Hacks and Thugs, and was rebuffed on that, just as he has been rebuffed on Impeachment, and many other things. If Biden didn’t give him a pardon, he’d be in jail right now! Something should be done about people like this who do bad things, but always come up on the short end because of their illegal or unscrupulous behavior, and hurt our Country in the process. I agree with Mark Levin when he says to, EXPEL THE BUM. Congress can never be great with people like this, who suffer massively from Trump Derangement Syndrome (TDS), casting their vote of HATE! President DONALD J. TRUMP
-
----
-
-### [June 11, 2026 at 6:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116733724226062708)
-
-> These are the weapons we are seizing from Mexican Cartels. They are killing thousands of Americans each and every year! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
