@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 15, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754288530173924)
 
@@ -315,15 +315,6 @@ _Last 3 days, newest first. 44 posts._
 
 > This Sunday Night, during the historic Freedom 250 UFC Fight at the White House, The Department of War will debut their first TV Ad, entitled "Peace Through Strength." WATCH IT BELOW. The Warrior Ethos is BACK at the War Department, and we call on our greatest young Americans to join our Great Fighting (when necessary!) Machine. President DONALD J. TRUMP
 >  https://www. war.gov
-
----
-
-### [June 12, 2026 at 12:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116738087808561603)
-
-> Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only gets better! Julia is running for the United States Senate in Louisiana, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024.
->
-> I know Julia well, have seen her tested at the highest and most difficult levels, and she is a TOTAL WINNER! A Proud Mother of two children, Julia is a wonderful person, has ALWAYS delivered for Louisiana, and would continue doing so in the United States Senate. As your next Senator, Julia will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Fishermen, Champion Louisiana Oil & Gas, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
-> Early Voting starts today, and the Republican Runoff is Saturday, June 27th. Vote for Julia Letlow — She has my Complete and Total Endorsement, and will never let you down! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
