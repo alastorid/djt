@@ -111,7 +111,8 @@ Deletion fields:
 
 ## GitHub Actions
 
-The workflow runs every 10 minutes and supports manual dispatch. It has
+The workflow runs every 5 minutes and supports manual dispatch. Five minutes
+is GitHub Actions' shortest supported schedule interval. It has
 `contents: write` permission and commits only `djt.json` and `README.md`.
 
 GitHub schedules are best effort, so runs can start later than the exact cron
