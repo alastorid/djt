@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 23 posts._
 
 ### [June 14, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750814874397998)
 
@@ -154,30 +154,6 @@ _Last 3 days, newest first. 27 posts._
 ### [June 12, 2026 at 9:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116737418354503074)
 
 > The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing. What they said, including their weak and pathetic statement on having a deal, bears no relation to the truth. Very dishonorable people to deal with. With them, there is no such thing as dealing in good faith. AMAZING! Also, their totally rebuffed Drone attack last night against Indian Ships leaving the Hormuz Strait is TOTALLY UNACCEPTABLE. They better get their act together, and FAST! President DONALD J. TRUMP
-
----
-
-### [June 11, 2026 at 9:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116734623535558014)
-
-> Why Scott Pelley Doesn’t Matter: https:// lyceumnow.com/why-scott-pelley -doesnt-matter/
-
----
-
-### [June 11, 2026 at 9:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116734622396281132)
-
-> US attorney in California suspects voter fraud investigation will result in charges: https:// justthenews.com/government/cou rts-law/us-attorney-california-suspects-voter-fraud-investigation-will-result-charges
-
----
-
-### [June 11, 2026 at 9:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116734620855620327)
-
-> Congress passes immigration funding bill, delivering major win for Trump after Democrat antics: https:// justthenews.com/politics-polic y/congress-passes-ice-border-patrol-funding-bill
-
----
-
-### [June 11, 2026 at 8:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116734237249042208)
-
-> Sara Baxter is a fantastic person, and highly qualified for many top political jobs but, on a somewhat selfish basis, I would rather have her stay on the Palm Beach County Commission (where so many important things are happening!), than run for Congress. Thank you Sara! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
