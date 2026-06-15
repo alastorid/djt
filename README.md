@@ -3,7 +3,54 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 29 posts._
+
+### [June 15, 2026 at 6:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753690331106553)
+
+> Under the disastrous Open Border Policy of Crooked Joe Biden and his traitorous DHS Secretary Alejandro Mayorkas, TENS OF MILLIONS of criminals, including over 13,000 STONE-COLD MURDERERS, poured into our Country from Prisons and Jails, from Mental Institutions and Insane Asylums. Needless to say, they were NOT always the safest drivers! Car Insurance Premiums rose to RECORD HIGHS, forcing Law-abiding American Citizens to subsidize the "free riding” Biden Illegals. After over a year of ZERO ILLEGAL IMMIGRATION, and our highly successful efforts to REVERSE the Biden Invasion, Car Insurance Premiums have come tumbling down. MAKE AMERICA SAFE AGAIN! President DONALD J. TRUMP
+
+---
+
+### [June 15, 2026 at 6:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753672230328052)
+
+> On July 4th, at The Lincoln Memorial and Washington Monument, in beautiful and safe Washington D.C., we are going to host the most spectacular TRUMP RALLY of them all, a “TRIBUTE TO AMERICA.” Starting at 7 P.M. EST, this HUGE Celebration will honor our Country's People, Spirit, Strength, Resolve, and Triumphs. With the backdrop of the Lincoln Memorial and surrounding the beautifully new Reflecting Pool, more than 300 Members of our strong and talented Military Bands, Orchestras, and Ceremonial Units, will perform Patriotic Melodies and American Classics, and my Playlist (We will have none of those people that put you to sleep and constantly complain!), as we celebrate our Country, and Rally into the next 250 years. This ensemble will be the largest formation of Joint Military Music and Ceremonial performances in History. There will be incredible Flyovers and Airshows featuring our Top Military Pilots and Equipment, and I will deliver keynote remarks that you will not want to miss. To conclude the program, and commemorate this Historic Occasion, I will be launching, what will be, the LARGEST FIREWORKS SHOW IN HISTORY, right here in our Nation's Capital. Do not miss it. See you on JULY 4th in Washington, D.C. President DONALD J. TRUMP
+
+---
+
+### [June 15, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753666622772186)
+
+> Wednesday, June 24th, will be the “kick off” of our summer long Celebration of 250 Years of American Independence! Come and enjoy a night filled with beautiful music from our talented U.S. Army and Marine Corps Military Bands (ONLY THE HITS THAT YOU KNOW AND LOVE!), the highly gifted Christopher Macchio, and our friend, Lee Greenwood, performing the Greatest Hit of All Time, GOD BLESS THE U.S.A. You will also bear witness to impressive Military flyovers featuring precision Fighter Jets and Stealth Bombers, which will be flown by our U.S. Military Pilots, who have proven to be the most Elite Pilots anywhere in the World. This Patriotic Tribute will take place on the Main Stage at the Freedom 250 Great American State Fair located on our Majestic National Mall, in what is now one of the safest Cities in the World, Washington D.C., which we are beautifying to levels never seen before. See you at 7 P.M. EST on Wednesday, June 24th. We are going to have fun, and celebrate America! President DONALD J. TRUMP
+
+---
+
+### [June 15, 2026 at 6:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753595710726312)
+
+> The UFC at the White House last night was incredible. The weather was scheduled to be horrendous, and it turned out to be PERFECT! So much for weather predicting. The Fighters were outstanding — Bo Nickal, Justin Gaethje, Ciryl Gane, Sean O’Malley, Josh Hokit, Mauricio Ruffy, and Diego Lopes were all unbelievable! Most people have never seen anything like that kind of human speed and power before. The White House has never looked more beautiful. The setting was unsurpassed! Congratulations to Dana White, and his unbelievable UFC. One of the most exciting days in the History of our fabled White House! President DONALD J. TRUMP
+
+---
+
+### [June 15, 2026 at 6:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753593805396252)
+
+> Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME!
+>
+> Get your copy today:
+>  https://www. amazon.com/Revolution-Birth-Gr eatest-Nation-History/dp/1631440888
+
+---
+
+### [June 15, 2026 at 3:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753053952043436)
+
+> The Dumocrats want FISA because that’s what they used to go after me for three years during my First Term! I’m against FISA if it doesn’t come with The Save America Act (Full version!) firmly attached to it. MAKE AMERICA GREAT AGAIN!
+>
+> THE SAVE AMERICA ACT!
+> 1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).
+> 2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.
+> 3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).
+> 4. NO MEN IN WOMEN’S SPORTS.
+> 5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.
+> Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 14, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750814874397998)
 
