@@ -158,5 +158,21 @@ Manually start an update:
 gh workflow run update-djt.yml
 ```
 
+Trigger an update with an authenticated HTTP `POST`:
+
+```bash
+curl -L \
+  -X POST \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer $GITHUB_TOKEN" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/alastorid/djt/dispatches \
+  -d '{"event_type":"update-djt"}'
+```
+
+The token needs permission to access this repository and trigger repository
+dispatch events. GitHub does not provide an unauthenticated public `POST`
+endpoint for Actions.
+
 If a workflow cannot push, confirm that repository Actions settings allow
 GitHub Actions to create and approve commits with the configured token.
