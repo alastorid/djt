@@ -111,12 +111,18 @@ Deletion fields:
 
 ## GitHub Actions
 
-The workflow runs every 5 minutes and supports manual dispatch. Five minutes
-is GitHub Actions' shortest supported schedule interval. It has
-`contents: write` permission and commits only `djt.json` and `README.md`.
+The `Engine` workflow does not use GitHub's cron scheduler. A manually started
+or dispatched run updates the archive, waits four and a half minutes, queues
+its successor with `repository_dispatch`, and remains alive for another 30
+seconds during handoff.
 
-GitHub schedules are best effort, so runs can start later than the exact cron
-minute. Concurrency is limited to one updater to avoid overlapping commits.
+The `djt-engine` concurrency group allows one running engine and one queued
+successor, preventing overlapping archive commits. If GitHub cancels or
+interrupts the chain before a successor is queued, restart it manually:
+
+```bash
+gh workflow run update-djt.yml
+```
 
 ## Data Source
 
@@ -152,7 +158,7 @@ Check recent workflow runs:
 gh run list --workflow update-djt.yml
 ```
 
-Manually start an update:
+Manually start or restart the engine:
 
 ```bash
 gh workflow run update-djt.yml
@@ -167,7 +173,7 @@ curl -L \
   -H "Authorization: Bearer $GITHUB_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/alastorid/djt/dispatches \
-  -d '{"event_type":"update-djt"}'
+  -d '{"event_type":"engine"}'
 ```
 
 The token needs permission to access this repository and trigger repository
