@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [June 15, 2026 at 7:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116756674797972374)
+
+> Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!! President DJT
+
+---
 
 ### [June 15, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754288530173924)
 

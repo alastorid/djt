@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-15T15:26:30.496Z",
-  "count": 79,
+  "updatedAt": "2026-06-15T23:20:46.072Z",
+  "count": 80,
   "posts": [
+    {
+      "id": "116756674797972374",
+      "createdAt": "2026-06-15T19:17:52-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116756674797972374",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!! President DJT",
+          "firstSeenAt": "2026-06-15T23:20:46.072Z"
+        }
+      ]
+    },
     {
       "id": "116754288530173924",
       "createdAt": "2026-06-15T09:11:00-04:00",
