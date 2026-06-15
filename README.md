@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 15, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754288530173924)
 
@@ -324,12 +324,6 @@ _Last 3 days, newest first. 45 posts._
 >
 > I know Julia well, have seen her tested at the highest and most difficult levels, and she is a TOTAL WINNER! A Proud Mother of two children, Julia is a wonderful person, has ALWAYS delivered for Louisiana, and would continue doing so in the United States Senate. As your next Senator, Julia will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Fishermen, Champion Louisiana Oil & Gas, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
 > Early Voting starts today, and the Republican Runoff is Saturday, June 27th. Vote for Julia Letlow — She has my Complete and Total Endorsement, and will never let you down! President DONALD J. TRUMP
-
----
-
-### [June 12, 2026 at 12:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116737999128241599)
-
-> Re-gilding of the massive Arts of War sculptures, located between The Lincoln Memorial and site of The Triumphal Arch, rapidly continues. The sculptures will be fully regilded by July 3rd. The photos below were taken yesterday. The Gilders’ Studio has flown in Gilders from around the Country to perform this work!
 <!-- DJT_POSTS_END -->
 
 ---
