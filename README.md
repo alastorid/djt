@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 16, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760664101169055)
 
@@ -308,12 +308,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 13, 2026 at 6:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116745209532202669)
 
 > Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP
-
----
-
-### [June 13, 2026 at 2:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116744329783387013)
-
-> I am pleased to announce my intent to appoint James M. McDonald as the United States Attorney for the Southern District of New York. A native of the Great State of Oklahoma, Jamie is a former Assistant U.S. Attorney in the Southern District of New York, and served as Director of Enforcement at the U.S. Commodity Futures Trading Commission during my First Term. Jamie is currently a Senior Partner at the Highly Respected Law Firm of Sullivan & Cromwell, a former Law Clerk to Chief Justice John G. Roberts, Jr., and a distinguished Graduate of the University of Virginia School of Law, and Harvard College. I am confident that Jamie will deliver strong results for our Country as the next United States Attorney for the Southern District of New York, as he has the respect of, and will work fantastically with, our Law Enforcement Patriots, the Legal Community, and the Judicial Bench. Good luck Jamie. I have no doubt about your future greatness! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
