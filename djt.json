@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-16T16:10:06.874Z",
-  "count": 82,
+  "updatedAt": "2026-06-16T16:15:25.219Z",
+  "count": 84,
   "posts": [
+    {
+      "id": "116760664101169055",
+      "createdAt": "2026-06-16T12:12:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116760664101169055",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: https:// justthenews.com/government/fed eral-agencies/afl",
+          "firstSeenAt": "2026-06-16T16:15:25.219Z"
+        }
+      ]
+    },
+    {
+      "id": "116760662558632411",
+      "createdAt": "2026-06-16T12:12:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116760662558632411",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "FBI stopped alleged terror plot to attack UFC 250 event with drones and snipers, officials said: https:// justthenews.com/government/sec urity/fbi-stopped-alleged-terror-plot-attack-ufc-250-event-drones-and-snipers",
+          "firstSeenAt": "2026-06-16T16:15:25.219Z"
+        }
+      ]
+    },
     {
       "id": "116760642672400305",
       "createdAt": "2026-06-16T12:06:57-04:00",
