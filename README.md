@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [June 16, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760664101169055)
 
@@ -302,12 +302,6 @@ _Last 3 days, newest first. 42 posts._
 ### [June 14, 2026 at 12:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116746575777210117)
 
 > Congratulations to Jim Dolan and the New York Knicks!!! What a year it has been but, even more so, what incredible playoff wins we have all witnessed, especially the last four - Maybe the greatest in the history of basketball. Also, tonight, a superstar was born. His name is Jalen Brunson, and there are others, including, Karl-Anthony Towns, OG Anunoby, and great Patriot, Mitchell Robinson! MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
-
----
-
-### [June 13, 2026 at 6:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116745209532202669)
-
-> Years ago after saving the Wollman Skating Rink in Central Park – Long before I fixed The Reflecting Pool, and everything else in Washington, D.C. including, most importantly, CRIME! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
