@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-15T23:20:46.072Z",
-  "count": 80,
+  "updatedAt": "2026-06-16T16:10:06.874Z",
+  "count": 82,
   "posts": [
+    {
+      "id": "116760642672400305",
+      "createdAt": "2026-06-16T12:06:57-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116760642672400305",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Former Trump economist says Iran deal means big economic boom for US: https:// justthenews.com/nation/free-sp eech/trumps-former-economist-says-iran-deal-means-big-economic-boom-us",
+          "firstSeenAt": "2026-06-16T16:10:06.874Z"
+        }
+      ]
+    },
+    {
+      "id": "116760641102604510",
+      "createdAt": "2026-06-16T12:06:33-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116760641102604510",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "US attorney in California suspects voter fraud investigation will result in charges: https:// justthenews.com/government/cou rts-law/us-attorney-california-suspects-voter-fraud-investigation-will-result-charges",
+          "firstSeenAt": "2026-06-16T16:10:06.874Z"
+        }
+      ]
+    },
     {
       "id": "116756674797972374",
       "createdAt": "2026-06-15T19:17:52-04:00",

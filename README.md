@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [June 16, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760642672400305)
+
+> Former Trump economist says Iran deal means big economic boom for US: https:// justthenews.com/nation/free-sp eech/trumps-former-economist-says-iran-deal-means-big-economic-boom-us
+
+---
+
+### [June 16, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760641102604510)
+
+> US attorney in California suspects voter fraud investigation will result in charges: https:// justthenews.com/government/cou rts-law/us-attorney-california-suspects-voter-fraud-investigation-will-result-charges
+
+---
 
 ### [June 15, 2026 at 7:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116756674797972374)
 
