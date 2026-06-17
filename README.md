@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
 
@@ -322,13 +322,6 @@ _Last 3 days, newest first. 46 posts._
 > John Wahl has my Complete and Total Endorsement to be the next Lieutenant Governor of Alabama. The Runoff is Tuesday, June 16th. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN!
 >
 > Find your Voting Location here: https:// swampthevoteusa.com/alabama/
-
----
-
-### [June 14, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749159132559454)
-
-> Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived it all. They should pay the ultimate price for what they have done!!! President DJT
->  https:// open.substack.com/pub/therealm ichaelcohen/p/the-price-of-proximity
 <!-- DJT_POSTS_END -->
 
 ---
