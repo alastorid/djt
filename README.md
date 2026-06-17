@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
@@ -298,12 +298,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 14, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750323241294561)
 
 > Senator Jack Reed, a Dumocrat from R.I., lied when stating the the Deal we just made is not as good as the Obama disaster known as the JCPOA. Reed is either an outright fraud, or incompetent. The Obuma Deal was a road to a Nuclear weapon for Iran, cash and all, one of the worst and dumbest (hence Dumocrats!) Deals ever made by the U.S. Our Deal is a WALL against Iran ever having a Nuclear weapon, the complete opposite of Obuma. Impeach Jack Reed!
-
----
-
-### [June 14, 2026 at 2:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749924240483636)
-
-> What do they have to be afraid of. Republicans are moving too fast on nominations!!!
 <!-- DJT_POSTS_END -->
 
 ---
