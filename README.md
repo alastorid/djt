@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
@@ -304,12 +304,6 @@ _Last 3 days, newest first. 44 posts._
 ### [June 14, 2026 at 2:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749924240483636)
 
 > What do they have to be afraid of. Republicans are moving too fast on nominations!!!
-
----
-
-### [June 14, 2026 at 2:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749870028302766)
-
-> Why are the Dumocrats so afraid of of Bill Pulte at DNI??? He would only be Acting! What do they have to be afraid of, what are they hiding? There must be something BIG, mustn’t there??? President DJT
 <!-- DJT_POSTS_END -->
 
 ---
