@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-17T05:12:23.251Z",
-  "count": 86,
+  "updatedAt": "2026-06-17T06:24:40.962Z",
+  "count": 87,
   "posts": [
+    {
+      "id": "116763999742755145",
+      "createdAt": "2026-06-17T02:20:42-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116763999742755145",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT",
+          "firstSeenAt": "2026-06-17T06:24:40.962Z"
+        }
+      ]
+    },
     {
       "id": "116763691297203565",
       "createdAt": "2026-06-17T01:02:15-04:00",

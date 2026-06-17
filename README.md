@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [June 17, 2026 at 2:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763999742755145)
+
+> Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT
+
+---
 
 ### [June 17, 2026 at 1:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763691297203565)
 
