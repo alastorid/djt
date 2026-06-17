@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
 
@@ -310,18 +310,6 @@ _Last 3 days, newest first. 45 posts._
 ### [June 14, 2026 at 2:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749841607391318)
 
 > A few Dumocrats are against FISA, with or without Bill Pulte going to DNI, as Acting. What kind of a deal is that. Besides, I’m against FISA if it doesn’t come with The Save America Act (Full version!) firmly attached to it. MAKE AMERICA GREAT AGAIN! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 14, 2026 at 12:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749412213359330)
-
-> John Wahl, the Highly Respected former Chairman of the Alabama GOP, is running for Lieutenant Governor of Alabama. John has been with us from the very beginning, and has been key to our many Republican Victories in the Great State of Alabama, which I won with the Highest Vote in Alabama History, including my HISTORIC WINS in 2016, 2020, and 2024!
->
-> As your next Lieutenant Governor, John will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Fishermen, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.
->
-> John Wahl has my Complete and Total Endorsement to be the next Lieutenant Governor of Alabama. The Runoff is Tuesday, June 16th. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/alabama/
 <!-- DJT_POSTS_END -->
 
 ---
