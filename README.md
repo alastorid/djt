@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
 
@@ -329,12 +329,6 @@ _Last 3 days, newest first. 47 posts._
 
 > Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived it all. They should pay the ultimate price for what they have done!!! President DJT
 >  https:// open.substack.com/pub/therealm ichaelcohen/p/the-price-of-proximity
-
----
-
-### [June 14, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116749002714205339)
-
-> This morning’s attack on Beirut should not have happened, particularly on a special day when we are so close to a Peace Deal with Iran. Israel has the right to defend itself against threats, but the attack it was responding to was very small and meaningless, nobody was hurt, injured, or killed, and should not disrupt this important process. We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down. There should be no more attacks by Israel anywhere in Lebanon, but there should also be no more attacks by any other party, including Hezbollah, against Israel. This could be the beginning of a long and beautiful peace — Let’s not blow it! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
