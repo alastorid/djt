@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
@@ -280,12 +280,6 @@ _Last 3 days, newest first. 40 posts._
 ### [June 14, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750814874397998)
 
 > This Great Deal will bring Peace and Security to the whole Region. Many presidents have tried to make Peace with Iran, and all have failed before me. The Leaders of the Region have, for the first time, found a President who can help them achieve real Peace. With the opening of the Strait upon the signing of the Deal on Friday, for purposes of mine removal, oil will flow on both ends again for the Region, and the World! President DONALD J. TRUMP
-
----
-
-### [June 14, 2026 at 5:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750587569914985)
-
-> The Deal with the Islamic Republic of Iran is now complete. Congratulations to all! I hereby fully authorize the toll free opening of the Strait of Hormuz, and, simultaneously herewith, authorize the immediate removal of the United States Naval blockade. Ships of the World, start your engines. Let the oil flow! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
