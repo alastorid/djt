@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [June 17, 2026 at 4:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764521224175623)
+
+> Thank you Greg and group. No wonder you’re Number One — By far!
+
+---
 
 ### [June 17, 2026 at 3:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764370070279119)
 

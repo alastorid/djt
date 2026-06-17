@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-17T07:58:22.509Z",
-  "count": 90,
+  "updatedAt": "2026-06-17T08:34:42.811Z",
+  "count": 91,
   "posts": [
+    {
+      "id": "116764521224175623",
+      "createdAt": "2026-06-17T04:33:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116764521224175623",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you Greg and group. No wonder you’re Number One — By far!",
+          "firstSeenAt": "2026-06-17T08:34:42.811Z"
+        }
+      ]
+    },
     {
       "id": "116764370070279119",
       "createdAt": "2026-06-17T03:54:52-04:00",
