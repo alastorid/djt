@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
+
+> I greatly appreciate Jackson Lahmeyer’s hard work under difficult circumstances — He has always been with me, and I will always be with him. But, when it comes to the current Congressional race for Oklahoma’s 1st Congressional District, I will be supporting America First Patriot, Mark Tedford. Mark is Pro Trump and MAGA all the way! A Proven Leader, Mark has served his Community as a Highly Respected State Legislator and Businessman, prior to running for Congress. Mark Tedford has my Complete and Total Endorsement to be the next Representative from Oklahoma’s 1st Congressional District — HE WILL NEVER LET YOU DOWN!
+
+---
 
 ### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
 
