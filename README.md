@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
@@ -292,12 +292,6 @@ _Last 3 days, newest first. 42 posts._
 ### [June 14, 2026 at 4:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750372942466677)
 
 > Victoria Coates of the Heritage Foundation is absolutely fantastic! She gets it like few other do. Thank you Victoria. Iran will never have a Nuclear weapon, and the Strait of Hormuz will be opening up for business very shortly!!! President DJT
-
----
-
-### [June 14, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750323241294561)
-
-> Senator Jack Reed, a Dumocrat from R.I., lied when stating the the Deal we just made is not as good as the Obama disaster known as the JCPOA. Reed is either an outright fraud, or incompetent. The Obuma Deal was a road to a Nuclear weapon for Iran, cash and all, one of the worst and dumbest (hence Dumocrats!) Deals ever made by the U.S. Our Deal is a WALL against Iran ever having a Nuclear weapon, the complete opposite of Obuma. Impeach Jack Reed!
 <!-- DJT_POSTS_END -->
 
 ---
