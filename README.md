@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 38 posts._
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
@@ -274,12 +274,6 @@ _Last 3 days, newest first. 39 posts._
 > 4. NO MEN IN WOMEN’S SPORTS.
 > 5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.
 > Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 14, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116750814874397998)
-
-> This Great Deal will bring Peace and Security to the whole Region. Many presidents have tried to make Peace with Iran, and all have failed before me. The Leaders of the Region have, for the first time, found a President who can help them achieve real Peace. With the opening of the Strait upon the signing of the Deal on Friday, for purposes of mine removal, oil will flow on both ends again for the Region, and the World! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
