@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 17, 2026 at 2:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764118671718350)
+
+> Jesse Watters: Trump knows when you run the room, you set the volume: https://www. foxnews.com/video/639860257411 2
+
+---
+
+### [June 17, 2026 at 2:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764115535577197)
+
+> So happy for highly respected Congressman Mike Collins. He will win his Senate Race in Georgia against a pathetic failed Dumocrat Senator, Os(jerk!)off, who is a joke in D.C. Nobody even knows who he is!!! I’ll be doing Big TRUMP Rallies for Mike in Georgia! President DJT
+
+---
 
 ### [June 17, 2026 at 2:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763999742755145)
 

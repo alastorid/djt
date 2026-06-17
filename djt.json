@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-17T06:24:40.962Z",
-  "count": 87,
+  "updatedAt": "2026-06-17T06:55:54.446Z",
+  "count": 89,
   "posts": [
+    {
+      "id": "116764118671718350",
+      "createdAt": "2026-06-17T02:50:56-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116764118671718350",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Jesse Watters: Trump knows when you run the room, you set the volume: https://www. foxnews.com/video/639860257411 2",
+          "firstSeenAt": "2026-06-17T06:55:54.446Z"
+        }
+      ]
+    },
+    {
+      "id": "116764115535577197",
+      "createdAt": "2026-06-17T02:50:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116764115535577197",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "So happy for highly respected Congressman Mike Collins. He will win his Senate Race in Georgia against a pathetic failed Dumocrat Senator, Os(jerk!)off, who is a joke in D.C. Nobody even knows who he is!!! I’ll be doing Big TRUMP Rallies for Mike in Georgia! President DJT",
+          "firstSeenAt": "2026-06-17T06:55:54.446Z"
+        }
+      ]
+    },
     {
       "id": "116763999742755145",
       "createdAt": "2026-06-17T02:20:42-04:00",
