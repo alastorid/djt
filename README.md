@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 41 posts._
+
+### [June 17, 2026 at 1:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763691297203565)
+
+> Congratulations to Rick Jackson, who very successfully campaigned on being “TRUMP,” and won. He will be your next Governor of Georgia. Can’t wait! President DJT
+
+---
 
 ### [June 17, 2026 at 12:42 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763612893094366)
 

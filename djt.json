@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-17T04:46:26.741Z",
-  "count": 85,
+  "updatedAt": "2026-06-17T05:07:13.615Z",
+  "count": 86,
   "posts": [
+    {
+      "id": "116763691297203565",
+      "createdAt": "2026-06-17T05:02:00.000Z",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116763691297203565",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Congratulations to Rick Jackson, who very successfully campaigned on being “TRUMP,” and won. He will be your next Governor of Georgia. Can’t wait! President DJT",
+          "firstSeenAt": "2026-06-17T05:07:13.615Z"
+        }
+      ]
+    },
     {
       "id": "116763612893094366",
       "createdAt": "2026-06-17T00:42:19-04:00",
