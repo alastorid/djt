@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 41 posts._
+
+### [June 17, 2026 at 12:42 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763612893094366)
+
+> I HAD A LOT OF BIG ELECTION WINS LAST NIGHT. THANK YOU TO ALL!!! President DJT
+
+---
 
 ### [June 16, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760664101169055)
 
