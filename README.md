@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [June 16, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760664101169055)
 
@@ -296,12 +296,6 @@ _Last 3 days, newest first. 41 posts._
 > A very successful Businessman prior to becoming a distinguished U.S. Congressman, Mike has brilliantly served his Community, during a career loaded with accolades and wins, always fighting tirelessly for our America First Agenda. As your next Senator, Mike will continue to work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our incredible Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.
 > Mike, who like me is all about AMERICA FIRST, is running against a Radical Left Dumocrat named Jon Ossoff, a weak and pathetic Senator who tried to raise Taxes by over 4 Trillion Dollars, and voted against all of our Tax Cuts, including NO TAX ON TIPS, NO TAX ON SOCIAL SECURITY, and NO TAX ON OVERTIME. Ossoff voted for Men in Women’s Sports, Transgender for Everyone, Open Borders, and Record High Taxes that, under Crooked Joe Biden, destroyed the American Economy, including 401(k)s and Market Numbers, which are now at the highest point, EVER! He is an Open Border Advocate wanting Criminals of every variety, including 11,888 Murderers, to pour into our Country totally unchecked and unvetted. We are the opposite! I created the Strongest Border in History, and Congressman Mike Collins backed me up all the way. Jon Ossoff wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail, that let repeat Violent Criminals roam free on our streets. He voted AGAINST Voter I.D., and also, fought strongly against Proof of Citizenship, but is in favor of allowing Illegal Aliens to vote in our Sacred Elections. He is a Radical Left Lunatic, a Dumocrat, and doesn’t represent the values of the Great People of Georgia. I beat him years ago in a Congressional Race where he was winning by a lot until I offered my Endorsement, my Candidate won, easily, and that’s going to happen again because Jon Ossoff doesn’t have what it takes. He is a laughingstock in Washington, he is weak and pathetic! All he’s got is money provided by Radical Left people looking to destroy our Country. He is Reckless, Radical, and Dangerous. But first things first! Mike has to beat a Republican Opponent before he gets to Ossoff. I don’t know Derek Dooley, and neither does anyone else, but he seems like a nice person. Unfortunately, he has lived outside of Georgia for most of his life, didn’t vote in 2020 or 2016, and said that I lost Georgia in 2020 when, in actuality, the facts have now proven that I won by a lot!
 > Mike Collins is a true Friend, Fighter, and WARRIOR, who has been with us from the very beginning, and has my Complete and Total Endorsement to be your next United States Senator. Unlike “lightweight” Jon Ossoff, a totally ineffective RADICAL LEFT LOSER who has failed the Great People of Georgia so badly, Mike Collins is a winner who will never let you down. THANK YOU FOR YOUR GREAT SUPPORT GEORGIA. We now have the Strongest Border, the Best Stock Market, and the Most Success that our Country has ever seen and, by the way, we also have the Islamic Republic of Iran which has just agreed to never have a Nuclear Weapon, and the Hormuz Strait will be opening shortly. Gas prices will plummet, and Affordability will be far
-
----
-
-### [June 14, 2026 at 12:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116746575777210117)
-
-> Congratulations to Jim Dolan and the New York Knicks!!! What a year it has been but, even more so, what incredible playoff wins we have all witnessed, especially the last four - Maybe the greatest in the history of basketball. Also, tonight, a superstar was born. His name is Jalen Brunson, and there are others, including, Karl-Anthony Towns, OG Anunoby, and great Patriot, Mitchell Robinson! MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
