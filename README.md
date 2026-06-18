@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 38 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -251,97 +251,6 @@ _Last 3 days, newest first. 48 posts._
 ### [June 15, 2026 at 9:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754269577470122)
 
 > Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern “Highway,” which is totally safe, secure, and pristine. There are other areas of travel, also!!! President DJT
-
----
-
-### [June 15, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754020702467123)
-
-> Congressman Barry Moore, an America First Patriot who has been with me from the very beginning (He was the first Elected Official in the Country to Endorse me!), is running for the United States Senate in Alabama, a place I love and WON BIG in 2016, 2020, and 2024, getting the Highest Vote in that Great State’s History.
-> A very successful Businessman, Civic Leader, and Highly Respected State Legislator prior to becoming a distinguished Congressman, Barry has dedicated his life to serving his Community. As your next Senator, Barry will continue to fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.
-> Barry Moore is a good friend, fighter, and WINNER, and has my Complete and Total Endorsement to be the next United States Senator from Alabama. Election Day for the Republican Runoff is Tuesday, June 16th. GET OUT AND VOTE FOR BARRY — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/alabama/
-
----
-
-### [June 15, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754019906128212)
-
-> It is my Great Honor to endorse “MAGA” Mike Collins, a Highly Respected Congressman who has been with me from the very beginning, and is running for the United States Senate in Georgia, a very special place to me, and where we just had a BIG Presidential Election Win with the Most Votes Received by any single Candidate in Georgia’s History, for any Election. Mike is strongly supported by the most Highly Respected MAGA Patriots in Georgia and beyond, and many Republicans in the U.S. House and Senate — He is a WARRIOR and WINNER!
-> A very successful Businessman prior to becoming a distinguished U.S. Congressman, Mike has brilliantly served his Community, during a career loaded with accolades and wins, always fighting tirelessly for our America First Agenda. As your next Senator, Mike will continue to work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our incredible Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.
-> Mike, who like me is all about AMERICA FIRST, is running against a Radical Left Dumocrat named Jon Ossoff, a weak and pathetic Senator who tried to raise Taxes by over 4 Trillion Dollars, and voted against all of our Tax Cuts, including NO TAX ON TIPS, NO TAX ON SOCIAL SECURITY, and NO TAX ON OVERTIME. Ossoff voted for Men in Women’s Sports, Transgender for Everyone, Open Borders, and Record High Taxes that, under Crooked Joe Biden, destroyed the American Economy, including 401(k)s and Market Numbers, which are now at the highest point, EVER! He is an Open Border Advocate wanting Criminals of every variety, including 11,888 Murderers, to pour into our Country totally unchecked and unvetted. We are the opposite! I created the Strongest Border in History, and Congressman Mike Collins backed me up all the way. Jon Ossoff wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail, that let repeat Violent Criminals roam free on our streets. He voted AGAINST Voter I.D., and also, fought strongly against Proof of Citizenship, but is in favor of allowing Illegal Aliens to vote in our Sacred Elections. He is a Radical Left Lunatic, a Dumocrat, and doesn’t represent the values of the Great People of Georgia. I beat him years ago in a Congressional Race where he was winning by a lot until I offered my Endorsement, my Candidate won, easily, and that’s going to happen again because Jon Ossoff doesn’t have what it takes. He is a laughingstock in Washington, he is weak and pathetic! All he’s got is money provided by Radical Left people looking to destroy our Country. He is Reckless, Radical, and Dangerous. But first things first! Mike has to beat a Republican Opponent before he gets to Ossoff. I don’t know Derek Dooley, and neither does anyone else, but he seems like a nice person. Unfortunately, he has lived outside of Georgia for most of his life, didn’t vote in 2020 or 2016, and said that I lost Georgia in 2020 when, in actuality, the facts have now proven that I won by a lot!
-> Mike Collins is a true Friend, Fighter, and WARRIOR, who has been with us from the very beginning, and has my Complete and Total Endorsement to be your next United States Senator. Unlike “lightweight” Jon Ossoff, a totally ineffective RADICAL LEFT LOSER who has failed the Great People of Georgia so badly, Mike Collins is a winner who will never let you down. THANK YOU FOR YOUR GREAT SUPPORT GEORGIA. We now have the Strongest Border, the Best Stock Market, and the Most Success that our Country has ever seen and, by the way, we also have the Islamic Republic of Iran which has just agreed to never have a Nuclear Weapon, and the Hormuz Strait will be opening shortly. Gas prices will plummet, and Affordability will be far
-
----
-
-### [June 15, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754018976262039)
-
-> Highly Respected and very popular Lieutenant Governor, Burt Jones, is running to be the next Governor of the Great State of Georgia, a very special place to me in that we had a BIG Presidential Election Win on November 5, 2024!
-> As the first member of the Georgia State Assembly to Endorse “DONALD J. TRUMP” for President, Burt was strongly committed to my Campaign in 2016, 2020, and 2024, and worked tirelessly to help us WIN. He has been with us from the very beginning. I know his family well, and have seen Burt tested at the most difficult levels and times — He is a WARRIOR, a successful Businessman, former SEC Championship winning Georgia Bulldogs football player (Known for his toughness!), and now, as Lieutenant Governor, Burt has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State, and our Nation. As your next Governor, Burt Jones will fight hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Defend our always under siege Second Amendment.
-> Burt Jones has my Complete and Total Endorsement to be the next Governor of the Wonderful State of Georgia. Election Day for the Republican Runoff is Tuesday, June 16th. GET OUT AND VOTE FOR BURT — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/georgia/
-
----
-
-### [June 15, 2026 at 8:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754016895261150)
-
-> It is my Great Honor to endorse MAGA Warrior, Mike Mazzei, who is running for Governor of Oklahoma, a State which I love, and WON BIG — All 77 out of 77 Counties in 2016, 2020, and 2024, and with the Highest Popular Vote Count, EVER!
-> As a successful Businessman, and former Chairman of the State Senate Finance Committee, and later, as Oklahoma’s Secretary of Budget, Mike knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. As your next Governor, Mike will fight tirelessly to Support our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-> Mike Mazzei has my Complete and Total Endorsement to be the next Governor of Oklahoma. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754015025026424)
-
-> It is my Great Honor to endorse T.W. Shannon, an America First Patriot who is running for Lieutenant Governor of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!
-> As the youngest House Speaker in Oklahoma’s History, the National Chair of Black Voices for Trump and, as a former Senior Appointee at the U.S. Department of Agriculture in my Administration, T.W. has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his State, and our Nation — He has truly been with us from the beginning! As your next Lieutenant Governor, T.W. will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Advance Election Integrity, Ensure LAW AND ORDER, Strengthen our Military, Veterans, and Law Enforcement, and Protect our always under siege Second Amendment.
-> T.W. Shannon has my Complete and Total Endorsement to be the next Lieutenant Governor of Oklahoma. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR T.W. — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754014230774302)
-
-> Kevin Hern, from the Wonderful State of Oklahoma (where I won all 77 out of 77 Counties, in 2016, 2020, and 2024!), is a Great Patriot, and FANTASTIC Congressman. A true friend of MAGA, Kevin is now running for the United States Senate, where I know he will continue to do an incredible job.
-> Kevin is strongly supported by the fiercest MAGA Warriors in Oklahoma, and the most Highly Respected Leaders in the United States Senate! As the Chair of the House Republican Policy Committee, Kevin is doing a tremendous job advancing our AMERICA FIRST Agenda. In the U.S. Senate, Kevin will continue to fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Ensure American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.
-> Kevin Hern will be an outstanding Senator, and has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR KEVIN — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754013631896603)
-
-> It is my Great Honor to endorse MAGA Warrior, Jackson Lahmeyer, who is running to represent the fantastic people of Oklahoma’s 1st Congressional District, and has been with me from the very beginning of our Movement to, MAKE AMERICA GREAT AGAIN!
->
-> Jackson was the Founder of “Pastors For Trump,” a Nationwide Coalition of Faith Leaders committed to advancing our America First agenda, and defending Religious Liberty! A very successful Pastor, Businessman, and Civic Leader, Jackson has dedicated his life to serving his Community. As your next Congressman, Jackson will fight tirelessly to Grow the Economy, Promote our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.
-> Jackson Lahmeyer has my Complete and Total Endorsement to be the next Representative from Oklahoma’s 1st Congressional District. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR JACKSON — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754012612389383)
-
-> Congressman Josh Brecheen is doing a fantastic job representing the wonderful people of Oklahoma’s 2nd Congressional District!
-> Josh is a Conservative Warrior who has strong support from his Community. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-> Josh Brecheen has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR JOSH — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754011972787542)
-
-> Congressman Frank Lucas is an incredible Representative for the wonderful people of Oklahoma’s 3rd Congressional District!
-> A Fifth Generation Oklahoman, and lifelong Farmer and Rancher, Frank is a strong and effective Voice for American Agriculture, and our amazing Farmers and Ranchers. In Congress, he is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-> Frank Lucas has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR FRANK — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754011009785366)
-
-> Congressman Tom Cole is a Tremendous Champion for Oklahoma’s 4th Congressional District!
-> As the Chairman of the POWERFUL House Appropriations Committee, Tom knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. He is fighting tirelessly to Advance American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-> Tom Cole has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR TOM — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
 <!-- DJT_POSTS_END -->
 
 ---
