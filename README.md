@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 49 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -350,12 +350,6 @@ _Last 3 days, newest first. 50 posts._
 > Congresswoman Stephanie Bice is doing a truly fantastic job representing the incredible people of Oklahoma’s 5th Congressional District!
 > Stephanie has a strong Record of Success, and resounding support from her Community. In Congress, she is fighting tirelessly to Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
 > Stephanie Bice has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 15, 2026 at 7:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753971776687226)
-
-> Trump scores once-elusive peace deal with Iran, easing oil prices ahead of elections: https:// justthenews.com/government/sec urity/montrump-etches-iran-peace-deal-after-months-false-starts
 <!-- DJT_POSTS_END -->
 
 ---
