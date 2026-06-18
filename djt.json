@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T08:36:29.790Z",
-  "count": 111,
+  "updatedAt": "2026-06-18T13:02:44.158Z",
+  "count": 113,
   "posts": [
+    {
+      "id": "116771224859937865",
+      "createdAt": "2026-06-18T12:58:00.000Z",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116771224859937865",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https://justthenews.com/accountability/political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m",
+          "firstSeenAt": "2026-06-18T13:02:44.158Z"
+        }
+      ]
+    },
+    {
+      "id": "116771222226594566",
+      "createdAt": "2026-06-18T12:57:00.000Z",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116771222226594566",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Pope Leo commends US-Iran peace deal: https://justthenews.com/nation/religion/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing",
+          "firstSeenAt": "2026-06-18T13:02:44.158Z"
+        }
+      ]
+    },
     {
       "id": "116770180426363226",
       "createdAt": "2026-06-18T04:32:31-04:00",

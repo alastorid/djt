@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 18, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771224859937865)
+
+> While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https://justthenews.com/accountability/political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m
+
+---
+
+### [June 18, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771222226594566)
+
+> Pope Leo commends US-Iran peace deal: https://justthenews.com/nation/religion/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing
+
+---
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
