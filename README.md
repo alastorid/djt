@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [June 17, 2026 at 9:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768514151266766)
+
+> Congratulations to Commissioner Brian Rolapp, the PGA Tour, and the Governing Bodies, and also, the Great U.S. Attorney for the Southern District of New York, Jay Clayton, for a BIG VICTORY where the USGA wanted to roll back the distance of a Golf Ball, for whatever reason, and now they are precluded from doing so, at least for a long number of years. It was a ridiculous idea, that nobody wanted, especially PGA Tour Players, and people that don’t want to go to a Course to be told that their drives will be going 20 yards shorter. What the USGA should do is agree that, far into the future, they will not allow the current ball to go further. In other words, they will keep the ball the same! The game of Golf is “hot as a pistol.” The last thing we should do is tell people that, for no reason whatsoever, you will not be able to hit a ball as far as you used to. Has anyone ever heard of anything so ridiculous? President DONALD J. TRUMP
+
+---
 
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
