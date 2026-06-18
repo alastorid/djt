@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T06:53:00.803Z",
-  "count": 107,
+  "updatedAt": "2026-06-18T07:18:57.147Z",
+  "count": 108,
   "posts": [
+    {
+      "id": "116769886136736615",
+      "createdAt": "2026-06-18T03:17:41-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116769886136736615",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The statue “Valor,” one of the Arts of War statues, is almost completely regilded by our Great Department of the Interior.",
+          "firstSeenAt": "2026-06-18T07:18:57.147Z"
+        }
+      ]
+    },
     {
       "id": "116769781426549874",
       "createdAt": "2026-06-18T02:51:03-04:00",
