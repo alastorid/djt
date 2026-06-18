@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [June 18, 2026 at 12:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769129718272146)
+
+> Tyrus became famous for saying, long before November 5th, 2024, “Why we are talking about the 2024 Presidential Election? It’s OVER. TRUMP is going to win, and everyone knows it. It’s a waste of time to talk about it. They’re not going to beat him, and they never will.” He was right! In his incredible Book, Tyrus tells the true story of the 2024 Presidential Election, with his own unique insights, strongly rooted in Common Sense and Love for our Country. This Book is fantastic — Enjoy! https://www. amazon.com/dp/B0FP5KNYMC?ref=c m_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&ref_=cm_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&social_share=cm_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&bestFormat=true&titleSource=true
+
+---
+
+### [June 18, 2026 at 12:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769123459644540)
+
+> Ed Gallrein shows Northern Kentucky what he is made of: https://www. washingtonexaminer.com/opinion /columnists/4551998/ed-gallrein-shows-northern-kentucky-what-he-is-made-of/
+
+---
 
 ### [June 17, 2026 at 10:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768696093434401)
 
