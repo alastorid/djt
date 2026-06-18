@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -356,12 +356,6 @@ _Last 3 days, newest first. 51 posts._
 ### [June 15, 2026 at 7:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753971776687226)
 
 > Trump scores once-elusive peace deal with Iran, easing oil prices ahead of elections: https:// justthenews.com/government/sec urity/montrump-etches-iran-peace-deal-after-months-false-starts
-
----
-
-### [June 15, 2026 at 6:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753690331106553)
-
-> Under the disastrous Open Border Policy of Crooked Joe Biden and his traitorous DHS Secretary Alejandro Mayorkas, TENS OF MILLIONS of criminals, including over 13,000 STONE-COLD MURDERERS, poured into our Country from Prisons and Jails, from Mental Institutions and Insane Asylums. Needless to say, they were NOT always the safest drivers! Car Insurance Premiums rose to RECORD HIGHS, forcing Law-abiding American Citizens to subsidize the "free riding” Biden Illegals. After over a year of ZERO ILLEGAL IMMIGRATION, and our highly successful efforts to REVERSE the Biden Invasion, Car Insurance Premiums have come tumbling down. MAKE AMERICA SAFE AGAIN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
