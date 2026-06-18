@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 54 posts._
+
+### [June 18, 2026 at 4:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770163996850294)
+
+> Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www. bloomberg.com/news/articles/20 26-02-01/trump-says-he-welcomes-china-india-investment-in-venezuela-oil
+
+---
+
+### [June 18, 2026 at 4:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770161935260082)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116770160614131644
+
+---
 
 ### [June 18, 2026 at 3:17 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769886136736615)
 

@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T07:18:57.147Z",
-  "count": 108,
+  "updatedAt": "2026-06-18T08:31:19.643Z",
+  "count": 110,
   "posts": [
+    {
+      "id": "116770163996850294",
+      "createdAt": "2026-06-18T04:28:21-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116770163996850294",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www. bloomberg.com/news/articles/20 26-02-01/trump-says-he-welcomes-china-india-investment-in-venezuela-oil",
+          "firstSeenAt": "2026-06-18T08:31:19.643Z"
+        }
+      ]
+    },
+    {
+      "id": "116770161935260082",
+      "createdAt": "2026-06-18T04:27:49-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116770161935260082",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116770160614131644",
+          "firstSeenAt": "2026-06-18T08:31:19.643Z"
+        }
+      ]
+    },
     {
       "id": "116769886136736615",
       "createdAt": "2026-06-18T03:17:41-04:00",
