@@ -3,7 +3,44 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [June 17, 2026 at 10:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768696093434401)
+
+> THE SAVE AMERICA ACT!
+> 1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).
+> 2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.
+> 3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).
+> 4. NO MEN IN WOMEN’S SPORTS.
+> 5. NO TRANSGENDER MUTILIZATION SURGERY ON OUR CHILDREN.
+
+---
+
+### [June 17, 2026 at 10:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768689781682400)
+
+> Colombian Presidential Candidate, “El Tigre (THE TIGER),” Abelardo de la Espriella, is a Smart, Strong, and Tough Leader, who fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America. As President, Abelardo will be tremendously successful in leading Colombia to Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, Crack Down on Crime and Drugs, and Restore LAW AND ORDER! Abelardo is running against a Radical Left Marxist in the Runoff on Sunday, June 21st — The results of this Election are very important to the future of Colombia and its relationship to the United States which, if Abelardo wins, and because of his competence and love of his Country, will have the total support and strength of the United States behind him. Because of his tremendous accomplishments in life, and his political support for me, it is my Honor to give Abelardo my Complete and Total Endorsement. GET OUT AND VOTE FOR “EL TIGRE” ABELARDO DE LA ESPRIELLA — HE WILL NOT LET THE WONDERFUL PEOPLE OF COLOMBIA DOWN. It will rise to a new height of Greatness! President DONALD J. TRUMP
+
+---
+
+### [June 17, 2026 at 10:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768684458318874)
+
+> It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of Utah’s 4th Congressional District!
+>
+> A Proven Leader, Mike has served his Community well as a Family Physician, Lawyer, and Highly Respected State Legislator, prior to becoming a distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Mike Kennedy has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!
+
+---
+
+### [June 17, 2026 at 10:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768683883291622)
+
+> It is my Great Honor to endorse Congresswoman Celeste Maloy to represent the tremendous people of Utah’s 3rd Congressional District!
+>
+> Celeste has a strong Record of Success, and resounding support from her Community. In Congress, she is working hard to Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Grow our Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Protect our always under siege Second Amendment.
+>
+> Celeste Maloy has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!
+
+---
 
 ### [June 17, 2026 at 10:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768665410839599)
 
