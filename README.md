@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [June 18, 2026 at 2:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772416131420569)
+
+> The United States is committed to PEACE, and we encourage everyone in the Middle East Region to maintain their commitment to allowing our negotiations to beautifully unfold. The Markets are loving what is happening with Oil Prices way down, and Stocks way up. We expect a complete Ceasefire on all fronts, including Lebanon, Hezbollah, and Israel. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 18, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772135215188960)
 
