@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -362,18 +362,6 @@ _Last 3 days, newest first. 53 posts._
 ### [June 15, 2026 at 6:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753690331106553)
 
 > Under the disastrous Open Border Policy of Crooked Joe Biden and his traitorous DHS Secretary Alejandro Mayorkas, TENS OF MILLIONS of criminals, including over 13,000 STONE-COLD MURDERERS, poured into our Country from Prisons and Jails, from Mental Institutions and Insane Asylums. Needless to say, they were NOT always the safest drivers! Car Insurance Premiums rose to RECORD HIGHS, forcing Law-abiding American Citizens to subsidize the "free riding” Biden Illegals. After over a year of ZERO ILLEGAL IMMIGRATION, and our highly successful efforts to REVERSE the Biden Invasion, Car Insurance Premiums have come tumbling down. MAKE AMERICA SAFE AGAIN! President DONALD J. TRUMP
-
----
-
-### [June 15, 2026 at 6:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753672230328052)
-
-> On July 4th, at The Lincoln Memorial and Washington Monument, in beautiful and safe Washington D.C., we are going to host the most spectacular TRUMP RALLY of them all, a “TRIBUTE TO AMERICA.” Starting at 7 P.M. EST, this HUGE Celebration will honor our Country's People, Spirit, Strength, Resolve, and Triumphs. With the backdrop of the Lincoln Memorial and surrounding the beautifully new Reflecting Pool, more than 300 Members of our strong and talented Military Bands, Orchestras, and Ceremonial Units, will perform Patriotic Melodies and American Classics, and my Playlist (We will have none of those people that put you to sleep and constantly complain!), as we celebrate our Country, and Rally into the next 250 years. This ensemble will be the largest formation of Joint Military Music and Ceremonial performances in History. There will be incredible Flyovers and Airshows featuring our Top Military Pilots and Equipment, and I will deliver keynote remarks that you will not want to miss. To conclude the program, and commemorate this Historic Occasion, I will be launching, what will be, the LARGEST FIREWORKS SHOW IN HISTORY, right here in our Nation's Capital. Do not miss it. See you on JULY 4th in Washington, D.C. President DONALD J. TRUMP
-
----
-
-### [June 15, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753666622772186)
-
-> Wednesday, June 24th, will be the “kick off” of our summer long Celebration of 250 Years of American Independence! Come and enjoy a night filled with beautiful music from our talented U.S. Army and Marine Corps Military Bands (ONLY THE HITS THAT YOU KNOW AND LOVE!), the highly gifted Christopher Macchio, and our friend, Lee Greenwood, performing the Greatest Hit of All Time, GOD BLESS THE U.S.A. You will also bear witness to impressive Military flyovers featuring precision Fighter Jets and Stealth Bombers, which will be flown by our U.S. Military Pilots, who have proven to be the most Elite Pilots anywhere in the World. This Patriotic Tribute will take place on the Main Stage at the Freedom 250 Great American State Fair located on our Majestic National Mall, in what is now one of the safest Cities in the World, Washington D.C., which we are beautifying to levels never seen before. See you at 7 P.M. EST on Wednesday, June 24th. We are going to have fun, and celebrate America! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
