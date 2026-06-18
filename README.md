@@ -3,17 +3,21 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [June 18, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771224859937865)
 
-> While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https://justthenews.com/accountability/political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m
+> While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https:// justthenews.com/accountability /political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m
+
+_Edited, 2 versions archived_
 
 ---
 
 ### [June 18, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771222226594566)
 
-> Pope Leo commends US-Iran peace deal: https://justthenews.com/nation/religion/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing
+> Pope Leo commends US-Iran peace deal: https:// justthenews.com/nation/religio n/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing
+
+_Edited, 2 versions archived_
 
 ---
 
@@ -227,36 +231,6 @@ _Last 3 days, newest first. 39 posts._
 ### [June 15, 2026 at 7:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116756674797972374)
 
 > Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!! President DJT
-
----
-
-### [June 15, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754288530173924)
-
-> Sadly, if you import people from Third World Countries, you quickly become a Third World Country — And there’s not a thing you can do about it. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
-
----
-
-### [June 15, 2026 at 9:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754287044319129)
-
-> ‘Thank You, President Trump’: Reflecting Pool in D.C. Wows After Trump Renovations: https://www. breitbart.com/politics/2026/06 /08/thank-you-president-trump-reflecting-pool-d-c-wows-after-trump-renovations/
-
----
-
-### [June 15, 2026 at 9:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754286017145061)
-
-> Trump makes a splash with Oval Office chart comparing reflecting pool to skyscrapers: https://www. washingtonexaminer.com/news/wh ite-house/4594088/trump-makes-splash-oval-office-chart-reflecting-pool-skyscrapers/
-
----
-
-### [June 15, 2026 at 9:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754285003421395)
-
-> U.S. Counts Far More Hormuz Ship Transits Than Commercial Tracking Data Shows: https:// gcaptain.com/u-s-counts-far-mo re-hormuz-ship-transits-than-commercial-tracking-data-shows/
-
----
-
-### [June 15, 2026 at 9:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754283174782714)
-
-> Dems replace ‘mother’ with ‘gestating parent’ in latest woke rewrite of NY law: https:// nypost.com/2026/06/03/us-news/ dems-replace-mother-with-gestating-parent-in-latest-woke-rewrite-of-nys-law/
 <!-- DJT_POSTS_END -->
 
 ---

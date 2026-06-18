@@ -6,14 +6,14 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T13:02:44.158Z",
+  "updatedAt": "2026-06-18T13:13:11.618Z",
   "count": 113,
   "posts": [
     {
       "id": "116771224859937865",
-      "createdAt": "2026-06-18T12:58:00.000Z",
+      "createdAt": "2026-06-18T08:58:08-04:00",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/116771224859937865",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "deleted": false,
       "deletedAt": null,
       "deletedDetectedAt": null,
@@ -22,14 +22,19 @@
           "version": 1,
           "text": "While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https://justthenews.com/accountability/political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m",
           "firstSeenAt": "2026-06-18T13:02:44.158Z"
+        },
+        {
+          "version": 2,
+          "text": "While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https:// justthenews.com/accountability /political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m",
+          "firstSeenAt": "2026-06-18T13:13:11.618Z"
         }
       ]
     },
     {
       "id": "116771222226594566",
-      "createdAt": "2026-06-18T12:57:00.000Z",
+      "createdAt": "2026-06-18T08:57:28-04:00",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/116771222226594566",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "deleted": false,
       "deletedAt": null,
       "deletedDetectedAt": null,
@@ -38,6 +43,11 @@
           "version": 1,
           "text": "Pope Leo commends US-Iran peace deal: https://justthenews.com/nation/religion/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing",
           "firstSeenAt": "2026-06-18T13:02:44.158Z"
+        },
+        {
+          "version": 2,
+          "text": "Pope Leo commends US-Iran peace deal: https:// justthenews.com/nation/religio n/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing",
+          "firstSeenAt": "2026-06-18T13:13:11.618Z"
         }
       ]
     },
