@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 18, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771224859937865)
 
@@ -257,12 +257,6 @@ _Last 3 days, newest first. 40 posts._
 ### [June 15, 2026 at 9:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754283174782714)
 
 > Dems replace ‘mother’ with ‘gestating parent’ in latest woke rewrite of NY law: https:// nypost.com/2026/06/03/us-news/ dems-replace-mother-with-gestating-parent-in-latest-woke-rewrite-of-nys-law/
-
----
-
-### [June 15, 2026 at 9:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754269577470122)
-
-> Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern “Highway,” which is totally safe, secure, and pristine. There are other areas of travel, also!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
