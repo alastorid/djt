@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 48 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -342,14 +342,6 @@ _Last 3 days, newest first. 49 posts._
 > As the Chairman of the POWERFUL House Appropriations Committee, Tom knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. He is fighting tirelessly to Advance American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
 > Tom Cole has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is Tuesday, June 16th. GET OUT AND VOTE FOR TOM — HE WILL NEVER LET YOU DOWN!
 > Find your Voting Location here: https:// swampthevoteusa.com/oklahoma/
-
----
-
-### [June 15, 2026 at 8:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116754009812784672)
-
-> Congresswoman Stephanie Bice is doing a truly fantastic job representing the incredible people of Oklahoma’s 5th Congressional District!
-> Stephanie has a strong Record of Success, and resounding support from her Community. In Congress, she is fighting tirelessly to Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-> Stephanie Bice has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
