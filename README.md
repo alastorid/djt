@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 18, 2026 at 7:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116773596380247574)
 
@@ -267,12 +267,6 @@ _Edited, 2 versions archived_
 ### [June 16, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760641102604510)
 
 > US attorney in California suspects voter fraud investigation will result in charges: https:// justthenews.com/government/cou rts-law/us-attorney-california-suspects-voter-fraud-investigation-will-result-charges
-
----
-
-### [June 15, 2026 at 7:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116756674797972374)
-
-> Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
