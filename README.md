@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 18, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772135215188960)
+
+> There is no 300 Billion Dollar payment to Iran by the U.S. That’s Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market. Dumocrat propaganda at play!!! President DJT
+
+---
 
 ### [June 18, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771467656011073)
 
