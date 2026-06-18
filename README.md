@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 17, 2026 at 9:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768604766339426)
+
+> Thank you to Great Republican Senator, Eric Schmitt!
+
+---
 
 ### [June 17, 2026 at 9:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768514151266766)
 
