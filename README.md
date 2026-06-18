@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 53 posts._
 
 ### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
 
@@ -374,21 +374,6 @@ _Last 3 days, newest first. 55 posts._
 ### [June 15, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753666622772186)
 
 > Wednesday, June 24th, will be the “kick off” of our summer long Celebration of 250 Years of American Independence! Come and enjoy a night filled with beautiful music from our talented U.S. Army and Marine Corps Military Bands (ONLY THE HITS THAT YOU KNOW AND LOVE!), the highly gifted Christopher Macchio, and our friend, Lee Greenwood, performing the Greatest Hit of All Time, GOD BLESS THE U.S.A. You will also bear witness to impressive Military flyovers featuring precision Fighter Jets and Stealth Bombers, which will be flown by our U.S. Military Pilots, who have proven to be the most Elite Pilots anywhere in the World. This Patriotic Tribute will take place on the Main Stage at the Freedom 250 Great American State Fair located on our Majestic National Mall, in what is now one of the safest Cities in the World, Washington D.C., which we are beautifying to levels never seen before. See you at 7 P.M. EST on Wednesday, June 24th. We are going to have fun, and celebrate America! President DONALD J. TRUMP
-
----
-
-### [June 15, 2026 at 6:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753595710726312)
-
-> The UFC at the White House last night was incredible. The weather was scheduled to be horrendous, and it turned out to be PERFECT! So much for weather predicting. The Fighters were outstanding — Bo Nickal, Justin Gaethje, Ciryl Gane, Sean O’Malley, Josh Hokit, Mauricio Ruffy, and Diego Lopes were all unbelievable! Most people have never seen anything like that kind of human speed and power before. The White House has never looked more beautiful. The setting was unsurpassed! Congratulations to Dana White, and his unbelievable UFC. One of the most exciting days in the History of our fabled White House! President DONALD J. TRUMP
-
----
-
-### [June 15, 2026 at 6:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116753593805396252)
-
-> Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and Courage of the Great Patriots who sacrificed so much to secure our Independence. These stories of our shared past inspire us to build a future bigger, greater, and stronger than ever before. THE BEST IS YET TO COME!
->
-> Get your copy today:
->  https://www. amazon.com/Revolution-Birth-Gr eatest-Nation-History/dp/1631440888
 <!-- DJT_POSTS_END -->
 
 ---
