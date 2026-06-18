@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [June 18, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771467656011073)
+
+> OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!). OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE. “YOU’RE WELCOME!” President DJT
+
+---
 
 ### [June 18, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771224859937865)
 
