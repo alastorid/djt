@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T08:31:19.643Z",
-  "count": 110,
+  "updatedAt": "2026-06-18T08:36:29.790Z",
+  "count": 111,
   "posts": [
+    {
+      "id": "116770180426363226",
+      "createdAt": "2026-06-18T04:32:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116770180426363226",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "These fools, who think I haven’t been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are “tumbling” down, are either jealous, bad people, or stupid. MAKE AMERICA GREAT AGAIN!!! President DJT",
+          "firstSeenAt": "2026-06-18T08:36:29.790Z"
+        }
+      ]
+    },
     {
       "id": "116770163996850294",
       "createdAt": "2026-06-18T04:28:21-04:00",
