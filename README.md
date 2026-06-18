@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [June 18, 2026 at 12:08 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769142648175922)
+
+> Presidential Historian Dave King — Sounds good to me!
+
+---
 
 ### [June 18, 2026 at 12:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769129718272146)
 
