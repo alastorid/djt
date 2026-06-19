@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 41 posts._
+
+### [June 18, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116774618857147202)
+
+> Iranian resistance leader, former national security aide praise Trump’s deal with Tehran: https:// justthenews.com/government/sec urity/iranian-resistance-leader-former-national-security-aide-praise-trumps-mou
+
+---
 
 ### [June 18, 2026 at 9:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116774169197004942)
 
