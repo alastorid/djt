@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [June 19, 2026 at 2:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116778171813570099)
+
+> Very popular agreement, except for the Fake News and their partner, the Dumocrats!
+
+---
 
 ### [June 19, 2026 at 11:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116777408397415858)
 

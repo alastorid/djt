@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-19T15:12:20.718Z",
-  "count": 125,
+  "updatedAt": "2026-06-19T18:29:05.051Z",
+  "count": 126,
   "posts": [
+    {
+      "id": "116778171813570099",
+      "createdAt": "2026-06-19T14:24:50-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116778171813570099",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Very popular agreement, except for the Fake News and their partner, the Dumocrats!",
+          "firstSeenAt": "2026-06-19T18:29:05.051Z"
+        }
+      ]
+    },
     {
       "id": "116777408397415858",
       "createdAt": "2026-06-19T11:10:41-04:00",
