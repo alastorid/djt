@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-19T12:36:36.329Z",
-  "count": 123,
+  "updatedAt": "2026-06-19T12:41:48.550Z",
+  "count": 124,
   "posts": [
+    {
+      "id": "116776806511904791",
+      "createdAt": "2026-06-19T08:37:37-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116776806511904791",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "We didn’t meet out of desperation, Iran did. They are FINISHED! We’ll play out the 60 days. They get no money, not ten cents!",
+          "firstSeenAt": "2026-06-19T12:41:48.550Z"
+        }
+      ]
+    },
     {
       "id": "116776790136289354",
       "createdAt": "2026-06-19T08:33:28-04:00",

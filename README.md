@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 19, 2026 at 8:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776806511904791)
+
+> We didn’t meet out of desperation, Iran did. They are FINISHED! We’ll play out the 60 days. They get no money, not ten cents!
+
+---
 
 ### [June 19, 2026 at 8:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776790136289354)
 
