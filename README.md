@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 18, 2026 at 9:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116774169197004942)
+
+> The Dumocrats are better at one thing than the Republicans — CHEATING. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+
+---
 
 ### [June 18, 2026 at 7:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116773596380247574)
 

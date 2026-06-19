@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-18T23:04:36.005Z",
-  "count": 119,
+  "updatedAt": "2026-06-19T01:29:18.857Z",
+  "count": 120,
   "posts": [
+    {
+      "id": "116774169197004942",
+      "createdAt": "2026-06-18T21:26:55-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116774169197004942",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The Dumocrats are better at one thing than the Republicans — CHEATING. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-19T01:29:18.857Z"
+        }
+      ]
+    },
     {
       "id": "116773596380247574",
       "createdAt": "2026-06-18T19:01:15-04:00",
