@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [June 19, 2026 at 1:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116775035111874680)
+
+> UFC FREEDOM 250! 🇺🇸🦅
+
+---
 
 ### [June 18, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116774618857147202)
 

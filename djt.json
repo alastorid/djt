@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-19T03:23:03.290Z",
-  "count": 121,
+  "updatedAt": "2026-06-19T05:11:30.871Z",
+  "count": 122,
   "posts": [
+    {
+      "id": "116775035111874680",
+      "createdAt": "2026-06-19T01:07:08-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116775035111874680",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "UFC FREEDOM 250! 🇺🇸🦅",
+          "firstSeenAt": "2026-06-19T05:11:30.871Z"
+        }
+      ]
+    },
     {
       "id": "116774618857147202",
       "createdAt": "2026-06-18T23:21:17-04:00",
