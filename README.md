@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 19, 2026 at 11:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116777408397415858)
 
@@ -295,18 +295,6 @@ _Edited, 2 versions archived_
 ### [June 16, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760662558632411)
 
 > FBI stopped alleged terror plot to attack UFC 250 event with drones and snipers, officials said: https:// justthenews.com/government/sec urity/fbi-stopped-alleged-terror-plot-attack-ufc-250-event-drones-and-snipers
-
----
-
-### [June 16, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760642672400305)
-
-> Former Trump economist says Iran deal means big economic boom for US: https:// justthenews.com/nation/free-sp eech/trumps-former-economist-says-iran-deal-means-big-economic-boom-us
-
----
-
-### [June 16, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116760641102604510)
-
-> US attorney in California suspects voter fraud investigation will result in charges: https:// justthenews.com/government/cou rts-law/us-attorney-california-suspects-voter-fraud-investigation-will-result-charges
 <!-- DJT_POSTS_END -->
 
 ---
