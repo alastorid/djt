@@ -3,7 +3,17 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [June 19, 2026 at 11:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116777408397415858)
+
+> Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I love and WON BIG in 2016, 2020, and 2024!
+>
+> Lindsey has been a wonderful friend, and has always been there when I needed him. As the Chair of the Senate Budget Committee, Lindsey is fighting tirelessly to Grow the Economy, Lower Taxes, Cut Regulations, and Eliminate Government Waste. Lindsey is also relentlessly focused on helping us Keep our Border SECURE, Stop Migrant Crime, Strongly Support our Military/Veterans, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Safeguard our Elections, Defend our always under siege Second Amendment, and ensure PEACE THROUGH STRENGTH.
+>
+> Lindsey Graham has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
 
 ### [June 19, 2026 at 8:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776806511904791)
 
