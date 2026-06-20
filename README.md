@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [June 19, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116779961376108129)
 
@@ -285,12 +285,6 @@ _Edited, 2 versions archived_
 ### [June 17, 2026 at 2:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764115535577197)
 
 > So happy for highly respected Congressman Mike Collins. He will win his Senate Race in Georgia against a pathetic failed Dumocrat Senator, Os(jerk!)off, who is a joke in D.C. Nobody even knows who he is!!! I’ll be doing Big TRUMP Rallies for Mike in Georgia! President DJT
-
----
-
-### [June 17, 2026 at 2:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116763999742755145)
-
-> Rick Jackson ran a great TRUMP Campaign. Very smart! Was with me on Saturday Night making a pitch. Amazing!!! He won against a great guy, Burt Jones, who has a fantastic future!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
