@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-20T19:17:52.630Z",
-  "count": 140,
+  "updatedAt": "2026-06-20T20:19:48.714Z",
+  "count": 141,
   "posts": [
+    {
+      "id": "116784267172845354",
+      "createdAt": "2026-06-20T16:14:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116784267172845354",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Former Olympian is arrested for allegedly vandalizing Reflecting Pool: https://www. dailymail.com/news/article-159 16401/amp/olympian-lincoln-memorial-reflecting-pool-vandalism.html",
+          "firstSeenAt": "2026-06-20T20:19:48.714Z"
+        }
+      ]
+    },
     {
       "id": "116784032456610294",
       "createdAt": "2026-06-20T15:15:17-04:00",

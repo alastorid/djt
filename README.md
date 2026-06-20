@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [June 20, 2026 at 4:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784267172845354)
+
+> Former Olympian is arrested for allegedly vandalizing Reflecting Pool: https://www. dailymail.com/news/article-159 16401/amp/olympian-lincoln-memorial-reflecting-pool-vandalism.html
+
+---
 
 ### [June 20, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784032456610294)
 
