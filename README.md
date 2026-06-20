@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 20, 2026 at 7:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782304422351399)
+
+> Funny how the Dumocrats like to say that Iran is in a stronger position today than they were three months ago, despite the fact that they have been defeated militarily, with no Navy or Air Force. That’s why I call them the Dumocrats!!! President DJT
+
+---
 
 ### [June 20, 2026 at 7:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782277725628816)
 
