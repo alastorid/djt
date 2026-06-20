@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [June 20, 2026 at 10:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782997575708953)
+
+> POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the “e” for “u,” so simple and precise (Many people don’t know, or assume, that DUMB ends in “b”). In the other case, you spell out DUMB, but it seems to lose some of the identity to Democrats when done this way. Which is better?
+> Thank you for your attention to this very important matter! President DJT
+
+---
 
 ### [June 20, 2026 at 8:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782425705942065)
 
