@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 50 posts._
+
+### [June 20, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784751146148991)
+
+> The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting Pool. Who would do such a thing? These are very serious crimes having to do with the destruction of National Monuments. Years in jail! Work will begin immediately on its repair. President DJT
+
+---
 
 ### [June 20, 2026 at 5:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784450971912162)
 
