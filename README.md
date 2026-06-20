@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 38 posts._
+
+### [June 20, 2026 at 7:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782087277472431)
+
+> Radical Left fools and Dumocrats realize how well we have done in our War against Iran, with their Country being completely defeated militarily. Obuma just kept giving them $Billions in cash, and never used our then depleted military for what should have been done to reign in the World’s number one sponsor of terror, Iran. They had ZERO respect for him. They thought he was, like Sleepy Joe Biden, a weak and ineffective leader, and on this they were 100% correct. Iran got away with ”murder” for 47 years, until I came along. Then it all changed. AMERICA IS BACK!!! President DJT
+
+---
 
 ### [June 19, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116779961376108129)
 
