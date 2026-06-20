@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [June 20, 2026 at 11:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116783258942981812)
 
@@ -318,12 +318,6 @@ _Edited, 2 versions archived_
 ### [June 17, 2026 at 9:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116768514151266766)
 
 > Congratulations to Commissioner Brian Rolapp, the PGA Tour, and the Governing Bodies, and also, the Great U.S. Attorney for the Southern District of New York, Jay Clayton, for a BIG VICTORY where the USGA wanted to roll back the distance of a Golf Ball, for whatever reason, and now they are precluded from doing so, at least for a long number of years. It was a ridiculous idea, that nobody wanted, especially PGA Tour Players, and people that don’t want to go to a Course to be told that their drives will be going 20 yards shorter. What the USGA should do is agree that, far into the future, they will not allow the current ball to go further. In other words, they will keep the ball the same! The game of Golf is “hot as a pistol.” The last thing we should do is tell people that, for no reason whatsoever, you will not be able to hit a ball as far as you used to. Has anyone ever heard of anything so ridiculous? President DONALD J. TRUMP
-
----
-
-### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
-
-> I greatly appreciate Jackson Lahmeyer’s hard work under difficult circumstances — He has always been with me, and I will always be with him. But, when it comes to the current Congressional race for Oklahoma’s 1st Congressional District, I will be supporting America First Patriot, Mark Tedford. Mark is Pro Trump and MAGA all the way! A Proven Leader, Mark has served his Community as a Highly Respected State Legislator and Businessman, prior to running for Congress. Mark Tedford has my Complete and Total Endorsement to be the next Representative from Oklahoma’s 1st Congressional District — HE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
