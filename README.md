@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 19, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116779961376108129)
 
@@ -273,18 +273,6 @@ _Edited, 2 versions archived_
 ### [June 17, 2026 at 3:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764370070279119)
 
 > The Republicans agreed with Dumocrats to remove very fair, and talented, William Pulte, from serving as Acting DNI in return for getting FISA approved by the Dumocrats. However, the Republicans moved so fast with the hearings of the Great Jay Clayton, current U.S. Attorney for the Southern District of New York, that Pulte would be gone before the Dumocrats would vote on FISA. Now, the Dumocrats are saying they will vote against FISA — So, the Republicans wound up having fulfilled their commitment, but Dumocrats broke the Deal. In addition, the newly nominated U.S. Attorney, Jamie McDonald, must be confirmed and blue slipped. Because of the ridiculous views of Republicans on blue slipping (Dumocrats are often willing to nix it), I may not be able to get the extraordinary Sullivan & Cromwell Partner, Jamie, approved, and I don’t want to take Jay Clayton away from the great job he is doing until Jamie is in place. Therefore, to add a slight bit of intrigue but, for the Good of the Nation, and the People of our Country, I will not approve FISA without THE SAVE AMERICA ACT going along with it. Not complicated, actually, the Republicans fell into a trap. Regarding the approval of our Great Patriot, Jay Clayton, we are cancelling the Senate Hearing RE: DNI today, and will not be going forward until Jamie McDonald is approved to be U.S. Attorney. In the meantime, Bill Pulte will remain as the Acting Director of National Intelligence. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 17, 2026 at 2:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764118671718350)
-
-> Jesse Watters: Trump knows when you run the room, you set the volume: https://www. foxnews.com/video/639860257411 2
-
----
-
-### [June 17, 2026 at 2:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764115535577197)
-
-> So happy for highly respected Congressman Mike Collins. He will win his Senate Race in Georgia against a pathetic failed Dumocrat Senator, Os(jerk!)off, who is a joke in D.C. Nobody even knows who he is!!! I’ll be doing Big TRUMP Rallies for Mike in Georgia! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
