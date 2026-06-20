@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [June 20, 2026 at 8:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782425705942065)
 
@@ -309,12 +309,6 @@ _Edited, 2 versions archived_
 ### [June 17, 2026 at 2:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116766840824918491)
 
 > I greatly appreciate Jackson Lahmeyer’s hard work under difficult circumstances — He has always been with me, and I will always be with him. But, when it comes to the current Congressional race for Oklahoma’s 1st Congressional District, I will be supporting America First Patriot, Mark Tedford. Mark is Pro Trump and MAGA all the way! A Proven Leader, Mark has served his Community as a Highly Respected State Legislator and Businessman, prior to running for Congress. Mark Tedford has my Complete and Total Endorsement to be the next Representative from Oklahoma’s 1st Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
-
-> I will be doing a Press Conference in 45 minutes from France. I’ll then be heading to Versailles for Dinner with French and other European Leaders, and then back home tonight! The trip was a Great Success but, mostly what people wanted to talk about, is the fact that Iran will not have a Nuclear Weapon, and that the Strait of Hormuz will immediately be opened! Great Numbers in all categories for the United States Economy with more people working today than have ever worked before. Over 19.1 Trillion being invested in the U.S.A. with Factories and everything else happening but, importantly, recent Stock Market numbers are through the roof because of the settlement and, likewise, Oil Prices are tumbling down! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
