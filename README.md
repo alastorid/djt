@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [June 19, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116779961376108129)
 
@@ -261,12 +261,6 @@ _Edited, 2 versions archived_
 ### [June 17, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116765811260304660)
 
 > I will be doing a Press Conference in 45 minutes from France. I’ll then be heading to Versailles for Dinner with French and other European Leaders, and then back home tonight! The trip was a Great Success but, mostly what people wanted to talk about, is the fact that Iran will not have a Nuclear Weapon, and that the Strait of Hormuz will immediately be opened! Great Numbers in all categories for the United States Economy with more people working today than have ever worked before. Over 19.1 Trillion being invested in the U.S.A. with Factories and everything else happening but, importantly, recent Stock Market numbers are through the roof because of the settlement and, likewise, Oil Prices are tumbling down! President DONALD J. TRUMP
-
----
-
-### [June 17, 2026 at 4:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116764521224175623)
-
-> Thank you Greg and group. No wonder you’re Number One — By far!
 <!-- DJT_POSTS_END -->
 
 ---
