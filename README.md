@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [June 20, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784032456610294)
+
+> There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT
+
+---
 
 ### [June 20, 2026 at 11:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116783258942981812)
 
