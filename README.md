@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 31 posts._
 
 ### [June 21, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788451975276121)
 
@@ -208,12 +208,6 @@ _**Deleted**_
 > Gentner Drummond has also stated publicly he had "no opinion" on the BOGUS IMPEACHMENT of a gentleman named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. He even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity!
 >
 > Drummond is not the right guy, he’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE “MIKE MAZZEI FOR GOVERNOR” on August 25th — HE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 18, 2026 at 2:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772506497851104)
-
-> Anybody who doesn’t want to Terminate the Filibuster is a FOOL, a very stupid one, at that! The Dumocrats will end it within minutes of taking office, and then rapidly proceed to destroy our Country, adding 2 Radical Left States, 4 Dumocrat Senators, many Congressmen/women, their dream of 21 Supreme Court Justices (Not just 13, an unlucky number!), an impossible to beat number of Electoral College Votes (and that’s the Ballgame!), “Popular” Vote Landslides, and so much else. The Republican Party will never win another Election. I will, sadly, be the last Republican President. Senate Majority Leader John Thune, and the Republican Senate, must not let this “carnage” happen. They will go down on the wrong side of History, as will all Republicans who just stood by and watched. The Republican Party isn’t at stake, our Country is. TERMINATE THE FILIBUSTER, AND IMMEDIATELY APPROVE THE SAVE AMERICA ACT. GOD BLESS THE U.S.A. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
