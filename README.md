@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [June 20, 2026 at 9:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116785607752936424)
 
@@ -230,18 +230,6 @@ _Edited, 2 versions archived_
 > Pope Leo commends US-Iran peace deal: https:// justthenews.com/nation/religio n/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing
 
 _Edited, 2 versions archived_
-
----
-
-### [June 18, 2026 at 4:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770180426363226)
-
-> These fools, who think I haven’t been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are “tumbling” down, are either jealous, bad people, or stupid. MAKE AMERICA GREAT AGAIN!!! President DJT
-
----
-
-### [June 18, 2026 at 4:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770163996850294)
-
-> Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www. bloomberg.com/news/articles/20 26-02-01/trump-says-he-welcomes-china-india-investment-in-venezuela-oil
 <!-- DJT_POSTS_END -->
 
 ---
