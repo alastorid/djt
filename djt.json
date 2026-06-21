@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-21T19:44:31.384Z",
-  "count": 150,
+  "updatedAt": "2026-06-21T20:41:13.595Z",
+  "count": 151,
   "posts": [
+    {
+      "id": "116790016615762850",
+      "createdAt": "2026-06-21T16:37:08-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116790016615762850",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Work will begin immediately on fixing the seriously vandalized Reflecting Pool. I just inspected it, and could only say to myself, and those gathered around me, WOW, who would do such a thing? SICK, DERANGED PEOPLE! We will fix it? President DJT",
+          "firstSeenAt": "2026-06-21T20:41:13.595Z"
+        }
+      ]
+    },
     {
       "id": "116789789595899412",
       "createdAt": "2026-06-21T15:39:24-04:00",

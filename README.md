@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [June 21, 2026 at 4:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790016615762850)
+
+> Work will begin immediately on fixing the seriously vandalized Reflecting Pool. I just inspected it, and could only say to myself, and those gathered around me, WOW, who would do such a thing? SICK, DERANGED PEOPLE! We will fix it? President DJT
+
+---
 
 ### [June 21, 2026 at 3:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116789789595899412)
 
