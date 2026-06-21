@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-21T00:37:50.240Z",
-  "count": 144,
+  "updatedAt": "2026-06-21T02:00:34.310Z",
+  "count": 145,
   "posts": [
+    {
+      "id": "116785607752936424",
+      "createdAt": "2026-06-20T21:55:54-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116785607752936424",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great daughter. My\nHonor!!! President DJT",
+          "firstSeenAt": "2026-06-21T02:00:34.310Z"
+        }
+      ]
+    },
     {
       "id": "116785296448420208",
       "createdAt": "2026-06-20T20:36:44-04:00",
