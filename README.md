@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 21, 2026 at 8:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788188161761991)
+
+> Lots of Killing going on in Chicago. 22 people shot, at least 4 Dead. Why isn’t Governor Pritzker calling me for help. I could make Chicago a safe City in ONE MONTH, in ONE YEAR, it would be one of the safest!!! D.C. went from one of the worst, to one of the safest cities in the U.S. President DJT
+
+---
 
 ### [June 21, 2026 at 7:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116787911354917242)
 
