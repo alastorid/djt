@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [June 21, 2026 at 8:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788188161761991)
 
@@ -226,22 +226,6 @@ _**Deleted**_
 ### [June 18, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771467656011073)
 
 > OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!). OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE. “YOU’RE WELCOME!” President DJT
-
----
-
-### [June 18, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771224859937865)
-
-> While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https:// justthenews.com/accountability /political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m
-
-_Edited, 2 versions archived_
-
----
-
-### [June 18, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116771222226594566)
-
-> Pope Leo commends US-Iran peace deal: https:// justthenews.com/nation/religio n/pope-leo-commends-us-iran-peace-deal-ahead-friday-signing
-
-_Edited, 2 versions archived_
 <!-- DJT_POSTS_END -->
 
 ---
