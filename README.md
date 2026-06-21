@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [June 21, 2026 at 6:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790453299036730)
+
+> The way the Corrupt and Failing New York Times is covering stories on a very battered and beat up Iran, through FAKE & MADE UP “FACTS” is, in my opinion, “TREASONOUS.” I will be adding all of their false and ridiculous reporting to my multi Billion Dollar lawsuit against them. They are Criminals! President DJT
+
+---
 
 ### [June 21, 2026 at 4:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790096457517049)
 
