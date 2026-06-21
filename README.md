@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [June 20, 2026 at 9:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116785607752936424)
 
@@ -244,12 +244,6 @@ _Edited, 2 versions archived_
 ### [June 18, 2026 at 4:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116770161935260082)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116770160614131644
-
----
-
-### [June 18, 2026 at 3:17 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769886136736615)
-
-> The statue “Valor,” one of the Arts of War statues, is almost completely regilded by our Great Department of the Interior.
 <!-- DJT_POSTS_END -->
 
 ---
