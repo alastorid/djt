@@ -28,6 +28,8 @@ _Last 3 days, newest first. 37 posts._
 
 > The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting Poll. Who would do such a thing? These are very serious crimes having to do with the destruction of National Monuments. Years in jail! Work will begin immediately on its repair. President DJT
 
+_**Deleted**_
+
 ---
 
 ### [June 20, 2026 at 4:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784267172845354)
@@ -102,6 +104,8 @@ _Last 3 days, newest first. 37 posts._
 ### [June 20, 2026 at 7:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782277725628816)
 
 > Italian Prime Minister Gigiorgia Meloni asked, over and over, for a picture with me during the G-7 meeting in France. She is doing poorly in Italy with her level of popularity, possibly because she turned down the United States of America, a Country that truly loves and protects Italy, when it came to denying Iran from obtaining or developing a Nuclear Weapon (But so did NATO, for that matter!). She wouldn’t even let us use Italy’s landing strips or runways, a great logistical inconvenience, and this despite the fact the U.S. contributes hundreds of Billions of Dollars a year to protect Italy, and other “so-called” NATO Allies. Now, after the United States defeated Iran militarily, she wants to be friends again in order to get her “numbers up.” No thanks!!! President DJT
+
+_**Deleted**_
 
 ---
 
