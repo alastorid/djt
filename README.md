@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 20, 2026 at 9:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116785607752936424)
 
@@ -280,18 +280,6 @@ _Edited, 2 versions archived_
 ### [June 18, 2026 at 12:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769225357410422)
 
 > The Technology the World relies on was invented in America. We all remember “Intel Inside.” Stupid Presidents took our Economy for granted, and let Taiwan and others steal our Semiconductor Factories. They forgot to protect our Industries with TARIFFS. When I won my Second Term (Third, actually!), it was clear America needed its Semiconductor Industry to come back to the U.S.A. We design everything, but we need to BUILD it here, NOW! So I decided to help Intel because we need to design and build our Chips right here in America. First, we helped bring in Nvidia, and they agreed to build their first level Chips with Intel. Next, Elon agreed to build his TerraFab, the largest Chip Factory in the World, designed together with Intel’s Technology team. And, finally, Apple has agreed to work with Intel to design and build its Chips in America. We decided to help Intel in exchange for 10% of their shares. Is that too much or, too little? They were worth around 100 Billion Dollars when we made our offer. Now they are worth over 600 BILLION DOLLARS! Nine months, and they’ve increased in value over HALF A TRILLION DOLLARS. America’s stake is now over 60 Billion Dollars. When was the last time a President made America money?? Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 18, 2026 at 12:08 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769142648175922)
-
-> Presidential Historian Dave King — Sounds good to me!
-
----
-
-### [June 18, 2026 at 12:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769129718272146)
-
-> Tyrus became famous for saying, long before November 5th, 2024, “Why we are talking about the 2024 Presidential Election? It’s OVER. TRUMP is going to win, and everyone knows it. It’s a waste of time to talk about it. They’re not going to beat him, and they never will.” He was right! In his incredible Book, Tyrus tells the true story of the 2024 Presidential Election, with his own unique insights, strongly rooted in Common Sense and Love for our Country. This Book is fantastic — Enjoy! https://www. amazon.com/dp/B0FP5KNYMC?ref=c m_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&ref_=cm_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&social_share=cm_sw_r_ffobk_cso_cp_apin_dp_HKJ4DSK0H3SQ6CMJ1456&bestFormat=true&titleSource=true
 <!-- DJT_POSTS_END -->
 
 ---
