@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [June 21, 2026 at 3:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116789789595899412)
+
+> After spending Trillions of Dollars on NATO, Italy, and its Prime Minister, wouldn’t even think of becoming involved with the Islamic Republic of Iran and their very serious Nuclear Threat. For decades, we defend them but, when tested, they are not there to defend us, and the rest of the World. Not good! President DONALD J. TRUMP
+
+---
 
 ### [June 21, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788451975276121)
 
