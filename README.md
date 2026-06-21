@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 34 posts._
+
+### [June 21, 2026 at 4:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790096457517049)
+
+> The headline in the Corrupt and Failing New York Times: “What Changed After Almost 4 Months of War? Analysts Say Not Much.” REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren’t being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That’s what’s CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT
+
+---
 
 ### [June 21, 2026 at 4:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790016615762850)
 
