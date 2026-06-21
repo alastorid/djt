@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-21T12:56:27.870Z",
-  "count": 147,
+  "updatedAt": "2026-06-21T13:32:40.436Z",
+  "count": 148,
   "posts": [
+    {
+      "id": "116788337995785578",
+      "createdAt": "2026-06-21T09:30:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116788337995785578",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-21T13:32:40.436Z"
+        }
+      ]
+    },
     {
       "id": "116788188161761991",
       "createdAt": "2026-06-21T08:52:08-04:00",

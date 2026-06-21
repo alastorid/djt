@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [June 21, 2026 at 9:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788337995785578)
+
+> Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!! President DONALD J. TRUMP
+
+---
 
 ### [June 21, 2026 at 8:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788188161761991)
 
