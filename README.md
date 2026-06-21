@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [June 21, 2026 at 7:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116787911354917242)
+
+> Happy Father’s Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP
+
+---
 
 ### [June 20, 2026 at 9:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116785607752936424)
 
