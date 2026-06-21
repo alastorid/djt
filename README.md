@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [June 20, 2026 at 9:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116785607752936424)
 
@@ -268,12 +268,6 @@ _Edited, 2 versions archived_
 > A Successful Architect and Businessman, before his service in the State House, Don is a Proven Leader who has dedicated his life to serving his Community. In the State House, he is working hard to Protect "Palmetto State" Values, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.
 >
 > Don Chapman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 18, 2026 at 12:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116769231931716794)
-
-> Freed U.S. Hostage: “President Trump is the greatest Commander-in-Chief ever.”
 <!-- DJT_POSTS_END -->
 
 ---
