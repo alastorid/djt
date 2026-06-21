@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [June 21, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788451975276121)
 
@@ -226,12 +226,6 @@ _**Deleted**_
 ### [June 18, 2026 at 2:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772416131420569)
 
 > The United States is committed to PEACE, and we encourage everyone in the Middle East Region to maintain their commitment to allowing our negotiations to beautifully unfold. The Markets are loving what is happening with Oil Prices way down, and Stocks way up. We expect a complete Ceasefire on all fronts, including Lebanon, Hezbollah, and Israel. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 18, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116772135215188960)
-
-> There is no 300 Billion Dollar payment to Iran by the U.S. That’s Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market. Dumocrat propaganda at play!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
