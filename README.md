@@ -3,7 +3,63 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794880201730909)
+
+> Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!
+>
+> Nick served as the powerful Chairman of the New York Republican State Committee, prior to becoming a very distinguished and respected U.S. Congressman. A MAGA Warrior, who has been with us from the very beginning, Nick is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Nick Langworthy has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
+
+### [June 22, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794878683037090)
+
+> It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District. He is running against Josh Riley, a true Radical Left Extremist who does not represent the Values of Central New York. Josh Riley wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and wants to take away your Second Amendment, meaning, your guns. Sadly, he voted against the Biggest Tax Cut in History, and fought ferociously to knock out Rural Healthcare, a big factor in New York’s District 19. He represented Sleepy Joe Biden as his Counsel, in the White House. How did that work out? He is totally controlled by the Radical Left who have only one goal in mind, DESTROYING OUR COUNTRY!
+>
+> Peter Oberacker, on the other hand, is a very successful “Meat Market” Businessman, Dedicated Public Servant, and now, as State Senator, who has strongly served his Community with a career “loaded up” with accolades and wins. As your next Congressman, he will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.
+>
+> Peter Oberacker has my Complete and Total Endorsement to be the next Representative from New York’s 19th Congressional District. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR PETER — HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
+
+### [June 22, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794876797632455)
+
+> Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!
+>
+> A true America First Patriot, Mike is fighting hard to Grow our Economy, Create Jobs, Lower Taxes, Promote American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans and Law Enforcement, Defend our always under siege Second Amendment. Additionally, he worked tirelessly to successfully increase the SALT deduction for the Working Men and Women of the Great State of New York!
+>
+> Mike is doing an outstanding job representing the Hudson Valley, and all of New York. Because of the excellent job he is doing, Mike has my Complete and Total Endorsement for Re-Election to New York’s 17th Congressional District – HE WILL NEVER LET YOU DOWN!
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
+
+### [June 22, 2026 at 1:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794874431459937)
+
+> Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!
+>
+> As a Member of the POWERFUL Ways & Means Committee, Nicole knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is working hard to Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Strengthen our Brave Military/Veterans, Champion the Incredible NYPD and NYFD, and Protect our always under siege Second Amendment.
+>
+> Nicole Malliotakis has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
+
+### [June 22, 2026 at 1:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794870476217923)
+
+> Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor of New York.
+>
+> Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment!
+>
+> Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). BRUCE BLAKEMAN WILL NEVER LET YOU DOWN!
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
 
 ### [June 22, 2026 at 12:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794817775547048)
 
