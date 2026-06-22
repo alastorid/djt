@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 21, 2026 at 9:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116791057884875243)
+
+> He Won, BIG!
+>  https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger
+
+---
 
 ### [June 21, 2026 at 8:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790956768105397)
 
