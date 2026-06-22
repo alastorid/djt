@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 31 posts._
 
 ### [June 21, 2026 at 9:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116791057884875243)
 
@@ -203,12 +203,6 @@ _**Deleted**_
 > Lindsey has been a wonderful friend, and has always been there when I needed him. As the Chair of the Senate Budget Committee, Lindsey is fighting tirelessly to Grow the Economy, Lower Taxes, Cut Regulations, and Eliminate Government Waste. Lindsey is also relentlessly focused on helping us Keep our Border SECURE, Stop Migrant Crime, Strongly Support our Military/Veterans, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Safeguard our Elections, Defend our always under siege Second Amendment, and ensure PEACE THROUGH STRENGTH.
 >
 > Lindsey Graham has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
-
----
-
-### [June 19, 2026 at 8:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776806511904791)
-
-> We didn’t meet out of desperation, Iran did. They are FINISHED! We’ll play out the 60 days. They get no money, not ten cents!
 <!-- DJT_POSTS_END -->
 
 ---
