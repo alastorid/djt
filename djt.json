@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-21T22:29:45.357Z",
-  "count": 153,
+  "updatedAt": "2026-06-22T00:38:58.039Z",
+  "count": 154,
   "posts": [
+    {
+      "id": "116790956768105397",
+      "createdAt": "2026-06-21T20:36:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116790956768105397",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The Failing New York Times is CORRUPT!",
+          "firstSeenAt": "2026-06-22T00:38:58.039Z"
+        }
+      ]
+    },
     {
       "id": "116790453299036730",
       "createdAt": "2026-06-21T18:28:11-04:00",

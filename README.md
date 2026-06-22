@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [June 21, 2026 at 8:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790956768105397)
+
+> The Failing New York Times is CORRUPT!
+
+---
 
 ### [June 21, 2026 at 6:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790453299036730)
 
