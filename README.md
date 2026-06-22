@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [June 22, 2026 at 12:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794817775547048)
+
+> Everybody is fully aware that Iran will agree to have Major Weapons Inspections in order to ensure “Nuclear Honesty” long into the future. President DONALD J. TRUMP
+
+---
 
 ### [June 22, 2026 at 9:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116793994014541387)
 
