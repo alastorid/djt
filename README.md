@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [June 21, 2026 at 9:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116791057884875243)
 
@@ -209,12 +209,6 @@ _**Deleted**_
 ### [June 19, 2026 at 8:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776806511904791)
 
 > We didn’t meet out of desperation, Iran did. They are FINISHED! We’ll play out the 60 days. They get no money, not ten cents!
-
----
-
-### [June 19, 2026 at 8:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116776790136289354)
-
-> The War has diminished Iran! It doesn’t, any longer, have an Air Force, a Navy, Antiaircraft Equipment, Radar, or practically anything else, and yet the Dumocrats say that Iran is better off now than it was four months ago. Can you imagine getting away with that??? How stupid can some people be??? President DJT
 <!-- DJT_POSTS_END -->
 
 ---
