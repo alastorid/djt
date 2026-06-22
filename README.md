@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [June 22, 2026 at 2:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795268678109473)
+
+> Congressman Andy Harris is a Great Champion for Maryland’s 1st Congressional District!
+> As the Highly Respected Chairman of the House Freedom Caucus, Andy is doing a fantastic job advancing our AMERICA FIRST Agenda. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Incredible Military/Veterans, Safeguard our Elections, Pass THE SAVE AMERICA ACT, and Defend our always under siege Second Amendment.
+> Andy Harris has my Complete and Total Endorsement for Re-Election — HE WILL NOT LET YOU DOWN!
+
+---
 
 ### [June 22, 2026 at 2:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795259766011755)
 
