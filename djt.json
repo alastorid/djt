@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-22T22:51:07.555Z",
-  "count": 179,
+  "updatedAt": "2026-06-22T22:56:18.533Z",
+  "count": 180,
   "posts": [
+    {
+      "id": "116796211476024344",
+      "createdAt": "2026-06-22T18:52:34-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116796211476024344",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!",
+          "firstSeenAt": "2026-06-22T22:56:18.533Z"
+        }
+      ]
+    },
     {
       "id": "116796204866042899",
       "createdAt": "2026-06-22T18:50:53-04:00",

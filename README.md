@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 53 posts._
+
+### [June 22, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796211476024344)
+
+> Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!
+
+---
 
 ### [June 22, 2026 at 6:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796204866042899)
 
