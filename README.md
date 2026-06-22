@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 22, 2026 at 1:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794888797757311)
 
@@ -316,12 +316,6 @@ _**Deleted**_
 ### [June 19, 2026 at 5:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116778841965906179)
 
 > I love the Wonderful State of South Carolina for every reason in the book, including the fact that it is “loaded up” with truly GREAT people and Political Leaders. There are two Highly Respected Candidates running to be your next Governor in the June 23rd Republican Runoff Election, your current Lieutenant Governor, Pam Evette, and your current Attorney General, Alan Wilson. Both have had amazing careers, and have been with me from the beginning. They are MAGA and America First all the way! These were the two that I was hoping would get into a Runoff, and they did. I can’t hurt one of them by only Endorsing the other, so, therefore, I am going to Endorse, for Governor of South Carolina, both Pam Evette and Alan Wilson! It’s a Wealth of Riches – With either one you can’t go wrong. Vote for Pam or Alan — They will not let you down! President DONALD J. TRUMP
-
----
-
-### [June 19, 2026 at 2:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116778171813570099)
-
-> Very popular agreement, except for the Fake News and their partner, the Dumocrats!
 <!-- DJT_POSTS_END -->
 
 ---
