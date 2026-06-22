@@ -3,7 +3,68 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [June 22, 2026 at 1:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794888797757311)
+
+> It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of Utah’s 4th Congressional District!
+>
+> A Proven Leader, Mike has served his Community well as a Family Physician, Lawyer, and Highly Respected State Legislator, prior to becoming a distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Mike Kennedy has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR MIKE – HE WILL NOT LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
+
+---
+
+### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794887661719912)
+
+> It is my Great Honor to endorse Congresswoman Celeste Maloy to represent the tremendous people of Utah’s 3rd Congressional District!
+>
+> Celeste has a strong Record of Success, and resounding support from her Community. In Congress, she is working hard to Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Grow our Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Protect our always under siege Second Amendment.
+>
+> Celeste Maloy has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR CELESTE – SHE WILL NOT LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
+
+---
+
+### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794886373734252)
+
+> It is my Great Honor to endorse Congressman Blake Moore to represent the fantastic people of Utah’s 2nd Congressional District!
+>
+> As the Vice Chairman of the House Republican Conference, Blake is doing an incredible job advancing our America First Agenda. He is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Blake Moore has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR BLAKE – HE WILL NOT LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
+
+---
+
+### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794885116775237)
+
+> Highly Respected MAGA Warrior, Cody Simpson, is running for Commissioner of Agriculture in the wonderful State of South Carolina, which I won in 2016, 2020, and 2024, with the Highest Vote in History!
+>
+> Cody is a Fifth Generation Farmer, and Former Agriculture Advisor and Chief Executive Assistant to GREAT Governor Henry McMaster. As South Carolina State Executive Director of the USDA Farm Service Agency, he has continued to serve the Palmetto State with distinction, delivering outstanding results. A true America First Patriot, who has been with us from the very beginning, Cody is an incredibly effective Voice for South Carolina Agriculture, and our amazing Farmers and Ranchers. As your next Agriculture Commissioner, Cody will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Ensure LAW AND ORDER, Support our Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Cody Simpson has my Complete and Total Endorsement to be the next South Carolina Commissioner of Agriculture. Election Day for the Republican Runoff is Tuesday, June 23rd. GET OUT AND VOTE FOR CODY — HE WILL NEVER LET YOU DOWN!
+
+---
+
+### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794883968681896)
+
+> I love the Wonderful State of South Carolina for every reason in the book, including the fact that it is “loaded up” with truly GREAT people and Political Leaders. There are two Highly Respected Candidates running to be your next Governor in the June 23rd Republican Runoff Election, your current Lieutenant Governor, Pam Evette, and your current Attorney General, Alan Wilson. Both have had amazing careers, and have been with me from the beginning. They are MAGA and America First all the way! These were the two that I was hoping would get into a Runoff, and they did. I can’t hurt one of them by only Endorsing the other, so, therefore, I am going to Endorse, for Governor of South Carolina, both Pam Evette and Alan Wilson! It’s a Wealth of Riches – With either one you can’t go wrong. Vote for Pam or Alan — They will not let you down! President DONALD J. TRUMP
+
+---
+
+### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794882810036308)
+
+> Congresswoman Claudia Tenney is a Fantastic Advocate for the wonderful people of New York’s 24th Congressional District!
+> As the Chairwoman of the House Election Integrity Caucus, Claudia is an America First Fighter for Safeguarding our Cherished Right to Free and Fair Elections. She is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Strengthen our Military/Veterans, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.
+> Claudia Tenney has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!
+> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
+
+---
 
 ### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794880201730909)
 
