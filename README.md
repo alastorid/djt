@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [June 22, 2026 at 3:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795382583929582)
+
+> Congratulations to “El Tigre” (THE TIGER!) Abelardo de la Espriella, the new President of Colombia! It was my Great Honor to endorse him, and I look forward to working together to build a powerful relationship between Colombia and the United States of America, which will bring new levels of Greatness for both of our Countries! President DONALD J. TRUMP
+
+---
 
 ### [June 22, 2026 at 3:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795360506087876)
 
