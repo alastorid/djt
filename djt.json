@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-22T19:24:00.442Z",
-  "count": 177,
+  "updatedAt": "2026-06-22T22:09:45.665Z",
+  "count": 178,
   "posts": [
+    {
+      "id": "116796021113054934",
+      "createdAt": "2026-06-22T18:04:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116796021113054934",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Here is another example of a crazy pro-algae (likely paid) protestor. \nThe sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: \n“…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”",
+          "firstSeenAt": "2026-06-22T22:09:45.665Z"
+        }
+      ]
+    },
     {
       "id": "116795382583929582",
       "createdAt": "2026-06-22T15:21:46-04:00",

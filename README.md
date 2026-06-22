@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [June 22, 2026 at 6:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796021113054934)
+
+> Here is another example of a crazy pro-algae (likely paid) protestor.
+> The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis:
+> “…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”
+
+---
 
 ### [June 22, 2026 at 3:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795382583929582)
 
