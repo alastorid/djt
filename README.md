@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [June 22, 2026 at 9:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116793994014541387)
+
+> Of the MANY Statues and Fountains that we rebuilt, renovated, cleaned, and fixed, the only one that was Vandalized was the Reflecting Pool, which is being taken care of, ASAP! It has been given a 300 foot long gash, chemicals have been illegally placed in the water, and the beautiful new grass field has been destroyed with a gigantic 86 47 chemically carved into it (Probably inspired by Dirty Cop, James Comey!). Please remember that there is a 10 year prison sentence for the destruction, or even the attempted destruction, of such things - Which will be fully enforced! Thank you for your attention to this matter. President DJT
+
+---
 
 ### [June 21, 2026 at 9:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116791057884875243)
 
