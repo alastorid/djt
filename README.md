@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 56 posts._
+_Last 3 days, newest first. 55 posts._
 
 ### [June 23, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799685479849509)
 
@@ -424,13 +424,6 @@ _**Deleted**_
 > POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”
 >
 > Thank you for your attention to this matter! President DJT
-
----
-
-### [June 20, 2026 at 10:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782997575708953)
-
-> POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the “e” for “u,” so simple and precise (Many people don’t know, or assume, that DUMB ends in “b”). In the other case, you spell out DUMB, but it seems to lose some of the identity to Democrats when done this way. Which is better?
-> Thank you for your attention to this very important matter! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
