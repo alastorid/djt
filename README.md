@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 61 posts._
 
 ### [June 23, 2026 at 7:44 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799245997909499)
 
@@ -461,14 +461,6 @@ _**Deleted**_
 ### [June 20, 2026 at 7:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782304422351399)
 
 > Funny how the Dumocrats like to say that Iran is in a stronger position today than they were three months ago, despite the fact that they have been defeated militarily, with no Navy or Air Force. That’s why I call them the Dumocrats!!! President DJT
-
----
-
-### [June 20, 2026 at 7:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782277725628816)
-
-> Italian Prime Minister Gigiorgia Meloni asked, over and over, for a picture with me during the G-7 meeting in France. She is doing poorly in Italy with her level of popularity, possibly because she turned down the United States of America, a Country that truly loves and protects Italy, when it came to denying Iran from obtaining or developing a Nuclear Weapon (But so did NATO, for that matter!). She wouldn’t even let us use Italy’s landing strips or runways, a great logistical inconvenience, and this despite the fact the U.S. contributes hundreds of Billions of Dollars a year to protect Italy, and other “so-called” NATO Allies. Now, after the United States defeated Iran militarily, she wants to be friends again in order to get her “numbers up.” No thanks!!! President DJT
-
-_**Deleted**_
 <!-- DJT_POSTS_END -->
 
 ---
