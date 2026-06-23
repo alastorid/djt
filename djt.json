@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T11:46:36.863Z",
-  "count": 191,
+  "updatedAt": "2026-06-23T13:24:53.649Z",
+  "count": 192,
   "posts": [
+    {
+      "id": "116799620438726718",
+      "createdAt": "2026-06-23T09:19:30-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116799620438726718",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Vote for Andy Biggs for Arizona Governor. He is GREAT!!! President DJT",
+          "firstSeenAt": "2026-06-23T13:24:53.649Z"
+        }
+      ]
+    },
     {
       "id": "116799245997909499",
       "createdAt": "2026-06-23T07:44:17-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [June 23, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799620438726718)
+
+> Vote for Andy Biggs for Arizona Governor. He is GREAT!!! President DJT
+
+---
 
 ### [June 23, 2026 at 7:44 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799245997909499)
 
