@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 56 posts._
+_Last 3 days, newest first. 55 posts._
 
 ### [June 23, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800828536496774)
 
@@ -422,12 +422,6 @@ _Last 3 days, newest first. 56 posts._
 > The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting Poll. Who would do such a thing? These are very serious crimes having to do with the destruction of National Monuments. Years in jail! Work will begin immediately on its repair. President DJT
 
 _**Deleted**_
-
----
-
-### [June 20, 2026 at 4:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784267172845354)
-
-> Former Olympian is arrested for allegedly vandalizing Reflecting Pool: https://www. dailymail.com/news/article-159 16401/amp/olympian-lincoln-memorial-reflecting-pool-vandalism.html
 <!-- DJT_POSTS_END -->
 
 ---
