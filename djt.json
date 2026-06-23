@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T15:02:54.505Z",
-  "count": 195,
+  "updatedAt": "2026-06-23T18:30:15.600Z",
+  "count": 196,
   "posts": [
+    {
+      "id": "116800828536496774",
+      "createdAt": "2026-06-23T14:26:44-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116800828536496774",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. dailymail.com/news/article-159 21233/trump-approval-bounces-iran-deal.html",
+          "firstSeenAt": "2026-06-23T18:30:15.600Z"
+        }
+      ]
+    },
     {
       "id": "116800008619522183",
       "createdAt": "2026-06-23T10:58:14-04:00",
