@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T11:25:56.848Z",
-  "count": 190,
+  "updatedAt": "2026-06-23T11:46:36.863Z",
+  "count": 191,
   "posts": [
+    {
+      "id": "116799245997909499",
+      "createdAt": "2026-06-23T07:44:17-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116799245997909499",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Scores 8 Triumphs in 7 Years Across Latin America: https://www. newsmax.com/john-gizzi/donald- trump-latin-america-elections/2026/06/22/id/1260532/",
+          "firstSeenAt": "2026-06-23T11:46:36.863Z"
+        }
+      ]
+    },
     {
       "id": "116799167032916635",
       "createdAt": "2026-06-23T07:24:12-04:00",

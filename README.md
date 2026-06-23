@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 62 posts._
+
+### [June 23, 2026 at 7:44 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799245997909499)
+
+> Trump Scores 8 Triumphs in 7 Years Across Latin America: https://www. newsmax.com/john-gizzi/donald- trump-latin-america-elections/2026/06/22/id/1260532/
+
+---
 
 ### [June 23, 2026 at 7:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799167032916635)
 
