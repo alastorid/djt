@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T14:57:42.979Z",
-  "count": 194,
+  "updatedAt": "2026-06-23T15:02:54.505Z",
+  "count": 195,
   "posts": [
+    {
+      "id": "116800008619522183",
+      "createdAt": "2026-06-23T10:58:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116800008619522183",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396 These pictures were taken this morning!",
+          "firstSeenAt": "2026-06-23T15:02:54.505Z"
+        }
+      ]
+    },
     {
       "id": "116800002761284625",
       "createdAt": "2026-06-23T10:56:44-04:00",
