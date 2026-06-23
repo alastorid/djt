@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [June 23, 2026 at 12:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797477878659134)
 
@@ -451,12 +451,6 @@ _**Deleted**_
 > Italian Prime Minister Gigiorgia Meloni asked, over and over, for a picture with me during the G-7 meeting in France. She is doing poorly in Italy with her level of popularity, possibly because she turned down the United States of America, a Country that truly loves and protects Italy, when it came to denying Iran from obtaining or developing a Nuclear Weapon (But so did NATO, for that matter!). She wouldn’t even let us use Italy’s landing strips or runways, a great logistical inconvenience, and this despite the fact the U.S. contributes hundreds of Billions of Dollars a year to protect Italy, and other “so-called” NATO Allies. Now, after the United States defeated Iran militarily, she wants to be friends again in order to get her “numbers up.” No thanks!!! President DJT
 
 _**Deleted**_
-
----
-
-### [June 20, 2026 at 7:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782087277472431)
-
-> Radical Left fools and Dumocrats realize how well we have done in our War against Iran, with their Country being completely defeated militarily. Obuma just kept giving them $Billions in cash, and never used our then depleted military for what should have been done to reign in the World’s number one sponsor of terror, Iran. They had ZERO respect for him. They thought he was, like Sleepy Joe Biden, a weak and ineffective leader, and on this they were 100% correct. Iran got away with ”murder” for 47 years, until I came along. Then it all changed. AMERICA IS BACK!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
