@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 56 posts._
+_Last 3 days, newest first. 57 posts._
+
+### [June 23, 2026 at 5:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801594265056664)
+
+> Isn’t it strange, the Dumocrats are running a man in Texas who looks virtually identical to Alfred E. Neuman, of MAD Magazine fame and, in Georgia, they’re running someone who looks like a twin to the Late, Great, Pee-wee Herman. With these two horrible Political Candidates, I don’t know if there’s a genetic tree, but it certainly is close! What do you think? In any event, Mike Collins, of Georgia, should easily beat Pee-wee, and Ken Paxton, of Texas, should easily beat Alfred E. Vote Republican and, MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+
+---
 
 ### [June 23, 2026 at 4:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801336239023557)
 
