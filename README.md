@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 58 posts._
+
+### [June 22, 2026 at 11:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797344912017182)
+
+> Fast and Furious 2.0?’ Biden DEA let 1M fentanyl pills flow to streets, whistleblower lawyer says: https:// justthenews.com/government/fed eral-agencies/cover-dea-whistleblowers-lawyer-says-client-silenced-more-1m-pills
+
+---
 
 ### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796681069385730)
 
