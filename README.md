@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 58 posts._
+_Last 3 days, newest first. 57 posts._
 
 ### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796681069385730)
 
@@ -439,14 +439,6 @@ _**Deleted**_
 ### [June 20, 2026 at 7:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782087277472431)
 
 > Radical Left fools and Dumocrats realize how well we have done in our War against Iran, with their Country being completely defeated militarily. Obuma just kept giving them $Billions in cash, and never used our then depleted military for what should have been done to reign in the World’s number one sponsor of terror, Iran. They had ZERO respect for him. They thought he was, like Sleepy Joe Biden, a weak and ineffective leader, and on this they were 100% correct. Iran got away with ”murder” for 47 years, until I came along. Then it all changed. AMERICA IS BACK!!! President DJT
-
----
-
-### [June 19, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116779961376108129)
-
-> We’ve cleaned, renovated, and beautified over 45 Monuments and Memorials, 28 Statues, and 22 Fountains in Washington, D.C. Things are really looking good in our Nation’s Capital, and add to that the fact that when I became President, Crime was rampant, and now, Washington, D.C., is one of the Safest Cities anywhere in the United States. However, we’ve had some real problems with Vandalism at the beautiful Reflecting Pool, which sits between The Washington Monument and The Lincoln Memorial. Just like three days ago, they destroyed the grass outside of the Pool, they’ve also done everything possible to hurt the inside surface that was just installed. No different than the chemicals that were used on the National Mall, they used something similar in the Reflecting Pool to try to destroy and demean our beautiful work. Lightweight ABC Reporter, Jonathan Karl, was seen sticking his hand into the Pool, and trying to rip the rubber off of the surface. The algae is 75% gone, and the condition will soon be completely remedied, and the area that was vandalized, fortunately, is just a small area of damage, and will be fixed early next week. It’s a shame that the Radical Left Lunatics, most likely Dumocats, who have spent their lives trying to ruin our Country, are free to do so. Law Enforcement is actively investigating this situation, and will hopefully have it resolved soon. Thank you for your attention to this matter!
-> DONALD J. TRUMP
-> PRESIDENT OF THE UNITED STATES OF AMERICA
 <!-- DJT_POSTS_END -->
 
 ---
