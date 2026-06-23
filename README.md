@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 58 posts._
+
+### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796681069385730)
+
+> Biden administration buried whistleblower complaint alleging Fauci lied to Congress during pandemic: https:// justthenews.com/accountability /whistleblowers/biden-administration-buried-whistleblower-complaint-alleging-fauci
+
+---
+
+### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796679527851962)
+
+> Iranian resistance leader, former national security aide praise Trump’s deal with Tehran: https:// justthenews.com/government/sec urity/iranian-resistance-leader-former-national-security-aide-praise-trumps-mou
+
+---
+
+### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796678044750462)
+
+> Years after Pulitzer prize, New York Times gets Russia collusion story wrong once again: https:// justthenews.com/accountability /media/pulitzer-prize-aside-new-york-times-keeps-getting-russia-collusion-factually
+
+---
 
 ### [June 22, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796667784429554)
 
