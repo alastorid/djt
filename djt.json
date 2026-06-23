@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T00:14:01.941Z",
-  "count": 181,
+  "updatedAt": "2026-06-23T00:50:12.669Z",
+  "count": 182,
   "posts": [
+    {
+      "id": "116796667784429554",
+      "createdAt": "2026-06-22T20:48:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116796667784429554",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Latin America continues to shift right as Trump-backed candidate declares victory in Colombia: https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger",
+          "firstSeenAt": "2026-06-23T00:50:12.669Z"
+        }
+      ]
+    },
     {
       "id": "116796512818935902",
       "createdAt": "2026-06-22T20:09:12-04:00",

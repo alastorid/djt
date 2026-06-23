@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [June 22, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796667784429554)
+
+> Latin America continues to shift right as Trump-backed candidate declares victory in Colombia: https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger
+
+---
 
 ### [June 22, 2026 at 8:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796512818935902)
 
