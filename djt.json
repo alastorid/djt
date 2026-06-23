@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T04:01:10.827Z",
-  "count": 187,
+  "updatedAt": "2026-06-23T04:16:46.515Z",
+  "count": 188,
   "posts": [
+    {
+      "id": "116797477878659134",
+      "createdAt": "2026-06-23T00:14:37-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116797477878659134",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "At least 39 people injured, 4 dead, in Chicago weekend shootings. Governor Pritzker, I, as President, can fix this, FAST and Permanently. D.C., Memphis, New Orleans, all down to record lows, and quickly! CALL ME! President DJT",
+          "firstSeenAt": "2026-06-23T04:16:46.515Z"
+        }
+      ]
+    },
     {
       "id": "116797415517828450",
       "createdAt": "2026-06-22T23:58:46-04:00",

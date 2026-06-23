@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [June 23, 2026 at 12:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797477878659134)
+
+> At least 39 people injured, 4 dead, in Chicago weekend shootings. Governor Pritzker, I, as President, can fix this, FAST and Permanently. D.C., Memphis, New Orleans, all down to record lows, and quickly! CALL ME! President DJT
+
+---
 
 ### [June 22, 2026 at 11:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797415517828450)
 
