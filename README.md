@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 56 posts._
 
 ### [June 23, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800828536496774)
 
@@ -428,12 +428,6 @@ _**Deleted**_
 ### [June 20, 2026 at 4:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784267172845354)
 
 > Former Olympian is arrested for allegedly vandalizing Reflecting Pool: https://www. dailymail.com/news/article-159 16401/amp/olympian-lincoln-memorial-reflecting-pool-vandalism.html
-
----
-
-### [June 20, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784032456610294)
-
-> There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
