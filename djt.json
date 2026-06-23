@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T20:34:20.097Z",
-  "count": 197,
+  "updatedAt": "2026-06-23T20:39:28.994Z",
+  "count": 198,
   "posts": [
+    {
+      "id": "116801336239023557",
+      "createdAt": "2026-06-23T16:35:51-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116801336239023557",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you, Scotland!!! President DJT",
+          "firstSeenAt": "2026-06-23T20:39:28.994Z"
+        }
+      ]
+    },
     {
       "id": "116801315279395561",
       "createdAt": "2026-06-23T16:30:32-04:00",
