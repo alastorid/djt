@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 56 posts._
+
+### [June 23, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800002761284625)
+
+> Six people have been arrested, and seven people have been cited, for the damage they did to our Country’s now beautiful Reflecting Pool. The 350 foot gash, made by a very sharp knife or razors, is actually numerous slashes over a very long 350 foot length. It was purposefully and criminally done, and somebody had to work very hard, probably in the dark of night, to create such a condition. Likewise, the small area at the bottom of the Pool was cut and powerfully lifted off the surface leaving very jagged, uneven edges. The large areas of grass are being replaced. In any event, even prior to fixing those areas, the Reflecting Pool is as beautiful as it can be. We will drain some of the water, either immediately before or after the Fourth of July, to do the permanent repair. President DONALD J. TRUMP
+
+---
 
 ### [June 23, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799685479849509)
 
