@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 54 posts._
 
 ### [June 23, 2026 at 7:44 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799245997909499)
 
@@ -419,42 +419,6 @@ _**Deleted**_
 
 > POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the “e” for “u,” so simple and precise (Many people don’t know, or assume, that DUMB ends in “b”). In the other case, you spell out DUMB, but it seems to lose some of the identity to Democrats when done this way. Which is better?
 > Thank you for your attention to this very important matter! President DJT
-
----
-
-### [June 20, 2026 at 8:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782425705942065)
-
-> While claiming to fight corruption, Newsom solicited $340M from special interests for allies: https:// justthenews.com/accountability /political-ethics/newsom-alleges-trump-corruption-while-soliciting-more-340m
-
----
-
-### [June 20, 2026 at 8:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782424333689013)
-
-> Years after Pulitzer prize, New York Times gets Russia collusion story wrong once again: https:// justthenews.com/accountability /media/pulitzer-prize-aside-new-york-times-keeps-getting-russia-collusion-factually
-
----
-
-### [June 20, 2026 at 8:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782422961737533)
-
-> Trump holds the cards in Netanyahu’s shaky reelection chances: https:// justthenews.com/government/whi te-house/softer-touch-or-no-endorsement-trump-holds-back-firm-blessing-israel-thi
-
----
-
-### [June 20, 2026 at 8:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782421610429815)
-
-> Iranian resistance leader, former national security aide praise Trump’s deal with Tehran: https:// justthenews.com/government/sec urity/iranian-resistance-leader-former-national-security-aide-praise-trumps-mou
-
----
-
-### [June 20, 2026 at 8:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782419844270788)
-
-> Biden administration buried whistleblower complaint alleging Fauci lied to Congress during pandemic: https:// justthenews.com/accountability /whistleblowers/biden-administration-buried-whistleblower-complaint-alleging-fauci
-
----
-
-### [June 20, 2026 at 8:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116782416835973120)
-
-> Italian Prime Minister Giorgia Meloni asked, over and over, for a picture with me during the G-7 meeting in France. She is doing poorly in Italy with her level of popularity, possibly because she turned down the United States of America, a Country that truly loves and protects Italy, when it came to denying Iran from obtaining or developing a Nuclear Weapon (But so did NATO, for that matter!). She wouldn’t even let us use Italy’s landing strips or runways, a great logistical inconvenience, and this despite the fact the U.S. contributes hundreds of Billions of Dollars a year to protect Italy, and other “so-called” NATO Allies. Now, after the United States defeated Iran militarily, she wants to be friends again in order to get her “numbers up.” No thanks!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
