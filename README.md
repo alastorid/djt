@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 56 posts._
 
 ### [June 23, 2026 at 10:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800008619522183)
 
@@ -428,14 +428,6 @@ _**Deleted**_
 ### [June 20, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116784032456610294)
 
 > There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT
-
----
-
-### [June 20, 2026 at 11:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116783258942981812)
-
-> POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”
->
-> Thank you for your attention to this matter! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
