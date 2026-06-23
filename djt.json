@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-23T13:24:53.649Z",
-  "count": 192,
+  "updatedAt": "2026-06-23T13:40:28.693Z",
+  "count": 193,
   "posts": [
+    {
+      "id": "116799685479849509",
+      "createdAt": "2026-06-23T09:36:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116799685479849509",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The GREAT Rush Limbaugh’s wonderful wife, Kathryn, was fantastic today on Fox & Friends, as interviewed by Ainsley. We all miss Rush, truly one of a kind!!! President DJT",
+          "firstSeenAt": "2026-06-23T13:40:28.693Z"
+        }
+      ]
+    },
     {
       "id": "116799620438726718",
       "createdAt": "2026-06-23T09:19:30-04:00",
