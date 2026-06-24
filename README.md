@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 60 posts._
 
 ### [June 24, 2026 at 7:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804880689253931)
 
@@ -449,12 +449,6 @@ _Last 3 days, newest first. 61 posts._
 ### [June 21, 2026 at 8:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788188161761991)
 
 > Lots of Killing going on in Chicago. 22 people shot, at least 4 Dead. Why isn’t Governor Pritzker calling me for help. I could make Chicago a safe City in ONE MONTH, in ONE YEAR, it would be one of the safest!!! D.C. went from one of the worst, to one of the safest cities in the U.S. President DJT
-
----
-
-### [June 21, 2026 at 7:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116787911354917242)
-
-> Happy Father’s Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
