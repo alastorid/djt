@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-24T04:15:07.005Z",
-  "count": 204,
+  "updatedAt": "2026-06-24T06:39:37.488Z",
+  "count": 205,
   "posts": [
+    {
+      "id": "116803704330293684",
+      "createdAt": "2026-06-24T02:38:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116803704330293684",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "America the Beautiful will NEVER be a Communist Country!!! President DJT",
+          "firstSeenAt": "2026-06-24T06:39:37.488Z"
+        }
+      ]
+    },
     {
       "id": "116803130747198847",
       "createdAt": "2026-06-24T00:12:13-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [June 24, 2026 at 2:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803704330293684)
+
+> America the Beautiful will NEVER be a Communist Country!!! President DJT
+
+---
 
 ### [June 24, 2026 at 12:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803130747198847)
 
