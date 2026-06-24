@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 62 posts._
+
+### [June 24, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805090200626611)
+
+> Big Rally tonight on the National Mall. Fantastic Music!!! MAGA!!! FUN!!! Be there at 7:00 P.M. President DJT
+
+---
 
 ### [June 24, 2026 at 8:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804998509920399)
 

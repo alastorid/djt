@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-24T12:10:28.848Z",
-  "count": 207,
+  "updatedAt": "2026-06-24T12:31:11.945Z",
+  "count": 208,
   "posts": [
+    {
+      "id": "116805090200626611",
+      "createdAt": "2026-06-24T08:30:32-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116805090200626611",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Big Rally tonight on the National Mall. Fantastic Music!!! MAGA!!! FUN!!! Be there at 7:00 P.M. President DJT",
+          "firstSeenAt": "2026-06-24T12:31:11.945Z"
+        }
+      ]
+    },
     {
       "id": "116804998509920399",
       "createdAt": "2026-06-24T08:07:13-04:00",
