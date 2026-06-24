@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 58 posts._
+_Last 3 days, newest first. 59 posts._
+
+### [June 24, 2026 at 12:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803130747198847)
+
+> The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. Those prices are dropping like a rock! In other words, customers are being “gouged.” I have instructed the DOJ to immediately start looking into this. Gasoline prices better start going down a lot faster than what I’m seeing! President DJT
+
+---
 
 ### [June 23, 2026 at 11:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803051885813542)
 
