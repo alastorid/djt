@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [June 23, 2026 at 10:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116802765132974094)
+
+> So, I have Iran on the “ropes,” ready to go down for the fall, willing to give us practically anything, and for the first time in decades, respecting the hell out of the United States and its President, ME, and the U.S. Senate decides to have a poorly timed and meaningless War Powers Act Vote, telling the Number One Sponser of Terror in the World that the United States doesn’t like what I am doing to them, and I must stop, and by so doing has provided aid and comfort the Enemy. Four Republican Losers voted with the Dumocrats, and Iran asked my people, “what does that all mean?” These Senators have just made my job more difficult, but I will get it done, one way or the other, because I always get it done! President DJT
+
+---
 
 ### [June 23, 2026 at 5:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801594265056664)
 
