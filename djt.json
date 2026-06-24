@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-24T14:20:24.776Z",
-  "count": 211,
+  "updatedAt": "2026-06-24T14:30:49.998Z",
+  "count": 212,
   "posts": [
+    {
+      "id": "116805545512296111",
+      "createdAt": "2026-06-24T10:26:20-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116805545512296111",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Today’s Housing News Conference and Signing is hereby cancelled until such time as we pass the desperately needed SAVE AMERICA ACT, which I consider to be a National Emergency. Thank you for your attention to this matter! President DJT",
+          "firstSeenAt": "2026-06-24T14:30:49.998Z"
+        }
+      ]
+    },
     {
       "id": "116805510184370677",
       "createdAt": "2026-06-24T10:17:21-04:00",

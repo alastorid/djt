@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 63 posts._
+
+### [June 24, 2026 at 10:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805545512296111)
+
+> Today’s Housing News Conference and Signing is hereby cancelled until such time as we pass the desperately needed SAVE AMERICA ACT, which I consider to be a National Emergency. Thank you for your attention to this matter! President DJT
+
+---
 
 ### [June 24, 2026 at 10:17 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805510184370677)
 
