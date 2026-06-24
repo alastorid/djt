@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 58 posts._
+
+### [June 23, 2026 at 11:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803051885813542)
+
+> Many Communists running in badly failing Blue States. The votes seem to have them doing quite well against each other. The bad news is that history has conclusively shown that the downtrodden States that they will soon be running will ONLY GET WORSE. MAGA! President DJT
+
+---
 
 ### [June 23, 2026 at 11:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116802857184219655)
 
