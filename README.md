@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 64 posts._
+_Last 3 days, newest first. 63 posts._
 
 ### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
 
@@ -467,12 +467,6 @@ _Last 3 days, newest first. 64 posts._
 ### [June 21, 2026 at 4:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790016615762850)
 
 > Work will begin immediately on fixing the seriously vandalized Reflecting Pool. I just inspected it, and could only say to myself, and those gathered around me, WOW, who would do such a thing? SICK, DERANGED PEOPLE! We will fix it? President DJT
-
----
-
-### [June 21, 2026 at 3:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116789789595899412)
-
-> After spending Trillions of Dollars on NATO, Italy, and its Prime Minister, wouldn’t even think of becoming involved with the Islamic Republic of Iran and their very serious Nuclear Threat. For decades, we defend them but, when tested, they are not there to defend us, and the rest of the World. Not good! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
