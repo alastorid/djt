@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-24T02:57:32.128Z",
-  "count": 201,
+  "updatedAt": "2026-06-24T03:07:48.690Z",
+  "count": 202,
   "posts": [
+    {
+      "id": "116802857184219655",
+      "createdAt": "2026-06-23T23:02:39-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116802857184219655",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Weak and pathetic Congressman Dan Goldman just lost, BIG! I guess people didn’t like him illegally targeting President TRUMP. In any event, this jerk is finally GONE! President DJT",
+          "firstSeenAt": "2026-06-24T03:07:48.690Z"
+        }
+      ]
+    },
     {
       "id": "116802818595314334",
       "createdAt": "2026-06-23T22:52:50-04:00",

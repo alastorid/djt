@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 56 posts._
+_Last 3 days, newest first. 57 posts._
+
+### [June 23, 2026 at 11:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116802857184219655)
+
+> Weak and pathetic Congressman Dan Goldman just lost, BIG! I guess people didn’t like him illegally targeting President TRUMP. In any event, this jerk is finally GONE! President DJT
+
+---
 
 ### [June 23, 2026 at 10:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116802818595314334)
 
