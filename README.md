@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 60 posts._
 
 ### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
 
@@ -449,12 +449,6 @@ _Last 3 days, newest first. 61 posts._
 ### [June 21, 2026 at 8:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790956768105397)
 
 > The Failing New York Times is CORRUPT!
-
----
-
-### [June 21, 2026 at 6:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790453299036730)
-
-> The way the Corrupt and Failing New York Times is covering stories on a very battered and beat up Iran, through FAKE & MADE UP “FACTS” is, in my opinion, “TREASONOUS.” I will be adding all of their false and ridiculous reporting to my multi Billion Dollar lawsuit against them. They are Criminals! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
