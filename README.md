@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 61 posts._
 
 ### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
 
@@ -455,12 +455,6 @@ _Last 3 days, newest first. 62 posts._
 ### [June 21, 2026 at 6:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790453299036730)
 
 > The way the Corrupt and Failing New York Times is covering stories on a very battered and beat up Iran, through FAKE & MADE UP “FACTS” is, in my opinion, “TREASONOUS.” I will be adding all of their false and ridiculous reporting to my multi Billion Dollar lawsuit against them. They are Criminals! President DJT
-
----
-
-### [June 21, 2026 at 4:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790096457517049)
-
-> The headline in the Corrupt and Failing New York Times: “What Changed After Almost 4 Months of War? Analysts Say Not Much.” REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren’t being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That’s what’s CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
