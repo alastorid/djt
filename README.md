@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 62 posts._
+
+### [June 24, 2026 at 10:17 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805510184370677)
+
+> MY REAL POLL NUMBERS ARE THE HIGHEST THEY HAVE EVER BEEN. THANK YOU!!! President DJT
+
+---
+
+### [June 24, 2026 at 10:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805503768093822)
+
+> Mayor Mamdani pulled through 3 solid Communists, and has received loud and universal applause from the Fake News Media. Congratulations Mr. Mayor! I went 16-0 last night, helping to elect wonderful American Patriots, and the Media doesn’t say a word. Over the last two years, my endorsement has netted 259 Primary WINS, and almost no losses, with Zero media attention!!! FAKE NEWS. President DJT
+
+---
 
 ### [June 24, 2026 at 9:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805400052068772)
 
