@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [June 24, 2026 at 8:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804998509920399)
+
+> Even though he tried unsuccessfully to prosecute me, and despite the fact that he is a major Slimeball, I feel sorry for FORMER Congressman Dan Goldman. He is wandering aimlessly, together with the former husband of the great Kellyanne Conway, through a large field of Dumocrat Communists, trying so hard to find his way - A very sad finish for a man who has no clue, and never did!!! President DJT
+
+---
 
 ### [June 24, 2026 at 7:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804880689253931)
 
