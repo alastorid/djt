@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-24T14:30:49.998Z",
-  "count": 212,
+  "updatedAt": "2026-06-24T15:22:35.145Z",
+  "count": 213,
   "posts": [
+    {
+      "id": "116805750630335427",
+      "createdAt": "2026-06-24T11:18:30-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116805750630335427",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
+          "firstSeenAt": "2026-06-24T15:22:35.145Z"
+        }
+      ]
+    },
     {
       "id": "116805545512296111",
       "createdAt": "2026-06-24T10:26:20-04:00",
