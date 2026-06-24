@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 61 posts._
 
 ### [June 24, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805090200626611)
 
@@ -455,12 +455,6 @@ _Last 3 days, newest first. 62 posts._
 ### [June 21, 2026 at 9:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788337995785578)
 
 > Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!! President DONALD J. TRUMP
-
----
-
-### [June 21, 2026 at 8:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788188161761991)
-
-> Lots of Killing going on in Chicago. 22 people shot, at least 4 Dead. Why isn’t Governor Pritzker calling me for help. I could make Chicago a safe City in ONE MONTH, in ONE YEAR, it would be one of the safest!!! D.C. went from one of the worst, to one of the safest cities in the U.S. President DJT
 <!-- DJT_POSTS_END -->
 
 ---
