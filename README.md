@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 60 posts._
 
 ### [June 24, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805090200626611)
 
@@ -449,12 +449,6 @@ _Last 3 days, newest first. 61 posts._
 ### [June 21, 2026 at 9:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788451975276121)
 
 > Kier Starmer will resign as Prime Minister of The United Kingdom. He failed badly on two very important subjects- IMMIGRATION AND ENERGY (OPEN NORTH SEA OIL!). I wish him well! President DJT
-
----
-
-### [June 21, 2026 at 9:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116788337995785578)
-
-> Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
