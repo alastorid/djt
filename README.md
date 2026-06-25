@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 63 posts._
+_Last 3 days, newest first. 62 posts._
 
 ### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
 
@@ -460,12 +460,6 @@ _Last 3 days, newest first. 63 posts._
 >
 > Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). BRUCE BLAKEMAN WILL NEVER LET YOU DOWN!
 > Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 12:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794817775547048)
-
-> Everybody is fully aware that Iran will agree to have Major Weapons Inspections in order to ensure “Nuclear Honesty” long into the future. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
