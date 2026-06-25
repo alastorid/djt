@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
 
@@ -343,112 +343,6 @@ _Last 3 days, newest first. 61 posts._
 > A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.
 >
 > Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District – HE WILL NOT LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 1:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794888797757311)
-
-> It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of Utah’s 4th Congressional District!
->
-> A Proven Leader, Mike has served his Community well as a Family Physician, Lawyer, and Highly Respected State Legislator, prior to becoming a distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
->
-> Mike Kennedy has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR MIKE – HE WILL NOT LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
-
----
-
-### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794887661719912)
-
-> It is my Great Honor to endorse Congresswoman Celeste Maloy to represent the tremendous people of Utah’s 3rd Congressional District!
->
-> Celeste has a strong Record of Success, and resounding support from her Community. In Congress, she is working hard to Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Grow our Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Protect our always under siege Second Amendment.
->
-> Celeste Maloy has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR CELESTE – SHE WILL NOT LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
-
----
-
-### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794886373734252)
-
-> It is my Great Honor to endorse Congressman Blake Moore to represent the fantastic people of Utah’s 2nd Congressional District!
->
-> As the Vice Chairman of the House Republican Conference, Blake is doing an incredible job advancing our America First Agenda. He is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
->
-> Blake Moore has my Complete and Total Endorsement. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR BLAKE – HE WILL NOT LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/utah-/
-
----
-
-### [June 22, 2026 at 1:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794885116775237)
-
-> Highly Respected MAGA Warrior, Cody Simpson, is running for Commissioner of Agriculture in the wonderful State of South Carolina, which I won in 2016, 2020, and 2024, with the Highest Vote in History!
->
-> Cody is a Fifth Generation Farmer, and Former Agriculture Advisor and Chief Executive Assistant to GREAT Governor Henry McMaster. As South Carolina State Executive Director of the USDA Farm Service Agency, he has continued to serve the Palmetto State with distinction, delivering outstanding results. A true America First Patriot, who has been with us from the very beginning, Cody is an incredibly effective Voice for South Carolina Agriculture, and our amazing Farmers and Ranchers. As your next Agriculture Commissioner, Cody will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Ensure LAW AND ORDER, Support our Military/Veterans, and Defend our always under siege Second Amendment.
->
-> Cody Simpson has my Complete and Total Endorsement to be the next South Carolina Commissioner of Agriculture. Election Day for the Republican Runoff is Tuesday, June 23rd. GET OUT AND VOTE FOR CODY — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794883968681896)
-
-> I love the Wonderful State of South Carolina for every reason in the book, including the fact that it is “loaded up” with truly GREAT people and Political Leaders. There are two Highly Respected Candidates running to be your next Governor in the June 23rd Republican Runoff Election, your current Lieutenant Governor, Pam Evette, and your current Attorney General, Alan Wilson. Both have had amazing careers, and have been with me from the beginning. They are MAGA and America First all the way! These were the two that I was hoping would get into a Runoff, and they did. I can’t hurt one of them by only Endorsing the other, so, therefore, I am going to Endorse, for Governor of South Carolina, both Pam Evette and Alan Wilson! It’s a Wealth of Riches – With either one you can’t go wrong. Vote for Pam or Alan — They will not let you down! President DONALD J. TRUMP
-
----
-
-### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794882810036308)
-
-> Congresswoman Claudia Tenney is a Fantastic Advocate for the wonderful people of New York’s 24th Congressional District!
-> As the Chairwoman of the House Election Integrity Caucus, Claudia is an America First Fighter for Safeguarding our Cherished Right to Free and Fair Elections. She is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Strengthen our Military/Veterans, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.
-> Claudia Tenney has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794880201730909)
-
-> Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!
->
-> Nick served as the powerful Chairman of the New York Republican State Committee, prior to becoming a very distinguished and respected U.S. Congressman. A MAGA Warrior, who has been with us from the very beginning, Nick is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.
->
-> Nick Langworthy has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794878683037090)
-
-> It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District. He is running against Josh Riley, a true Radical Left Extremist who does not represent the Values of Central New York. Josh Riley wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and wants to take away your Second Amendment, meaning, your guns. Sadly, he voted against the Biggest Tax Cut in History, and fought ferociously to knock out Rural Healthcare, a big factor in New York’s District 19. He represented Sleepy Joe Biden as his Counsel, in the White House. How did that work out? He is totally controlled by the Radical Left who have only one goal in mind, DESTROYING OUR COUNTRY!
->
-> Peter Oberacker, on the other hand, is a very successful “Meat Market” Businessman, Dedicated Public Servant, and now, as State Senator, who has strongly served his Community with a career “loaded up” with accolades and wins. As your next Congressman, he will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.
->
-> Peter Oberacker has my Complete and Total Endorsement to be the next Representative from New York’s 19th Congressional District. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR PETER — HE WILL NEVER LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794876797632455)
-
-> Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!
->
-> A true America First Patriot, Mike is fighting hard to Grow our Economy, Create Jobs, Lower Taxes, Promote American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans and Law Enforcement, Defend our always under siege Second Amendment. Additionally, he worked tirelessly to successfully increase the SALT deduction for the Working Men and Women of the Great State of New York!
->
-> Mike is doing an outstanding job representing the Hudson Valley, and all of New York. Because of the excellent job he is doing, Mike has my Complete and Total Endorsement for Re-Election to New York’s 17th Congressional District – HE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 1:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794874431459937)
-
-> Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!
->
-> As a Member of the POWERFUL Ways & Means Committee, Nicole knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is working hard to Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Strengthen our Brave Military/Veterans, Champion the Incredible NYPD and NYFD, and Protect our always under siege Second Amendment.
->
-> Nicole Malliotakis has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
 <!-- DJT_POSTS_END -->
 
 ---
