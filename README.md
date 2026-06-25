@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [June 25, 2026 at 6:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813173401388945)
+
+> The Communists are finally making their move. I’ve been waiting and preparing for this for a long time. It’s easy to be a Communist — All you have to do is say, “I’ll give you everything,” but that means you’re taking it away from others that have earned it. Over thousands of years, that Ideology has not worked once. The game is on. Enjoy watching! President DONALD J. TRUMP
+
+---
 
 ### [June 25, 2026 at 6:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813106147178492)
 
