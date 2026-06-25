@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
@@ -268,12 +268,6 @@ _Last 3 days, newest first. 44 posts._
 > Here is another example of a crazy pro-algae (likely paid) protestor.
 > The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis:
 > “…Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me.”
-
----
-
-### [June 22, 2026 at 3:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795382583929582)
-
-> Congratulations to “El Tigre” (THE TIGER!) Abelardo de la Espriella, the new President of Colombia! It was my Great Honor to endorse him, and I look forward to working together to build a powerful relationship between Colombia and the United States of America, which will bring new levels of Greatness for both of our Countries! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
