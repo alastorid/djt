@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 63 posts._
+_Last 3 days, newest first. 64 posts._
+
+### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
+
+> After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https:// justthenews.com/government/con gress/after-testy-exchange-senate-hands-trump-win-rejecting-bill-rein-his-war-ira
+
+---
 
 ### [June 24, 2026 at 11:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808686040715251)
 
