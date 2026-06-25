@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
@@ -274,23 +274,6 @@ _Last 3 days, newest first. 46 posts._
 ### [June 22, 2026 at 3:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795382583929582)
 
 > Congratulations to “El Tigre” (THE TIGER!) Abelardo de la Espriella, the new President of Colombia! It was my Great Honor to endorse him, and I look forward to working together to build a powerful relationship between Colombia and the United States of America, which will bring new levels of Greatness for both of our Countries! President DONALD J. TRUMP
-
----
-
-### [June 22, 2026 at 3:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795360506087876)
-
-> It is my Great Honor to endorse America First Patriot, Anthony Constantino, who is running to represent the wonderful people of New York’s 21st Congressional District. The Republican Primary Election is TOMORROW, Tuesday, June 23rd and, I am hearing Anthony is doing GREAT in the Polls. Once Anthony WINS the Primary, we will need all Republicans, Conservatives, and “TRUMP” Supporters, to unite behind Anthony to ensure he has a tremendous Victory in the General Election against the Radical Left Democrats! Anthony will work closely with me to enact America First Policies, and is a FANTASTIC person to replace my very good friend, Congresswoman Elise Stefanik. Anthony Constantino has my Complete and Total Endorsement, and EVERYONE in the Great State of New York should help Anthony have a BIG WIN this year. GET OUT AND VOTE FOR ANTHONY ON JUNE 23RD, AND HELP HIM WIN BIG IN NOVEMBER! I will be watching. THANK YOU NEW YORK — MAKE AMERICA GREAT AGAIN!
->  https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795357855328809)
-
-> It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan!
->
-> A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respected U.S. Congressman, John has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State, and our Nation. As your next Governor, John will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Brave Military/Veterans, Safeguard our Elections, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Michigan.
->
-> John James has my Complete and Total Endorsement to be the next Governor of Michigan — HE WILL NOT LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
