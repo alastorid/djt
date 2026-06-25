@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-25T20:42:58.142Z",
-  "count": 221,
+  "updatedAt": "2026-06-25T22:31:54.696Z",
+  "count": 222,
   "posts": [
+    {
+      "id": "116813106147178492",
+      "createdAt": "2026-06-25T18:29:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116813106147178492",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Last night’s Rally was packed — 45,000 people. July 4th will be a step beyond anything you’ve ever seen. The Military flyovers will be the best, EVER — The most planes, the newest planes, the fastest planes! I’ll be there to speak about how Great our Country is and, Making America Great Again! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-25T22:31:54.696Z"
+        }
+      ]
+    },
     {
       "id": "116812682074393050",
       "createdAt": "2026-06-25T16:41:15-04:00",

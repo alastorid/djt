@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 25, 2026 at 6:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813106147178492)
+
+> Last night’s Rally was packed — 45,000 people. July 4th will be a step beyond anything you’ve ever seen. The Military flyovers will be the best, EVER — The most planes, the newest planes, the fastest planes! I’ll be there to speak about how Great our Country is and, Making America Great Again! President DONALD J. TRUMP
+
+---
 
 ### [June 25, 2026 at 4:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812682074393050)
 
