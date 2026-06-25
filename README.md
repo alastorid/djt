@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
 
@@ -443,12 +443,6 @@ _Last 3 days, newest first. 60 posts._
 
 > He Won, BIG!
 >  https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger
-
----
-
-### [June 21, 2026 at 8:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116790956768105397)
-
-> The Failing New York Times is CORRUPT!
 <!-- DJT_POSTS_END -->
 
 ---
