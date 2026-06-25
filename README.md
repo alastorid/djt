@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 63 posts._
+
+### [June 24, 2026 at 11:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808686040715251)
+
+> The two major earthquakes that just hit the great people of Venezuela are both massive in scale and have left a devastating number of deaths. The U.S.A. stands ready, willing, and able to help! I have instructed all agencies of our government to get ready to move quickly. We will be there for our new and great friends. Early reports are not good!!! President DJT
+
+---
 
 ### [June 24, 2026 at 11:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808606748078967)
 
