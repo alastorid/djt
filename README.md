@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 48 posts._
 
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
@@ -311,24 +311,6 @@ _Last 3 days, newest first. 50 posts._
 > From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. As your next Congressman, Amir will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.
 >
 > Amir Hassan has my Complete and Total Endorsement to be the next Representative from Michigan’s 8th Congressional District – HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 2:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795268678109473)
-
-> Congressman Andy Harris is a Great Champion for Maryland’s 1st Congressional District!
-> As the Highly Respected Chairman of the House Freedom Caucus, Andy is doing a fantastic job advancing our AMERICA FIRST Agenda. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Incredible Military/Veterans, Safeguard our Elections, Pass THE SAVE AMERICA ACT, and Defend our always under siege Second Amendment.
-> Andy Harris has my Complete and Total Endorsement for Re-Election — HE WILL NOT LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 2:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795259766011755)
-
-> It is my Great Honor to endorse America First Patriot, Tom Sell, who is running to represent the fantastic people of Texas’ 19th Congressional District.
->
-> A Fifth Generation West Texan, Businessman, Rancher, and Civic Leader, prior to running for Congress, Tom is a Proven Leader who has dedicated his life to serving his Community. As your next Congressman, Tom will work tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.
->
-> Tom Sell has my Complete and Total Endorsement to be the next Representative from Texas’ 19th Congressional District — HE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
