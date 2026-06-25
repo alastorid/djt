@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
@@ -329,26 +329,6 @@ _Last 3 days, newest first. 52 posts._
 > A Fifth Generation West Texan, Businessman, Rancher, and Civic Leader, prior to running for Congress, Tom is a Proven Leader who has dedicated his life to serving his Community. As your next Congressman, Tom will work tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.
 >
 > Tom Sell has my Complete and Total Endorsement to be the next Representative from Texas’ 19th Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 2:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795239595013935)
-
-> It is my Great Honor to endorse America First Patriot, Jerry Carl, who is running to represent the wonderful people of Alabama’s 1st Congressional District!
->
-> A Highly Respected Legislator, and Successful Businessman, Jerry has been an incredible Voice for MAGA, and has been with me from the very beginning! In Congress, he will fight tirelessly to Grow our Economy, Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Promote American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.
->
-> Jerry Carl has my Complete and Total Endorsement to, once again, be the Representative of Alabama’s 1st Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [June 22, 2026 at 2:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116795238055514720)
-
-> It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others!
->
-> A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.
->
-> Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District – HE WILL NOT LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
