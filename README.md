@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [June 24, 2026 at 11:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808579545638198)
+
+> https://www. breitbart.com/politics/2026/06 /06/exclusive-bernie-moreno-embarrassing-congress-cant-pass-save-america-act/
+
+---
+
+### [June 24, 2026 at 11:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808568420301784)
+
+> Wow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT
+
+---
 
 ### [June 24, 2026 at 10:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808421221587297)
 

@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-25T02:42:56.369Z",
-  "count": 214,
+  "updatedAt": "2026-06-25T03:18:59.290Z",
+  "count": 216,
   "posts": [
+    {
+      "id": "116808579545638198",
+      "createdAt": "2026-06-24T23:17:55-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116808579545638198",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. breitbart.com/politics/2026/06 /06/exclusive-bernie-moreno-embarrassing-congress-cant-pass-save-america-act/",
+          "firstSeenAt": "2026-06-25T03:18:59.290Z"
+        }
+      ]
+    },
+    {
+      "id": "116808568420301784",
+      "createdAt": "2026-06-24T23:15:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116808568420301784",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Wow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT",
+          "firstSeenAt": "2026-06-25T03:18:59.290Z"
+        }
+      ]
+    },
     {
       "id": "116808421221587297",
       "createdAt": "2026-06-24T22:37:40-04:00",
