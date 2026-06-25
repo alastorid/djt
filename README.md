@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 61 posts._
 
 ### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
 
@@ -448,17 +448,6 @@ _Last 3 days, newest first. 62 posts._
 > As a Member of the POWERFUL Ways & Means Committee, Nicole knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is working hard to Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Strengthen our Brave Military/Veterans, Champion the Incredible NYPD and NYFD, and Protect our always under siege Second Amendment.
 >
 > Nicole Malliotakis has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
-
----
-
-### [June 22, 2026 at 1:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116794870476217923)
-
-> Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor of New York.
->
-> Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment!
->
-> Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). BRUCE BLAKEMAN WILL NEVER LET YOU DOWN!
 > Find your Voting Location here: https:// swampthevoteusa.com/new-york/
 <!-- DJT_POSTS_END -->
 
