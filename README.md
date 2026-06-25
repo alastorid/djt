@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 25, 2026 at 6:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813173401388945)
 
@@ -260,24 +260,6 @@ _Last 3 days, newest first. 45 posts._
 ### [June 22, 2026 at 8:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796512818935902)
 
 > In describing the Vandalism that took place at the Reflecting Pool in Washington, D.C., ABC FAKE NEWS, one of the worst in the business, even paying me $16,000,000 for past bad and inaccurate reporting, failed to report that their close “friends,” Dumocrats Obama and Biden, spent over 100 Million Dollars on the Reflecting Pool, and it never worked. In fact, it was rarely open do to leaks and “stench.” They wanted to spend 300 to 400 Million Dollars, but just let it ROT. I spent approximately 16 Million Dollars, and it came out great, except for the Vandalism, which we are now fixing. It was also a much bigger job than originally envisioned, including the outer areas and sidewalks. We are preparing lawsuits against ABC for false reporting. I like their money, which will be given to the U.S. Treasury! Thank you for your attention to this matter. President DJT
-
----
-
-### [June 22, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796211476024344)
-
-> Just like James Talarico reminds me of Alfred E. Neuman, Jon Osoff reminds me of Pee-wee Herman!
-
----
-
-### [June 22, 2026 at 6:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796204866042899)
-
-> It is my Great Honor to endorse MAGA Warrior, Mike LiPetri, who is running to represent the fantastic people of New York’s 3rd Congressional District against a Congressman who has proven to be a Radical Left Lunatic, who wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and your Guns, forget about them, he wants to take them away — He is against the Second Amendment. His name is Tom Suozzi, and he voted against the Biggest Tax Cut in the History of our Country, including SALT! In addition, using Insider Information that only a Congressman would have, he scandalously made a lot of money playing with Stocks. “Long Island Representative Tom Suozzi beats Pelosi’s stock portfolio performance with 35% return” — The New York Post. This is not what New York’s 3rd Congressional District wants. Frankly, he should be banned from Congress, not running for it!
->
-> Mike LiPetri, on the other hand, is a very successful Attorney and former New York State Assemblyman, who has dedicated his life to serving his Community. As your next Congressman, Mike will fight tirelessly to Grow our Economy, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Military, Veterans, and Police, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.
->
-> Mike LiPetri has my Complete and Total Endorsement to be the next Representative from New York’s 3rd Congressional District. Election Day for the Republican Primary is Tuesday, June 23rd. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN!
->
-> Find your Voting Location here: https:// swampthevoteusa.com/new-york/
 <!-- DJT_POSTS_END -->
 
 ---
