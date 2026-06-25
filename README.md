@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 25, 2026 at 4:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812682074393050)
+
+> House Republicans should unify, and stop voting down “Rules” or, threatening to do so. Giving power to the Radical Left Dumocrats in the House to control what goes up for a Vote will make our outcomes worse, not better. No more grandstanding, please! They are the Dumocrats, and we can’t let them WIN! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
