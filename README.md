@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 25, 2026 at 9:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813757947032364)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116813755890271897
+
+---
 
 ### [June 25, 2026 at 6:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813202769287423)
 
