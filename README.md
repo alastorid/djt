@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 38 posts._
+
+### [June 26, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817203281419093)
+
+> The Islamic Republic of Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Hormuz. One of the Drones solidly hit the upper deck of a large and very expensive Cargo Carrying Ship. Damage was done, but the Ship was able to proceed on its way. We knocked down three other Drones. Obviously, this is a foolish violation of our Ceasefire Agreement. President DONALD J. TRUMP
+
+---
 
 ### [June 26, 2026 at 11:04 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817021244415806)
 
