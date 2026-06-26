@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 25, 2026 at 6:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813202769287423)
 
@@ -264,12 +264,6 @@ _Last 3 days, newest first. 44 posts._
 ### [June 22, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796667784429554)
 
 > Latin America continues to shift right as Trump-backed candidate declares victory in Colombia: https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger
-
----
-
-### [June 22, 2026 at 8:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796512818935902)
-
-> In describing the Vandalism that took place at the Reflecting Pool in Washington, D.C., ABC FAKE NEWS, one of the worst in the business, even paying me $16,000,000 for past bad and inaccurate reporting, failed to report that their close “friends,” Dumocrats Obama and Biden, spent over 100 Million Dollars on the Reflecting Pool, and it never worked. In fact, it was rarely open do to leaks and “stench.” They wanted to spend 300 to 400 Million Dollars, but just let it ROT. I spent approximately 16 Million Dollars, and it came out great, except for the Vandalism, which we are now fixing. It was also a much bigger job than originally envisioned, including the outer areas and sidewalks. We are preparing lawsuits against ABC for false reporting. I like their money, which will be given to the U.S. Treasury! Thank you for your attention to this matter. President DJT
 <!-- DJT_POSTS_END -->
 
 ---
