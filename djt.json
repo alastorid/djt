@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-26T12:46:41.110Z",
-  "count": 229,
+  "updatedAt": "2026-06-26T13:53:50.584Z",
+  "count": 230,
   "posts": [
+    {
+      "id": "116816735268373974",
+      "createdAt": "2026-06-26T09:52:02-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116816735268373974",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Other Polls have my Approval Rating at 65%, and more! Like Journalists, Honest Pollsters are very rare and hard to find! President DJT\n https://www. newsmax.com/mclaughlin/mclaugh lin-poll-iran/2026/06/25/id/1260918/",
+          "firstSeenAt": "2026-06-26T13:53:50.584Z"
+        }
+      ]
+    },
     {
       "id": "116816466651864171",
       "createdAt": "2026-06-26T08:43:43-04:00",

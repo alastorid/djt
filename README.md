@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [June 26, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816735268373974)
+
+> Other Polls have my Approval Rating at 65%, and more! Like Journalists, Honest Pollsters are very rare and hard to find! President DJT
+>  https://www. newsmax.com/mclaughlin/mclaugh lin-poll-iran/2026/06/25/id/1260918/
+
+---
 
 ### [June 26, 2026 at 8:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816466651864171)
 
