@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [June 25, 2026 at 10:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116814051010230263)
 
@@ -246,12 +246,6 @@ _Last 3 days, newest first. 41 posts._
 ### [June 23, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799154100072125)
 
 > Despite their protestations and false statements to the contrary, coupled with the drumbeat of the Fake News, which is doing everything possible to make the U.S. Victory as small and insignificant as possible, Iran has fully and completely agreed to highest level Nuclear inspections long into the future (Infinity!!!). This will insure “Nuclear Honesty.” If they did not agree to this, there would be no further negotiations! Based on this and other major concessions being made by Iran, I have agreed to allow the Hormuz Strait to remain OPEN, with no further Naval Blockade. However, all ships are remaining in place should it be necessary to reinstitute the Blockade, which seems, at this point, highly unlikely. The Money and/or Sanctions that the U.S. Treasury is releasing goes into escrow, controlled by the U.S.A., and will be used for the purchase of food and medical supplies, exclusively from the United States, including Corn, Wheat, and Soybeans from our great American Farmers. These are things that are desperately needed by Iran. This is a humanitarian crisis, and I feel it is necessary to help, NOW, before it is too late. Talks are going well! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 23, 2026 at 12:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797477878659134)
-
-> At least 39 people injured, 4 dead, in Chicago weekend shootings. Governor Pritzker, I, as President, can fix this, FAST and Permanently. D.C., Memphis, New Orleans, all down to record lows, and quickly! CALL ME! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
