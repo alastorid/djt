@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 38 posts._
+
+### [June 26, 2026 at 8:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816466651864171)
+
+> Roger Marshall of Kansas is a GREAT Republican Senator who just plain GETS THE JOB DONE. Thank you Roger! President DJT
+
+---
 
 ### [June 25, 2026 at 10:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116814051010230263)
 
