@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [June 26, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817366986980714)
+
+> The Fourth of July Airshow, over Washington, D.C., our Great Capital, will be the biggest, by far, in the History of the United States of America. Hundreds of Planes, of different types, sizes, and speeds, will be on display. It goes from 1:15 P.M. in the afternoon, until 11:30 in the evening. I will be speaking at approximately 9 P.M., preceding the Fireworks which again, like the Airshow, will be approximately ten times larger than any Fireworks in the History of our Country. So, if you like Airplanes and Fireworks and President Trump, be there!
+> President DONALD J. TRUMP
+
+---
 
 ### [June 26, 2026 at 12:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817320899062447)
 
