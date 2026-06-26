@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 25, 2026 at 6:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813202769287423)
 
@@ -240,18 +240,6 @@ _Last 3 days, newest first. 41 posts._
 ### [June 22, 2026 at 11:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797344912017182)
 
 > Fast and Furious 2.0?’ Biden DEA let 1M fentanyl pills flow to streets, whistleblower lawyer says: https:// justthenews.com/government/fed eral-agencies/cover-dea-whistleblowers-lawyer-says-client-silenced-more-1m-pills
-
----
-
-### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796681069385730)
-
-> Biden administration buried whistleblower complaint alleging Fauci lied to Congress during pandemic: https:// justthenews.com/accountability /whistleblowers/biden-administration-buried-whistleblower-complaint-alleging-fauci
-
----
-
-### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796679527851962)
-
-> Iranian resistance leader, former national security aide praise Trump’s deal with Tehran: https:// justthenews.com/government/sec urity/iranian-resistance-leader-former-national-security-aide-praise-trumps-mou
 <!-- DJT_POSTS_END -->
 
 ---
