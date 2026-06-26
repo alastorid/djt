@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [June 25, 2026 at 10:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116814051010230263)
 
@@ -240,12 +240,6 @@ _Last 3 days, newest first. 40 posts._
 ### [June 23, 2026 at 7:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799167032916635)
 
 > 19 Millions Barrels of Oil flowed out of the Hormuz Strait yesterday, an all time RECORD. Oil prices are tumbling down, and the World is a much safer place!!! President DONALD J. TRUMP
-
----
-
-### [June 23, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799154100072125)
-
-> Despite their protestations and false statements to the contrary, coupled with the drumbeat of the Fake News, which is doing everything possible to make the U.S. Victory as small and insignificant as possible, Iran has fully and completely agreed to highest level Nuclear inspections long into the future (Infinity!!!). This will insure “Nuclear Honesty.” If they did not agree to this, there would be no further negotiations! Based on this and other major concessions being made by Iran, I have agreed to allow the Hormuz Strait to remain OPEN, with no further Naval Blockade. However, all ships are remaining in place should it be necessary to reinstitute the Blockade, which seems, at this point, highly unlikely. The Money and/or Sanctions that the U.S. Treasury is releasing goes into escrow, controlled by the U.S.A., and will be used for the purchase of food and medical supplies, exclusively from the United States, including Corn, Wheat, and Soybeans from our great American Farmers. These are things that are desperately needed by Iran. This is a humanitarian crisis, and I feel it is necessary to help, NOW, before it is too late. Talks are going well! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
