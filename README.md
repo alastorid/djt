@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [June 26, 2026 at 12:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817320899062447)
+
+> Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [June 26, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817203281419093)
 
