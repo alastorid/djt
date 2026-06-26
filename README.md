@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 26, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816990404292958)
+
+> For all of those who like to say that Barack Hussein Obama, and his Vice President, Sleepy Joe Biden, did as many Criminal ICE removals as President Trump, the figures are just in. Number One, they included hundreds of thousands of people that never came close to getting into our Country, a difference of perhaps 50% in the numbers. We don’t include such categories but, even if we did, ICE and CBP removed many more Illegal Aliens under President Trump than under Obama — It’s not even close! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [June 26, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816735268373974)
 
@@ -217,18 +223,6 @@ _Last 3 days, newest first. 37 posts._
 ### [June 23, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800828536496774)
 
 > https://www. dailymail.com/news/article-159 21233/trump-approval-bounces-iran-deal.html
-
----
-
-### [June 23, 2026 at 10:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800008619522183)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396 These pictures were taken this morning!
-
----
-
-### [June 23, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800002761284625)
-
-> Six people have been arrested, and seven people have been cited, for the damage they did to our Country’s now beautiful Reflecting Pool. The 350 foot gash, made by a very sharp knife or razors, is actually numerous slashes over a very long 350 foot length. It was purposefully and criminally done, and somebody had to work very hard, probably in the dark of night, to create such a condition. Likewise, the small area at the bottom of the Pool was cut and powerfully lifted off the surface leaving very jagged, uneven edges. The large areas of grass are being replaced. In any event, even prior to fixing those areas, the Reflecting Pool is as beautiful as it can be. We will drain some of the water, either immediately before or after the Fourth of July, to do the permanent repair. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
