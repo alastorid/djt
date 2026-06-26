@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [June 25, 2026 at 6:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813202769287423)
 
@@ -252,18 +252,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796679527851962)
 
 > Iranian resistance leader, former national security aide praise Trump’s deal with Tehran: https:// justthenews.com/government/sec urity/iranian-resistance-leader-former-national-security-aide-praise-trumps-mou
-
----
-
-### [June 22, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796678044750462)
-
-> Years after Pulitzer prize, New York Times gets Russia collusion story wrong once again: https:// justthenews.com/accountability /media/pulitzer-prize-aside-new-york-times-keeps-getting-russia-collusion-factually
-
----
-
-### [June 22, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116796667784429554)
-
-> Latin America continues to shift right as Trump-backed candidate declares victory in Colombia: https:// justthenews.com/world/latin-am erica/trump-backed-candidate-colombia-holds-narrow-lead-presidential-cliffhanger
 <!-- DJT_POSTS_END -->
 
 ---
