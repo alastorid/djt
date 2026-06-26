@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [June 25, 2026 at 10:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116814051010230263)
 
@@ -228,12 +228,6 @@ _Last 3 days, newest first. 38 posts._
 ### [June 23, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799620438726718)
 
 > Vote for Andy Biggs for Arizona Governor. He is GREAT!!! President DJT
-
----
-
-### [June 23, 2026 at 7:44 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799245997909499)
-
-> Trump Scores 8 Triumphs in 7 Years Across Latin America: https://www. newsmax.com/john-gizzi/donald- trump-latin-america-elections/2026/06/22/id/1260532/
 <!-- DJT_POSTS_END -->
 
 ---
