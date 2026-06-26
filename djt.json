@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-26T19:25:51.791Z",
-  "count": 238,
+  "updatedAt": "2026-06-26T20:17:29.961Z",
+  "count": 239,
   "posts": [
+    {
+      "id": "116818236347869022",
+      "createdAt": "2026-06-26T16:13:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116818236347869022",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-26T20:17:29.961Z"
+        }
+      ]
+    },
     {
       "id": "116818025512975700",
       "createdAt": "2026-06-26T15:20:10-04:00",
