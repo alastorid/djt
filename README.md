@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 26, 2026 at 4:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818236347869022)
 
@@ -260,12 +260,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 23, 2026 at 4:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801336239023557)
 
 > Thank you, Scotland!!! President DJT
-
----
-
-### [June 23, 2026 at 4:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801315279395561)
-
-> https:// wabcradio.com/player/
 <!-- DJT_POSTS_END -->
 
 ---
