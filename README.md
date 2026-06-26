@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [June 26, 2026 at 3:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818025512975700)
+
+> Good Morning from the Pool!
+
+---
 
 ### [June 26, 2026 at 3:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817962257360565)
 

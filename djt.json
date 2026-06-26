@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-26T19:10:25.515Z",
-  "count": 237,
+  "updatedAt": "2026-06-26T19:25:51.791Z",
+  "count": 238,
   "posts": [
+    {
+      "id": "116818025512975700",
+      "createdAt": "2026-06-26T15:20:10-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116818025512975700",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Good Morning from the Pool!",
+          "firstSeenAt": "2026-06-26T19:25:51.791Z"
+        }
+      ]
+    },
     {
       "id": "116817962257360565",
       "createdAt": "2026-06-26T15:04:04-04:00",
