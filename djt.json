@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-26T17:16:40.920Z",
-  "count": 236,
+  "updatedAt": "2026-06-26T19:05:15.022Z",
+  "count": 237,
   "posts": [
+    {
+      "id": "116817962257360565",
+      "createdAt": "2026-06-26T19:04:00.000Z",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116817962257360565",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Good Evening from the Pool!",
+          "firstSeenAt": "2026-06-26T19:05:15.022Z"
+        }
+      ]
+    },
     {
       "id": "116817526085394987",
       "createdAt": "2026-06-26T13:13:09-04:00",
