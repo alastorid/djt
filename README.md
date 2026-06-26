@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [June 26, 2026 at 7:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818915365927435)
+
+> Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only gets better! Julia is running for the United States Senate in Louisiana, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024.
+>
+> I know Julia well, have seen her tested at the highest and most difficult levels, and she is a TOTAL WINNER! A Proud Mother of two children, Julia is a wonderful person, has ALWAYS delivered for Louisiana, and would continue doing so in the United States Senate. As your next Senator, Julia will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Fishermen, Champion Louisiana Oil & Gas, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Election Day for the Republican Runoff is TOMORROW, Saturday, June 27th. Vote for Julia Letlow — She has my Complete and Total Endorsement, and will never let you down!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/louisiana/
+
+---
 
 ### [June 26, 2026 at 4:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818397307589675)
 
