@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [June 26, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817526085394987)
 
@@ -248,12 +248,6 @@ _Last 3 days, newest first. 41 posts._
 ### [June 23, 2026 at 4:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116801315279395561)
 
 > https:// wabcradio.com/player/
-
----
-
-### [June 23, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116800828536496774)
-
-> https://www. dailymail.com/news/article-159 21233/trump-approval-bounces-iran-deal.html
 <!-- DJT_POSTS_END -->
 
 ---
