@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [June 26, 2026 at 8:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816466651864171)
 
@@ -228,12 +228,6 @@ _Last 3 days, newest first. 38 posts._
 ### [June 23, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799685479849509)
 
 > The GREAT Rush Limbaugh’s wonderful wife, Kathryn, was fantastic today on Fox & Friends, as interviewed by Ainsley. We all miss Rush, truly one of a kind!!! President DJT
-
----
-
-### [June 23, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116799620438726718)
-
-> Vote for Andy Biggs for Arizona Governor. He is GREAT!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
