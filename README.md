@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 25, 2026 at 10:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116814051010230263)
 
@@ -258,12 +258,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 22, 2026 at 11:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797415517828450)
 
 > Trump Scores 8 Triumphs in 7 Years Across Latin America: https://www. newsmax.com/john-gizzi/donald- trump-latin-america-elections/2026/06/22/id/1260532/
-
----
-
-### [June 22, 2026 at 11:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116797344912017182)
-
-> Fast and Furious 2.0?’ Biden DEA let 1M fentanyl pills flow to streets, whistleblower lawyer says: https:// justthenews.com/government/fed eral-agencies/cover-dea-whistleblowers-lawyer-says-client-silenced-more-1m-pills
 <!-- DJT_POSTS_END -->
 
 ---
