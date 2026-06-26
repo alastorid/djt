@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [June 26, 2026 at 4:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818397307589675)
+
+> The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT
+
+---
 
 ### [June 26, 2026 at 4:43 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818353041386106)
 
