@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [June 27, 2026 at 7:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824552466402728)
+
+> Stephen Miller: Democratic Party has become a party of ‘violent extremists’ and revolutionaries: https://www. foxnews.com/video/639890330211 2
+
+---
 
 ### [June 27, 2026 at 6:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824551176646175)
 

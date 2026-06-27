@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-27T23:00:35.814Z",
-  "count": 251,
+  "updatedAt": "2026-06-27T23:05:44.897Z",
+  "count": 252,
   "posts": [
+    {
+      "id": "116824552466402728",
+      "createdAt": "2026-06-27T19:00:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116824552466402728",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Stephen Miller: Democratic Party has become a party of ‘violent extremists’ and revolutionaries: https://www. foxnews.com/video/639890330211 2",
+          "firstSeenAt": "2026-06-27T23:05:44.897Z"
+        }
+      ]
+    },
     {
       "id": "116824551176646175",
       "createdAt": "2026-06-27T18:59:43-04:00",
