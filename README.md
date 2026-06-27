@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 35 posts._
 
 ### [June 27, 2026 at 5:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116821470056250616)
 
@@ -230,12 +230,6 @@ _Last 3 days, newest first. 36 posts._
 ### [June 24, 2026 at 10:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805503768093822)
 
 > Mayor Mamdani pulled through 3 solid Communists, and has received loud and universal applause from the Fake News Media. Congratulations Mr. Mayor! I went 16-0 last night, helping to elect wonderful American Patriots, and the Media doesn’t say a word. Over the last two years, my endorsement has netted 259 Primary WINS, and almost no losses, with Zero media attention!!! FAKE NEWS. President DJT
-
----
-
-### [June 24, 2026 at 9:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805400052068772)
-
-> The Elizabeth “Pocahontas” Warren centric housing bill, which is of minor importance compared to lower interest rates, and even FISA, pales in comparison to passing THE SAVE AMERICA ACT. That is what Americans, both Dumocrats, Republicans, and everyone else, care about. Get the bad Republicans to approve it or, better yet, Terminate the Filibuster and approve it, AND EVERYTHING ELSE REPUBLICANS HAVE EVER DREAMED OF. The Dumocrats will do it in hour one, 100%. Republicans will feel very stupid if they don’t do it first. I’ll be watching with tears in my eyes!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
