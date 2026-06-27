@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [June 27, 2026 at 10:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822431539992071)
 
@@ -224,12 +224,6 @@ _Last 3 days, newest first. 35 posts._
 ### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
 
 > This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!
-
----
-
-### [June 24, 2026 at 10:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805545512296111)
-
-> Today’s Housing News Conference and Signing is hereby cancelled until such time as we pass the desperately needed SAVE AMERICA ACT, which I consider to be a National Emergency. Thank you for your attention to this matter! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
