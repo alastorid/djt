@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [June 27, 2026 at 9:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822415818781534)
+
+> https:// babylonbee.com/news/cubans-liv ing-in-nyc-begin-boarding-rafts-to-escape-communism-agai
+
+---
 
 ### [June 27, 2026 at 5:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116821470056250616)
 

@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-27T10:00:20.297Z",
-  "count": 244,
+  "updatedAt": "2026-06-27T13:58:04.388Z",
+  "count": 245,
   "posts": [
+    {
+      "id": "116822415818781534",
+      "createdAt": "2026-06-27T09:56:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116822415818781534",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https:// babylonbee.com/news/cubans-liv ing-in-nyc-begin-boarding-rafts-to-escape-communism-agai",
+          "firstSeenAt": "2026-06-27T13:58:04.388Z"
+        }
+      ]
+    },
     {
       "id": "116821470056250616",
       "createdAt": "2026-06-27T05:56:09-04:00",
