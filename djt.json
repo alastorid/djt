@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-27T13:58:04.388Z",
-  "count": 245,
+  "updatedAt": "2026-06-27T14:03:14.258Z",
+  "count": 246,
   "posts": [
+    {
+      "id": "116822431539992071",
+      "createdAt": "2026-06-27T10:00:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116822431539992071",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Reeling Democratic establishment accuses socialists of exploiting ballot access: https:// justthenews.com/politics-polic y/elections/reeling-democratic-establishment-suggests-policing-primaries-pushing-back",
+          "firstSeenAt": "2026-06-27T14:03:14.258Z"
+        }
+      ]
+    },
     {
       "id": "116822415818781534",
       "createdAt": "2026-06-27T09:56:40-04:00",
