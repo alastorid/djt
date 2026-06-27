@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [June 27, 2026 at 5:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116821470056250616)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116818915365927435 LOUISIANA: VOTE FOR JULIA TODAY!!! DJT
+
+---
 
 ### [June 26, 2026 at 9:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116819418021640869)
 

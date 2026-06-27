@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-27T01:17:39.820Z",
-  "count": 243,
+  "updatedAt": "2026-06-27T10:00:20.297Z",
+  "count": 244,
   "posts": [
+    {
+      "id": "116821470056250616",
+      "createdAt": "2026-06-27T05:56:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116821470056250616",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116818915365927435 LOUISIANA: VOTE FOR JULIA TODAY!!! DJT",
+          "firstSeenAt": "2026-06-27T10:00:20.297Z"
+        }
+      ]
+    },
     {
       "id": "116819418021640869",
       "createdAt": "2026-06-26T21:14:18-04:00",
