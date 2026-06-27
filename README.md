@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 38 posts._
 
 ### [June 27, 2026 at 5:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116821470056250616)
 
@@ -248,12 +248,6 @@ _Last 3 days, newest first. 39 posts._
 ### [June 24, 2026 at 8:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804998509920399)
 
 > Even though he tried unsuccessfully to prosecute me, and despite the fact that he is a major Slimeball, I feel sorry for FORMER Congressman Dan Goldman. He is wandering aimlessly, together with the former husband of the great Kellyanne Conway, through a large field of Dumocrat Communists, trying so hard to find his way - A very sad finish for a man who has no clue, and never did!!! President DJT
-
----
-
-### [June 24, 2026 at 7:37 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116804880689253931)
-
-> Iran has informed the U.S. that, despite troublemaking Fake News reporting to the contrary, there are “NO TOLLS, NO INSURANCE COSTS, & NO OTHER CHARGES OF ANY KIND BEING SOUGHT OR RECEIVED BY IRAN ON SHIPS TRAVELING THE STRAIT OF HORMUZ. If this is false information, negotiations would end, immediately! Additionally, no money has been given to Iran, or released from their money to them, by the U.S. We will be releasing some of their money, that is totally controlled by us, to our Farmers and Ranchers, for the purchase of Corn, Wheat, Soybeans, and more. Food is desperately needed in Iran, and we will be purchasing it for them exclusively from the United States. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
