@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [June 27, 2026 at 10:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822431539992071)
 
@@ -218,12 +218,6 @@ _Last 3 days, newest first. 34 posts._
 ### [June 24, 2026 at 10:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808421221587297)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116808419683018774
-
----
-
-### [June 24, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116805750630335427)
-
-> This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!
 <!-- DJT_POSTS_END -->
 
 ---
