@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [June 26, 2026 at 9:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116819418021640869)
 
@@ -266,12 +266,6 @@ _Last 3 days, newest first. 42 posts._
 ### [June 23, 2026 at 11:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116803051885813542)
 
 > Many Communists running in badly failing Blue States. The votes seem to have them doing quite well against each other. The bad news is that history has conclusively shown that the downtrodden States that they will soon be running will ONLY GET WORSE. MAGA! President DJT
-
----
-
-### [June 23, 2026 at 11:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116802857184219655)
-
-> Weak and pathetic Congressman Dan Goldman just lost, BIG! I guess people didn’t like him illegally targeting President TRUMP. In any event, this jerk is finally GONE! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
