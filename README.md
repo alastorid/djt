@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 26, 2026 at 9:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116819418021640869)
+
+> John Bolton, a very dumb, unbalanced, and unskilled former representative of the United States of America, just pleads guilty! He is a terrible person, a lunatic who only wanted to start trouble and wars, and who was a needless pusher of death and destruction wherever he went. Hopefully, he will be dealt with harshly! President DJT
+
+---
 
 ### [June 26, 2026 at 7:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818915365927435)
 
