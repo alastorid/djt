@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-27T23:21:23.550Z",
-  "count": 253,
+  "updatedAt": "2026-06-28T02:12:02.388Z",
+  "count": 254,
   "posts": [
+    {
+      "id": "116825287521580891",
+      "createdAt": "2026-06-27T22:06:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116825287521580891",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great News!!! Julia Letlow WON in Louisiana, beating conclusively a very strong and smart opponent. Congratulations to Julia. She will be a truly GREAT Senator! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-28T02:12:02.388Z"
+        }
+      ]
+    },
     {
       "id": "116824603632739697",
       "createdAt": "2026-06-27T19:13:04-04:00",

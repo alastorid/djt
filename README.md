@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 41 posts._
+
+### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
+
+> Great News!!! Julia Letlow WON in Louisiana, beating conclusively a very strong and smart opponent. Congratulations to Julia. She will be a truly GREAT Senator! President DONALD J. TRUMP
+
+---
 
 ### [June 27, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824603632739697)
 
