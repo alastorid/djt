@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-28T19:05:41.329Z",
-  "count": 264,
+  "updatedAt": "2026-06-28T20:02:33.879Z",
+  "count": 266,
   "posts": [
+    {
+      "id": "116829505399993127",
+      "createdAt": "2026-06-28T15:59:39-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116829505399993127",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Communism is the Greatest Threat to our Country since World War I, World War II, Pearl Harbor, or 9/11! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-28T20:02:33.879Z"
+        }
+      ]
+    },
+    {
+      "id": "116829502998078615",
+      "createdAt": "2026-06-28T15:59:02-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116829502998078615",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116829500559553610 Our Great National Security Facility and Ballroom is moving along on schedule. When completed, there will be nothing like it anywhere in the World! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-28T20:02:33.879Z"
+        }
+      ]
+    },
     {
       "id": "116829276650028561",
       "createdAt": "2026-06-28T15:01:28-04:00",

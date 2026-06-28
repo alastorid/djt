@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [June 28, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829505399993127)
+
+> Communism is the Greatest Threat to our Country since World War I, World War II, Pearl Harbor, or 9/11! President DONALD J. TRUMP
+
+---
+
+### [June 28, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829502998078615)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116829500559553610 Our Great National Security Facility and Ballroom is moving along on schedule. When completed, there will be nothing like it anywhere in the World! President DONALD J. TRUMP
+
+---
 
 ### [June 28, 2026 at 3:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829276650028561)
 
