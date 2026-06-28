@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
 
@@ -266,12 +266,6 @@ _Last 3 days, newest first. 41 posts._
 ### [June 24, 2026 at 11:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808568420301784)
 
 > Wow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT
-
----
-
-### [June 24, 2026 at 10:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808421221587297)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116808419683018774
 <!-- DJT_POSTS_END -->
 
 ---
