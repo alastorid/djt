@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-28T20:02:33.879Z",
-  "count": 266,
+  "updatedAt": "2026-06-28T20:07:42.579Z",
+  "count": 267,
   "posts": [
+    {
+      "id": "116829518714038986",
+      "createdAt": "2026-06-28T16:03:02-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116829518714038986",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The FIFA Numbers are far greater than any World Cup in History. This is a Great Tribute to the United States of America. Thank you to all! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-28T20:07:42.579Z"
+        }
+      ]
+    },
     {
       "id": "116829505399993127",
       "createdAt": "2026-06-28T15:59:39-04:00",

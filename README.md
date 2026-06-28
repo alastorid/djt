@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [June 28, 2026 at 4:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829518714038986)
+
+> The FIFA Numbers are far greater than any World Cup in History. This is a Great Tribute to the United States of America. Thank you to all! President DONALD J. TRUMP
+
+---
 
 ### [June 28, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829505399993127)
 
