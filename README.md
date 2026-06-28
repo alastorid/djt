@@ -3,7 +3,43 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [June 27, 2026 at 11:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825706034291064)
+
+> Mack to the future: Trump touts Iran deal energy boom that could boost trucking biz: https:// justthenews.com/government/whi te-house/mack-future-trump-touts-tariffs-and-iran-deal-energy-boom-will-boost
+
+---
+
+### [June 27, 2026 at 11:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825704058472549)
+
+> Supreme Court immigration rulings cement Trump as foremost border security guardian: https:// justthenews.com/government/sec urity/friscotus-immigration-rulings-cement-trump-foremost-border-security-guardia
+
+---
+
+### [June 27, 2026 at 11:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825702171921406)
+
+> Aloha, gun grabbers: Trump’s national carry push gets SCOTUS boost as Hawaii’s rule is knocked down: https:// justthenews.com/government/whi te-house/aloha-gun-grabbers-trumps-national-carry-push-gets-scotus-boost-hawaiis-rule
+
+---
+
+### [June 27, 2026 at 11:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825700077983923)
+
+> Treasury Secretary vows law-breaking leftist nonprofits to face prosecution, asset seizures: https:// justthenews.com/accountability /political-ethics/treasury-secretary-vows-law-breaking-leftist-nonprofits-face
+
+---
+
+### [June 27, 2026 at 11:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825697576087695)
+
+> Reeling Democratic establishment accuses socialists of exploiting ballot access: https:// justthenews.com/politics-polic y/elections/reeling-democratic-establishment-suggests-policing-primaries-pushing-back
+
+---
+
+### [June 27, 2026 at 11:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825695114073072)
+
+> Trump’s election run continues as Letlow wins GOP runoff for Louisiana Senate seat: https:// justthenews.com/politics-polic y/elections/trump-backed-letlow-facing-against-fleming-us-senate-runoff-louisiana
+
+---
 
 ### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
 
