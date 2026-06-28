@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 36 posts._
 
 ### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
 
@@ -242,12 +242,6 @@ _Last 3 days, newest first. 37 posts._
 ### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
 
 > After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https:// justthenews.com/government/con gress/after-testy-exchange-senate-hands-trump-win-rejecting-bill-rein-his-war-ira
-
----
-
-### [June 24, 2026 at 11:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116808686040715251)
-
-> The two major earthquakes that just hit the great people of Venezuela are both massive in scale and have left a devastating number of deaths. The U.S.A. stands ready, willing, and able to help! I have instructed all agencies of our government to get ready to move quickly. We will be there for our new and great friends. Early reports are not good!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
