@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [June 28, 2026 at 4:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829518714038986)
 
@@ -303,12 +303,6 @@ _Last 3 days, newest first. 47 posts._
 ### [June 25, 2026 at 6:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813106147178492)
 
 > Last night’s Rally was packed — 45,000 people. July 4th will be a step beyond anything you’ve ever seen. The Military flyovers will be the best, EVER — The most planes, the newest planes, the fastest planes! I’ll be there to speak about how Great our Country is and, Making America Great Again! President DONALD J. TRUMP
-
----
-
-### [June 25, 2026 at 4:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812682074393050)
-
-> House Republicans should unify, and stop voting down “Rules” or, threatening to do so. Giving power to the Radical Left Dumocrats in the House to control what goes up for a Vote will make our outcomes worse, not better. No more grandstanding, please! They are the Dumocrats, and we can’t let them WIN! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
