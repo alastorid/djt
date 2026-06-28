@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [June 28, 2026 at 12:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825821568797363)
 
@@ -278,12 +278,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
 
 > The Crowd was incredible last night, packed to the brim — At least 45,000 people were there, with a huge Television and online audience. I wish we were able to have an even larger area, which we will be able to do on July 4th when I’ll be speaking again. The airplane flyovers and music were fantastic. Everybody stayed right until the end of my Speech because they loved hearing about a truly successful America. See you again on July 4th! President DONALD J. TRUMP
-
----
-
-### [June 25, 2026 at 5:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116810046344255729)
-
-> After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https:// justthenews.com/government/con gress/after-testy-exchange-senate-hands-trump-win-rejecting-bill-rein-his-war-ira
 <!-- DJT_POSTS_END -->
 
 ---
