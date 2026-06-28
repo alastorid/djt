@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-28T04:26:19.930Z",
-  "count": 261,
+  "updatedAt": "2026-06-28T17:48:08.207Z",
+  "count": 262,
   "posts": [
+    {
+      "id": "116828975314637303",
+      "createdAt": "2026-06-28T13:44:50-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116828975314637303",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This is what happens to people who desecrate, or even think about desecrating, our Great Monuments, Statues, or Fountains!\n https://www. egattorneys.com/destroy-govt-p roperty",
+          "firstSeenAt": "2026-06-28T17:48:08.207Z"
+        }
+      ]
+    },
     {
       "id": "116825821568797363",
       "createdAt": "2026-06-28T00:22:48-04:00",

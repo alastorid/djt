@@ -5,6 +5,13 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 42 posts._
 
+### [June 28, 2026 at 1:44 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116828975314637303)
+
+> This is what happens to people who desecrate, or even think about desecrating, our Great Monuments, Statues, or Fountains!
+>  https://www. egattorneys.com/destroy-govt-p roperty
+
+---
+
 ### [June 28, 2026 at 12:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825821568797363)
 
 > Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly made up, Fake News, largely fiction, as have been most of the things she has written about me for so many years. She is a third rate writer and intellect, who has made a first rate income because of your favorite President, ME. She was wrong about me on the Elections, although she knew I was going to win, BIG! She was wrong about me on the Russia, Russia, Russia Hoax, and she was wrong about me on just about everything else. But she continues to spew out garbage, and people continue to buy it. REMEMBER, I WON THE ELECTION, BIG - ALL SEVEN SWING STATES, THE POPULAR VOTE, 86% of the Counties…And they don’t have the audio tapes that they imply they have. Just another Margot Con Job! And Iran will never have a Nuclear Weapon!!! President DONALD J. TRUMP
@@ -272,12 +279,6 @@ _Last 3 days, newest first. 42 posts._
 ### [June 25, 2026 at 4:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812682074393050)
 
 > House Republicans should unify, and stop voting down “Rules” or, threatening to do so. Giving power to the Radical Left Dumocrats in the House to control what goes up for a Vote will make our outcomes worse, not better. No more grandstanding, please! They are the Dumocrats, and we can’t let them WIN! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 25, 2026 at 1:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116812000049397183)
-
-> The Crowd was incredible last night, packed to the brim — At least 45,000 people were there, with a huge Television and online audience. I wish we were able to have an even larger area, which we will be able to do on July 4th when I’ll be speaking again. The airplane flyovers and music were fantastic. Everybody stayed right until the end of my Speech because they loved hearing about a truly successful America. See you again on July 4th! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
