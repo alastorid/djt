@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 28, 2026 at 4:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829518714038986)
 
@@ -291,12 +291,6 @@ _Last 3 days, newest first. 45 posts._
 > HHS is a massive and complex organization, but Chris knows exactly how to run it. He is doing a FANTASTIC job leading Medicare, and overseeing day-to-day operations. Secretary Kennedy, Dr. Oz, and I made this decision together! Chris’ experience building a BIG business gave him the TOUGHNESS to drive desperately needed major reforms, including my Historic MOST FAVORED NATION Drug Pricing Policy, to finally stop foreign freeriding off the backs of the American People. It is time for other countries to pay their fair share, and they’re doing so! Our Drug Prices have come down MASSIVELY in the last year.
 >
 > Chris puts AMERICA FIRST, and will reform Healthcare to Make America Great and Healthy Again. Congratulations Chris! President DONALD J. TRUMP
-
----
-
-### [June 25, 2026 at 6:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116813173401388945)
-
-> The Communists are finally making their move. I’ve been waiting and preparing for this for a long time. It’s easy to be a Communist — All you have to do is say, “I’ll give you everything,” but that means you’re taking it away from others that have earned it. Over thousands of years, that Ideology has not worked once. The game is on. Enjoy watching! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
