@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T11:29:05.825Z",
-  "count": 275,
+  "updatedAt": "2026-06-29T11:34:20.192Z",
+  "count": 276,
   "posts": [
+    {
+      "id": "116833168246538290",
+      "createdAt": "2026-06-29T07:31:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116833168246538290",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA! President DJT",
+          "firstSeenAt": "2026-06-29T11:34:20.192Z"
+        }
+      ]
+    },
     {
       "id": "116833138299035157",
       "createdAt": "2026-06-29T07:23:32-04:00",

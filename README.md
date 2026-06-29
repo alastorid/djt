@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [June 29, 2026 at 7:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833168246538290)
+
+> IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA! President DJT
+
+---
 
 ### [June 29, 2026 at 7:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833138299035157)
 
