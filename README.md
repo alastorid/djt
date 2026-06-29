@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [June 29, 2026 at 6:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116832995541119171)
+
+> Highest Poll Numbers Ever. Even Higher than Election Day, November 5th. This despite the fact that, IRAN WILL NOT HAVE A NUCLEAR WEAPON!
+
+---
 
 ### [June 29, 2026 at 6:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116832918759686018)
 

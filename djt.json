@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T10:32:05.992Z",
-  "count": 272,
+  "updatedAt": "2026-06-29T10:52:54.643Z",
+  "count": 273,
   "posts": [
+    {
+      "id": "116832995541119171",
+      "createdAt": "2026-06-29T06:47:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116832995541119171",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Highest Poll Numbers Ever. Even Higher than Election Day, November 5th. This despite the fact that, IRAN WILL NOT HAVE A NUCLEAR WEAPON!",
+          "firstSeenAt": "2026-06-29T10:52:54.643Z"
+        }
+      ]
+    },
     {
       "id": "116832918759686018",
       "createdAt": "2026-06-29T06:27:42-04:00",
