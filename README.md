@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 29, 2026 at 6:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116835841525431179)
+
+> It is my Great Honor to announce that I am nominating Keith E. Sonderling, the outstanding Acting United States Secretary of Labor, to be permanent. Keith previously served as Deputy Secretary and Chief Operating Officer and, during my First Term, worked at the U.S. Department of Labor as the Acting and Deputy Administrator of the U.S. Department of Labor's Wage and Hour Division. Throughout his career, Keith has proven his dedication to delivering strong results for the Hardworking People of our Country, and I know he will do an incredible job in his new role. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 29, 2026 at 4:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116835372963831103)
 
