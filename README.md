@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 29, 2026 at 2:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834854601794123)
 
@@ -293,12 +293,6 @@ _Last 3 days, newest first. 45 posts._
 > Gentner Drummond has also stated publicly he had "no opinion" on the BOGUS IMPEACHMENT of a gentleman named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. He even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity!
 >
 > Drummond is not the right guy, he’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE “MIKE MAZZEI FOR GOVERNOR” on August 25th — HE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 26, 2026 at 4:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818236347869022)
-
-> The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
