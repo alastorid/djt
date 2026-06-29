@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 49 posts._
 
 ### [June 29, 2026 at 11:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834086981971752)
 
@@ -324,12 +324,6 @@ _Last 3 days, newest first. 50 posts._
 ### [June 26, 2026 at 12:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817320899062447)
 
 > Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 26, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817203281419093)
-
-> The Islamic Republic of Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Hormuz. One of the Drones solidly hit the upper deck of a large and very expensive Cargo Carrying Ship. Damage was done, but the Ship was able to proceed on its way. We knocked down three other Drones. Obviously, this is a foolish violation of our Ceasefire Agreement. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
