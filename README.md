@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 47 posts._
 
 ### [June 29, 2026 at 7:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833168246538290)
 
@@ -305,12 +305,6 @@ _Last 3 days, newest first. 48 posts._
 
 > Other Polls have my Approval Rating at 65%, and more! Like Journalists, Honest Pollsters are very rare and hard to find! President DJT
 >  https://www. newsmax.com/mclaughlin/mclaugh lin-poll-iran/2026/06/25/id/1260918/
-
----
-
-### [June 26, 2026 at 8:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816466651864171)
-
-> Roger Marshall of Kansas is a GREAT Republican Senator who just plain GETS THE JOB DONE. Thank you Roger! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
