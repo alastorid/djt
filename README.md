@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [June 29, 2026 at 11:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834086981971752)
 
@@ -305,12 +305,6 @@ _Last 3 days, newest first. 47 posts._
 ### [June 26, 2026 at 3:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817962257360565)
 
 > Good Evening from the Pool!
-
----
-
-### [June 26, 2026 at 1:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116817526085394987)
-
-> I will be speaking at 1:30 P.M. to The Faith and Freedom Coalition, and one of the Statements I will be making, perhaps the most important of them all, concerns the recent Election of Communists in our Country. Communism is very easy to sell. I’d be the Greatest Communist in History. I’d give free rent, free houses, free food, everything is free. Unfortunately, after two or three years, the Country where this is taking place would fail. It always does, and then you’ll start living in squalor. There will be no food, there will be no housing, there will be no Military, there will be no nothing. You’ll be Third World every way, and everyone will suffer or die. I’m sorry to say, but Assassinations of those who oppose them is a very important element of their Ideology. They’re animals! In many cases, not smart but, in some cases, they are. It’s easy for them to get followers because they make promises that they know they can’t keep, and the Dumocrats aren’t fighting back. In many ways, they’re allowing them to go their own way. They’re afraid they will lose their Election, they’re afraid of conflict. They’re not smart enough or tough enough to fight this plague. If they fought them the way they fight Republicans, or me, they’d be victorious, but they don’t have the courage to do so. These are not social Dumocrats, these are hard core, godless Communists. This is the most serious threat to our Country since its existence 250 years ago. Isn’t it ironic, we’re celebrating a very important Birthday, and instead of speaking about Christ, Freedom, and Victories of all different kinds, we’re speaking about yet another threat to the Foundations of America. These ruthless Communists will attack all Religions but, in particular, Christianity – They always do. All Communist Countries attack Religions violently. As you know, we recently struck Nigeria, and largely ended the slaughter of their Great Christian population. They know that if they go further, the attack will be far greater and, in that, they don’t want to get involved. I am saving Christians throughout the World, even though we are not in those various Countries, by hitting these Terrorists violently and hard. They will close your Churches, they will kill your people. This is what they’re about. This is the Greatest Threat to our Country since its Founding 250 years ago! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
