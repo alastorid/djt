@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [June 29, 2026 at 7:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836032463779667)
+
+> Gasoline Retailers must get their Prices down, IMMEDIATELY! They’re too high considering that Oil is now at $68 a Barrel, and heading south. The Retailers must quickly react to this statement, and do what they know is right — DROP YOUR PRICE FOR OUR GREAT AMERICAN PEOPLE! There will be no gauging, which is totally illegal. If Retailers don’t do this, big problems lie ahead! Start targeting around the $2.50 a Gallon number, and California should stop charging such heavy Taxes on their Gasoline. Soon the Tax will be higher than the Product itself, and the United States will not stand for it, nor will the People of California, who are being abused by these ridiculous Taxes, and by their own Government. President DONALD J. TRUMP
+
+---
 
 ### [June 29, 2026 at 6:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116835841525431179)
 
