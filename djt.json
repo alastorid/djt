@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T02:20:32.008Z",
-  "count": 270,
+  "updatedAt": "2026-06-29T02:51:37.375Z",
+  "count": 271,
   "posts": [
+    {
+      "id": "116831104490275644",
+      "createdAt": "2026-06-28T22:46:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116831104490275644",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great painting!!  President DJT",
+          "firstSeenAt": "2026-06-29T02:51:37.375Z"
+        }
+      ]
+    },
     {
       "id": "116830982622038793",
       "createdAt": "2026-06-28T22:15:19-04:00",
