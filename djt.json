@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T15:27:18.422Z",
-  "count": 282,
+  "updatedAt": "2026-06-29T18:44:25.597Z",
+  "count": 283,
   "posts": [
+    {
+      "id": "116834854601794123",
+      "createdAt": "2026-06-29T14:40:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116834854601794123",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Today’s Historic Slaughter Decision by the Supreme Court is the Greatest Increase in Presidential Power in the last 100 years. Such a Monumental Ruling at such an important time! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-29T18:44:25.597Z"
+        }
+      ]
+    },
     {
       "id": "116834086981971752",
       "createdAt": "2026-06-29T11:24:48-04:00",

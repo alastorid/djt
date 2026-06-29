@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [June 29, 2026 at 2:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834854601794123)
+
+> Today’s Historic Slaughter Decision by the Supreme Court is the Greatest Increase in Presidential Power in the last 100 years. Such a Monumental Ruling at such an important time! President DONALD J. TRUMP
+
+---
 
 ### [June 29, 2026 at 11:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834086981971752)
 
