@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [June 29, 2026 at 4:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116835372963831103)
 
@@ -281,12 +281,6 @@ _Last 3 days, newest first. 44 posts._
 > Election Day for the Republican Runoff is TOMORROW, Saturday, June 27th. Vote for Julia Letlow — She has my Complete and Total Endorsement, and will never let you down!
 >
 > Find your Voting Location here: https:// swampthevoteusa.com/louisiana/
-
----
-
-### [June 26, 2026 at 4:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818397307589675)
-
-> The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT
 <!-- DJT_POSTS_END -->
 
 ---
