@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 47 posts._
 
 ### [June 29, 2026 at 9:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833596711045418)
 
@@ -304,13 +304,6 @@ _Last 3 days, newest first. 48 posts._
 ### [June 26, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816990404292958)
 
 > For all of those who like to say that Barack Hussein Obama, and his Vice President, Sleepy Joe Biden, did as many Criminal ICE removals as President Trump, the figures are just in. Number One, they included hundreds of thousands of people that never came close to getting into our Country, a difference of perhaps 50% in the numbers. We don’t include such categories but, even if we did, ICE and CBP removed many more Illegal Aliens under President Trump than under Obama — It’s not even close! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 26, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116816735268373974)
-
-> Other Polls have my Approval Rating at 65%, and more! Like Journalists, Honest Pollsters are very rare and hard to find! President DJT
->  https://www. newsmax.com/mclaughlin/mclaugh lin-poll-iran/2026/06/25/id/1260918/
 <!-- DJT_POSTS_END -->
 
 ---
