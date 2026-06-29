@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [June 29, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833127066912322)
+
+> GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT
+
+---
 
 ### [June 29, 2026 at 6:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116832995541119171)
 

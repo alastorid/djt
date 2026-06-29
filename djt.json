@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T10:52:54.643Z",
-  "count": 273,
+  "updatedAt": "2026-06-29T11:23:53.501Z",
+  "count": 274,
   "posts": [
+    {
+      "id": "116833127066912322",
+      "createdAt": "2026-06-29T07:20:41-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116833127066912322",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT",
+          "firstSeenAt": "2026-06-29T11:23:53.501Z"
+        }
+      ]
+    },
     {
       "id": "116832995541119171",
       "createdAt": "2026-06-29T06:47:14-04:00",
