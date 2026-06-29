@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [June 29, 2026 at 2:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834854601794123)
 
@@ -299,12 +299,6 @@ _Last 3 days, newest first. 46 posts._
 ### [June 26, 2026 at 4:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818236347869022)
 
 > The new Donald Trump Avenue in Hyderabad, India — The first U.S. President to ever be honored in this way. Thank you! President DONALD J. TRUMP
-
----
-
-### [June 26, 2026 at 3:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116818025512975700)
-
-> Good Morning from the Pool!
 <!-- DJT_POSTS_END -->
 
 ---
