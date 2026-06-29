@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T11:23:53.501Z",
-  "count": 274,
+  "updatedAt": "2026-06-29T11:29:05.825Z",
+  "count": 275,
   "posts": [
+    {
+      "id": "116833138299035157",
+      "createdAt": "2026-06-29T07:23:32-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116833138299035157",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "WTI CRUDE - $69, and heading down. This is less than it was prior to the start of the Denuclearization of Iran! President DJT",
+          "firstSeenAt": "2026-06-29T11:29:05.825Z"
+        }
+      ]
+    },
     {
       "id": "116833127066912322",
       "createdAt": "2026-06-29T07:20:41-04:00",
