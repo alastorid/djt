@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 58 posts._
 
 ### [June 30, 2026 at 6:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841344198975517)
 
@@ -377,24 +377,6 @@ _Last 3 days, newest first. 61 posts._
 ### [June 27, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824603632739697)
 
 > United States aircraft just struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN! It is very possible that they will never learn! There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist! President DJT
-
----
-
-### [June 27, 2026 at 7:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824552466402728)
-
-> Stephen Miller: Democratic Party has become a party of ‘violent extremists’ and revolutionaries: https://www. foxnews.com/video/639890330211 2
-
----
-
-### [June 27, 2026 at 6:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824551176646175)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116824550355095950
-
----
-
-### [June 27, 2026 at 6:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824549124473603)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116824548028070621
 <!-- DJT_POSTS_END -->
 
 ---
