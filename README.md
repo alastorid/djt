@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [June 30, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839596876971289)
+
+> BIG WIN: The United States Supreme Court just RULED AGAINST MEN PLAYING IN WOMEN’S SPORTS. Wow! That takes that ridiculous situation off the table!!! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839303401655480)
 

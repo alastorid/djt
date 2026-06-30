@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T13:33:30.414Z",
-  "count": 292,
+  "updatedAt": "2026-06-30T14:47:01.620Z",
+  "count": 293,
   "posts": [
+    {
+      "id": "116839596876971289",
+      "createdAt": "2026-06-30T10:46:02-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116839596876971289",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "BIG WIN: The United States Supreme Court just RULED AGAINST MEN PLAYING IN WOMEN’S SPORTS. Wow! That takes that ridiculous situation off the table!!! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-30T14:47:01.620Z"
+        }
+      ]
+    },
     {
       "id": "116839303401655480",
       "createdAt": "2026-06-30T09:31:24-04:00",
