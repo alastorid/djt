@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 58 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [June 30, 2026 at 6:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841344198975517)
+
+> Since September, my Council of Economic Advisers has been led by the very highly respected Professor Pierre Yared, of Columbia University, as he and his team of “Brainiacs” at the CEA have worked around the clock to Make America WEALTHY Again — with Great Success! Unfortunately, Pierre is returning to Columbia Graduate School where he is greatly respected by all. I want to thank Pierre for his terrific service to our Country, and wish him and his wonderful family all of the best for a healthy and happy future. Pierre is a STAR, and I thank him for his service. THANK YOU PIERRE, AND GOOD LUCK! President DONALD J. TRUMP
+
+---
+
+### [June 30, 2026 at 6:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841340114529127)
+
+> I am pleased to announce that the Great State of Louisiana has been approved to be given $8.6 Million Dollars in its Disaster Declaration Request. Louisiana is truly a special place, with Governor Jeff Landry, Senator John Kennedy, soon to be Senator Julia Letlow, Speaker of the House Mike Johnson, House Majority Leader Steve Scalise, and Congressman Clay Higgins. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [June 30, 2026 at 6:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841336987145523)
+
+> I just spoke with Congressman Tom Tiffany (who has my Complete and Total Endorsement for Governor!), and informed him that the Great State of Wisconsin has been approved to be given $22.6 Million Dollars in its Disaster Declaration Request, for Severe Storms, Tornadoes, and Flooding. The wonderful people of Wisconsin are in good hands with Tom, alongside Senator Ron Johnson, and “Trump Endorsed” Congressmen Bryan Steil, Derrick Van Orden, Scott Fitzgerald, Glenn Grothman, and Tony Wied. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 5:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841220861327348)
 
