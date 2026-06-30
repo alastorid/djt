@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 53 posts._
+
+### [June 30, 2026 at 4:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840999457825464)
+
+> I am pleased to announce that the Great State of Florida has been approved to be given $415.9 Million Dollars in its Disaster Declaration Request. Much of it is going to one of my favorite places in the entire World, the Panhandle! Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 3:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840714775652406)
 

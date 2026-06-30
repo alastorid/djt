@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T19:32:18.990Z",
-  "count": 301,
+  "updatedAt": "2026-06-30T20:44:41.552Z",
+  "count": 302,
   "posts": [
+    {
+      "id": "116840999457825464",
+      "createdAt": "2026-06-30T16:42:44-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116840999457825464",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I am pleased to announce that the Great State of Florida has been approved to be given $415.9 Million Dollars in its Disaster Declaration Request. Much of it is going to one of my favorite places in the entire World, the Panhandle! Thank you for your attention to this matter! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-30T20:44:41.552Z"
+        }
+      ]
+    },
     {
       "id": "116840714775652406",
       "createdAt": "2026-06-30T15:30:20-04:00",
