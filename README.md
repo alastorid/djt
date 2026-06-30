@@ -3,7 +3,43 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 53 posts._
+
+### [June 30, 2026 at 1:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840218534572591)
+
+> Congressman Gabe Evans is an America First Patriot who is doing a fantastic job representing Colorado’s 8th Congressional District!
+>
+> A decorated Army Helicopter Pilot and former Police Officer, Gabe has served our Nation with Great Honor and Distinction. In Congress, he is fighting tirelessly to Grow the Economy, Cut Taxes, Keep our Border SECURE, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Support our Brave Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.
+>
+> Gabe Evans has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is TODAY. GET OUT AND VOTE FOR GABE — HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/colorado/
+
+---
+
+### [June 30, 2026 at 1:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840217466948975)
+
+> Congressman Jeff Crank is doing a truly fantastic job representing the Great People of Colorado’s 5th Congressional District!
+>
+> Jeff is a Fierce Advocate for our America First Agenda. In Congress, he is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Jeff Crank has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is TODAY. GET OUT AND VOTE FOR JEFF — HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/colorado/
+
+---
+
+### [June 30, 2026 at 1:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840216226791835)
+
+> Congressman Jeff Hurd is an incredible Representative for the Great People of Colorado’s 3rd Congressional District!
+>
+> Jeff has a strong Record of SUCCESS, and resounding support from his Community. In Congress, he is fighting tirelessly to Keep our Border SECURE, Support our Incredible Military/Veterans, Unleash American Energy DOMINANCE, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.
+>
+> Jeff Hurd has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is TODAY. GET OUT AND VOTE FOR JEFF — HE WILL NOT LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/colorado/
+
+---
 
 ### [June 30, 2026 at 12:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840065501020055)
 
