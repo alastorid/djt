@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T14:47:01.620Z",
-  "count": 293,
+  "updatedAt": "2026-06-30T14:57:57.027Z",
+  "count": 294,
   "posts": [
+    {
+      "id": "116839637737375696",
+      "createdAt": "2026-06-30T10:56:26-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116839637737375696",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-30T14:57:57.027Z"
+        }
+      ]
+    },
     {
       "id": "116839596876971289",
       "createdAt": "2026-06-30T10:46:02-04:00",
