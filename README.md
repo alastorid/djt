@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [June 30, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839303401655480)
+
+> Trump’s efforts to reverse birthright citizenship may succeed with or without SCOTUS: https:// justthenews.com/government/whi te-house/trumps-efforts-reverse-birthright-citizenship-can-succeed-or-without-scotus
+
+---
 
 ### [June 29, 2026 at 9:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836451044750555)
 

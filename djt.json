@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T01:28:59.598Z",
-  "count": 291,
+  "updatedAt": "2026-06-30T13:33:30.414Z",
+  "count": 292,
   "posts": [
+    {
+      "id": "116839303401655480",
+      "createdAt": "2026-06-30T09:31:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116839303401655480",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump’s efforts to reverse birthright citizenship may succeed with or without SCOTUS: https:// justthenews.com/government/whi te-house/trumps-efforts-reverse-birthright-citizenship-can-succeed-or-without-scotus",
+          "firstSeenAt": "2026-06-30T13:33:30.414Z"
+        }
+      ]
+    },
     {
       "id": "116836451044750555",
       "createdAt": "2026-06-29T21:26:01-04:00",
