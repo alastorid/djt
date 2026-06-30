@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 54 posts._
+
+### [June 30, 2026 at 5:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841104752414661)
+
+> I just spoke with Senator Roger Marshall, and informed him that the Great State of Kansas has been approved to be given $5.5 Million Dollars in its Disaster Declaration Request for Severe Storms in April. I love the incredible people of Kansas, and they will soon have a fantastic Governor in Ty Masterson, who has my Complete and Total Endorsement. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 4:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840999457825464)
 
