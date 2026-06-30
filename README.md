@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [June 29, 2026 at 9:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836438077978555)
+
+> I am pleased to announce the nomination of Anna St. John to serve as a Judge on the U.S. Court of Appeals for the Fifth Circuit. Anna is currently a Judge on the U.S. District Court for the Eastern District of Louisiana, and was previously President and General Counsel of the Hamilton Lincoln Law Institute and Center for Class Action Fairness, where she championed Religious Liberty, Free Speech, and protecting Women’s Sports. Anna is a proud Graduate of LSU and Columbia Law School, and clerked for Judge Rhesa Barksdale. Anna will continue to defend Americans’ Constitutional Rights on the Fifth Circuit. Congratulations Anna! President DONALD J. TRUMP
+
+---
 
 ### [June 29, 2026 at 8:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836206388592062)
 
