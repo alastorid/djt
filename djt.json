@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T23:35:02.834Z",
-  "count": 312,
+  "updatedAt": "2026-06-30T23:40:11.249Z",
+  "count": 313,
   "posts": [
+    {
+      "id": "116841674801545467",
+      "createdAt": "2026-06-30T19:34:29-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116841674801545467",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I just spoke with Governor Brian Kemp, and informed him that the Great State of Georgia has been approved to be given $318.3 Million Dollars in its Disaster Declaration Request related to Hurricane Helene. I love the people of Georgia — My Great Honor. Thank you for your attention to this matter! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-30T23:40:11.249Z"
+        }
+      ]
+    },
     {
       "id": "116841654008131501",
       "createdAt": "2026-06-30T19:29:12-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [June 30, 2026 at 7:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841674801545467)
+
+> I just spoke with Governor Brian Kemp, and informed him that the Great State of Georgia has been approved to be given $318.3 Million Dollars in its Disaster Declaration Request related to Hurricane Helene. I love the people of Georgia — My Great Honor. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 7:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841654008131501)
 
