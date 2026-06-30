@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 54 posts._
+
+### [June 30, 2026 at 1:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840243627255640)
+
+> I would like to congratulate President Xi, and the Great Country of China, on their massive Birthright Citizenship WIN! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 1:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840218534572591)
 
