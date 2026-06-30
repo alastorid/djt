@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 58 posts._
+
+### [June 30, 2026 at 5:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841220861327348)
+
+> BIG NEWS! For the first time ever, the Republican Party will hold a MIDTERM CONVENTION. It will be in Dallas, Texas — One of my favorite places in the World. It will be fantastic! It has never been done before, and will be a truly Historic Event. We are going to celebrate the GREAT AMERICAN COMEBACK, and the incredible successes of the American People who transformed our Country through the America First Agenda — NO TAX ON TIPS, NO TAX ON OVERTIME, NO TAX ON SOCIAL SECURITY, STRONGER BORDERS, SAFEST EVER COMMUNITIES, LOWER COSTS AND REAL AFFORDABILITY, MORE JOBS, AMERICAN ENERGY DOMINANCE, AND SO MUCH MORE! Oil Prices are dropping sharply, even as we Denuclearize Iran. We are delivering on the promises that politicians talked about for decades, but never got done. At the Event, we will have hardworking Americans, our Great Innovators, Entrepreneurs, Manufacturers, First Responders, and Job Creators who are powering our Nation's Golden Age, and proving that America's best days are still ahead of us. We will also have lots of Great Entertainment — It will be a RALLY like none other! America's 250th Birthday is approaching, and together, we are building the foundation for the NEXT 250 YEARS of American Greatness. Dallas will take center stage on September 9th and 10th as we celebrate our Nation, our achievements, and our bright future. THE GOLDEN AGE OF AMERICA HAS ONLY JUST BEGUN! President DONALD J. TRUMP
+
+---
+
+### [June 30, 2026 at 5:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841214962249646)
+
+> I just spoke with Governor Mike Kehoe, and informed him that the Great State of Missouri has been approved to be given $27.6 Million Dollars in its Disaster Declaration Request for Severe Storms, Tornadoes, and Flooding. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [June 30, 2026 at 5:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841212458527385)
+
+> I just spoke with Governor Brad Little (who has my Complete and Total Endorsement for Re-Election!), and informed him that the Great State of Idaho has been approved to be given $4.5 Million Dollars in its Disaster Declaration Request for Severe Storms, Winds, Flooding, and Landslides. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 5:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841146009754730)
 
