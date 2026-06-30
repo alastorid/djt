@@ -5,6 +5,12 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 58 posts._
 
+### [June 30, 2026 at 7:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841584133441515)
+
+> Congratulations to Rachel Campos-Duffy on her new book, “All American Patriotism: Celebrating 250 Years of America’s Greatness!” By sharing personal stories of Patriotism, along with those of her FOX colleagues, Rachel reveals the true Spirit of the U.S.A., how to end this crazy and wrong hatred for America, and renew pride in our GREAT Country, our shared history, and people. Rachel dedicated her book to me, saying: “To President Donald J. Trump, the man who shows us every day how to love; serve; & fight, fight, fight for America!” Thank you Rachel. This book is FANTASTIC — Order today! https://www. foxnews.com/books/all-american -patriotism
+
+---
+
 ### [June 30, 2026 at 6:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841344198975517)
 
 > Since September, my Council of Economic Advisers has been led by the very highly respected Professor Pierre Yared, of Columbia University, as he and his team of “Brainiacs” at the CEA have worked around the clock to Make America WEALTHY Again — with Great Success! Unfortunately, Pierre is returning to Columbia Graduate School where he is greatly respected by all. I want to thank Pierre for his terrific service to our Country, and wish him and his wonderful family all of the best for a healthy and happy future. Pierre is a STAR, and I thank him for his service. THANK YOU PIERRE, AND GOOD LUCK! President DONALD J. TRUMP
@@ -371,12 +377,6 @@ _Last 3 days, newest first. 58 posts._
 ### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
 
 > Great News!!! Julia Letlow WON in Louisiana, beating conclusively a very strong and smart opponent. Congratulations to Julia. She will be a truly GREAT Senator! President DONALD J. TRUMP
-
----
-
-### [June 27, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116824603632739697)
-
-> United States aircraft just struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN! It is very possible that they will never learn! There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
