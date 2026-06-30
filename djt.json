@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-29T23:40:18.377Z",
-  "count": 286,
+  "updatedAt": "2026-06-30T00:26:50.594Z",
+  "count": 287,
   "posts": [
+    {
+      "id": "116836206388592062",
+      "createdAt": "2026-06-29T20:23:48-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116836206388592062",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "A Golden Gift to the White House for its 250th Birthday Year!",
+          "firstSeenAt": "2026-06-30T00:26:50.594Z"
+        }
+      ]
+    },
     {
       "id": "116836032463779667",
       "createdAt": "2026-06-29T19:39:34-04:00",
