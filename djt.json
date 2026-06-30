@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-06-30T21:10:31.874Z",
-  "count": 303,
+  "updatedAt": "2026-06-30T21:20:52.261Z",
+  "count": 304,
   "posts": [
+    {
+      "id": "116841146009754730",
+      "createdAt": "2026-06-30T17:20:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116841146009754730",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I just spoke with Governor Tate Reeves, and informed him that the Great State of Mississippi has been approved to be given $11 Million Dollars in its Disaster Declaration Request for Severe Storms, Winds, Tornadoes, and Flooding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-06-30T21:20:52.261Z"
+        }
+      ]
+    },
     {
       "id": "116841104752414661",
       "createdAt": "2026-06-30T17:09:31-04:00",
