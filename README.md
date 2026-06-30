@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [June 30, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839303401655480)
 
@@ -293,12 +293,6 @@ _Last 3 days, newest first. 47 posts._
 ### [June 27, 2026 at 3:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116823744965970219)
 
 > I am very pleased to announce that I have nominated Lance Schroyer to be our next ICE Director. Lance has over 29 YEARS of Law Enforcement experience in Oklahoma — A State where I WON all 77 Counties in 2016, 2020, and 2024! Lance is a former Oklahoma State Trooper, and United States Marine. He is a PATRIOT with real operational experience, and proven leader with DECADES of experience locking up the worst of the worst, including spearheading 287g Law Enforcement partnerships with ICE! Lance has firsthand experience getting Illegal Aliens OFF our streets and, just like ME and our Secretary of Homeland Security Markwayne Mullin, he LOVES the men and women of ICE. Importantly, Lance Schroyer has what it takes to DETAIN AND DEPORT Illegal Alien Criminals, including murders, rapists, and drug traffickers at a rate never seen before! Remember, our Administration has the HIGHEST Daily Arrest Rate by ICE and CBP than ANY other President, by far. It’s not even close! The Senate must CONFIRM Lance, IMMEDIATELY — Do not delay. Together, we will MAKE AMERICA SAFE AGAIN. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 27, 2026 at 10:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822431539992071)
-
-> Reeling Democratic establishment accuses socialists of exploiting ballot access: https:// justthenews.com/politics-polic y/elections/reeling-democratic-establishment-suggests-policing-primaries-pushing-back
 <!-- DJT_POSTS_END -->
 
 ---
