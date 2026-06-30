@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [June 29, 2026 at 8:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836206388592062)
 
@@ -281,12 +281,6 @@ _Last 3 days, newest first. 45 posts._
 ### [June 27, 2026 at 5:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116821470056250616)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116818915365927435 LOUISIANA: VOTE FOR JULIA TODAY!!! DJT
-
----
-
-### [June 26, 2026 at 9:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116819418021640869)
-
-> John Bolton, a very dumb, unbalanced, and unskilled former representative of the United States of America, just pleads guilty! He is a terrible person, a lunatic who only wanted to start trouble and wars, and who was a needless pusher of death and destruction wherever he went. Hopefully, he will be dealt with harshly! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
