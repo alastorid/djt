@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 47 posts._
 
 ### [June 30, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839303401655480)
 
@@ -299,12 +299,6 @@ _Last 3 days, newest first. 48 posts._
 ### [June 27, 2026 at 10:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822431539992071)
 
 > Reeling Democratic establishment accuses socialists of exploiting ballot access: https:// justthenews.com/politics-polic y/elections/reeling-democratic-establishment-suggests-policing-primaries-pushing-back
-
----
-
-### [June 27, 2026 at 9:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116822415818781534)
-
-> https:// babylonbee.com/news/cubans-liv ing-in-nyc-begin-boarding-rafts-to-escape-communism-agai
 <!-- DJT_POSTS_END -->
 
 ---
