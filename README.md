@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [June 29, 2026 at 9:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836451044750555)
+
+> I am pleased to announce the nomination of Jason Manion to the United States Sentencing Commission. Jason is General Counsel and Senior Advisor to the White House Task Force to Eliminate Fraud. He previously served as Counselor to the Attorney General, and was an Assistant U.S. Attorney for the Northern District of Ohio. Jason was also Deputy Solicitor General of Ohio, and clerked for two esteemed Sixth Circuit Judges, Judge Eric Murphy and Judge Alice Batchelder. A Graduate of Harvard Law School, and Thomas Edison State University, Jason will be a voice for Public Safety and Law and Order on the Sentencing Commission. Congratulations Jason! President DONALD J. TRUMP
+
+---
+
+### [June 29, 2026 at 9:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836444022478348)
+
+> I am pleased to announce the nomination of Judge John Cronan to the United States Sentencing Commission. Judge Cronan is a Highly Respected Judge on the U.S. District Court for the Southern District of New York. Before joining the Bench, Judge Cronan was a Senior Official in the Department of Justice, and a longtime prosecutor in the SDNY, where he was Chief of the Terrorism and International Narcotics Unit. Judge Cronan graduated from Yale Law School and Georgetown University before clerking on both the SDNY and Second Circuit. Judge Cronan’s exemplary career in Law Enforcement will make him a strong asset to the Sentencing Commission. Congratulations John! President DONALD J. TRUMP
+
+---
+
+### [June 29, 2026 at 9:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836441513735171)
+
+> I am pleased to announce the nomination of Justice Gregory Cook to serve as a Judge on the U.S. District Court for the Northern District of Alabama. Greg was elected to the Alabama Supreme Court in 2022. Before joining the Bench, he had a private practice career spanning more than three decades. Greg also served our Country in the United States Air Force, attaining the rank of Captain. Greg is a Graduate of Duke University and Harvard Law School. The people of the Great State of Alabama are in good hands with Greg on the Federal Bench. Congratulations Greg! President DONALD J. TRUMP
+
+---
 
 ### [June 29, 2026 at 9:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836438077978555)
 
