@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [June 30, 2026 at 3:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840714775652406)
+
+> “FREE TINA!” became the rallying cry of the Republican Party over the past two years. Tina Peters just came to the White House to thank me for getting her released from prison in Colorado. She was put there because she found Election Fraud, but instead of arresting the people that committed the Fraud, they arrested her! They gave her nine years in jail, and she served two, much time in solitary confinement along with hardened criminals and murderers, and then I got the Republican Party into gear, and she was released. Tina is 70-years-old, suffered a major bout with cancer, but hopefully is now cancer free. What she went through should never happen to anyone again. Just think of it, she caught the Democrats cheating, and they put her in jail for Voter Fraud. They didn’t want her out there speaking to the Media. She knows that the Voting Machines are RIGGED, that the Mail In Ballots are a DISASTER, and that our Elections are very Dangerous and Corrupt at a time when, with the Threat of Communism, we must be very wise and careful! It was an Honor to have lunch with her. I was fortunate, my Vote in 2024 was TOO BIG TO RIG, but they tried. There wasn’t a thing they could do about it, but not everyone is in that position. Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 1:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840243627255640)
 
