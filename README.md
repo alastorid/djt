@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 53 posts._
+
+### [July 1, 2026 at 6:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116844345882299067)
+
+> Village People singer Victor Willis is dead at 74. He was a great and happy guy who loved that I used his groups song, YMCA, at my Rallies. It became a “monster” hit, again, 30 years after its original launch. Many singers and groups wanted to get on board at the Rallies after all of the Rally Attendance Records were set - The crowds were, and are, enormous - But Victor and the group was there for us right from the beginning! They loved the action, and we loved them and their great and uplifting song. We will think of Victor every time YMCA is played, like today, and all throughout this July Fourth Birthday week. My condolences to his wonderful family and group, Victor Willis will be sorely missed, God Bless Him!!! President DONALD J. TRUMP
+
+---
 
 ### [June 30, 2026 at 7:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841674801545467)
 
