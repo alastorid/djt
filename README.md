@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 49 posts._
 
 ### [July 1, 2026 at 12:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845771905594037)
 
@@ -322,18 +322,6 @@ _Last 3 days, newest first. 51 posts._
 ### [June 28, 2026 at 7:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116830380441356766)
 
 > Exclusive — Secretary Mullin at 100-Day Mark at DHS: ‘Deportations Are Way Up,’ 2026 Stats Set to Outpace ‘Well Past’ 2025 Numbers: https://www. breitbart.com/politics/2026/06 /28/exclusive-secretary-mullin-at-100-day-mark-at-dhs-deportations-are-way-up-2026-stats-set-to-outpace-well-past-2025-numbers/
-
----
-
-### [June 28, 2026 at 4:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829518714038986)
-
-> The FIFA Numbers are far greater than any World Cup in History. This is a Great Tribute to the United States of America. Thank you to all! President DONALD J. TRUMP
-
----
-
-### [June 28, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829505399993127)
-
-> Communism is the Greatest Threat to our Country since World War I, World War II, Pearl Harbor, or 9/11! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
