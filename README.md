@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [July 1, 2026 at 12:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845771905594037)
+
+> How the Republican Senate is not firing the Parliamentarian, who was appointed by Radical Left Senator Harry Reid, and Barack Hussein Obama, is beyond me! She has been ruling unfairly against Republicans for years, and Majority Leader John Thune has the right to do it, immediately. FIRE THE PARLIAMENTARIAN NOW! President DONALD J. TRUMP
+
+---
 
 ### [July 1, 2026 at 12:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845625781087003)
 
