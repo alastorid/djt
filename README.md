@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [June 30, 2026 at 7:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841674801545467)
 
@@ -383,12 +383,6 @@ _Last 3 days, newest first. 60 posts._
 ### [June 27, 2026 at 11:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825695114073072)
 
 > Trump’s election run continues as Letlow wins GOP runoff for Louisiana Senate seat: https:// justthenews.com/politics-polic y/elections/trump-backed-letlow-facing-against-fleming-us-senate-runoff-louisiana
-
----
-
-### [June 27, 2026 at 10:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116825287521580891)
-
-> Great News!!! Julia Letlow WON in Louisiana, beating conclusively a very strong and smart opponent. Congratulations to Julia. She will be a truly GREAT Senator! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
