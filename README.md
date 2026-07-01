@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 52 posts._
 
 ### [July 1, 2026 at 12:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845771905594037)
 
@@ -340,12 +340,6 @@ _Last 3 days, newest first. 53 posts._
 ### [June 28, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829502998078615)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116829500559553610 Our Great National Security Facility and Ballroom is moving along on schedule. When completed, there will be nothing like it anywhere in the World! President DONALD J. TRUMP
-
----
-
-### [June 28, 2026 at 3:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116829276650028561)
-
-> Janeese Lewis George, the Communist who is almost certainly going to be elected Mayor of Washington, D.C., has stated that she wants to empty the prisons, make D.C. a Sanctuary City, oppose ICE, welcome Criminal Illegal Aliens back into our beloved Capital, resist Anti-Crime Crackdowns, Defund the Police, continue and expand Cashless Bail, and so many other Capital destroying “things.” In the end, it will never work out, nor will I let it even have a chance because I have worked too hard to make Washington, D.C., the Envy of the World, with almost No Crime, and a Beautification process that has been second to none. I will meet with Janeese Lewis George, but must forewarn everyone that Washington, D.C., is again a Safe and Prestigious Community. Many people, including myself, have worked long and hard to get it there, and we will not let it be destroyed by a Communist adherent who has no intention to, MAKE WASHINGTON GREAT AGAIN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
