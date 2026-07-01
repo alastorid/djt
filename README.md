@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 48 posts._
 
 ### [July 1, 2026 at 12:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845771905594037)
 
@@ -316,12 +316,6 @@ _Last 3 days, newest first. 49 posts._
 ### [June 28, 2026 at 8:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116830494681072122)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830493710945459
-
----
-
-### [June 28, 2026 at 7:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116830380441356766)
-
-> Exclusive — Secretary Mullin at 100-Day Mark at DHS: ‘Deportations Are Way Up,’ 2026 Stats Set to Outpace ‘Well Past’ 2025 Numbers: https://www. breitbart.com/politics/2026/06 /28/exclusive-secretary-mullin-at-100-day-mark-at-dhs-deportations-are-way-up-2026-stats-set-to-outpace-well-past-2025-numbers/
 <!-- DJT_POSTS_END -->
 
 ---
