@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [July 2, 2026 at 9:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850596821921968)
 
@@ -299,12 +299,6 @@ _Last 3 days, newest first. 46 posts._
 > 3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY DEPLOYMENT, OR TRAVEL!).
 >
 > There is no excuse for a politician, or otherwise, to be against the above three requirements. There is only one reason to oppose — CHEATING! The House of Representatives has approved this vital Act, THREE TIMES. The United States Senate seems unable to do so. In a time when there is a powerful Communist Movement taking place in our Country, one more dangerous than World War I, World War II, Pearl Harbor, or September 11th, all Dumocrats, and our five Republican Senate Hold Outs, Lisa Murkowski, Susan Collins, Thom Tillis, Bill Cassidy, and Mitch McConnell must vote to SAVE OUR COUNTRY. There can be no more excuses! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 10:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833954690924756)
-
-> BIG WIN just moments ago at the Supreme Court, in the Slaughter Case, confirming Presidential Power in our Country to remove Executive Branch Officers and Agency Appointees, or Representatives, under Article II. This Decision was long sought by United States Presidents, dating all the way back to the 1930s. It is such an Honor to be the sitting President who won this Historic and Unprecedented Ruling, one of the most important ever given with respect to Presidential Powers. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
