@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [July 2, 2026 at 9:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850596821921968)
 
@@ -279,12 +279,6 @@ _Last 3 days, newest first. 44 posts._
 ### [June 29, 2026 at 11:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834083672690020)
 
 > The Cook Lawsuit, having to do with her suitability in sitting on the Board of the Federal Reserve, was sent back by the Supreme Court on a strictly procedural basis, we will take appropriate action immediately to make sure that someone who has committed wrongdoing will not be making vital decisions concerning the Welfare of the United States of America! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 11:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834055569312013)
-
-> Surprisingly, the Supreme Court declined to “review” a Fake Case brought against me by a woman I never met (Decades old celebrity photo line, standing with her husband, does not count!). I will continue the fight against this Weaponization and Lawfare Case against me, including the ridiculous claim of Defamation, with all of my power and strength. This Case is really against the United States of America, and all it stands for, and should never be allowed to happen to another President, or Candidate to be! New York State created a Law, for an instant speck of time, going back many decades, in order to wrongfully “nab” me. It was tailormade, and this Injustice cannot be allowed to stand! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
