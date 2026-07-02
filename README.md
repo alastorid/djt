@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [July 2, 2026 at 9:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850596821921968)
 
@@ -285,20 +285,6 @@ _Last 3 days, newest first. 45 posts._
 ### [June 29, 2026 at 11:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834055569312013)
 
 > Surprisingly, the Supreme Court declined to “review” a Fake Case brought against me by a woman I never met (Decades old celebrity photo line, standing with her husband, does not count!). I will continue the fight against this Weaponization and Lawfare Case against me, including the ridiculous claim of Defamation, with all of my power and strength. This Case is really against the United States of America, and all it stands for, and should never be allowed to happen to another President, or Candidate to be! New York State created a Law, for an instant speck of time, going back many decades, in order to wrongfully “nab” me. It was tailormade, and this Injustice cannot be allowed to stand! Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 11:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834002761429397)
-
-> In light of the tremendous loss in the Supreme Court today concerning Voter’s Rights, and the fact that “people’s” votes are allowed to be counted LONG AFTER an Election is over, it is more important than ever to pass THE SAVE AMERICA ACT, which is,
->
-> 1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).
->
-> 2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.
->
-> 3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY DEPLOYMENT, OR TRAVEL!).
->
-> There is no excuse for a politician, or otherwise, to be against the above three requirements. There is only one reason to oppose — CHEATING! The House of Representatives has approved this vital Act, THREE TIMES. The United States Senate seems unable to do so. In a time when there is a powerful Communist Movement taking place in our Country, one more dangerous than World War I, World War II, Pearl Harbor, or September 11th, all Dumocrats, and our five Republican Senate Hold Outs, Lisa Murkowski, Susan Collins, Thom Tillis, Bill Cassidy, and Mitch McConnell must vote to SAVE OUR COUNTRY. There can be no more excuses! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
