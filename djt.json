@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-02T12:05:44.553Z",
-  "count": 322,
+  "updatedAt": "2026-07-02T13:28:30.442Z",
+  "count": 323,
   "posts": [
+    {
+      "id": "116850596821921968",
+      "createdAt": "2026-07-02T09:23:28-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116850596821921968",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
+          "firstSeenAt": "2026-07-02T13:28:30.442Z"
+        }
+      ]
+    },
     {
       "id": "116850279579552155",
       "createdAt": "2026-07-02T08:02:47-04:00",
