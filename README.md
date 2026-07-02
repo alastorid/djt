@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [July 2, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850279579552155)
 
@@ -299,12 +299,6 @@ _Last 3 days, newest first. 46 posts._
 ### [June 29, 2026 at 10:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833954690924756)
 
 > BIG WIN just moments ago at the Supreme Court, in the Slaughter Case, confirming Presidential Power in our Country to remove Executive Branch Officers and Agency Appointees, or Representatives, under Article II. This Decision was long sought by United States Presidents, dating all the way back to the 1930s. It is such an Honor to be the sitting President who won this Historic and Unprecedented Ruling, one of the most important ever given with respect to Presidential Powers. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 9:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833596711045418)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116833595973466644
 <!-- DJT_POSTS_END -->
 
 ---
