@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [July 1, 2026 at 8:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847662330084420)
+
+> Breitbart's @jonkahnmusic wrote the #1 song, "Fighter,” and now he and Michael Farren have an incredible new song for America 250. Everyone should listen to "The United Saints of America,” and be proud of our Great Nation! President DONALD J. TRUMP
+>  https://www. breitbart.com/america250/2026/ 07/01/united-saints-of-america-trump-inspired-fighter-singer-jon-kahn-nashville-hit-maker-michael-farren-release-patriotic-anthem-ahead-of-americas-250/
+
+---
 
 ### [July 1, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847640860677495)
 
