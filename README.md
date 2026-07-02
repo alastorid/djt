@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
 
@@ -335,12 +335,6 @@ _Last 3 days, newest first. 52 posts._
 ### [June 28, 2026 at 10:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116831104490275644)
 
 > Great painting!!  President DJT
-
----
-
-### [June 28, 2026 at 10:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116830982622038793)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116830981377783021
 <!-- DJT_POSTS_END -->
 
 ---
