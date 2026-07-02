@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 48 posts._
 
 ### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
 
@@ -317,12 +317,6 @@ _Last 3 days, newest first. 49 posts._
 ### [June 29, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833127066912322)
 
 > GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT
-
----
-
-### [June 29, 2026 at 6:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116832995541119171)
-
-> Highest Poll Numbers Ever. Even Higher than Election Day, November 5th. This despite the fact that, IRAN WILL NOT HAVE A NUCLEAR WEAPON!
 <!-- DJT_POSTS_END -->
 
 ---
