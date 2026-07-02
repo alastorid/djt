@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-02T00:59:06.032Z",
-  "count": 320,
+  "updatedAt": "2026-07-02T02:01:09.295Z",
+  "count": 321,
   "posts": [
+    {
+      "id": "116847906594604040",
+      "createdAt": "2026-07-01T21:59:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116847906594604040",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "S&P 500 closes with strongest quarter since 2020: https:// justthenews.com/politics-polic y/finance/sp-500-closes-strongest-quarter-2020",
+          "firstSeenAt": "2026-07-02T02:01:09.295Z"
+        }
+      ]
+    },
     {
       "id": "116847662330084420",
       "createdAt": "2026-07-01T20:57:11-04:00",

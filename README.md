@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 52 posts._
+
+### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
+
+> S&P 500 closes with strongest quarter since 2020: https:// justthenews.com/politics-polic y/finance/sp-500-closes-strongest-quarter-2020
+
+---
 
 ### [July 1, 2026 at 8:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847662330084420)
 
