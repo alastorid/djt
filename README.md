@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [July 2, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850279579552155)
+
+> The United States spends more money on NATO than any other country, by far, to protect them, without getting any benefit from so doing: U.S. 999 Billion Dollars, United Kingdom, 90.5 Billion Dollars, France, 66.5 Billion Dollars, Italy, 48.8 Billion Dollars, Poland, 44.3 Billion Dollars. Others, including Germany, are MUCH LOWER. (2014-2025) Ridiculous! President DJT
+
+---
 
 ### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
 
