@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
 
@@ -305,18 +305,6 @@ _Last 3 days, newest first. 48 posts._
 ### [June 29, 2026 at 7:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833168246538290)
 
 > IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA! President DJT
-
----
-
-### [June 29, 2026 at 7:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833138299035157)
-
-> WTI CRUDE - $69, and heading down. This is less than it was prior to the start of the Denuclearization of Iran! President DJT
-
----
-
-### [June 29, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116833127066912322)
-
-> GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
