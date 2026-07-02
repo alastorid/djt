@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 50 posts._
+
+### [July 1, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847640860677495)
+
+> Hegseth: We must spend big on defense to save America’s economic might: https:// nypost.com/2026/06/23/opinion/ hegseth-we-must-spend-big-on-defense-to-save-americas-economic-might/
+
+---
+
+### [July 1, 2026 at 8:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847638833780246)
+
+> This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!
+
+---
 
 ### [July 1, 2026 at 7:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847413162359390)
 

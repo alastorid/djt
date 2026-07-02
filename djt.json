@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-01T23:56:50.900Z",
-  "count": 317,
+  "updatedAt": "2026-07-02T00:53:55.584Z",
+  "count": 319,
   "posts": [
+    {
+      "id": "116847640860677495",
+      "createdAt": "2026-07-01T20:51:44-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116847640860677495",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Hegseth: We must spend big on defense to save America’s economic might: https:// nypost.com/2026/06/23/opinion/ hegseth-we-must-spend-big-on-defense-to-save-americas-economic-might/",
+          "firstSeenAt": "2026-07-02T00:53:55.584Z"
+        }
+      ]
+    },
+    {
+      "id": "116847638833780246",
+      "createdAt": "2026-07-01T20:51:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116847638833780246",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This was a typical day on the Border under the Sleepy Joe Biden Administration with “Border Czar” Kamala Harris!",
+          "firstSeenAt": "2026-07-02T00:53:55.584Z"
+        }
+      ]
+    },
     {
       "id": "116847413162359390",
       "createdAt": "2026-07-01T19:53:49-04:00",
