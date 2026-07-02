@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [July 2, 2026 at 9:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850596821921968)
 
@@ -267,18 +267,6 @@ _Last 3 days, newest first. 43 posts._
 ### [June 29, 2026 at 2:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834854601794123)
 
 > Today’s Historic Slaughter Decision by the Supreme Court is the Greatest Increase in Presidential Power in the last 100 years. Such a Monumental Ruling at such an important time! President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 11:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834086981971752)
-
-> To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVOCALLY OVERRULED, greatly increasing Presidential Power at a time when it is most needed! President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 11:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116834083672690020)
-
-> The Cook Lawsuit, having to do with her suitability in sitting on the Board of the Federal Reserve, was sent back by the Supreme Court on a strictly procedural basis, we will take appropriate action immediately to make sure that someone who has committed wrongdoing will not be making vital decisions concerning the Welfare of the United States of America! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
