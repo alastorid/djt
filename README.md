@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [July 2, 2026 at 1:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116851640807022172)
 
@@ -255,12 +255,6 @@ _Last 3 days, newest first. 40 posts._
 ### [June 29, 2026 at 7:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836032463779667)
 
 > Gasoline Retailers must get their Prices down, IMMEDIATELY! They’re too high considering that Oil is now at $68 a Barrel, and heading south. The Retailers must quickly react to this statement, and do what they know is right — DROP YOUR PRICE FOR OUR GREAT AMERICAN PEOPLE! There will be no gauging, which is totally illegal. If Retailers don’t do this, big problems lie ahead! Start targeting around the $2.50 a Gallon number, and California should stop charging such heavy Taxes on their Gasoline. Soon the Tax will be higher than the Product itself, and the United States will not stand for it, nor will the People of California, who are being abused by these ridiculous Taxes, and by their own Government. President DONALD J. TRUMP
-
----
-
-### [June 29, 2026 at 6:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116835841525431179)
-
-> It is my Great Honor to announce that I am nominating Keith E. Sonderling, the outstanding Acting United States Secretary of Labor, to be permanent. Keith previously served as Deputy Secretary and Chief Operating Officer and, during my First Term, worked at the U.S. Department of Labor as the Acting and Deputy Administrator of the U.S. Department of Labor's Wage and Hour Division. Throughout his career, Keith has proven his dedication to delivering strong results for the Hardworking People of our Country, and I know he will do an incredible job in his new role. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
