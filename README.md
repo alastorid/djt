@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
 
@@ -220,12 +220,6 @@ _Last 3 days, newest first. 34 posts._
 ### [June 30, 2026 at 12:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839981384247632)
 
 > The Supreme Court upheld Birthright Citizenship, which is too bad for our Country, but we can easily make it up in Congress through Legislation, with the support of the President, that has now been determined during this process. No long and unwieldy Constitutional Amendment is necessary! Congress should start TODAY to work on ending expensive and unfair to our Country, Birthright Citizenship. They will have my Complete and Total Support! President DONALD J. TRUMP
-
----
-
-### [June 30, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839637737375696)
-
-> The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
