@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
+
+> Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not reciprocal. They were not there for us!!! President DJT
+
+---
 
 ### [July 2, 2026 at 9:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853560701003246)
 
