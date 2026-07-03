@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 2, 2026 at 1:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116851640807022172)
 
@@ -219,12 +219,6 @@ _Last 3 days, newest first. 34 posts._
 ### [June 30, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839303401655480)
 
 > Trump’s efforts to reverse birthright citizenship may succeed with or without SCOTUS: https:// justthenews.com/government/whi te-house/trumps-efforts-reverse-birthright-citizenship-can-succeed-or-without-scotus
-
----
-
-### [June 29, 2026 at 9:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116836451044750555)
-
-> I am pleased to announce the nomination of Jason Manion to the United States Sentencing Commission. Jason is General Counsel and Senior Advisor to the White House Task Force to Eliminate Fraud. He previously served as Counselor to the Attorney General, and was an Assistant U.S. Attorney for the Northern District of Ohio. Jason was also Deputy Solicitor General of Ohio, and clerked for two esteemed Sixth Circuit Judges, Judge Eric Murphy and Judge Alice Batchelder. A Graduate of Harvard Law School, and Thomas Edison State University, Jason will be a voice for Public Safety and Law and Order on the Sentencing Commission. Congratulations Jason! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
