@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-02T17:53:49.744Z",
-  "count": 324,
+  "updatedAt": "2026-07-03T01:55:23.799Z",
+  "count": 325,
   "posts": [
+    {
+      "id": "116853549264630885",
+      "createdAt": "2026-07-02T21:54:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116853549264630885",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I am thrilled to announce the opening of SPIRIT OF ’76 at FREEDOM PLAZA, a new Exhibition in Washington, D.C., honoring the Heroes and Martyrs of the American Revolution. This Exhibition includes a series of statues, including an equestrian statue of Founding Father Caesar Rodney, 12 Soldiers of the Revolution, and a set of reliefs honoring the Prison Ship Martyrs — The nearly 12,000 Americans who lost their lives aboard British ships in conditions of unimaginable deprivation, squalor, and disease. More Americans died on these prison ships than in all of the War’s battles combined — Many of whom willingly endured suffering and death rather than renounce the Patriot cause. The Exhibition is anchored by a central bronze statue, “Spirit of Liberty,” which is crowned in a wreath of victory, and powerfully wielding the Declaration of Independence and a sword pointed to the sky. Everyone should see this new Exhibition!\nAs we prepare to celebrate the 250th Birthday of our beloved Country, these statues and monuments now stand prominently in the heart of our Nation’s Capital as a celebration of the 250-year Triumph of the American Spirit, which is now STRONGER, GREATER, and MORE GLORIOUS than ever before!",
+          "firstSeenAt": "2026-07-03T01:55:23.799Z"
+        }
+      ]
+    },
     {
       "id": "116851640807022172",
       "createdAt": "2026-07-02T13:48:58-04:00",
