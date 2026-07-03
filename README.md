@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
 
@@ -136,12 +136,6 @@ _Last 3 days, newest first. 23 posts._
 ### [June 30, 2026 at 6:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841336987145523)
 
 > I just spoke with Congressman Tom Tiffany (who has my Complete and Total Endorsement for Governor!), and informed him that the Great State of Wisconsin has been approved to be given $22.6 Million Dollars in its Disaster Declaration Request, for Severe Storms, Tornadoes, and Flooding. The wonderful people of Wisconsin are in good hands with Tom, alongside Senator Ron Johnson, and “Trump Endorsed” Congressmen Bryan Steil, Derrick Van Orden, Scott Fitzgerald, Glenn Grothman, and Tony Wied. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 30, 2026 at 5:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841220861327348)
-
-> BIG NEWS! For the first time ever, the Republican Party will hold a MIDTERM CONVENTION. It will be in Dallas, Texas — One of my favorite places in the World. It will be fantastic! It has never been done before, and will be a truly Historic Event. We are going to celebrate the GREAT AMERICAN COMEBACK, and the incredible successes of the American People who transformed our Country through the America First Agenda — NO TAX ON TIPS, NO TAX ON OVERTIME, NO TAX ON SOCIAL SECURITY, STRONGER BORDERS, SAFEST EVER COMMUNITIES, LOWER COSTS AND REAL AFFORDABILITY, MORE JOBS, AMERICAN ENERGY DOMINANCE, AND SO MUCH MORE! Oil Prices are dropping sharply, even as we Denuclearize Iran. We are delivering on the promises that politicians talked about for decades, but never got done. At the Event, we will have hardworking Americans, our Great Innovators, Entrepreneurs, Manufacturers, First Responders, and Job Creators who are powering our Nation's Golden Age, and proving that America's best days are still ahead of us. We will also have lots of Great Entertainment — It will be a RALLY like none other! America's 250th Birthday is approaching, and together, we are building the foundation for the NEXT 250 YEARS of American Greatness. Dallas will take center stage on September 9th and 10th as we celebrate our Nation, our achievements, and our bright future. THE GOLDEN AGE OF AMERICA HAS ONLY JUST BEGUN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
