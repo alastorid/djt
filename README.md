@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
 
@@ -226,12 +226,6 @@ _Last 3 days, newest first. 35 posts._
 ### [June 30, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839637737375696)
 
 > The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more importantly, The First Amendment! President DONALD J. TRUMP
-
----
-
-### [June 30, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116839596876971289)
-
-> BIG WIN: The United States Supreme Court just RULED AGAINST MEN PLAYING IN WOMEN’S SPORTS. Wow! That takes that ridiculous situation off the table!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
