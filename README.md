@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 19 posts._
+_Last 3 days, newest first. 18 posts._
 
 ### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
 
@@ -112,12 +112,6 @@ _Last 3 days, newest first. 19 posts._
 ### [June 30, 2026 at 7:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841654008131501)
 
 > I am pleased to announce that the Great State of Michigan has been approved to be given $32.1 Million Dollars in its Disaster Declaration Request, for Severe Storms, Tornadoes, and Flooding. I have so informed Governor Gretchen Whitmer of this approval. She was very grateful. The people of Michigan are in good hands with “Trump Endorsed” Mike Rogers, who is running for U.S. Senate, John James for Governor, and Congressmen Jack Bergman, John Moolenaar, Bill Huizenga, Tim Walberg, Tom Barrett, and Lisa McClain. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 30, 2026 at 7:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841584133441515)
-
-> Congratulations to Rachel Campos-Duffy on her new book, “All American Patriotism: Celebrating 250 Years of America’s Greatness!” By sharing personal stories of Patriotism, along with those of her FOX colleagues, Rachel reveals the true Spirit of the U.S.A., how to end this crazy and wrong hatred for America, and renew pride in our GREAT Country, our shared history, and people. Rachel dedicated her book to me, saying: “To President Donald J. Trump, the man who shows us every day how to love; serve; & fight, fight, fight for America!” Thank you Rachel. This book is FANTASTIC — Order today! https://www. foxnews.com/books/all-american -patriotism
 <!-- DJT_POSTS_END -->
 
 ---
