@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-03T19:29:14.388Z",
-  "count": 328,
+  "updatedAt": "2026-07-03T20:05:25.713Z",
+  "count": 329,
   "posts": [
+    {
+      "id": "116857829999876676",
+      "createdAt": "2026-07-03T16:02:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116857829999876676",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Justin Gaethje came to the Oval Office to celebrate, with his parents, his Great Victory two weeks ago. It was one of the Highest Rated Fights in the History of Television, and what a Fight it was! Great Honor to see The Champ – He beat another truly Great Fighter who had never lost before. President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-03T20:05:25.713Z"
+        }
+      ]
+    },
     {
       "id": "116857677816767526",
       "createdAt": "2026-07-03T15:24:16-04:00",

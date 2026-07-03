@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
+
+> Justin Gaethje came to the Oval Office to celebrate, with his parents, his Great Victory two weeks ago. It was one of the Highest Rated Fights in the History of Television, and what a Fight it was! Great Honor to see The Champ – He beat another truly Great Fighter who had never lost before. President DONALD J. TRUMP
+
+---
 
 ### [July 3, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857677816767526)
 
