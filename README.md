@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 31 posts._
 
 ### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
 
@@ -208,12 +208,6 @@ _Last 3 days, newest first. 32 posts._
 > Jeff Hurd has my Complete and Total Endorsement for Re-Election. Election Day for the Republican Primary is TODAY. GET OUT AND VOTE FOR JEFF — HE WILL NOT LET YOU DOWN!
 >
 > Find your Voting Location here: https:// swampthevoteusa.com/colorado/
-
----
-
-### [June 30, 2026 at 12:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116840065501020055)
-
-> The biggest and most consequential Decision issued by the Court, by far, is the Slaughter Case, which overturned the very famous Humphrey’s Executor Rule. This whole concept of “Power” has been fought over for nearly 100 years, going all the way back to Franklin Delanor Roosevelt, where a large slice of his Power was taken away. He fought to regain it, even wanting to “pack the Court,” but was unsuccessful in doing so. This Decision gives tremendous additional Power back to the Presidency, where it belongs. It is an Honor to be the sitting President who, after all these years, WON this very important, and hard fought, Case. We had other good Victories, too, and we also had the Birthright Citizenship loss, which we will work to correct in Congress, but the big SLAUGHTER, was SLAUGHTER. The Republican Party was treated very fairly by the United States Supreme Court. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
