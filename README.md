@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 16 posts._
+_Last 3 days, newest first. 17 posts._
+
+### [July 3, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858724269653893)
+
+> Acting DNI Pulte fires dozens of intelligence officials: https://www. cnbc.com/2026/07/03/acting-dni -pulte-fires-dozens-of-intelligence-officials-ms-now.html
+
+---
 
 ### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
 

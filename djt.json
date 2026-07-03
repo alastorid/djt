@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-03T20:05:25.713Z",
-  "count": 329,
+  "updatedAt": "2026-07-03T23:52:55.501Z",
+  "count": 330,
   "posts": [
+    {
+      "id": "116858724269653893",
+      "createdAt": "2026-07-03T19:50:23-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116858724269653893",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Acting DNI Pulte fires dozens of intelligence officials: https://www. cnbc.com/2026/07/03/acting-dni -pulte-fires-dozens-of-intelligence-officials-ms-now.html",
+          "firstSeenAt": "2026-07-03T23:52:55.501Z"
+        }
+      ]
+    },
     {
       "id": "116857829999876676",
       "createdAt": "2026-07-03T16:02:58-04:00",
