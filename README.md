@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
 
@@ -154,12 +154,6 @@ _Last 3 days, newest first. 26 posts._
 ### [June 30, 2026 at 5:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841212458527385)
 
 > I just spoke with Governor Brad Little (who has my Complete and Total Endorsement for Re-Election!), and informed him that the Great State of Idaho has been approved to be given $4.5 Million Dollars in its Disaster Declaration Request for Severe Storms, Winds, Flooding, and Landslides. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [June 30, 2026 at 5:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116841146009754730)
-
-> I just spoke with Governor Tate Reeves, and informed him that the Great State of Mississippi has been approved to be given $11 Million Dollars in its Disaster Declaration Request for Severe Storms, Winds, Tornadoes, and Flooding. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
