@@ -3,7 +3,21 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 19 posts._
+_Last 3 days, newest first. 21 posts._
+
+### [July 3, 2026 at 9:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859014229427354)
+
+> Republicans, look what I just found! The Dumocrats are openly stating that they plan to TERMINATE THE FILIBUSTER if they ever take power, and EXPAND THE SUPREME COURT. In other words, they will add two Radical Left States, 4 Dumocrat Senators, many Congressmen/women, their dream of 21 Supreme Court Justices (Not just 13, an unlucky number!), an impossible to beat number of Electoral College Votes (and that’s the Ballgame!), “Popular” Vote Landslides, and so much else. The Republican Party will never win another Election. How much longer are you going to allow this to happen to you? They will TERMINATE THE FILIBUSTER in their first hour, and I’ll be sitting home with tears in my eyes saying, “I TOLD YOU SO!”
+>
+> Key House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895
+
+---
+
+### [July 3, 2026 at 9:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859006382890396)
+
+> THE TRUMP ECONOMY IS SOARING! The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans’ 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning — and we are just getting started! President DONALD J. TRUMP
+
+---
 
 ### [July 3, 2026 at 8:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858929249586679)
 
