@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 21 posts._
+
+### [July 4, 2026 at 2:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863219932335821)
+
+> Despite the heat, which isn’t as bad as predicted, the crowds in D.C. are INCREDIBLE! The love of our Country has never been stronger! The Air Shows are at a level never seen before - What great pilots, what great equipment!!! See you all later! Speaking at around 10:00 P.M. at The Lincoln Memorial. The Reflecting Pool looks great, despite all it went through with the Vandal Thugs. Will quickly drain and fix the damage done right after this big weekend. Happy Independence Day. Our Country is Stronger than EVER!!! President DONALD J. TRUMP
+
+---
 
 ### [July 4, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116862309953442713)
 
