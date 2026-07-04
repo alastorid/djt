@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-04T00:08:20.573Z",
-  "count": 331,
+  "updatedAt": "2026-07-04T00:44:27.288Z",
+  "count": 332,
   "posts": [
+    {
+      "id": "116858929249586679",
+      "createdAt": "2026-07-03T20:42:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116858929249586679",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The Communist Party is made up of Illegal Immigrants, Criminals, and Everybody That Doesn’t Want to Work! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-04T00:44:27.288Z"
+        }
+      ]
+    },
     {
       "id": "116858774244974608",
       "createdAt": "2026-07-03T20:03:06-04:00",

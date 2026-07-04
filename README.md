@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 19 posts._
+
+### [July 3, 2026 at 8:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858929249586679)
+
+> The Communist Party is made up of Illegal Immigrants, Criminals, and Everybody That Doesn’t Want to Work! President DONALD J. TRUMP
+
+---
 
 ### [July 3, 2026 at 8:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858774244974608)
 
