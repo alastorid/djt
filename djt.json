@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-04T02:12:15.046Z",
-  "count": 335,
+  "updatedAt": "2026-07-04T15:05:48.998Z",
+  "count": 336,
   "posts": [
+    {
+      "id": "116862309953442713",
+      "createdAt": "2026-07-04T11:02:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116862309953442713",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Has anyone ever seen a Happy Dumocrat? President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-04T15:05:48.998Z"
+        }
+      ]
+    },
     {
       "id": "116859272442865972",
       "createdAt": "2026-07-03T22:09:48-04:00",
