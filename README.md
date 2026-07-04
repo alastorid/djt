@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [July 4, 2026 at 2:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863241061573145)
+
+> Europe is learning that when you take in Third World criminals, you become a Third World Country. It happens quickly, in just a blink of the eye. I was elected just in time!!! President DJT
+
+---
 
 ### [July 4, 2026 at 2:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863219932335821)
 
