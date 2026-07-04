@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [July 4, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116862309953442713)
 
@@ -132,12 +132,6 @@ _Last 3 days, newest first. 22 posts._
 ### [July 1, 2026 at 12:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845771905594037)
 
 > How the Republican Senate is not firing the Parliamentarian, who was appointed by Radical Left Senator Harry Reid, and Barack Hussein Obama, is beyond me! She has been ruling unfairly against Republicans for years, and Majority Leader John Thune has the right to do it, immediately. FIRE THE PARLIAMENTARIAN NOW! President DONALD J. TRUMP
-
----
-
-### [July 1, 2026 at 12:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116845625781087003)
-
-> BIG NEWS! Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary! This MASSIVE Investment will help MILLIONS of American children and families get a strong start in life, and give them REAL Financial Security. Micron is investing directly in the American Worker and Family! This is exactly what the fabulously successful TRUMP ACCOUNTS were created to do — Give every American Child a headstart, and a real chance to succeed. My Policies are WORKING, and working “BIG.” Our Country is doing far better than any country, anywhere in the World, and Companies like Micron are proving it every single day. THIS IS THE GOLDEN AGE OF AMERICA! Thank you for your attention to this matter. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
