@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [July 3, 2026 at 10:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859272442865972)
+
+> Heading to beautiful Mount Rushmore to speak, shortly. Big Crowd! On all TV. Enjoy! President DJT
+
+---
 
 ### [July 3, 2026 at 9:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859014229427354)
 

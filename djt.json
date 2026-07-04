@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-04T01:05:06.295Z",
-  "count": 334,
+  "updatedAt": "2026-07-04T02:12:15.046Z",
+  "count": 335,
   "posts": [
+    {
+      "id": "116859272442865972",
+      "createdAt": "2026-07-03T22:09:48-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116859272442865972",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Heading to beautiful Mount Rushmore to speak, shortly. Big Crowd! On all TV. Enjoy! President DJT",
+          "firstSeenAt": "2026-07-04T02:12:15.046Z"
+        }
+      ]
+    },
     {
       "id": "116859014229427354",
       "createdAt": "2026-07-03T21:04:08-04:00",
