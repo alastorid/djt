@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [July 4, 2026 at 5:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863876220138991)
+
+> Liberty has prevailed here because of the culture and the character of the people who declared it, defended it, and preserved it—We reach a milestone like no other and celebrate with joyful hearts and soaring spirits…
+
+---
 
 ### [July 4, 2026 at 2:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863241061573145)
 

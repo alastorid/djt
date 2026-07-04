@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-04T19:03:39.749Z",
-  "count": 338,
+  "updatedAt": "2026-07-04T21:43:42.881Z",
+  "count": 339,
   "posts": [
+    {
+      "id": "116863876220138991",
+      "createdAt": "2026-07-04T17:40:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116863876220138991",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Liberty has prevailed here because of the culture and the character of the people who declared it, defended it, and preserved it—We reach a milestone like no other and celebrate with joyful hearts and soaring spirits…",
+          "firstSeenAt": "2026-07-04T21:43:42.881Z"
+        }
+      ]
+    },
     {
       "id": "116863241061573145",
       "createdAt": "2026-07-04T14:59:04-04:00",
