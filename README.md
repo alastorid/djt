@@ -3,7 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [July 5, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868041130930649)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706
+
+---
+
+### [July 5, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868040466267706)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716
+
+---
+
+### [July 5, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868035089942232)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966
+
+---
+
+### [July 5, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868034274777966)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283
+
+---
 
 ### [July 5, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868022324870960)
 

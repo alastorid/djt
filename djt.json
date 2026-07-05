@@ -6,9 +6,73 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T15:17:08.486Z",
-  "count": 347,
+  "updatedAt": "2026-07-05T15:22:21.575Z",
+  "count": 351,
   "posts": [
+    {
+      "id": "116868041130930649",
+      "createdAt": "2026-07-05T11:19:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868041130930649",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706",
+          "firstSeenAt": "2026-07-05T15:22:21.575Z"
+        }
+      ]
+    },
+    {
+      "id": "116868040466267706",
+      "createdAt": "2026-07-05T11:19:37-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868040466267706",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716",
+          "firstSeenAt": "2026-07-05T15:22:21.575Z"
+        }
+      ]
+    },
+    {
+      "id": "116868035089942232",
+      "createdAt": "2026-07-05T11:18:15-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868035089942232",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966",
+          "firstSeenAt": "2026-07-05T15:22:21.575Z"
+        }
+      ]
+    },
+    {
+      "id": "116868034274777966",
+      "createdAt": "2026-07-05T11:18:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868034274777966",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283",
+          "firstSeenAt": "2026-07-05T15:22:21.575Z"
+        }
+      ]
+    },
     {
       "id": "116868022324870960",
       "createdAt": "2026-07-05T11:15:00-04:00",
