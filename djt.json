@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T21:03:52.901Z",
-  "count": 389,
+  "updatedAt": "2026-07-05T21:24:38.110Z",
+  "count": 390,
   "posts": [
+    {
+      "id": "116869463498698433",
+      "createdAt": "2026-07-05T17:21:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116869463498698433",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116869462082097713",
+          "firstSeenAt": "2026-07-05T21:24:38.110Z"
+        }
+      ]
+    },
     {
       "id": "116869375257278579",
       "createdAt": "2026-07-05T16:59:04-04:00",
