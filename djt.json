@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T20:27:46.440Z",
-  "count": 388,
+  "updatedAt": "2026-07-05T21:03:52.901Z",
+  "count": 389,
   "posts": [
+    {
+      "id": "116869375257278579",
+      "createdAt": "2026-07-05T16:59:04-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116869375257278579",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Justin Gaethje after his Big Victory, and attaining the UFC World Championship, at the front door of the White House. He is a Great Fighter! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-05T21:03:52.901Z"
+        }
+      ]
+    },
     {
       "id": "116869247017804299",
       "createdAt": "2026-07-05T16:26:28-04:00",
