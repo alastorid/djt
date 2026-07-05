@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 58 posts._
+_Last 3 days, newest first. 59 posts._
+
+### [July 5, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868490571213527)
+
+> Thank you to FIFA for doing what was right, and reversing a great injustice! President DONALD J. TRUMP
+
+---
 
 ### [July 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868328903806318)
 

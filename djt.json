@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T16:35:02.645Z",
-  "count": 381,
+  "updatedAt": "2026-07-05T17:16:25.766Z",
+  "count": 382,
   "posts": [
+    {
+      "id": "116868490571213527",
+      "createdAt": "2026-07-05T13:14:05-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868490571213527",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you to FIFA for doing what was right, and reversing a great injustice! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-05T17:16:25.766Z"
+        }
+      ]
+    },
     {
       "id": "116868328903806318",
       "createdAt": "2026-07-05T12:32:58-04:00",
