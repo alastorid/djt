@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T16:24:33.553Z",
-  "count": 377,
+  "updatedAt": "2026-07-05T16:29:47.945Z",
+  "count": 379,
   "posts": [
+    {
+      "id": "116868310583775832",
+      "createdAt": "2026-07-05T12:28:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868310583775832",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "First Statue for Triumphal Arch — Amazing!",
+          "firstSeenAt": "2026-07-05T16:29:47.945Z"
+        }
+      ]
+    },
+    {
+      "id": "116868294476750006",
+      "createdAt": "2026-07-05T12:24:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868294476750006",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605 Number 1 on TikTok!",
+          "firstSeenAt": "2026-07-05T16:29:47.945Z"
+        }
+      ]
+    },
     {
       "id": "116868292534134605",
       "createdAt": "2026-07-05T12:23:43-04:00",

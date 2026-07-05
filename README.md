@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 56 posts._
+
+### [July 5, 2026 at 12:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868310583775832)
+
+> First Statue for Triumphal Arch — Amazing!
+
+---
+
+### [July 5, 2026 at 12:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868294476750006)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605 Number 1 on TikTok!
+
+---
 
 ### [July 5, 2026 at 12:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868292534134605)
 
