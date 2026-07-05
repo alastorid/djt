@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [July 5, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116865509906385097)
 
@@ -131,12 +131,6 @@ _Last 3 days, newest first. 22 posts._
 ### [July 2, 2026 at 9:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850596821921968)
 
 > How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT
-
----
-
-### [July 2, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850279579552155)
-
-> The United States spends more money on NATO than any other country, by far, to protect them, without getting any benefit from so doing: U.S. 999 Billion Dollars, United Kingdom, 90.5 Billion Dollars, France, 66.5 Billion Dollars, Italy, 48.8 Billion Dollars, Poland, 44.3 Billion Dollars. Others, including Germany, are MUCH LOWER. (2014-2025) Ridiculous! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
