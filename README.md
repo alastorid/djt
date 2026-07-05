@@ -3,7 +3,43 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [July 5, 2026 at 11:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868104541429027)
+
+> Exclusive — Leading UN Secretary General Candidate Macky Sall Backs ‘Peace Builder’ Donald Trump’s Push for Reforms: ‘Make the UN Great Again’: https://www. breitbart.com/politics/2026/06 /21/exclusive-leading-un-secretary-general-candidate-macky-sall-backs-peace-builder-donald-trumps-push-for-reforms-make-the-un-great-again/
+
+---
+
+### [July 5, 2026 at 11:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868102796678428)
+
+> Harvard-Harris poll: Clear majority of Americans favor mass deportation: https:// worldtribune.com/harvard-harri s-poll-clear-majority-of-americans-favor-mass-deportation/
+
+---
+
+### [July 5, 2026 at 11:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868101287636876)
+
+> The EU’s deforestation regulation: textbook over-regulation that Draghi warned against - by Andrew Puzder: https:// agenceurope.eu/en/bulletin/art icle/13894/39/the-eus-deforestation-regulation-textbook-over-regulation-that-draghi-warned-against-by-andrew-puzder
+
+---
+
+### [July 5, 2026 at 11:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868100168152887)
+
+> EXCLUSIVE — Trump says of Pennsylvania’s economic reinvention: ‘Welcome to the Money Belt’: https://www. washingtonexaminer.com/opinion /4623094/trump-pennsylvania-economic-reinvention-money-belt/
+
+---
+
+### [July 5, 2026 at 11:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868098285138461)
+
+> Loser George Conway got crushed!
+
+---
+
+### [July 5, 2026 at 11:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868097291651141)
+
+> World Cup already sets new attendance record, will shatter total attendance mark by end of tourney: https://www. sportsbusinessjournal.com/Arti cles/2026/06/26/world-cup-already-sets-new-attendance-record-will-shatter-total-attendance-mark-by-end-of-tourney/
+
+---
 
 ### [July 5, 2026 at 11:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868074827104487)
 
