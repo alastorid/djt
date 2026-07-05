@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T15:22:21.575Z",
-  "count": 351,
+  "updatedAt": "2026-07-05T15:27:33.826Z",
+  "count": 353,
   "posts": [
+    {
+      "id": "116868068664504672",
+      "createdAt": "2026-07-05T11:26:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868068664504672",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump warns ‘godless communists’ will turn cities into slums as Dems fail to fight socialist surge: https://www. foxnews.com/politics/trump-war ns-godless-communists-turn-cities-slums-dems-fail-fight-socialist-surge",
+          "firstSeenAt": "2026-07-05T15:27:33.826Z"
+        }
+      ]
+    },
+    {
+      "id": "116868067768149796",
+      "createdAt": "2026-07-05T11:26:34-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868067768149796",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Declares Holy War on Communism in Latest Speech: https:// townhall.com/tipsheet/josephch alfant/2026/06/26/trump-declares-holy-war-on-communism-in-latest-speech-n2678393",
+          "firstSeenAt": "2026-07-05T15:27:33.826Z"
+        }
+      ]
+    },
     {
       "id": "116868041130930649",
       "createdAt": "2026-07-05T11:19:47-04:00",

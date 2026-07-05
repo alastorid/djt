@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 30 posts._
+
+### [July 5, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868068664504672)
+
+> Trump warns ‘godless communists’ will turn cities into slums as Dems fail to fight socialist surge: https://www. foxnews.com/politics/trump-war ns-godless-communists-turn-cities-slums-dems-fail-fight-socialist-surge
+
+---
+
+### [July 5, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868067768149796)
+
+> Trump Declares Holy War on Communism in Latest Speech: https:// townhall.com/tipsheet/josephch alfant/2026/06/26/trump-declares-holy-war-on-communism-in-latest-speech-n2678393
+
+---
 
 ### [July 5, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868041130930649)
 
