@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [July 5, 2026 at 11:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868134746005754)
+
+> From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”
+
+---
 
 ### [July 5, 2026 at 11:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868126447391515)
 

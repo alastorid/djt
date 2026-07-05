@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T15:43:01.128Z",
-  "count": 366,
+  "updatedAt": "2026-07-05T15:48:12.179Z",
+  "count": 367,
   "posts": [
+    {
+      "id": "116868134746005754",
+      "createdAt": "2026-07-05T11:43:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868134746005754",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”",
+          "firstSeenAt": "2026-07-05T15:48:12.179Z"
+        }
+      ]
+    },
     {
       "id": "116868126447391515",
       "createdAt": "2026-07-05T11:41:29-04:00",
