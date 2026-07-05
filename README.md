@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 19 posts._
 
 ### [July 4, 2026 at 9:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116864681605523102)
 
@@ -119,12 +119,6 @@ _Last 3 days, newest first. 20 posts._
 ### [July 2, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116850279579552155)
 
 > The United States spends more money on NATO than any other country, by far, to protect them, without getting any benefit from so doing: U.S. 999 Billion Dollars, United Kingdom, 90.5 Billion Dollars, France, 66.5 Billion Dollars, Italy, 48.8 Billion Dollars, Poland, 44.3 Billion Dollars. Others, including Germany, are MUCH LOWER. (2014-2025) Ridiculous! President DJT
-
----
-
-### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
-
-> S&P 500 closes with strongest quarter since 2020: https:// justthenews.com/politics-polic y/finance/sp-500-closes-strongest-quarter-2020
 <!-- DJT_POSTS_END -->
 
 ---
