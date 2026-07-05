@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [July 5, 2026 at 11:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868126447391515)
+
+> White House Renovation: Some more photos of the North Portico project. Big Stuff!
+
+---
+
+### [July 5, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868114461226198)
+
+> The Iranian Agreement and The Trump Economic Boom: https://www. gingrich360.net/p/the-iranian- agreement-and-the-trump
+
+---
+
+### [July 5, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868113508651926)
+
+> Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!
+
+---
 
 ### [July 5, 2026 at 11:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868104541429027)
 
