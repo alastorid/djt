@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T03:19:36.085Z",
-  "count": 342,
+  "updatedAt": "2026-07-05T04:42:09.735Z",
+  "count": 343,
   "posts": [
+    {
+      "id": "116865509906385097",
+      "createdAt": "2026-07-05T00:36:04-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116865509906385097",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Best fireworks show, EVER! President DJT",
+          "firstSeenAt": "2026-07-05T04:42:09.735Z"
+        }
+      ]
+    },
     {
       "id": "116865193651782709",
       "createdAt": "2026-07-04T23:15:38-04:00",

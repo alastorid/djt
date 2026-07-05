@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [July 5, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116865509906385097)
+
+> Best fireworks show, EVER! President DJT
+
+---
 
 ### [July 4, 2026 at 11:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116865193651782709)
 
