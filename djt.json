@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T19:30:54.343Z",
-  "count": 385,
+  "updatedAt": "2026-07-05T20:27:46.440Z",
+  "count": 388,
   "posts": [
+    {
+      "id": "116869247017804299",
+      "createdAt": "2026-07-05T16:26:28-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116869247017804299",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "My father, grandparents, uncle, and aunt!",
+          "firstSeenAt": "2026-07-05T20:27:46.440Z"
+        }
+      ]
+    },
+    {
+      "id": "116869241546765973",
+      "createdAt": "2026-07-05T16:25:04-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116869241546765973",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "My father and mentor, Fred C. Trump!",
+          "firstSeenAt": "2026-07-05T20:27:46.440Z"
+        }
+      ]
+    },
+    {
+      "id": "116869233363782138",
+      "createdAt": "2026-07-05T16:22:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116869233363782138",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Dr. John G. Trump, of MIT!",
+          "firstSeenAt": "2026-07-05T20:27:46.440Z"
+        }
+      ]
+    },
     {
       "id": "116869022220741530",
       "createdAt": "2026-07-05T15:29:18-04:00",
