@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T01:10:34.336Z",
-  "count": 340,
+  "updatedAt": "2026-07-05T02:22:52.716Z",
+  "count": 341,
   "posts": [
+    {
+      "id": "116864961960694526",
+      "createdAt": "2026-07-04T22:16:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116864961960694526",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I’M HERE!!! DJT",
+          "firstSeenAt": "2026-07-05T02:22:52.716Z"
+        }
+      ]
+    },
     {
       "id": "116864681605523102",
       "createdAt": "2026-07-04T21:05:25-04:00",
