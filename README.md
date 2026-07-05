@@ -3,7 +3,28 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [July 5, 2026 at 11:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868162091573241)
+
+> Here are photos comparing the Reflecting Pool one week after refilling under Obama vs President Trump.
+
+---
+
+### [July 5, 2026 at 11:48 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868155164220533)
+
+> The U.S. Park Police is seeking the public’s assistance in identifying the individual in the notice below in connection with a Destruction of Government Property investigation related to the Reflecting Pool.
+
+---
+
+### [July 5, 2026 at 11:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868151073246892)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868145849515478 The regilding of the sculpture “Valor” is complete, and the regilding of the sculpture “Sacrifice” is rapidly progressing.
+> After “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.
+> These four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.
+> The first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”
+
+---
 
 ### [July 5, 2026 at 11:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868134746005754)
 
