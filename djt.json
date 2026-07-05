@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T16:29:47.945Z",
-  "count": 379,
+  "updatedAt": "2026-07-05T16:35:02.645Z",
+  "count": 381,
   "posts": [
+    {
+      "id": "116868328903806318",
+      "createdAt": "2026-07-05T12:32:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868328903806318",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "They do this, and the Republican Party is DEAD! \nKey House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895",
+          "firstSeenAt": "2026-07-05T16:35:02.645Z"
+        }
+      ]
+    },
+    {
+      "id": "116868325177344816",
+      "createdAt": "2026-07-05T12:32:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868325177344816",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Plants like this are going up all over the Country. Many are Defense. They are massive!",
+          "firstSeenAt": "2026-07-05T16:35:02.645Z"
+        }
+      ]
+    },
     {
       "id": "116868310583775832",
       "createdAt": "2026-07-05T12:28:19-04:00",

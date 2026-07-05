@@ -3,7 +3,20 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 56 posts._
+_Last 3 days, newest first. 58 posts._
+
+### [July 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868328903806318)
+
+> They do this, and the Republican Party is DEAD!
+> Key House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895
+
+---
+
+### [July 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868325177344816)
+
+> Plants like this are going up all over the Country. Many are Defense. They are massive!
+
+---
 
 ### [July 5, 2026 at 12:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868310583775832)
 
