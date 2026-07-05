@@ -3,7 +3,17 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 49 posts._
+
+### [July 5, 2026 at 12:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868213223916230)
+
+> From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified.
+>
+> The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.
+>
+> Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“
+
+---
 
 ### [July 5, 2026 at 11:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868189158518693)
 
