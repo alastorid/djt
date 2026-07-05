@@ -6,9 +6,73 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T04:42:09.735Z",
-  "count": 343,
+  "updatedAt": "2026-07-05T15:17:08.486Z",
+  "count": 347,
   "posts": [
+    {
+      "id": "116868022324870960",
+      "createdAt": "2026-07-05T11:15:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868022324870960",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868021523031453",
+          "firstSeenAt": "2026-07-05T15:17:08.486Z"
+        }
+      ]
+    },
+    {
+      "id": "116868019451683008",
+      "createdAt": "2026-07-05T11:14:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868019451683008",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Bessent Says Iran Talks Feature Shift to Dollar Invoicing: https://www. bloomberg.com/news/articles/20 26-06-24/bessent-says-iran-talks-feature-shifting-to-invoicing-in-dollars?embedded-checkout=true",
+          "firstSeenAt": "2026-07-05T15:17:08.486Z"
+        }
+      ]
+    },
+    {
+      "id": "116868018467961022",
+      "createdAt": "2026-07-05T11:14:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868018467961022",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868017675605732",
+          "firstSeenAt": "2026-07-05T15:17:08.486Z"
+        }
+      ]
+    },
+    {
+      "id": "116868012643897524",
+      "createdAt": "2026-07-05T11:12:33-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868012643897524",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "‘We’re on Break!’ Senate’s Sloth Stalls SAVE America Act: https://www. dailysignal.com/2026/06/29/sav e-america-senate-sloth/",
+          "firstSeenAt": "2026-07-05T15:17:08.486Z"
+        }
+      ]
+    },
     {
       "id": "116865509906385097",
       "createdAt": "2026-07-05T00:36:04-04:00",

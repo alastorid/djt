@@ -3,7 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 24 posts._
+
+### [July 5, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868022324870960)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868021523031453
+
+---
+
+### [July 5, 2026 at 11:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868019451683008)
+
+> Bessent Says Iran Talks Feature Shift to Dollar Invoicing: https://www. bloomberg.com/news/articles/20 26-06-24/bessent-says-iran-talks-feature-shifting-to-invoicing-in-dollars?embedded-checkout=true
+
+---
+
+### [July 5, 2026 at 11:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868018467961022)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868017675605732
+
+---
+
+### [July 5, 2026 at 11:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868012643897524)
+
+> ‘We’re on Break!’ Senate’s Sloth Stalls SAVE America Act: https://www. dailysignal.com/2026/06/29/sav e-america-senate-sloth/
+
+---
 
 ### [July 5, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116865509906385097)
 
