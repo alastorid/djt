@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 54 posts._
+
+### [July 5, 2026 at 12:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868292534134605)
+
+> From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President" TikToks in just 48 hours!
+> Wishing the President a belated happy birthday!”
+
+---
 
 ### [July 5, 2026 at 12:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868263258096038)
 

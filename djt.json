@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T16:19:20.421Z",
-  "count": 376,
+  "updatedAt": "2026-07-05T16:24:33.553Z",
+  "count": 377,
   "posts": [
+    {
+      "id": "116868292534134605",
+      "createdAt": "2026-07-05T12:23:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116868292534134605",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President\" TikToks in just 48 hours!\nWishing the President a belated happy birthday!”",
+          "firstSeenAt": "2026-07-05T16:24:33.553Z"
+        }
+      ]
+    },
     {
       "id": "116868263258096038",
       "createdAt": "2026-07-05T12:16:17-04:00",
