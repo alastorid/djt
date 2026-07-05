@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 19 posts._
 
 ### [July 4, 2026 at 5:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863876220138991)
 
@@ -119,13 +119,6 @@ _Last 3 days, newest first. 20 posts._
 ### [July 1, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847906594604040)
 
 > S&P 500 closes with strongest quarter since 2020: https:// justthenews.com/politics-polic y/finance/sp-500-closes-strongest-quarter-2020
-
----
-
-### [July 1, 2026 at 8:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116847662330084420)
-
-> Breitbart's @jonkahnmusic wrote the #1 song, "Fighter,” and now he and Michael Farren have an incredible new song for America 250. Everyone should listen to "The United Saints of America,” and be proud of our Great Nation! President DONALD J. TRUMP
->  https://www. breitbart.com/america250/2026/ 07/01/united-saints-of-america-trump-inspired-fighter-singer-jon-kahn-nashville-hit-maker-michael-farren-release-patriotic-anthem-ahead-of-americas-250/
 <!-- DJT_POSTS_END -->
 
 ---
