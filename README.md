@@ -3,7 +3,37 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 70 posts._
+_Last 3 days, newest first. 75 posts._
+
+### [July 6, 2026 at 10:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873609422392313)
+
+> Biden Border!
+
+---
+
+### [July 6, 2026 at 10:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873606818019352)
+
+> Alice is a beautiful soul!
+
+---
+
+### [July 6, 2026 at 10:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873605841320356)
+
+> It was the Greatest Hoax in Political History!
+
+---
+
+### [July 6, 2026 at 10:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873604334707323)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873603099605813 This is good, but Rand has to vote with us more than he does!
+
+---
+
+### [July 6, 2026 at 10:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873600928684662)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873600025860413
+
+---
 
 ### [July 6, 2026 at 10:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873578105532929)
 

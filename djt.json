@@ -6,9 +6,89 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T14:51:34.314Z",
-  "count": 397,
+  "updatedAt": "2026-07-06T14:56:46.528Z",
+  "count": 402,
   "posts": [
+    {
+      "id": "116873609422392313",
+      "createdAt": "2026-07-06T10:55:53-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873609422392313",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Biden Border!",
+          "firstSeenAt": "2026-07-06T14:56:46.528Z"
+        }
+      ]
+    },
+    {
+      "id": "116873606818019352",
+      "createdAt": "2026-07-06T10:55:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873606818019352",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Alice is a beautiful soul!",
+          "firstSeenAt": "2026-07-06T14:56:46.528Z"
+        }
+      ]
+    },
+    {
+      "id": "116873605841320356",
+      "createdAt": "2026-07-06T10:54:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873605841320356",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "It was the Greatest Hoax in Political History!",
+          "firstSeenAt": "2026-07-06T14:56:46.528Z"
+        }
+      ]
+    },
+    {
+      "id": "116873604334707323",
+      "createdAt": "2026-07-06T10:54:35-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873604334707323",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873603099605813 This is good, but Rand has to vote with us more than he does!",
+          "firstSeenAt": "2026-07-06T14:56:46.528Z"
+        }
+      ]
+    },
+    {
+      "id": "116873600928684662",
+      "createdAt": "2026-07-06T10:53:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873600928684662",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873600025860413",
+          "firstSeenAt": "2026-07-06T14:56:46.528Z"
+        }
+      ]
+    },
     {
       "id": "116873578105532929",
       "createdAt": "2026-07-06T10:47:55-04:00",
