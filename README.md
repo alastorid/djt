@@ -3,7 +3,35 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 79 posts._
+_Last 3 days, newest first. 82 posts._
+
+### [July 6, 2026 at 11:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873651087558785)
+
+> From Greg Wischer at the United States Department of the Interior:
+> “Another fountain has been fixed, beautified, and turned on — The Rawlins Park fountain!
+> This fountain was defunct for nearly a decade, and the fountain’s plumbing, electrical, mechanical systems all needed repairs.
+>
+> Like other parks with fountains, the park with this fountain was also beautified. The park features a magnolia-lined flagstone plaza with an octagonal bubbling fountain flanked by two 116-foot-long reflecting pools.
+>
+> The bronze statue of Union General John Aaron Rawlins—who was the closest advisor to Ulysses S. Grant during the Civil War and later served as Secretary of War under President Grant—was cleaned and waxed, too. The statue was cast from captured Confederate cannons and installed in 1874.”
+
+---
+
+### [July 6, 2026 at 11:04 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873642365568222)
+
+> From Greg Wischer at the United States Department of the Interior:
+> “Here is another fountain update —Another one was just turned on. The Freedom Plaza fountain, which is located just southeast of the White House Ballroom, is not only fixed but also significantly improved, just like the President’s other beautification projects across D.C.
+>
+> The fountain was experiencing structural deterioration, so virtually every component of the fountain was replaced and upgraded — The pumps, piping, wiring, lighting, vault, masonry, and mechanical, electrical, and plumbing systems.”
+
+---
+
+### [July 6, 2026 at 11:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873632527630265)
+
+> From Greg Wischer at the United States Department of the Interior:
+> “Latest Law Enforcement numbers from the Reflecting Pool: 7 arrests, 7 additional people issued Federal citations, 19 incidents/reports filed. Here is the Reflecting Pool tonight!”
+
+---
 
 ### [July 6, 2026 at 10:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873622048937601)
 
