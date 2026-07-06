@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 84 posts._
+_Last 3 days, newest first. 83 posts._
 
 ### [July 6, 2026 at 3:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874572332187882)
 
@@ -530,12 +530,6 @@ _Last 3 days, newest first. 84 posts._
 ### [July 3, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858724269653893)
 
 > Acting DNI Pulte fires dozens of intelligence officials: https://www. cnbc.com/2026/07/03/acting-dni -pulte-fires-dozens-of-intelligence-officials-ms-now.html
-
----
-
-### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
-
-> Justin Gaethje came to the Oval Office to celebrate, with his parents, his Great Victory two weeks ago. It was one of the Highest Rated Fights in the History of Television, and what a Fight it was! Great Honor to see The Champ – He beat another truly Great Fighter who had never lost before. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
