@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 85 posts._
+_Last 3 days, newest first. 84 posts._
 
 ### [July 6, 2026 at 3:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874572332187882)
 
@@ -536,12 +536,6 @@ _Last 3 days, newest first. 85 posts._
 ### [July 3, 2026 at 4:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857829999876676)
 
 > Justin Gaethje came to the Oval Office to celebrate, with his parents, his Great Victory two weeks ago. It was one of the Highest Rated Fights in the History of Television, and what a Fight it was! Great Honor to see The Champ – He beat another truly Great Fighter who had never lost before. President DONALD J. TRUMP
-
----
-
-### [July 3, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857677816767526)
-
-> It is my Great Honor to have just signed Pardons for six people who were persecuted by the Biden Administration, and were in, or being sent to, prison, for “fixing their car.” While I know this sounds ridiculous, it is nevertheless a fact, and part of the Weaponization and Stupidity that our Country had to endure during four long years of Sleepy Joe Biden. I AM SETTING THEM ALL FREE, RIGHT NOW! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
