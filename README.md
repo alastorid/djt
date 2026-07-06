@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 84 posts._
+_Last 3 days, newest first. 83 posts._
 
 ### [July 6, 2026 at 4:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874984393383550)
 
@@ -530,12 +530,6 @@ _Last 3 days, newest first. 84 posts._
 ### [July 3, 2026 at 8:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858774244974608)
 
 > BIG NEWS! My Administration is delivering another fantastic America First Victory. The Department of Treasury will now accept philanthropic contributions of readily tradable Publicly Traded Stock to help fund TRUMP ACCOUNTS for eligible American children. This opens the door for GREAT American Businesses, Philanthropists, and Job Creators to invest directly in the future of our children, and help build a Generation of Savers, Investors, and Owners. The response to TRUMP ACCOUNTS has been incredible — More than 6 MILLION TRUMP ACCOUNTS have already been requested before the Program has even launched. The American People LOVE this idea because it puts America’s children FIRST, rewards Success, and helps build Wealth for the next Generation. The Golden Age of America is just getting started! President DONALD J. TRUMP
-
----
-
-### [July 3, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858724269653893)
-
-> Acting DNI Pulte fires dozens of intelligence officials: https://www. cnbc.com/2026/07/03/acting-dni -pulte-fires-dozens-of-intelligence-officials-ms-now.html
 <!-- DJT_POSTS_END -->
 
 ---
