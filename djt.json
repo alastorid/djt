@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T15:17:56.064Z",
-  "count": 411,
+  "updatedAt": "2026-07-06T19:01:34.683Z",
+  "count": 412,
   "posts": [
+    {
+      "id": "116874572332187882",
+      "createdAt": "2026-07-06T15:00:46-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116874572332187882",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "OIL PRICES COMING DOWN!\n https://www. bloomberg.com/news/articles/20 26-07-06/saudis-make-biggest-oil-price-cut-in-decades-as-market-weakens",
+          "firstSeenAt": "2026-07-06T19:01:34.683Z"
+        }
+      ]
+    },
     {
       "id": "116873673494784125",
       "createdAt": "2026-07-06T11:12:10-04:00",

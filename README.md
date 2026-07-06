@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 84 posts._
+_Last 3 days, newest first. 85 posts._
+
+### [July 6, 2026 at 3:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874572332187882)
+
+> OIL PRICES COMING DOWN!
+>  https://www. bloomberg.com/news/articles/20 26-07-06/saudis-make-biggest-oil-price-cut-in-decades-as-market-weakens
+
+---
 
 ### [July 6, 2026 at 11:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873673494784125)
 
