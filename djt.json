@@ -6,9 +6,73 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T14:56:46.528Z",
-  "count": 402,
+  "updatedAt": "2026-07-06T15:02:02.147Z",
+  "count": 406,
   "posts": [
+    {
+      "id": "116873622048937601",
+      "createdAt": "2026-07-06T10:59:05-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873622048937601",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873621175645512",
+          "firstSeenAt": "2026-07-06T15:02:02.147Z"
+        }
+      ]
+    },
+    {
+      "id": "116873619773837916",
+      "createdAt": "2026-07-06T10:58:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873619773837916",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "PBI Airport begins process of name change to Trump: https://www. palmbeachpost.com/story/news/t rump/2026/06/26/pbi-airport-west-palm-name-change-trump-photos/90675038007/",
+          "firstSeenAt": "2026-07-06T15:02:02.147Z"
+        }
+      ]
+    },
+    {
+      "id": "116873615071043800",
+      "createdAt": "2026-07-06T10:57:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873615071043800",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873613769389029",
+          "firstSeenAt": "2026-07-06T15:02:02.147Z"
+        }
+      ]
+    },
+    {
+      "id": "116873611442328208",
+      "createdAt": "2026-07-06T10:56:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873611442328208",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade: https://www. foxnews.com/world/exclusive-se rbian-president-vucic-says-support-us-surged-under-trump-invites-him-visit-belgrade",
+          "firstSeenAt": "2026-07-06T15:02:02.147Z"
+        }
+      ]
+    },
     {
       "id": "116873609422392313",
       "createdAt": "2026-07-06T10:55:53-04:00",

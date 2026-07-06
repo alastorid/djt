@@ -3,7 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 75 posts._
+_Last 3 days, newest first. 79 posts._
+
+### [July 6, 2026 at 10:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873622048937601)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873621175645512
+
+---
+
+### [July 6, 2026 at 10:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873619773837916)
+
+> PBI Airport begins process of name change to Trump: https://www. palmbeachpost.com/story/news/t rump/2026/06/26/pbi-airport-west-palm-name-change-trump-photos/90675038007/
+
+---
+
+### [July 6, 2026 at 10:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873615071043800)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116873613769389029
+
+---
+
+### [July 6, 2026 at 10:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873611442328208)
+
+> EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade: https://www. foxnews.com/world/exclusive-se rbian-president-vucic-says-support-us-surged-under-trump-invites-him-visit-belgrade
+
+---
 
 ### [July 6, 2026 at 10:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873609422392313)
 
