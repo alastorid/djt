@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-05T21:24:38.110Z",
-  "count": 390,
+  "updatedAt": "2026-07-06T02:22:28.367Z",
+  "count": 391,
   "posts": [
+    {
+      "id": "116870641369607573",
+      "createdAt": "2026-07-05T22:21:04-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116870641369607573",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Fed Reserve working paper suggests Biden illegal immigrant wave drove up home prices 30%: https:// justthenews.com/government/sec urity/fed-reserve-working-paper-suggests-biden-illegal-immigrant-wave-drove-home",
+          "firstSeenAt": "2026-07-06T02:22:28.367Z"
+        }
+      ]
+    },
     {
       "id": "116869463498698433",
       "createdAt": "2026-07-05T17:21:31-04:00",
