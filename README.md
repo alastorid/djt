@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 83 posts._
+_Last 3 days, newest first. 84 posts._
+
+### [July 6, 2026 at 11:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873673494784125)
+
+> From Greg Wischer at the United States Department of the Interior: “The regilding of the sculpture “Sacrifice” is completed. That means both Arts of War sculptures, “Valor” and “Sacrifice,” were regilded over one week ahead of schedule.”
+
+---
 
 ### [July 6, 2026 at 11:08 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873660419870262)
 

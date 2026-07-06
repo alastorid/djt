@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T15:12:41.034Z",
-  "count": 410,
+  "updatedAt": "2026-07-06T15:17:56.064Z",
+  "count": 411,
   "posts": [
+    {
+      "id": "116873673494784125",
+      "createdAt": "2026-07-06T11:12:10-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873673494784125",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "From Greg Wischer at the United States Department of the Interior: “The regilding of the sculpture “Sacrifice” is completed. That means both Arts of War sculptures, “Valor” and “Sacrifice,” were regilded over one week ahead of schedule.”",
+          "firstSeenAt": "2026-07-06T15:17:56.064Z"
+        }
+      ]
+    },
     {
       "id": "116873660419870262",
       "createdAt": "2026-07-06T11:08:51-04:00",
