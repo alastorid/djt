@@ -3,7 +3,37 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 65 posts._
+_Last 3 days, newest first. 70 posts._
+
+### [July 6, 2026 at 10:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873578105532929)
+
+> They’re Running the 2024 Anti-Trump Playbook on Nigel Farage: https:// thenationalpulse.com/analysis- post/theyre-running-the-2024-anti-trump-playbook-on-nigel-farage-its-failing/
+
+---
+
+### [July 6, 2026 at 10:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873576068089044)
+
+> How President Trump Revived American Pride and Patriotism in Time for America’s 250th Birthday: https:// mattkaneusa.substack.com/p/how -president-trump-revived-america
+
+---
+
+### [July 6, 2026 at 10:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873574990020627)
+
+> Exclusive—Trump: SCOTUS Slaughter Decision ‘More Than Made Up’ for ‘Disappointing’ Birthright Citizenship Ruling: https://www. breitbart.com/politics/2026/07 /01/exclusive-trump-scotus-slaughter-decision-more-than-made-up-disappointing-birthright-citizenship-ruling/
+
+---
+
+### [July 6, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873572953095657)
+
+> Exclusive — President Donald Trump: ‘Certainly Prepared’ for Possible SCOTUS Vacancy, but ‘Nobody’ Can Replace Justice Alito: https://www. breitbart.com/politics/2026/07 /01/exclusive-president-donald-trump-certainly-prepared-possible-scotus-vacancy-nobody-can-replace-justice-alito/
+
+---
+
+### [July 6, 2026 at 10:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873571463955993)
+
+> Hillary Clinton breaks with Democratic critics by backing Trump’s Gaza plan as the 'only game in town': https://www. foxnews.com/media/hillary-clin ton-breaks-democratic-critics-backing-trumps-gaza-plan-game-tow
+
+---
 
 ### [July 5, 2026 at 11:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116870828977749531)
 

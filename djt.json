@@ -6,9 +6,89 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T03:14:12.540Z",
-  "count": 392,
+  "updatedAt": "2026-07-06T14:51:34.314Z",
+  "count": 397,
   "posts": [
+    {
+      "id": "116873578105532929",
+      "createdAt": "2026-07-06T10:47:55-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873578105532929",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "They’re Running the 2024 Anti-Trump Playbook on Nigel Farage: https:// thenationalpulse.com/analysis- post/theyre-running-the-2024-anti-trump-playbook-on-nigel-farage-its-failing/",
+          "firstSeenAt": "2026-07-06T14:51:34.314Z"
+        }
+      ]
+    },
+    {
+      "id": "116873576068089044",
+      "createdAt": "2026-07-06T10:47:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873576068089044",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "How President Trump Revived American Pride and Patriotism in Time for America’s 250th Birthday: https:// mattkaneusa.substack.com/p/how -president-trump-revived-america",
+          "firstSeenAt": "2026-07-06T14:51:34.314Z"
+        }
+      ]
+    },
+    {
+      "id": "116873574990020627",
+      "createdAt": "2026-07-06T10:47:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873574990020627",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive—Trump: SCOTUS Slaughter Decision ‘More Than Made Up’ for ‘Disappointing’ Birthright Citizenship Ruling: https://www. breitbart.com/politics/2026/07 /01/exclusive-trump-scotus-slaughter-decision-more-than-made-up-disappointing-birthright-citizenship-ruling/",
+          "firstSeenAt": "2026-07-06T14:51:34.314Z"
+        }
+      ]
+    },
+    {
+      "id": "116873572953095657",
+      "createdAt": "2026-07-06T10:46:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873572953095657",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive — President Donald Trump: ‘Certainly Prepared’ for Possible SCOTUS Vacancy, but ‘Nobody’ Can Replace Justice Alito: https://www. breitbart.com/politics/2026/07 /01/exclusive-president-donald-trump-certainly-prepared-possible-scotus-vacancy-nobody-can-replace-justice-alito/",
+          "firstSeenAt": "2026-07-06T14:51:34.314Z"
+        }
+      ]
+    },
+    {
+      "id": "116873571463955993",
+      "createdAt": "2026-07-06T10:46:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873571463955993",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Hillary Clinton breaks with Democratic critics by backing Trump’s Gaza plan as the 'only game in town': https://www. foxnews.com/media/hillary-clin ton-breaks-democratic-critics-backing-trumps-gaza-plan-game-tow",
+          "firstSeenAt": "2026-07-06T14:51:34.314Z"
+        }
+      ]
+    },
     {
       "id": "116870828977749531",
       "createdAt": "2026-07-05T23:08:46-04:00",
