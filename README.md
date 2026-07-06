@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 65 posts._
+_Last 3 days, newest first. 64 posts._
 
 ### [July 5, 2026 at 10:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116870641369607573)
 
@@ -405,12 +405,6 @@ _Last 3 days, newest first. 65 posts._
 ### [July 3, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116857677816767526)
 
 > It is my Great Honor to have just signed Pardons for six people who were persecuted by the Biden Administration, and were in, or being sent to, prison, for “fixing their car.” While I know this sounds ridiculous, it is nevertheless a fact, and part of the Weaponization and Stupidity that our Country had to endure during four long years of Sleepy Joe Biden. I AM SETTING THEM ALL FREE, RIGHT NOW! President DONALD J. TRUMP
-
----
-
-### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
-
-> Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not reciprocal. They were not there for us!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
