@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 65 posts._
+_Last 3 days, newest first. 64 posts._
 
 ### [July 5, 2026 at 5:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869463498698433)
 
@@ -405,12 +405,6 @@ _Last 3 days, newest first. 65 posts._
 ### [July 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853791867694191)
 
 > Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not reciprocal. They were not there for us!!! President DJT
-
----
-
-### [July 2, 2026 at 9:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116853560701003246)
-
-> 250 years ago, on the eve of America’s momentous vote for Independence, Caesar Rodney received word that he was urgently needed to break a deadlock among the Delegates to the Second Continental Congress. Although he suffered from asthma and facial cancer, Rodney immediately set forth on a 80-mile overnight journey by horseback from Dover, Delaware, to Philadelphia, Pennsylvania. Enduring a raging thunderstorm, he arrived 250 years ago this very day, July 2, 1776, to cast his decisive vote, and secure America’s glorious destiny of Freedom and Independence. An equestrian statue honoring Rodney’s key contribution now anchors Spirit of 76’ at Freedom Plaza, a new Exhibition in Washington, D.C., honoring the heroes and martyrs of the American Revolution. Go and see!
 <!-- DJT_POSTS_END -->
 
 ---
