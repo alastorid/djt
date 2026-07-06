@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T15:07:29.070Z",
-  "count": 409,
+  "updatedAt": "2026-07-06T15:12:41.034Z",
+  "count": 410,
   "posts": [
+    {
+      "id": "116873660419870262",
+      "createdAt": "2026-07-06T11:08:51-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116873660419870262",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. washingtonpost.com/opinions/20 26/06/22/jim-banks-architecture-america-should-be-beautiful-not-brutalist/",
+          "firstSeenAt": "2026-07-06T15:12:41.034Z"
+        }
+      ]
+    },
     {
       "id": "116873651087558785",
       "createdAt": "2026-07-06T11:06:29-04:00",

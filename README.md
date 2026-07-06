@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 83 posts._
+
+### [July 6, 2026 at 11:08 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873660419870262)
+
+> https://www. washingtonpost.com/opinions/20 26/06/22/jim-banks-architecture-america-should-be-beautiful-not-brutalist/
+
+---
 
 ### [July 6, 2026 at 11:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116873651087558785)
 
