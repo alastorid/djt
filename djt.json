@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-06T02:22:28.367Z",
-  "count": 391,
+  "updatedAt": "2026-07-06T03:14:12.540Z",
+  "count": 392,
   "posts": [
+    {
+      "id": "116870828977749531",
+      "createdAt": "2026-07-05T23:08:46-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116870828977749531",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Harry Kane of England is a GREAT player!!!",
+          "firstSeenAt": "2026-07-06T03:14:12.540Z"
+        }
+      ]
+    },
     {
       "id": "116870641369607573",
       "createdAt": "2026-07-05T22:21:04-04:00",
