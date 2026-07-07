@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 83 posts._
+_Last 3 days, newest first. 82 posts._
 
 ### [July 7, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116879490053026634)
 
@@ -523,12 +523,6 @@ _Last 3 days, newest first. 83 posts._
 ### [July 4, 2026 at 2:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863241061573145)
 
 > Europe is learning that when you take in Third World criminals, you become a Third World Country. It happens quickly, in just a blink of the eye. I was elected just in time!!! President DJT
-
----
-
-### [July 4, 2026 at 2:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863219932335821)
-
-> Despite the heat, which isn’t as bad as predicted, the crowds in D.C. are INCREDIBLE! The love of our Country has never been stronger! The Air Shows are at a level never seen before - What great pilots, what great equipment!!! See you all later! Speaking at around 10:00 P.M. at The Lincoln Memorial. The Reflecting Pool looks great, despite all it went through with the Vandal Thugs. Will quickly drain and fix the damage done right after this big weekend. Happy Independence Day. Our Country is Stronger than EVER!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
