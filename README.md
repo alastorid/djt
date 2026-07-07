@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 80 posts._
+_Last 3 days, newest first. 79 posts._
 
 ### [July 6, 2026 at 4:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874984393383550)
 
@@ -504,14 +504,6 @@ _Last 3 days, newest first. 80 posts._
 ### [July 3, 2026 at 10:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859272442865972)
 
 > Heading to beautiful Mount Rushmore to speak, shortly. Big Crowd! On all TV. Enjoy! President DJT
-
----
-
-### [July 3, 2026 at 9:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859014229427354)
-
-> Republicans, look what I just found! The Dumocrats are openly stating that they plan to TERMINATE THE FILIBUSTER if they ever take power, and EXPAND THE SUPREME COURT. In other words, they will add two Radical Left States, 4 Dumocrat Senators, many Congressmen/women, their dream of 21 Supreme Court Justices (Not just 13, an unlucky number!), an impossible to beat number of Electoral College Votes (and that’s the Ballgame!), “Popular” Vote Landslides, and so much else. The Republican Party will never win another Election. How much longer are you going to allow this to happen to you? They will TERMINATE THE FILIBUSTER in their first hour, and I’ll be sitting home with tears in my eyes saying, “I TOLD YOU SO!”
->
-> Key House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895
 <!-- DJT_POSTS_END -->
 
 ---
