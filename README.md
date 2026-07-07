@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 81 posts._
 
 ### [July 6, 2026 at 4:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874984393383550)
 
@@ -518,12 +518,6 @@ _Last 3 days, newest first. 82 posts._
 ### [July 3, 2026 at 9:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859006382890396)
 
 > THE TRUMP ECONOMY IS SOARING! The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans’ 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning — and we are just getting started! President DONALD J. TRUMP
-
----
-
-### [July 3, 2026 at 8:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116858929249586679)
-
-> The Communist Party is made up of Illegal Immigrants, Criminals, and Everybody That Doesn’t Want to Work! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
