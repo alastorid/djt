@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 79 posts._
+_Last 3 days, newest first. 78 posts._
 
 ### [July 6, 2026 at 4:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116874984393383550)
 
@@ -498,12 +498,6 @@ _Last 3 days, newest first. 79 posts._
 ### [July 4, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116862309953442713)
 
 > Has anyone ever seen a Happy Dumocrat? President DONALD J. TRUMP
-
----
-
-### [July 3, 2026 at 10:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116859272442865972)
-
-> Heading to beautiful Mount Rushmore to speak, shortly. Big Crowd! On all TV. Enjoy! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
