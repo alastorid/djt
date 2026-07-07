@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 83 posts._
+
+### [July 7, 2026 at 8:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116878664308977613)
+
+> Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP
+
+---
 
 ### [July 7, 2026 at 2:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116877256925065925)
 
