@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-07T12:26:38.944Z",
-  "count": 418,
+  "updatedAt": "2026-07-07T15:53:56.422Z",
+  "count": 419,
   "posts": [
+    {
+      "id": "116879490053026634",
+      "createdAt": "2026-07-07T11:51:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116879490053026634",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you! \nNATO is stronger because Trump demanded more: https://www. washingtonexaminer.com/op-eds/ 4637918/shared-security-interests-nato-stronger-because-trump-demanded-more/",
+          "firstSeenAt": "2026-07-07T15:53:56.422Z"
+        }
+      ]
+    },
     {
       "id": "116878664308977613",
       "createdAt": "2026-07-07T08:21:24-04:00",

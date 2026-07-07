@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 83 posts._
+
+### [July 7, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116879490053026634)
+
+> Thank you!
+> NATO is stronger because Trump demanded more: https://www. washingtonexaminer.com/op-eds/ 4637918/shared-security-interests-nato-stronger-because-trump-demanded-more/
+
+---
 
 ### [July 7, 2026 at 8:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116878664308977613)
 
