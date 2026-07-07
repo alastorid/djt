@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-07T05:01:47.994Z",
-  "count": 414,
+  "updatedAt": "2026-07-07T06:24:20.100Z",
+  "count": 417,
   "posts": [
+    {
+      "id": "116877256925065925",
+      "createdAt": "2026-07-07T02:23:29-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116877256925065925",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "American Exceptionalism & Manifest Destiny: Trump Gives 4th of July Speech for the Ages on America’s 250th Birthday: https://www. breitbart.com/politics/2026/07 /04/american-exceptionalism-manifest-destiny-trump-gives-4th-of-july-speech-for-the-ages-on-americas-250th-birthday/",
+          "firstSeenAt": "2026-07-07T06:24:20.100Z"
+        }
+      ]
+    },
+    {
+      "id": "116877251990471550",
+      "createdAt": "2026-07-07T02:22:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116877251990471550",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Defying The Odds: President Trump Just Put On The Greatest Show On Earth: https:// nickadamsmaga.substack.com/p/d efying-the-odds-president-trump",
+          "firstSeenAt": "2026-07-07T06:24:20.100Z"
+        }
+      ]
+    },
+    {
+      "id": "116877243675744707",
+      "createdAt": "2026-07-07T02:20:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116877243675744707",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "ROCK STAR: Trump Returns to Mount Rushmore For America’s 250th Birthday Bash: https:// hannity.com/media-room/rock-st ar-trump-returns-to-mount-rushmore-for-americas-250th-birthday-bash/",
+          "firstSeenAt": "2026-07-07T06:24:20.100Z"
+        }
+      ]
+    },
     {
       "id": "116876921284232391",
       "createdAt": "2026-07-07T00:58:08-04:00",

@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 79 posts._
+_Last 3 days, newest first. 82 posts._
+
+### [July 7, 2026 at 2:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116877256925065925)
+
+> American Exceptionalism & Manifest Destiny: Trump Gives 4th of July Speech for the Ages on America’s 250th Birthday: https://www. breitbart.com/politics/2026/07 /04/american-exceptionalism-manifest-destiny-trump-gives-4th-of-july-speech-for-the-ages-on-americas-250th-birthday/
+
+---
+
+### [July 7, 2026 at 2:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116877251990471550)
+
+> Defying The Odds: President Trump Just Put On The Greatest Show On Earth: https:// nickadamsmaga.substack.com/p/d efying-the-odds-president-trump
+
+---
+
+### [July 7, 2026 at 2:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116877243675744707)
+
+> ROCK STAR: Trump Returns to Mount Rushmore For America’s 250th Birthday Bash: https:// hannity.com/media-room/rock-st ar-trump-returns-to-mount-rushmore-for-americas-250th-birthday-bash/
+
+---
 
 ### [July 7, 2026 at 12:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116876921284232391)
 
