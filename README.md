@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 81 posts._
 
 ### [July 7, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116879490053026634)
 
@@ -517,12 +517,6 @@ _Last 3 days, newest first. 82 posts._
 ### [July 4, 2026 at 5:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863876220138991)
 
 > Liberty has prevailed here because of the culture and the character of the people who declared it, defended it, and preserved it—We reach a milestone like no other and celebrate with joyful hearts and soaring spirits…
-
----
-
-### [July 4, 2026 at 2:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116863241061573145)
-
-> Europe is learning that when you take in Third World criminals, you become a Third World Country. It happens quickly, in just a blink of the eye. I was elected just in time!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
