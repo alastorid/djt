@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [July 8, 2026 at 6:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886666473252596)
+
+> We just landed and met up with our new Air Force One, which was sent earlier to RAF Mildenhall, so we could show the wonderful Servicemembers, as per the entire Base’s request. They were very excited, picture enclosed. It was on our way back to the States from Turkey, with virtually no deviation of flightpath. President DONALD J. TRUMP
+
+---
 
 ### [July 8, 2026 at 5:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886505160658220)
 
