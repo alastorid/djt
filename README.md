@@ -3,7 +3,20 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [July 8, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886928331817100)
+
+> The newly revamped West Wing of the White House, including signage and renovated walls, maple trees, and plantings! President DONALD J. TRUMP
+
+---
+
+### [July 8, 2026 at 7:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886926110208412)
+
+> Gavin Newscum's recent Career Threatening Interview where he said he can't read a speech, he was a stupid person, but smarter than the people in the room (RACIST!), has mental incapacity, difficulty, and various other ailments, may be the worst Interview given by a
+> "professional" Politician in 100 years. No Politician has ever made such statements, and survived! Newscum is in BIG TROUBLE when he openly admits that Kamala is smarter than he is! President DONALD J. TRUMP
+
+---
 
 ### [July 8, 2026 at 6:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886666473252596)
 
