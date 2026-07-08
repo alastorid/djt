@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 60 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -389,12 +389,6 @@ _Last 3 days, newest first. 61 posts._
 > The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.
 >
 > Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“
-
----
-
-### [July 5, 2026 at 11:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868189158518693)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868188238340283
 <!-- DJT_POSTS_END -->
 
 ---
