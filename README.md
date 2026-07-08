@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -315,25 +315,6 @@ _Last 3 days, newest first. 53 posts._
 ### [July 5, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868490571213527)
 
 > Thank you to FIFA for doing what was right, and reversing a great injustice! President DONALD J. TRUMP
-
----
-
-### [July 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868328903806318)
-
-> They do this, and the Republican Party is DEAD!
-> Key House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895
-
----
-
-### [July 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868325177344816)
-
-> Plants like this are going up all over the Country. Many are Defense. They are massive!
-
----
-
-### [July 5, 2026 at 12:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868310583775832)
-
-> First Statue for Triumphal Arch — Amazing!
 <!-- DJT_POSTS_END -->
 
 ---
