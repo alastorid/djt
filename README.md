@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -261,12 +261,6 @@ _Last 3 days, newest first. 42 posts._
 ### [July 5, 2026 at 10:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116870641369607573)
 
 > Fed Reserve working paper suggests Biden illegal immigrant wave drove up home prices 30%: https:// justthenews.com/government/sec urity/fed-reserve-working-paper-suggests-biden-illegal-immigrant-wave-drove-home
-
----
-
-### [July 5, 2026 at 5:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869463498698433)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116869462082097713
 <!-- DJT_POSTS_END -->
 
 ---
