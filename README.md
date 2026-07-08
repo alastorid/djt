@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 86 posts._
+_Last 3 days, newest first. 87 posts._
+
+### [July 8, 2026 at 8:42 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884409163416775)
+
+> To honor our brave men and women of the Military, we are sending the brand new, and truly spectacular, Air Force One to Mildenhall Air Force Base, in the United Kingdom, to give them a chance to tour the Aircraft — Everybody is so excited, and we thought that they should be the first. For old time’s sake, we’ll be taking the former Air Force One, from Turkey to Mildenhall, a short trip that is totally worth doing in order to give our Great Military Heroes a chance to appreciate our beautiful new addition to the Air Force Fleet! President DONALD J. TRUMP
+
+---
 
 ### [July 7, 2026 at 10:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882074981775044)
 
