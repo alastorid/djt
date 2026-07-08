@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [July 8, 2026 at 5:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886461770041376)
+
+> Signs and Billboards are being put up all over our Southern Border, and Mexico, advertising BIRTHRIGHT CITIZENSHIP, with “Deliveries starting at $4000.” Likewise, similar signs going up all over our Country. Billions of Dollars will be illegally made by this SCAM, with Citizenship going to anyone willing to pay. It will be, by far, the number one way of becoming a citizen, and then the entire family will be allowed to follow. Not sustainable. NOBODY SAW THIS COMING!!! AMERICAN CITIZENSHIP IS NOT FOR SALE! In fact, that is a crime, and therefore, the Supreme Court’s ruling is wrong. I will be asking for a Rehearing by the United States Supreme Court, IMMEDIATELY. This miscarriage of justice will destroy America if they don’t change their absolutely insane decision. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
