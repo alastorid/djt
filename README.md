@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 86 posts._
+_Last 3 days, newest first. 88 posts._
+
+### [July 7, 2026 at 10:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882074981775044)
+
+> BREAKING NEWS: A very fair and highly respected Judge in the Middle District of Florida just denied The Failing New York Times’ desperate attempt, together with other defendants we are suing, to move our powerhouse Defamation Lawsuit against them to another jurisdiction. We will now have an oral argument in Florida, where our lawyers will present, in great detail, all the ways in which The Times publishes, promotes, and deals in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [July 7, 2026 at 10:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882070969009876)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882069375303735
+
+---
 
 ### [July 7, 2026 at 10:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882060967384429)
 

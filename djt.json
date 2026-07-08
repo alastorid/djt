@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-08T02:46:46.462Z",
-  "count": 427,
+  "updatedAt": "2026-07-08T02:51:55.591Z",
+  "count": 429,
   "posts": [
+    {
+      "id": "116882074981775044",
+      "createdAt": "2026-07-07T22:48:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116882074981775044",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "BREAKING NEWS: A very fair and highly respected Judge in the Middle District of Florida just denied The Failing New York Times’ desperate attempt, together with other defendants we are suing, to move our powerhouse Defamation Lawsuit against them to another jurisdiction. We will now have an oral argument in Florida, where our lawyers will present, in great detail, all the ways in which The Times publishes, promotes, and deals in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-08T02:51:55.591Z"
+        }
+      ]
+    },
+    {
+      "id": "116882070969009876",
+      "createdAt": "2026-07-07T22:47:46-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116882070969009876",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116882069375303735",
+          "firstSeenAt": "2026-07-08T02:51:55.591Z"
+        }
+      ]
+    },
     {
       "id": "116882060967384429",
       "createdAt": "2026-07-07T22:45:13-04:00",
