@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 80 posts._
+_Last 3 days, newest first. 74 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -476,42 +476,6 @@ _Last 3 days, newest first. 80 posts._
 ### [July 5, 2026 at 11:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868097291651141)
 
 > World Cup already sets new attendance record, will shatter total attendance mark by end of tourney: https://www. sportsbusinessjournal.com/Arti cles/2026/06/26/world-cup-already-sets-new-attendance-record-will-shatter-total-attendance-mark-by-end-of-tourney/
-
----
-
-### [July 5, 2026 at 11:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868074827104487)
-
-> 'Freedom is the future': Trump warns Americans about the threat of 'hardcore, godless communists' on the rise: https:// thepostmillennial.com/freedom- is-the-future-trump-warns-americans-about-the-threat-of-hardcore-godless-communists-on-the-rise
-
----
-
-### [July 5, 2026 at 11:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868073387804639)
-
-> Trump blasts left-wing NYC Dems as ‘godless communists’ at Faith & Freedom Coalition conference: https://www. washingtontimes.com/news/2026/ jun/26/trump-blasts-left-wing-nyc-dems-godless-communists-faith-freedom/
-
----
-
-### [July 5, 2026 at 11:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868071918677461)
-
-> Trump says communism is the biggest threat facing America on eve of 250th birthday: https://www. washingtonexaminer.com/news/wh ite-house/4627007/trump-communism-biggest-threat-facing-america/
-
----
-
-### [July 5, 2026 at 11:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868070757235178)
-
-> Watch: Trump Tells the Hard Truth on Why the Dem Party Refuses to Fight Its Internal Communist Threat: https:// redstate.com/beccalower/2026/0 6/26/religious-liberty-at-the-heart-of-defeating-communists-president-trump-speaks-conservative-conference-n2203764
-
----
-
-### [July 5, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868068664504672)
-
-> Trump warns ‘godless communists’ will turn cities into slums as Dems fail to fight socialist surge: https://www. foxnews.com/politics/trump-war ns-godless-communists-turn-cities-slums-dems-fail-fight-socialist-surge
-
----
-
-### [July 5, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868067768149796)
-
-> Trump Declares Holy War on Communism in Latest Speech: https:// townhall.com/tipsheet/josephch alfant/2026/06/26/trump-declares-holy-war-on-communism-in-latest-speech-n2678393
 <!-- DJT_POSTS_END -->
 
 ---
