@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 87 posts._
+_Last 3 days, newest first. 86 posts._
 
 ### [July 7, 2026 at 10:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882074981775044)
 
@@ -548,12 +548,6 @@ _Last 3 days, newest first. 87 posts._
 ### [July 5, 2026 at 11:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868012643897524)
 
 > ‘We’re on Break!’ Senate’s Sloth Stalls SAVE America Act: https://www. dailysignal.com/2026/06/29/sav e-america-senate-sloth/
-
----
-
-### [July 5, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116865509906385097)
-
-> Best fireworks show, EVER! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
