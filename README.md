@@ -3,7 +3,44 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 78 posts._
+_Last 3 days, newest first. 84 posts._
+
+### [July 7, 2026 at 10:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882020173993794)
+
+> Fed Reserve working paper suggests Biden illegal immigrant wave caused 30% of home price increases: https:// justthenews.com/government/sec urity/fed-reserve-working-paper-suggests-biden-illegal-immigrant-wave-drove-home
+
+---
+
+### [July 7, 2026 at 10:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882017802445918)
+
+> Trump fan or not, economists say Trump accounts are a good deal: https:// justthenews.com/politics-polic y/all-things-trump/trump-fan-or-not-economists-say-trump-accounts-are-good-deal
+
+---
+
+### [July 7, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882015487927647)
+
+> Comer blasts Senate Republicans who do not support SAVE America Act: 'Are you that weak?'
+>  https:// justthenews.com/government/con gress/comer-blasts-senate-republicans-who-do-not-support-save-america-act-are-you
+
+---
+
+### [July 7, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882013098841635)
+
+> Trump announces Walmart to lower prices for thousands of products at his administration's request: https:// justthenews.com/nation/economy /trump-announces-walmart-lower-prices-thousands-products-his-administrations-request
+
+---
+
+### [July 7, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882011013561710)
+
+> Federal judge hands Trump big win, directs DHS to restore voter verification features of SAVE system: https:// justthenews.com/government/cou rts-law/federal-judge-directs-dhs-restore-voter-verification-features-save-system
+
+---
+
+### [July 7, 2026 at 10:31 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882008915975445)
+
+> Australian alien arrested after investigation finds she illegally voted in two federal elections: https:// justthenews.com/government/sec urity/australian-alien-arrested-after-investigation-finds-she-illegally-voted-two
+
+---
 
 ### [July 7, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116879490053026634)
 
