@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 85 posts._
+_Last 3 days, newest first. 80 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -512,36 +512,6 @@ _Last 3 days, newest first. 85 posts._
 ### [July 5, 2026 at 11:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868067768149796)
 
 > Trump Declares Holy War on Communism in Latest Speech: https:// townhall.com/tipsheet/josephch alfant/2026/06/26/trump-declares-holy-war-on-communism-in-latest-speech-n2678393
-
----
-
-### [July 5, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868041130930649)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868040466267706
-
----
-
-### [July 5, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868040466267706)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868038705921716
-
----
-
-### [July 5, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868035089942232)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868034274777966
-
----
-
-### [July 5, 2026 at 11:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868034274777966)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868031697482283
-
----
-
-### [July 5, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868022324870960)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868021523031453
 <!-- DJT_POSTS_END -->
 
 ---
