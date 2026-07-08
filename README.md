@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 53 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -334,19 +334,6 @@ _Last 3 days, newest first. 55 posts._
 ### [July 5, 2026 at 12:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868310583775832)
 
 > First Statue for Triumphal Arch — Amazing!
-
----
-
-### [July 5, 2026 at 12:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868294476750006)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868292534134605 Number 1 on TikTok!
-
----
-
-### [July 5, 2026 at 12:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868292534134605)
-
-> From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President" TikToks in just 48 hours!
-> Wishing the President a belated happy birthday!”
 <!-- DJT_POSTS_END -->
 
 ---
