@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 69 posts._
+_Last 3 days, newest first. 66 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -428,24 +428,6 @@ _Last 3 days, newest first. 69 posts._
 ### [July 5, 2026 at 11:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868126447391515)
 
 > White House Renovation: Some more photos of the North Portico project. Big Stuff!
-
----
-
-### [July 5, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868114461226198)
-
-> The Iranian Agreement and The Trump Economic Boom: https://www. gingrich360.net/p/the-iranian- agreement-and-the-trump
-
----
-
-### [July 5, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868113508651926)
-
-> Three-story tall banners of POTUS and George Washington have been hung on the front of the Department of the Interior building. The wording above Washington is “America’s First” in reference to him being America’s first president. The wording above President Trump is “America First”—which needs no explanation!
-
----
-
-### [July 5, 2026 at 11:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868104541429027)
-
-> Exclusive — Leading UN Secretary General Candidate Macky Sall Backs ‘Peace Builder’ Donald Trump’s Push for Reforms: ‘Make the UN Great Again’: https://www. breitbart.com/politics/2026/06 /21/exclusive-leading-un-secretary-general-candidate-macky-sall-backs-peace-builder-donald-trumps-push-for-reforms-make-the-un-great-again/
 <!-- DJT_POSTS_END -->
 
 ---
