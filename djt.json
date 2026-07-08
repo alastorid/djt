@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-08T12:43:19.379Z",
-  "count": 430,
+  "updatedAt": "2026-07-08T13:35:05.031Z",
+  "count": 431,
   "posts": [
+    {
+      "id": "116884610837999938",
+      "createdAt": "2026-07-08T09:33:41-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116884610837999938",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybody is looking for a solution. Very positive! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-08T13:35:05.031Z"
+        }
+      ]
+    },
     {
       "id": "116884409163416775",
       "createdAt": "2026-07-08T08:42:24-04:00",

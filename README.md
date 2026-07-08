@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 87 posts._
+_Last 3 days, newest first. 88 posts._
+
+### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
+
+> President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybody is looking for a solution. Very positive! President DONALD J. TRUMP
+
+---
 
 ### [July 8, 2026 at 8:42 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884409163416775)
 
