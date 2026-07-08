@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-08T21:28:27.147Z",
-  "count": 432,
+  "updatedAt": "2026-07-08T21:38:49.723Z",
+  "count": 433,
   "posts": [
+    {
+      "id": "116886505160658220",
+      "createdAt": "2026-07-08T17:35:26-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116886505160658220",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!",
+          "firstSeenAt": "2026-07-08T21:38:49.723Z"
+        }
+      ]
+    },
     {
       "id": "116886461770041376",
       "createdAt": "2026-07-08T17:24:24-04:00",

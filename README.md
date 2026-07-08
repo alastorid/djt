@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [July 8, 2026 at 5:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886505160658220)
+
+> This is in retribution for yesterday’s bombing of ships by Iran. If it happens again, it will get much worse!
+
+---
 
 ### [July 8, 2026 at 5:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116886461770041376)
 
