@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 66 posts._
+_Last 3 days, newest first. 64 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -416,18 +416,6 @@ _Last 3 days, newest first. 66 posts._
 > After “Sacrifice” is regilded, regilding work will begin on the two Arts of Peace sculptures— Each of which is also 19-feet-tall, and on top of 12.5-feet-tall solid granite pedestals.
 > These four sculptures have not been regilded in over half-a-century. 55 pounds of gold leaf is being used in this effort.
 > The first set of photos below is of the completed regilding of “Valor,” while the second set of photos below is of the in-progress regilding of “Sacrifice.”
-
----
-
-### [July 5, 2026 at 11:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868134746005754)
-
-> From Greg Wischer at the United States Department of the Interior: “Photo just taken of the Reflecting Pool. As you can see, the water is crystal clear.”
-
----
-
-### [July 5, 2026 at 11:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868126447391515)
-
-> White House Renovation: Some more photos of the North Portico project. Big Stuff!
 <!-- DJT_POSTS_END -->
 
 ---
