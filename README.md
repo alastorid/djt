@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -279,18 +279,6 @@ _Last 3 days, newest first. 46 posts._
 ### [July 5, 2026 at 4:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869247017804299)
 
 > My father, grandparents, uncle, and aunt!
-
----
-
-### [July 5, 2026 at 4:25 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869241546765973)
-
-> My father and mentor, Fred C. Trump!
-
----
-
-### [July 5, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869233363782138)
-
-> Dr. John G. Trump, of MIT!
 <!-- DJT_POSTS_END -->
 
 ---
