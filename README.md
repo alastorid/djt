@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -291,12 +291,6 @@ _Last 3 days, newest first. 47 posts._
 ### [July 5, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869233363782138)
 
 > Dr. John G. Trump, of MIT!
-
----
-
-### [July 5, 2026 at 3:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116869022220741530)
-
-> The Crowd at 7:05 in the evening was 422,000 people! All were forced to leave because of the weather, the event was cancelled, and everyone was gone because of lightning. When I heard that it was cancelled, I immediately overturned that decision, and waited a while for people to come back. Incredibly, at least 150,000 people returned, and it was an even more spectacular evening than it would have been as normalized! It showed work under pressure. Congratulations to the Secret Service and Law Enforcement on being able to get so many people back into the Arena in such rapid fashion! It was an amazing evening made even more spectacular by the fact that, immediately after the Great Fireworks ended, the rains came down, full blast! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
