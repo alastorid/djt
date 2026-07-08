@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 49 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -309,12 +309,6 @@ _Last 3 days, newest first. 50 posts._
 ### [July 5, 2026 at 2:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868746595583837)
 
 > There is nothing Americans can’t do except get Voter ID (Identification), Proof of Citizenship or, most importantly of all, TERMINATE THE FILIBUSTER (which the Democrats will do immediately upon gaining Office, and add 2 more States, 4 more Senators, 8 more Congressmen, at least 20 Electoral Votes, and it will be impossible for a Republican to ever be elected President again. I don’t want to be the last Republican President!). GET SMART REPUBLICANS, IF YOU DON’T, YOU WON’T BE IN OFFICE FOR LONG! President DONALD J. TRUMP
-
----
-
-### [July 5, 2026 at 1:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868490571213527)
-
-> Thank you to FIFA for doing what was right, and reversing a great injustice! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
