@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 80 posts._
+_Last 3 days, newest first. 79 posts._
 
 ### [July 7, 2026 at 11:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116879490053026634)
 
@@ -505,12 +505,6 @@ _Last 3 days, newest first. 80 posts._
 ### [July 4, 2026 at 10:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116864961960694526)
 
 > I’M HERE!!! DJT
-
----
-
-### [July 4, 2026 at 9:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116864681605523102)
-
-> Storms bring luck to whatever the occasion. They also make events a little bit more exciting! We will wait it out, I don’t care if it’s 2:00 O’Clock in the morning, or in one hour from now. Looks like it is going to pass, they always do. I will be there no matter what, but the “what” usually turns out to be a good thing. It’s Saturday night, LETS HAVE SOME FUN, even if we are out late tonight. They say 11:00 O’Clock for the speech. Who cares??? Remember two weeks ago when the big UFC Event was at 100% chance of heavy rain, all week long, and just minutes before the card started. Well, there wasn’t a single drop, and the fights turned out to be among the greatest in history, an event for the ages. Our great veterans, especially the old timers, many of whom are there, went through hellfire, and it didn’t stop them. It’s not going to stop us either! I’m not going to let some rain stop our 250th. I’m leaving the White House soon. God Bless America! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
