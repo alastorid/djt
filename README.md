@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 84 posts._
+_Last 3 days, newest first. 85 posts._
+
+### [July 7, 2026 at 10:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882024734977134)
+
+> Trump caps sensational 250th celebration with tribute to the glory of American freedom: https:// justthenews.com/politics-polic y/all-things-trump/trump-caps-sensational-250th-celebration-tribute-glory-america
+
+---
 
 ### [July 7, 2026 at 10:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116882020173993794)
 

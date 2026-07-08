@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-08T02:36:22.986Z",
-  "count": 425,
+  "updatedAt": "2026-07-08T02:41:35.880Z",
+  "count": 426,
   "posts": [
+    {
+      "id": "116882024734977134",
+      "createdAt": "2026-07-07T22:36:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116882024734977134",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump caps sensational 250th celebration with tribute to the glory of American freedom: https:// justthenews.com/politics-polic y/all-things-trump/trump-caps-sensational-250th-celebration-tribute-glory-america",
+          "firstSeenAt": "2026-07-08T02:41:35.880Z"
+        }
+      ]
+    },
     {
       "id": "116882020173993794",
       "createdAt": "2026-07-07T22:34:51-04:00",
