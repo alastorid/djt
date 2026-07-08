@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 55 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -347,22 +347,6 @@ _Last 3 days, newest first. 57 posts._
 
 > From Shou Chew, CEO of TikTok: “Attached are the latest numbers of the President on TikTok. All time views of #Trump TikToks are now at 425 billion. Also, 1 billion new views across UFC 250, Trump's Iran Peace Deal and “Happy Birthday, Mr. President" TikToks in just 48 hours!
 > Wishing the President a belated happy birthday!”
-
----
-
-### [July 5, 2026 at 12:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868263258096038)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116868259368267169
-
----
-
-### [July 5, 2026 at 12:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868250318223381)
-
-> From Greg Wischer at the United States Department of the Interior: “After 6 long years, the original cannons that previously surrounded the Andrew Jackson statue in Lafayette Park but were damaged in the 2020 riots have been returned to their rightful location around the statue.
-> The four cannons—El Witiza, El Egica, El Apolo, and El Aristeo—were captured by Andrew Jackson from the Spanish in his Pensacola Campaign in 1818.
-> El Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.
-> The first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.
-> The second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”
 <!-- DJT_POSTS_END -->
 
 ---
