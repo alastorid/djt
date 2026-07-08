@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 57 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -363,22 +363,6 @@ _Last 3 days, newest first. 59 posts._
 > El Witiza and El Egica had been cast at the royal foundry in Barcelona in 1748 and were named for two Visigoth kings, while El Apolo and El Aristeo were cast in 1773 and were named for two Greek gods.
 > The first photo below shows the damaged cannons and the destroyed cannon carriages, which support and transport the cannons, during the 2020 riots.
 > The second photo shows the state of the Andrew Jackson statue and returned cannons today. (The National Park Service team is now whitening the marble pedestal for the Jackson statue.)”
-
----
-
-### [July 5, 2026 at 12:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868243191193043)
-
-> From Greg Wischer at the United States Department of the Interior: “The Theodore Roosevelt Island National Memorial, with two fountains and a 17-foot statue of Theodore Roosevelt, was just repaired, cleaned, and beautified, after experiencing chronic periods of disrepair.
->
-> The fountains were fixed; the statue was cleaned and waxed; and the granite elements were pressure washed.
->
-> The memorial was dedicated on October 27, 1967–Theodore Roosevelt's 109th birthday. It is the only presidential memorial in Washington, D.C., where the landscape itself serves as the primary tribute to the president—a mature native woodland designed to reflect Roosevelt's conservation legacy.”
-
----
-
-### [July 5, 2026 at 12:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868233496967493)
-
-> The statue “Valor” — one of the Arts of War statues — being completely regilded!
 <!-- DJT_POSTS_END -->
 
 ---
