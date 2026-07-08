@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [July 8, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116884610837999938)
 
@@ -379,16 +379,6 @@ _Last 3 days, newest first. 60 posts._
 ### [July 5, 2026 at 12:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868233496967493)
 
 > The statue “Valor” — one of the Arts of War statues — being completely regilded!
-
----
-
-### [July 5, 2026 at 12:03 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116868213223916230)
-
-> From Greg Wischer at the United States Department of the Interior: “Dupont Circle was a dirty, crime-ridden mess for decades, but thanks to the President’s and Secretary’s efforts to make D.C. “Safe and Beautiful,” Dupont Circle and its signature fountain were recently beautified.
->
-> The fountain’s mechanical, control, and electrical systems were upgraded, and the benches, which were badly worn out and broken under previous administrations, surrounding the fountain were fixed and replaced.
->
-> Dedicated in 1921, Dupont Circle honors Samuel Francis Dupont, a Union naval officer during the Civil War. The fountain features three allegorical figures for the Sea, Stars, and Wind, and it was designed by Henry Bacon and sculpted by Daniel Chester French—the same team behind the Lincoln Memorial.“
 <!-- DJT_POSTS_END -->
 
 ---
