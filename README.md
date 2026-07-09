@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [July 8, 2026 at 9:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116887463214588151)
 
@@ -292,12 +292,6 @@ _Last 3 days, newest first. 47 posts._
 ### [July 5, 2026 at 11:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116870828977749531)
 
 > Harry Kane of England is a GREAT player!!!
-
----
-
-### [July 5, 2026 at 10:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116870641369607573)
-
-> Fed Reserve working paper suggests Biden illegal immigrant wave drove up home prices 30%: https:// justthenews.com/government/sec urity/fed-reserve-working-paper-suggests-biden-illegal-immigrant-wave-drove-home
 <!-- DJT_POSTS_END -->
 
 ---
