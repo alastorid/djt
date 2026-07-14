@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [July 14, 2026 at 9:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918550303380360)
+
+> Labor Department reports annual inflation in June was 3.5%, biggest monthly drop in over six years: https:// justthenews.com/nation/economy /labor-department-reports-annual-inflation-june-was-35-biggest-monthly-drop-over-six
+
+---
 
 ### [July 13, 2026 at 10:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116916069165520996)
 
