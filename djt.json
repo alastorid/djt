@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T15:29:17.306Z",
-  "count": 490,
+  "updatedAt": "2026-07-14T15:34:29.267Z",
+  "count": 491,
   "posts": [
+    {
+      "id": "116919039070193454",
+      "createdAt": "2026-07-14T11:29:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116919039070193454",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "East Wing Northern Facade — A match for the White House!",
+          "firstSeenAt": "2026-07-14T15:34:29.267Z"
+        }
+      ]
+    },
     {
       "id": "116919015096033790",
       "createdAt": "2026-07-14T11:23:08-04:00",
