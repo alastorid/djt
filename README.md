@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [July 14, 2026 at 11:04 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918941071241802)
+
+> Oil is flowing like never before, thanks to the awesome Power of the United States Military. A special salute to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Dan Caine, and Commander of the United States Central Command, Admiral Brad Cooper. Because of them, and all members of the Most Powerful Military anywhere in the World, BY FAR, the Strait of Hormuz is open to ALL Ship traffic except for Iran — and that is because of their lying, violent, malicious leadership, which is taking them down the path of TOTAL DESTRUCTION. We will therefore have a FULL Blockade, but only on Ships coming to and from Iranian ports, or carrying anything have to do with Iranian cargo. Based on highly productive conversations with Middle East leadership, I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States. Those Investments will be MASSIVE but, at the same time, extraordinarily good for them, and their future. As everyone is aware, we have the largest Dollar Investment into the United States, of any Country in History, but these new Investments will make that Number even larger, and we will see Factories, Plants, and Equipment pour into the United States at Historic levels, which will create additional millions of High Paying AMERICAN Jobs! America is WINNING again, winning like never before. The days of Iran killing hundreds of thousands of people, including 52,000 protestors, are OVER and, most importantly, IRAN WILL NEVER HAVE A NUCLEAR WEAPON! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [July 14, 2026 at 10:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918848692096863)
 
