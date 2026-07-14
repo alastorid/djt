@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T15:13:39.598Z",
-  "count": 486,
+  "updatedAt": "2026-07-14T15:18:53.435Z",
+  "count": 487,
   "posts": [
+    {
+      "id": "116918987577161521",
+      "createdAt": "2026-07-14T11:16:08-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918987577161521",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https:// x.com/jaysonbuford/status/2030 479304228782448?s=46",
+          "firstSeenAt": "2026-07-14T15:18:53.435Z"
+        }
+      ]
+    },
     {
       "id": "116918965046638537",
       "createdAt": "2026-07-14T11:10:25-04:00",
