@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [July 14, 2026 at 9:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918672411457945)
+
+> Maria Bartiromo is FANTASTIC!!! President DJT
+
+---
 
 ### [July 14, 2026 at 9:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918550303380360)
 

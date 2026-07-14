@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T13:29:40.424Z",
-  "count": 469,
+  "updatedAt": "2026-07-14T14:00:50.659Z",
+  "count": 470,
   "posts": [
+    {
+      "id": "116918672411457945",
+      "createdAt": "2026-07-14T09:55:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918672411457945",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Maria Bartiromo is FANTASTIC!!! President DJT",
+          "firstSeenAt": "2026-07-14T14:00:50.659Z"
+        }
+      ]
+    },
     {
       "id": "116918550303380360",
       "createdAt": "2026-07-14T09:24:56-04:00",
