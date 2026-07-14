@@ -6,9 +6,89 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T14:00:50.659Z",
-  "count": 470,
+  "updatedAt": "2026-07-14T14:32:01.927Z",
+  "count": 475,
   "posts": [
+    {
+      "id": "116918803374853887",
+      "createdAt": "2026-07-14T10:29:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918803374853887",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. theguardian.com/commentisfree/ 2017/jan/12/polly-toynbee-1988-interview-donald-trump",
+          "firstSeenAt": "2026-07-14T14:32:01.927Z"
+        }
+      ]
+    },
+    {
+      "id": "116918800567887958",
+      "createdAt": "2026-07-14T10:28:35-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918800567887958",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Old clip of Trump talking about Iran in 1980 goes viral: https:// wjla.com/news/nation-world/old -clip-of-trump-talking-about-iran-in-1980-goes-viral-israel-pete-hegseth-middle-east",
+          "firstSeenAt": "2026-07-14T14:32:01.927Z"
+        }
+      ]
+    },
+    {
+      "id": "116918799810022242",
+      "createdAt": "2026-07-14T10:28:23-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918799810022242",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www. newsmax.com/newsmax-tv/israel- gideon-saar-donald-trump/2026/03/08/id/1248756/",
+          "firstSeenAt": "2026-07-14T14:32:01.927Z"
+        }
+      ]
+    },
+    {
+      "id": "116918798882646003",
+      "createdAt": "2026-07-14T10:28:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918798882646003",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Man pleads guilty to false US citizenship claim on North Carolina voter form for 2024 election: https://www. wbtv.com/2026/03/09/man-pleads -guilty-false-us-citizenship-claim-north-carolina-voter-form-2024-election/",
+          "firstSeenAt": "2026-07-14T14:32:01.927Z"
+        }
+      ]
+    },
+    {
+      "id": "116918797715425873",
+      "createdAt": "2026-07-14T10:27:51-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918797715425873",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:",
+          "firstSeenAt": "2026-07-14T14:32:01.927Z"
+        }
+      ]
+    },
     {
       "id": "116918672411457945",
       "createdAt": "2026-07-14T09:55:59-04:00",
