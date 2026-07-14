@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T14:37:16.373Z",
-  "count": 482,
+  "updatedAt": "2026-07-14T14:42:26.941Z",
+  "count": 483,
   "posts": [
+    {
+      "id": "116918848692096863",
+      "createdAt": "2026-07-14T10:40:49-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116918848692096863",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https:// x.com/zitosalena/status/206945 3791057834413?s=46",
+          "firstSeenAt": "2026-07-14T14:42:26.941Z"
+        }
+      ]
+    },
     {
       "id": "116918826898528943",
       "createdAt": "2026-07-14T10:35:17-04:00",
