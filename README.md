@@ -3,7 +3,17 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 63 posts._
+
+### [July 15, 2026 at 1:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116925062992298605)
+
+> It is my Great Honor to endorse MAGA Warrior, Michael Alfonso, a young “STAR” who is running to represent the incredible people of Wisconsin’s 7th Congressional District.
+>
+> Michael is the son-in-law of our GREAT Secretary of Transportation, Sean Duffy, and the wonderful Rachel Campos-Duffy, of FoxNews, one of the most popular (and talented!) anchors in all of Television. His family has been fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congressman, Michael will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.
+>
+> Michael Alfonso has been a WINNER all of his life, comes from a truly spectacular family, and has my Complete and Total Endorsement to be the next Representative from Wisconsin’s 7th Congressional District — HE WILL NEVER LET YOU DOWN!
+
+---
 
 ### [July 15, 2026 at 12:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116924979201330474)
 
