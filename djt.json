@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-15T10:47:18.524Z",
-  "count": 494,
+  "updatedAt": "2026-07-15T10:52:30.489Z",
+  "count": 495,
   "posts": [
+    {
+      "id": "116923602397013633",
+      "createdAt": "2026-07-15T06:49:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116923602397013633",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great News for America! \nHouse passes Trump-supported bill to make daylight savings time permanent: https:// justthenews.com/government/con gress/house-passes-trump-supported-bill-make-daylight-savings-time-permanent",
+          "firstSeenAt": "2026-07-15T10:52:30.489Z"
+        }
+      ]
+    },
     {
       "id": "116923585931908111",
       "createdAt": "2026-07-15T06:45:34-04:00",
