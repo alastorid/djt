@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 56 posts._
+
+### [July 15, 2026 at 6:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923472077180326)
+
+> Great News America! The Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!
+
+---
 
 ### [July 14, 2026 at 2:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919780125305335)
 

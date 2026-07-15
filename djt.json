@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-14T18:40:28.237Z",
-  "count": 492,
+  "updatedAt": "2026-07-15T10:21:31.117Z",
+  "count": 493,
   "posts": [
+    {
+      "id": "116923472077180326",
+      "createdAt": "2026-07-15T06:16:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116923472077180326",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great News America! The Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
+          "firstSeenAt": "2026-07-15T10:21:31.117Z"
+        }
+      ]
+    },
     {
       "id": "116919780125305335",
       "createdAt": "2026-07-14T14:37:42-04:00",
