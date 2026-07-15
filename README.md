@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 58 posts._
+_Last 3 days, newest first. 59 posts._
+
+### [July 15, 2026 at 6:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923618784603444)
+
+> Sen. Lindsey Graham’s presidential relationship emblematic of Trump's willingness to mend fences: https:// justthenews.com/government/whi te-house/graham-was-one-many-hatchets-trumps-hatchet-graveyard-putting-country
+
+---
 
 ### [July 15, 2026 at 6:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923602397013633)
 

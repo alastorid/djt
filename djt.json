@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-15T10:52:30.489Z",
-  "count": 495,
+  "updatedAt": "2026-07-15T10:57:41.179Z",
+  "count": 496,
   "posts": [
+    {
+      "id": "116923618784603444",
+      "createdAt": "2026-07-15T06:53:55-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116923618784603444",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Sen. Lindsey Graham’s presidential relationship emblematic of Trump's willingness to mend fences: https:// justthenews.com/government/whi te-house/graham-was-one-many-hatchets-trumps-hatchet-graveyard-putting-country",
+          "firstSeenAt": "2026-07-15T10:57:41.179Z"
+        }
+      ]
+    },
     {
       "id": "116923602397013633",
       "createdAt": "2026-07-15T06:49:45-04:00",
