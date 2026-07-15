@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-15T11:33:55.057Z",
-  "count": 497,
+  "updatedAt": "2026-07-15T11:39:06.692Z",
+  "count": 498,
   "posts": [
+    {
+      "id": "116923778080121038",
+      "createdAt": "2026-07-15T07:34:26-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116923778080121038",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "So cool!!! President DJT",
+          "firstSeenAt": "2026-07-15T11:39:06.692Z"
+        }
+      ]
+    },
     {
       "id": "116923765602106745",
       "createdAt": "2026-07-15T07:31:15-04:00",
