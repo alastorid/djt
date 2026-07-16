@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-16T04:38:34.281Z",
-  "count": 503,
+  "updatedAt": "2026-07-16T05:04:30.183Z",
+  "count": 504,
   "posts": [
+    {
+      "id": "116927888438883834",
+      "createdAt": "2026-07-16T00:59:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116927888438883834",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "With today’s announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world!",
+          "firstSeenAt": "2026-07-16T05:04:30.183Z"
+        }
+      ]
+    },
     {
       "id": "116927792514499169",
       "createdAt": "2026-07-16T00:35:21-04:00",
