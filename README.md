@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 47 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -315,16 +315,6 @@ _**Deleted**_
 > A Highly Respected State Legislator, and Very Successful Small Business Owner, Steve has been an incredible Voice for MAGA, and has been with me from the very beginning! As your next Congressman, he will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.
 >
 > Steve Toth has my Complete and Total Endorsement to be the next Representative from Texas’ 2nd Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 3:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914437675973643)
-
-> It is my Great Honor to endorse America First Patriot, Dr. John Cowan, who is running to represent the Wonderful People of Georgia’s 11th Congressional District!
->
-> A Proven Leader, John has served his Community well as a Highly Respected Neurosurgeon, Small Business Owner, and Civic Leader, prior to running for Congress. As your next Congressman, he will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.
->
-> Dr. John Cowan has my Complete and Total Endorsement to be the next Representative from Georgia’s 11th Congressional District — HE WILL NOT LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
