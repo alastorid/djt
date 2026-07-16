@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 67 posts._
+_Last 3 days, newest first. 70 posts._
+
+### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
+
+> https://www. breitbart.com/politics/2026/07 /15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/
+
+---
+
+### [July 16, 2026 at 1:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927910243652851)
+
+> https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/
+
+---
+
+### [July 16, 2026 at 1:04 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927905183625323)
+
+> FREEDOM 250 GRAND PRIX🏎️🇺🇸🏁
+
+---
 
 ### [July 16, 2026 at 12:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927888438883834)
 

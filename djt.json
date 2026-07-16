@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-16T05:04:30.183Z",
-  "count": 504,
+  "updatedAt": "2026-07-16T05:09:42.603Z",
+  "count": 507,
   "posts": [
+    {
+      "id": "116927914613324285",
+      "createdAt": "2026-07-16T01:06:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116927914613324285",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. breitbart.com/politics/2026/07 /15/exclusive-azerbaijani-president-ilham-aliyev-lauds-trump-as-man-peace-credits-him-armenia-azerbaijan-deal/",
+          "firstSeenAt": "2026-07-16T05:09:42.603Z"
+        }
+      ]
+    },
+    {
+      "id": "116927910243652851",
+      "createdAt": "2026-07-16T01:05:17-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116927910243652851",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/",
+          "firstSeenAt": "2026-07-16T05:09:42.603Z"
+        }
+      ]
+    },
+    {
+      "id": "116927905183625323",
+      "createdAt": "2026-07-16T01:04:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116927905183625323",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "FREEDOM 250 GRAND PRIX🏎️🇺🇸🏁",
+          "firstSeenAt": "2026-07-16T05:09:42.603Z"
+        }
+      ]
+    },
     {
       "id": "116927888438883834",
       "createdAt": "2026-07-16T00:59:45-04:00",
