@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -347,12 +347,6 @@ _**Deleted**_
 ### [July 13, 2026 at 2:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914147668764804)
 
 > President Trump will be making a Speech to the Nation on Thursday evening, at 9 P.M. Eastern. Thank you for your attention to this matter!
-
----
-
-### [July 13, 2026 at 10:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913198631392475)
-
-> I recommended, to Governor Henry McMaster, Lindsey Graham’s wonderful sister, Darline, to serve as interim Senator from the Great State of South Carolina. This would be a fabulous tribute to Lindsey, who loved her dearly! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
