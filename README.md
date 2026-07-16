@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 53 posts._
+_Last 3 days, newest first. 52 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -353,12 +353,6 @@ _**Deleted**_
 ### [July 13, 2026 at 10:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913198631392475)
 
 > I recommended, to Governor Henry McMaster, Lindsey Graham’s wonderful sister, Darline, to serve as interim Senator from the Great State of South Carolina. This would be a fabulous tribute to Lindsey, who loved her dearly! President DONALD J. TRUMP
-
----
-
-### [July 13, 2026 at 10:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913128333997026)
-
-> In honor of Senator Lindsey Graham, a big supporter, the U.S. Senate should pass the Clarity Act. China, and many other countries, would like to take complete and total control of this major financial “happening,” as well as A.I., where we are now leading, but where they are fighting hard. Don’t let China win on either subject!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
