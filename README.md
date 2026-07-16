@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 70 posts._
+_Last 3 days, newest first. 62 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -414,54 +414,6 @@ _**Deleted**_
 ### [July 13, 2026 at 9:13 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912843319311977)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116912842477536948
-
----
-
-### [July 13, 2026 at 9:08 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912823820678738)
-
-> Bill O’Reilly Warns Republicans They’ll Get ‘Slaughtered’ in Midterms if They Shun Trump: https://www. mediaite.com/media/bill-oreill y-warns-republicans-theyll-get-slaughtered-in-midterms-if-they-shun-trump/
-
----
-
-### [July 13, 2026 at 9:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912819521603597)
-
-> FBI agents descend on Skid Row in massive voter fraud probe after stunning claims of election bribery: https:// nypost.com/2026/06/18/us-news/ fbi-agents-probe-las-skid-row-in-voter-fraud-investigation/
-
----
-
-### [July 13, 2026 at 9:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912817965245012)
-
-> ‘America is back’: Trump kicks off Great American State Fair with flyovers, patriotic National Mall speech: https://www. foxnews.com/politics/america-b ack-trump-kicks-off-great-american-state-fair-flyovers-patriotic-national-mall-speech
-
----
-
-### [July 13, 2026 at 9:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912817451345008)
-
-> Trump touts US as 'hottest country' at Great American State Fair rally: https://www. usatoday.com/story/news/usa250 /2026/06/24/trump-rally-dc-great-american-state-fair--live/90661812007/
-
----
-
-### [July 13, 2026 at 9:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912816060661558)
-
-> Trump kicks off Great American State Fair celebrating America’s 250th anniversary: ‘The best is yet to come’: https:// nypost.com/2026/06/24/us-news/ trump-says-the-best-is-yet-to-come-for-america-at-freedom-250-rally/
-
----
-
-### [July 13, 2026 at 9:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912815211197067)
-
-> PRESIDENT TRUMP KICKS OFF AMERICA’S 250TH ANNIVERSARY CELEBRATION WITH NATIONAL MALL RALLY: https://www. rsbnetwork.com/news/president- trump-kicks-off-americas-250th-anniversary-celebration-with-national-mall-rally/
-
----
-
-### [July 13, 2026 at 9:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912814470765683)
-
-> Trump opens US 250th birthday party with rally-style speech: https://www. breitbart.com/news/trump-opens -us-250th-birthday-party-with-rally-style-speech/
-
----
-
-### [July 13, 2026 at 9:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912813425065594)
-
-> Trump Opens America 250 With National Mall Rally: https://www. newsmax.com/newsfront/donald-t rump-great-american-state-fair-america-250/2026/06/24/id/1260815/
 <!-- DJT_POSTS_END -->
 
 ---
