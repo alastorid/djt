@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 43 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -275,16 +275,6 @@ _**Deleted**_
 > A Successful Businessman, and very popular State Senator, Brent has dedicated his life to serving his Community. As your next Congressman, Brent will work tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment.
 >
 > Brent Taylor has my Complete and Total Endorsement to be the next Representative from Tennessee’s 9th Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 5:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914722414782536)
-
-> It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District!
->
-> As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
->
-> Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
