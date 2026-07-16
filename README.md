@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -295,26 +295,6 @@ _**Deleted**_
 > A very successful Businesswoman, Software Engineer, and Civic Leader, prior to becoming a distinguished Porter County Commissioner, Barb is a Proven Leader who has dedicated her life to serving her Community. Her opponent, Frank Mrvan, strongly opposed our Great STEEL TARIFFS and Workers that made all of these Jobs, and currently built Factories and Plants that are going up right now, possible. We increased Union Jobs and Votes by numbers never seen before, and Frank Mervin was a, “NO.” Mervin also voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Barb Regnitz will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, Advance Election Integrity, and Protect our always under siege Second Amendment.
 >
 > Barb Regnitz has my Complete and Total Endorsement to be the next Representative from Indiana’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 4:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914607131724482)
-
-> It is my Great Honor to endorse America First Patriot, Anthony DiLorenzo, who is running to represent the fantastic people of New Hampshire’s 1st Congressional District!
->
-> As a very successful Businessman and Entrepreneur, Anthony understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. As your next Congressman, he will work tirelessly to Grow the Economy, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
->
-> Anthony DiLorenzo has my Complete and Total Endorsement to be the next Representative from New Hampshire’s 1st Congressional District – HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 4:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914606172298586)
-
-> It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas’ 2nd Congressional District!
->
-> A Highly Respected State Legislator, and Very Successful Small Business Owner, Steve has been an incredible Voice for MAGA, and has been with me from the very beginning! As your next Congressman, he will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.
->
-> Steve Toth has my Complete and Total Endorsement to be the next Representative from Texas’ 2nd Congressional District — HE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
