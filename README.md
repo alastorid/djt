@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 53 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -359,12 +359,6 @@ _**Deleted**_
 ### [July 13, 2026 at 10:26 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913128333997026)
 
 > In honor of Senator Lindsey Graham, a big supporter, the U.S. Senate should pass the Clarity Act. China, and many other countries, would like to take complete and total control of this major financial “happening,” as well as A.I., where we are now leading, but where they are fighting hard. Don’t let China win on either subject!!! President DONALD J. TRUMP
-
----
-
-### [July 13, 2026 at 10:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913091653271692)
-
-> The Hormuz Strait is OPEN, and will remain OPEN, with or without Iran. We are reinstating the THE IRANIAN BLOCKADE, so named because it is only stopping Iran’s ships or customers from entering or leaving. All other countries will have fair and open use of the Strait. The U.S.A. will be, from this point forward, known as “THE GUARDIAN OF THE HORMUZ STRAIT,” but as such, and as a matter of FAIRNESS, will be reimbursed, at the rate of 20% on all cargo shipped, for any and all costs necessary to do the job of providing safety and security to this very volatile section of the World. The process and formation will begin immediately. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
