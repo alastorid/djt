@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -341,12 +341,6 @@ _**Deleted**_
 > A very successful Business Owner, Attorney, Civic Leader, and Loving Wife and Mother, Jenny has dedicated her life to serving her Community. As your next Congresswoman, Jenny will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Create GREAT Jobs, Keep our Border SECURE, Support our Incredible Military/Veterans, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment.
 >
 > Jenny Costa Honeycutt has my Complete and Total Endorsement to be the next Representative from South Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 2:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914147668764804)
-
-> President Trump will be making a Speech to the Nation on Thursday evening, at 9 P.M. Eastern. Thank you for your attention to this matter!
 <!-- DJT_POSTS_END -->
 
 ---
