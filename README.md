@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 54 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -365,37 +365,6 @@ _**Deleted**_
 ### [July 13, 2026 at 10:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116913091653271692)
 
 > The Hormuz Strait is OPEN, and will remain OPEN, with or without Iran. We are reinstating the THE IRANIAN BLOCKADE, so named because it is only stopping Iran’s ships or customers from entering or leaving. All other countries will have fair and open use of the Strait. The U.S.A. will be, from this point forward, known as “THE GUARDIAN OF THE HORMUZ STRAIT,” but as such, and as a matter of FAIRNESS, will be reimbursed, at the rate of 20% on all cargo shipped, for any and all costs necessary to do the job of providing safety and security to this very volatile section of the World. The process and formation will begin immediately. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 13, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912867728299923)
-
-> Reflecting Pool showing F-35s!
-
----
-
-### [July 13, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912867207290616)
-
-> Thank you to the Great Dr. Phil. The Deep State never sleeps.
->  https://www. theepochtimes.com/opinion/dont -mistake-the-messenger-for-the-message-on-the-question-of-trumps-intelligence-6058533
-
----
-
-### [July 13, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912866407413041)
-
-> To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVOCALLY OVERRULED, greatly increasing Presidential Power at a time when it is most needed! President DONALD J. TRUMP
-
----
-
-### [July 13, 2026 at 9:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912865913293381)
-
-> BIG WIN at the Supreme Court, in the Slaughter Case, confirming Presidential Power in our Country to remove Executive Branch Officers and Agency Appointees, or Representatives, under Article II. This Decision was long sought by United States Presidents, dating all the way back to the 1930s. It is such an Honor to be the sitting President who won this Historic and Unprecedented Ruling, one of the most important ever given with respect to Presidential Powers. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 13, 2026 at 9:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912864476004058)
-
-> https://www. 19fortyfive.com/2026/04/americ an-history-teaches-that-operation-epic-fury-is-not-another-forever-war/
 <!-- DJT_POSTS_END -->
 
 ---
