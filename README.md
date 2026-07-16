@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -396,24 +396,6 @@ _**Deleted**_
 ### [July 13, 2026 at 9:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912864476004058)
 
 > https://www. 19fortyfive.com/2026/04/americ an-history-teaches-that-operation-epic-fury-is-not-another-forever-war/
-
----
-
-### [July 13, 2026 at 9:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912847808699662)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116912846376370706
-
----
-
-### [July 13, 2026 at 9:14 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912845053209401)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116912844137811907
-
----
-
-### [July 13, 2026 at 9:13 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116912843319311977)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116912842477536948
 <!-- DJT_POSTS_END -->
 
 ---
