@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 44 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -285,16 +285,6 @@ _**Deleted**_
 > As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
 >
 > Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 13, 2026 at 5:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914697761678481)
-
-> It is my Great Honor to endorse Porter County Commissioner, Barb Regnitz, who is running to represent the incredible people of Indiana’s 1st Congressional District!
->
-> A very successful Businesswoman, Software Engineer, and Civic Leader, prior to becoming a distinguished Porter County Commissioner, Barb is a Proven Leader who has dedicated her life to serving her Community. Her opponent, Frank Mrvan, strongly opposed our Great STEEL TARIFFS and Workers that made all of these Jobs, and currently built Factories and Plants that are going up right now, possible. We increased Union Jobs and Votes by numbers never seen before, and Frank Mervin was a, “NO.” Mervin also voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Barb Regnitz will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, Advance Election Integrity, and Protect our always under siege Second Amendment.
->
-> Barb Regnitz has my Complete and Total Endorsement to be the next Representative from Indiana’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
