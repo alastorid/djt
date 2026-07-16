@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -259,12 +259,6 @@ _**Deleted**_
 ### [July 13, 2026 at 9:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116915815457371603)
 
 > We drained the beautiful “Reflecting Pool” today in order to fix the scars and damage that was done by the Vandals two weeks ago. We wanted to wait until after the July 4th Weekend. The slashes were 300 yards long, and the floor of the pool was cut and then pulled upward, with great force, by these thugs. The Parks Department had to empty the water in order to fix the water tight basin. It will be refilled and put back into service soon. These Country hating sleazebags should pay a big price for the damage done. MAKE AMERICA GREAT AGAIN! President DJT
-
----
-
-### [July 13, 2026 at 6:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116915049881228384)
-
-> Lindsey Graham: The senator, soldier and statesman who never backed down: https:// nypost.com/2026/07/12/opinion/ lindsey-graham-the-senator-soldier-and-statesman-who-never-backed-down/
 <!-- DJT_POSTS_END -->
 
 ---
