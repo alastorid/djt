@@ -6,7 +6,7 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-16T05:09:42.603Z",
+  "updatedAt": "2026-07-16T07:29:08.026Z",
   "count": 507,
   "posts": [
     {
@@ -78,9 +78,9 @@
       "createdAt": "2026-07-16T00:35:21-04:00",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/116927792514499169",
       "currentVersion": 1,
-      "deleted": false,
-      "deletedAt": null,
-      "deletedDetectedAt": null,
+      "deleted": true,
+      "deletedAt": "2026-07-16T03:00:00-04:00",
+      "deletedDetectedAt": "2026-07-16T07:29:08.026Z",
       "versions": [
         {
           "version": 1,

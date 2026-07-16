@@ -33,6 +33,8 @@ _Last 3 days, newest first. 70 posts._
 
 > https://www. instagram.com/reel/Da1tu08OPxD /?igsh=MWFmNXIxMzR3ZzBhbw==
 
+_**Deleted**_
+
 ---
 
 ### [July 15, 2026 at 6:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116926450735170990)
