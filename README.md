@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [July 16, 2026 at 1:06 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927914613324285)
 
@@ -265,16 +265,6 @@ _**Deleted**_
 ### [July 13, 2026 at 6:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116915049881228384)
 
 > Lindsey Graham: The senator, soldier and statesman who never backed down: https:// nypost.com/2026/07/12/opinion/ lindsey-graham-the-senator-soldier-and-statesman-who-never-backed-down/
-
----
-
-### [July 13, 2026 at 5:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116914738999171811)
-
-> It is my Great Honor to endorse Highly Respected State Senator, Brent Taylor, who is running to represent the Incredible People of Tennessee’s 9th Congressional District. Brent is strongly supported by the most Highly Respected MAGA Warriors in Tennessee, including both of your tremendous U.S. Senators, my friends, Marsha Blackburn and Bill Hagerty!
->
-> A Successful Businessman, and very popular State Senator, Brent has dedicated his life to serving his Community. As your next Congressman, Brent will work tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Advance Election Integrity, and Protect our always under siege Second Amendment.
->
-> Brent Taylor has my Complete and Total Endorsement to be the next Representative from Tennessee’s 9th Congressional District — HE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
