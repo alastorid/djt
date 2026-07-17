@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [July 17, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935584368324192)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116932617277175999 Election integrity documents are available for review here: https://www. whitehouse.gov
+
+---
 
 ### [July 17, 2026 at 8:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935415847765408)
 

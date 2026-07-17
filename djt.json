@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-17T12:55:02.458Z",
-  "count": 510,
+  "updatedAt": "2026-07-17T13:41:41.509Z",
+  "count": 511,
   "posts": [
+    {
+      "id": "116935584368324192",
+      "createdAt": "2026-07-17T09:36:55-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116935584368324192",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116932617277175999 Election integrity documents are available for review here: https://www. whitehouse.gov",
+          "firstSeenAt": "2026-07-17T13:41:41.509Z"
+        }
+      ]
+    },
     {
       "id": "116935415847765408",
       "createdAt": "2026-07-17T08:54:04-04:00",
