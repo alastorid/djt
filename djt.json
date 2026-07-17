@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-17T01:06:32.553Z",
-  "count": 508,
+  "updatedAt": "2026-07-17T11:58:09.441Z",
+  "count": 509,
   "posts": [
+    {
+      "id": "116935174937259039",
+      "createdAt": "2026-07-17T07:52:48-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116935174937259039",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great reviews on speech last night. Big audience. Pass THE SAVE AMERICA ACT!!! Thank you! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-17T11:58:09.441Z"
+        }
+      ]
+    },
     {
       "id": "116932617277175999",
       "createdAt": "2026-07-16T21:02:21-04:00",

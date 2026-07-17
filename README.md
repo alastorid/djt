@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 41 posts._
+
+### [July 17, 2026 at 7:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935174937259039)
+
+> Great reviews on speech last night. Big audience. Pass THE SAVE AMERICA ACT!!! Thank you! President DONALD J. TRUMP
+
+---
 
 ### [July 16, 2026 at 9:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116932617277175999)
 
