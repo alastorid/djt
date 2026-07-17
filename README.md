@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
+
+> The Reflecting Pool, so badly damaged by Deranged Vandals, has be emptied as the massive slash gets repaired. We got it through the great July Fourth Weekend. What kind of animals would do such a thing? We are looking for a Vandal Proof material, but such a thing should not have been necessary. The Scum in Court will hopefully be prosecuted to the MAX. President DJT
+
+---
 
 ### [July 17, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935584368324192)
 
