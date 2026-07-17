@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 30 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -193,48 +193,6 @@ _**Deleted**_
 ### [July 14, 2026 at 10:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918848692096863)
 
 > https:// x.com/zitosalena/status/206945 3791057834413?s=46
-
----
-
-### [July 14, 2026 at 10:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918826898528943)
-
-> Trump says he stopped California from rigging the gubernatorial race against Steve Hilton: https://www. washingtonexaminer.com/news/wh ite-house/4621502/trump-stop-california-rigging-gubernatorial-race-against-steve-hilton/
-
----
-
-### [July 14, 2026 at 10:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918825992948563)
-
-> Trump touts U.S. economy and oil prices in a midterm pitch in Pennsylvania: https://www. nbcnews.com/politics/donald-tr ump/trump-touts-us-economy-oil-prices-midterm-pitch-pennsylvania-rcna351414
-
----
-
-### [July 14, 2026 at 10:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918825177741284)
-
-> President Trump Reiterates Support for ‘National Right to Carry’: https://www. breitbart.com/politics/2026/06 /23/president-trump-reiterates-support-national-right-carry/
-
----
-
-### [July 14, 2026 at 10:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918824297181736)
-
-> Trump says he’s ‘working on’ national concealed-carry legislation: https://www. washingtonexaminer.com/news/wh ite-house/4621630/trump-says-working-on-national-concealed-carry-legislation-bill-bachenberg/
-
----
-
-### [July 14, 2026 at 10:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918823463345870)
-
-> Trump tells Pa. truck workers ‘fat drug’ prices coming down next week: ‘That alone should win the midterms’: https:// nypost.com/2026/06/23/us-news/ trump-tells-pa-truck-workers-fat-drug-prices-coming-down-next-week-that-alone-should-win-the-midterms/
-
----
-
-### [July 14, 2026 at 10:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918822625387784)
-
-> Trump claims military victory, points to economic progress in the wake of first-stage Iran deal: https://www. washingtontimes.com/news/2026/ jun/23/trump-claims-military-victory-points-economic-progress-wake-first/
-
----
-
-### [July 14, 2026 at 10:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918821787185529)
-
-> Trump visits Mack Trucks plant in battleground Pennsylvania district to tout economic agenda as midterms loom: https://www. foxbusiness.com/politics/trump -visits-mack-trucks-plant-battleground-pennsylvania-district-to-tout-economic-agenda-midterms-loom
 <!-- DJT_POSTS_END -->
 
 ---
