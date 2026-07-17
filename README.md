@@ -3,7 +3,23 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 24 posts._
+
+### [July 17, 2026 at 3:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936982358585849)
+
+> BIG WIN in Court for the American People! The so-called "Digital Equity Act," a Biden DEI law, was ruled exactly what I said it was last year — A RACIST and UNCONSTITUTIONAL giveaway that never should have become Law. Sleepy Joe and the Dumocrats used YOUR Tax Dollars to divide Americans, instead of serving ALL Americans. At my direction, Howard Lutnick, my wonderful Secretary of Commerce, fought it, and the Court AGREED. A MASSIVE Victory for Common Sense and our Constitution. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [July 17, 2026 at 3:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936972968744613)
+
+> For decades, horrible politicians allowed our Industrial Base to move overseas. Their Trade Policies encouraged Companies to find the cheapest Labor, and build the Products we invented across Asia. When I took Office, we didn’t build Leading Edge Semiconductor Chips here in America. American Trade Policy was broken and, the results, disastrous.
+>
+> Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars.
+>
+> My Trade Policies and Trade Deals are accomplishing exactly what I said they would. From Automobiles, Pharmaceuticals, to Semiconductors, and everything across our Economy, the Trump Administration is bringing Advanced Manufacturing home to America. This is what SUCCESS feels like! Massive Hiring, massive Construction, massive Investment — Welcome to the Golden Age of America, where we invite everybody to come and build in America — and remember, if you do so, there are NO TARIFFS! President DONALD J. TRUMP
+
+---
 
 ### [July 17, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936952365066409)
 
