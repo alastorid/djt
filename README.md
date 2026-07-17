@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -265,12 +265,6 @@ _**Deleted**_
 ### [July 14, 2026 at 10:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918797715425873)
 
 > Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:
-
----
-
-### [July 14, 2026 at 9:55 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918672411457945)
-
-> Maria Bartiromo is FANTASTIC!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
