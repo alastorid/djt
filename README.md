@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [July 17, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936952365066409)
+
+> We are holding Canada responsible for the fact that they are not properly maintaining their Forests, and Brush therein, and the United States is being unnecessarily invaded by filthy, polluted, and unhealthy air, the quality of which is dangerous, and totally unacceptable! I will call the Prime Minister during the day to find out what they are going to do about it. The cost is incalculable! Canada has refused to engage in basic Forest Management and Debris Removal, knowing that such refusal will lead to exactly this result. This is Willful Negligence, and becoming a yearly occurrence, costing the United States Billions of Dollars, which cost of this pollution must of necessity be added to the TARIFFS Canada is currently paying. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 17, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936914779266256)
 
