@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 25 posts._
+
+### [July 17, 2026 at 3:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936996023550699)
+
+> Such great news in June’s Inflation Numbers! Prices FELL by the most in a single month in over six years. The June CPI was below the forecast of every single Economist (67!) that Bloomberg polled. Prices were down across the board including for Gasoline, Electricity, Auto Insurance, Hotels, and Prescription Drugs. With strong Wage Growth and a decline in Prices in June, Real Wages rose a massive 0.8%. As Investment pours into our Country, Factory Construction surges, Manufacturing Jobs rise, and Prices fall, there is so much to be proud of — The Golden Age of America is here! President DONALD J. TRUMP
+
+---
 
 ### [July 17, 2026 at 3:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936982358585849)
 
