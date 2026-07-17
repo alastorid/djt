@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -235,24 +235,6 @@ _**Deleted**_
 ### [July 14, 2026 at 10:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918821787185529)
 
 > Trump visits Mack Trucks plant in battleground Pennsylvania district to tout economic agenda as midterms loom: https://www. foxbusiness.com/politics/trump -visits-mack-trucks-plant-battleground-pennsylvania-district-to-tout-economic-agenda-midterms-loom
-
----
-
-### [July 14, 2026 at 10:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918803374853887)
-
-> https://www. theguardian.com/commentisfree/ 2017/jan/12/polly-toynbee-1988-interview-donald-trump
-
----
-
-### [July 14, 2026 at 10:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918800567887958)
-
-> Old clip of Trump talking about Iran in 1980 goes viral: https:// wjla.com/news/nation-world/old -clip-of-trump-talking-about-iran-in-1980-goes-viral-israel-pete-hegseth-middle-east
-
----
-
-### [July 14, 2026 at 10:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918799810022242)
-
-> Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www. newsmax.com/newsmax-tv/israel- gideon-saar-donald-trump/2026/03/08/id/1248756/
 <!-- DJT_POSTS_END -->
 
 ---
