@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-16T07:29:08.026Z",
-  "count": 507,
+  "updatedAt": "2026-07-17T01:06:32.553Z",
+  "count": 508,
   "posts": [
+    {
+      "id": "116932617277175999",
+      "createdAt": "2026-07-16T21:02:21-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116932617277175999",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. whitehouse.gov/election-integr ity",
+          "firstSeenAt": "2026-07-17T01:06:32.553Z"
+        }
+      ]
+    },
     {
       "id": "116927914613324285",
       "createdAt": "2026-07-16T01:06:24-04:00",
