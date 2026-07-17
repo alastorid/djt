@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -253,18 +253,6 @@ _**Deleted**_
 ### [July 14, 2026 at 10:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918799810022242)
 
 > Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www. newsmax.com/newsmax-tv/israel- gideon-saar-donald-trump/2026/03/08/id/1248756/
-
----
-
-### [July 14, 2026 at 10:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918798882646003)
-
-> Man pleads guilty to false US citizenship claim on North Carolina voter form for 2024 election: https://www. wbtv.com/2026/03/09/man-pleads -guilty-false-us-citizenship-claim-north-carolina-voter-form-2024-election/
-
----
-
-### [July 14, 2026 at 10:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116918797715425873)
-
-> Trump donates $1 million to Mike Johnson for recordbreaking fundraiser:
 <!-- DJT_POSTS_END -->
 
 ---
