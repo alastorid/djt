@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -139,12 +139,6 @@ _**Deleted**_
 > Todd has fought hard for Religious Liberty, ended the Weaponization of our Justice System, protected FREE SPEECH, kept Men OUT of Women’s Sports, strengthened Election Integrity, and gone to all-out-WAR against Fraud like nobody in the History of the Department of Justice. He is tough, brilliant, and 100% LOYAL to our Constitution, and the American People.
 >
 > When the Corrupt Biden “Injustice” Department and Radical Left Prosecutors tried to throw me in jail, and interfered in our Historic 2024 Presidential Campaign, Todd stood by my side and fought off the Lawfare. He is a great lawyer, always very fair, and every Republican Senator should vote to CONFIRM Todd Blanche, ASAP! President DONALD J. TRUMP
-
----
-
-### [July 14, 2026 at 11:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919039070193454)
-
-> East Wing Northern Facade — A match for the White House!
 <!-- DJT_POSTS_END -->
 
 ---
