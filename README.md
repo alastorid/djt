@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 21 posts._
+
+### [July 17, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936914779266256)
+
+> It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. I hope Darline does this, in that there would be nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life and, should she accept, has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN. RUN, DARLINE, RUN! President DONALD J. TRUMP
+
+---
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
