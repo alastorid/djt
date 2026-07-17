@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
 
@@ -145,24 +145,6 @@ _**Deleted**_
 ### [July 14, 2026 at 11:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919039070193454)
 
 > East Wing Northern Facade — A match for the White House!
-
----
-
-### [July 14, 2026 at 11:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919015096033790)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919014141252508
-
----
-
-### [July 14, 2026 at 11:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919010155828581)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919009421917400
-
----
-
-### [July 14, 2026 at 11:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116919006734785738)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116919005802587593
 <!-- DJT_POSTS_END -->
 
 ---
