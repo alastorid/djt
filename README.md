@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [July 16, 2026 at 9:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116932617277175999)
 
@@ -259,12 +259,6 @@ _**Deleted**_
 ### [July 13, 2026 at 10:53 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116916069165520996)
 
 > ABC Fake News and its shaky anchor, David Muir, said that the Reflecting Pool was drained to address Peeling Paint (there is no paint, it was slashed with a knife, or box cutter, high grade colored waterproofing liner - it was VANDALISM!) and Algae Blooms (also caused by Vandals, but removed long ago!). In other words, the story was FAKE NEWS, but heavily slanted away from the real cause of the problem, Vandalism. It will be fixed soon, and better than ever. 60 monuments and fountains have been cleaned and fully renovated in D.C., and crime is at record lows! Washington has never looked better, or been safer! President DJT
-
----
-
-### [July 13, 2026 at 9:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116915815457371603)
-
-> We drained the beautiful “Reflecting Pool” today in order to fix the scars and damage that was done by the Vandals two weeks ago. We wanted to wait until after the July 4th Weekend. The slashes were 300 yards long, and the floor of the pool was cut and then pulled upward, with great force, by these thugs. The Parks Department had to empty the water in order to fix the water tight basin. It will be refilled and put back into service soon. These Country hating sleazebags should pay a big price for the damage done. MAKE AMERICA GREAT AGAIN! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
