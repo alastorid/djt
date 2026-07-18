@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 20 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -134,12 +134,6 @@ _**Deleted**_
 ### [July 15, 2026 at 6:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116926450735170990)
 
 > Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the “presidency” of Sleepy Joe Biden, to leave the Country. She is now safely outside of Iran, and in good condition. The United States of America appreciates this gesture of Goodwill by Iran! President DONALD J. TRUMP
-
----
-
-### [July 15, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116925095891363176)
-
-> Amy Klobuchar, the lightly respected Senator from Minnesota, is running for Governor to take the place of the current Corrupt and Incompetent Tim Walz. I have gotten to know Klobuchar over the years, and find her to be equally as incompetent as Walz, and probably equally as corrupt in that, as a high Government Official from Minnesota, she knew everything that was going on. If the Elections in Minnesota weren’t RIGGED, any Republican could win, but they were, and that is why nobody has won there since Richard Nixon many years ago. I thought I won it all three times, only to be disappointed in the end. Vote for Mike Lindell for Governor, who has my Complete and Total Endorsement, and forget about these Corrupt Dumocrats like Amy Klobuchar. MAKE MINNESOTA GREAT AGAIN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
