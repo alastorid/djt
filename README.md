@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 19 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -128,12 +128,6 @@ _Last 3 days, newest first. 20 posts._
 > https://www. instagram.com/reel/Da1tu08OPxD /?igsh=MWFmNXIxMzR3ZzBhbw==
 
 _**Deleted**_
-
----
-
-### [July 15, 2026 at 6:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116926450735170990)
-
-> Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the “presidency” of Sleepy Joe Biden, to leave the Country. She is now safely outside of Iran, and in good condition. The United States of America appreciates this gesture of Goodwill by Iran! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
