@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -150,12 +150,6 @@ _**Deleted**_
 > Michael is the son-in-law of our GREAT Secretary of Transportation, Sean Duffy, and the wonderful Rachel Campos-Duffy, of FoxNews, one of the most popular (and talented!) anchors in all of Television. His family has been fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congressman, Michael will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.
 >
 > Michael Alfonso has been a WINNER all of his life, comes from a truly spectacular family, and has my Complete and Total Endorsement to be the next Representative from Wisconsin’s 7th Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 15, 2026 at 12:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116924979201330474)
-
-> One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built. Governor Kathy Hochul, for political reasons, has terminated all Data Centers being built, or to be built, in New York State. These Companies are now being sought in Alabama, Florida, Texas, Arizona, and many other States. Both the Taxes and the Jobs amount to LIQUID GOLD! New York State has made a terrible decision. All of this Income, and other Benefits, will be going to Red States, and some Blue, where Data Centers are sought as Cash Cows, with Lower Taxes and Record Setting Jobs. They must pay for their own Water and Power, and any leftover goes back to the State and local Community. Data Centers are tremendous WINS for the States and Communities that are lucky enough to get them. New York should change its Policy, IMMEDIATELY. The Radical Left Dumocrats must not be allowed to cause us to lose Data Centers, AI, and all of this incredible new Technology, to China, and other countries! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
