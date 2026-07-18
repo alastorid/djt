@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 27 posts._
+
+### [July 17, 2026 at 10:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938511106455297)
+
+> Newly declassified documents show that over a period of years starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files.
+> That information includes names, addresses, phone numbers, political party preferences, and other sensitive data that would be needed to register to vote, and engage in other nefarious activities.
+> This data loss presents an unprecedented election security nightmare. The intelligence even shows that China assigned a data exploitation unit specifically to this new project. https://www. whitehouse.gov/election-integr ity/
+
+---
 
 ### [July 17, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938505608702872)
 

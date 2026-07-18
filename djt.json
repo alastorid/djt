@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-18T02:01:51.419Z",
-  "count": 518,
+  "updatedAt": "2026-07-18T02:07:00.679Z",
+  "count": 519,
   "posts": [
+    {
+      "id": "116938511106455297",
+      "createdAt": "2026-07-17T22:01:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116938511106455297",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Newly declassified documents show that over a period of years starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files. \nThat information includes names, addresses, phone numbers, political party preferences, and other sensitive data that would be needed to register to vote, and engage in other nefarious activities. \nThis data loss presents an unprecedented election security nightmare. The intelligence even shows that China assigned a data exploitation unit specifically to this new project. https://www. whitehouse.gov/election-integr ity/",
+          "firstSeenAt": "2026-07-18T02:07:00.679Z"
+        }
+      ]
+    },
     {
       "id": "116938505608702872",
       "createdAt": "2026-07-17T21:59:50-04:00",
