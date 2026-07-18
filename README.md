@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 23 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -156,18 +156,6 @@ _**Deleted**_
 ### [July 15, 2026 at 12:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116924979201330474)
 
 > One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built. Governor Kathy Hochul, for political reasons, has terminated all Data Centers being built, or to be built, in New York State. These Companies are now being sought in Alabama, Florida, Texas, Arizona, and many other States. Both the Taxes and the Jobs amount to LIQUID GOLD! New York State has made a terrible decision. All of this Income, and other Benefits, will be going to Red States, and some Blue, where Data Centers are sought as Cash Cows, with Lower Taxes and Record Setting Jobs. They must pay for their own Water and Power, and any leftover goes back to the State and local Community. Data Centers are tremendous WINS for the States and Communities that are lucky enough to get them. New York should change its Policy, IMMEDIATELY. The Radical Left Dumocrats must not be allowed to cause us to lose Data Centers, AI, and all of this incredible new Technology, to China, and other countries! President DONALD J. TRUMP
-
----
-
-### [July 15, 2026 at 7:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923778080121038)
-
-> So cool!!! President DJT
-
----
-
-### [July 15, 2026 at 7:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923765602106745)
-
-> Mike Lindell, the “Pillow Man,” and one of America’s greatest and most hard working Patriots, is running to be GOVERNOR OF MINNESOTA, replacing one of the worst and most incompetent governors in the history of the U.S.A. Early Primary Voting has begun and, if given the chance, Mike will be SPECTACULAR!!! He truly loves Minnesota, as do I, and wants to bring it back from oblivion and embarrassment. He can do it! Nobody has sacrificed more than Mike Lindell in fighting for our country, especially when it comes to Election Integrity. He truly deserves everything he gets - He will MAKE MINNESOTA GREAT AGAIN!!! MIKE LINDELL HAS MY COMPLETE AND TOTAL ENDORSEMENT - HE WILL NOT LET YOU DOWN. Good Luck Mike!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
