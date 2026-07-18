@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-18T02:17:24.050Z",
-  "count": 520,
+  "updatedAt": "2026-07-18T02:22:33.922Z",
+  "count": 521,
   "posts": [
+    {
+      "id": "116938579137506694",
+      "createdAt": "2026-07-17T22:18:32-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116938579137506694",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Tim Sheehy is GREAT. A Winner!!! President DJT",
+          "firstSeenAt": "2026-07-18T02:22:33.922Z"
+        }
+      ]
+    },
     {
       "id": "116938558790759096",
       "createdAt": "2026-07-17T22:13:21-04:00",

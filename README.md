@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 29 posts._
+
+### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
+
+> Tim Sheehy is GREAT. A Winner!!! President DJT
+
+---
 
 ### [July 17, 2026 at 10:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938558790759096)
 
