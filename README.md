@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 27 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -181,12 +181,6 @@ _**Deleted**_
 
 > Great News for America!
 > House passes Trump-supported bill to make daylight savings time permanent: https:// justthenews.com/government/con gress/house-passes-trump-supported-bill-make-daylight-savings-time-permanent
-
----
-
-### [July 15, 2026 at 6:45 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923585931908111)
-
-> The men and women of ICE are doing a GREAT job, one that has to be done. CRIME IS WAY DOWN IN AMERICA, in many cases with numbers that haven’t been seen in decades. The Open Border Policy of Sleepy Joe Biden allowed 25,000,000 people to pour into our Country, unchecked and unvetted. Many were Criminals, and we have to get them out. In order to do this, we must be strong, tough, and smart, and we CANNOT give up one of I.C.E.’s most important and effective Crime Fighting tools, THE TRAFFIC STOP! Once we do, we are playing right into the criminal’s hands. The Radical Left Dumocrats would like to see this done, but it won’t happen on my watch. I.C.E., be judicious, fair and smart, and go back and do your very important job. Keep those Crime Stat Records coming! Remember, you are loved and respected in America. Thank you for your attention to this matter! PRESIDENT DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
