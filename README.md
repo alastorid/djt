@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [July 17, 2026 at 10:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938558790759096)
+
+> Ensuring the integrity of our elections is fundamental to preserving trust in American democracy. Following the 2020 presidential election, concerns about potential irregularities prompted detailed examinations of voting processes, data security, and registration practices across multiple states…
+> Download documents and reports addressing key areas of election integrity, here: https://www. whitehouse.gov/election-integr ity/
+
+---
 
 ### [July 17, 2026 at 10:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938511106455297)
 

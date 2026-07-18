@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-18T02:07:00.679Z",
-  "count": 519,
+  "updatedAt": "2026-07-18T02:17:24.050Z",
+  "count": 520,
   "posts": [
+    {
+      "id": "116938558790759096",
+      "createdAt": "2026-07-17T22:13:21-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116938558790759096",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Ensuring the integrity of our elections is fundamental to preserving trust in American democracy. Following the 2020 presidential election, concerns about potential irregularities prompted detailed examinations of voting processes, data security, and registration practices across multiple states… \nDownload documents and reports addressing key areas of election integrity, here: https://www. whitehouse.gov/election-integr ity/",
+          "firstSeenAt": "2026-07-18T02:17:24.050Z"
+        }
+      ]
+    },
     {
       "id": "116938511106455297",
       "createdAt": "2026-07-17T22:01:14-04:00",
