@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -140,16 +140,6 @@ _**Deleted**_
 ### [July 15, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116925095891363176)
 
 > Amy Klobuchar, the lightly respected Senator from Minnesota, is running for Governor to take the place of the current Corrupt and Incompetent Tim Walz. I have gotten to know Klobuchar over the years, and find her to be equally as incompetent as Walz, and probably equally as corrupt in that, as a high Government Official from Minnesota, she knew everything that was going on. If the Elections in Minnesota weren’t RIGGED, any Republican could win, but they were, and that is why nobody has won there since Richard Nixon many years ago. I thought I won it all three times, only to be disappointed in the end. Vote for Mike Lindell for Governor, who has my Complete and Total Endorsement, and forget about these Corrupt Dumocrats like Amy Klobuchar. MAKE MINNESOTA GREAT AGAIN! President DONALD J. TRUMP
-
----
-
-### [July 15, 2026 at 1:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116925062992298605)
-
-> It is my Great Honor to endorse MAGA Warrior, Michael Alfonso, a young “STAR” who is running to represent the incredible people of Wisconsin’s 7th Congressional District.
->
-> Michael is the son-in-law of our GREAT Secretary of Transportation, Sean Duffy, and the wonderful Rachel Campos-Duffy, of FoxNews, one of the most popular (and talented!) anchors in all of Television. His family has been fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congressman, Michael will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.
->
-> Michael Alfonso has been a WINNER all of his life, comes from a truly spectacular family, and has my Complete and Total Endorsement to be the next Representative from Wisconsin’s 7th Congressional District — HE WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
