@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -168,19 +168,6 @@ _**Deleted**_
 ### [July 15, 2026 at 7:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923765602106745)
 
 > Mike Lindell, the “Pillow Man,” and one of America’s greatest and most hard working Patriots, is running to be GOVERNOR OF MINNESOTA, replacing one of the worst and most incompetent governors in the history of the U.S.A. Early Primary Voting has begun and, if given the chance, Mike will be SPECTACULAR!!! He truly loves Minnesota, as do I, and wants to bring it back from oblivion and embarrassment. He can do it! Nobody has sacrificed more than Mike Lindell in fighting for our country, especially when it comes to Election Integrity. He truly deserves everything he gets - He will MAKE MINNESOTA GREAT AGAIN!!! MIKE LINDELL HAS MY COMPLETE AND TOTAL ENDORSEMENT - HE WILL NOT LET YOU DOWN. Good Luck Mike!!! President DONALD J. TRUMP
-
----
-
-### [July 15, 2026 at 6:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923618784603444)
-
-> Sen. Lindsey Graham’s presidential relationship emblematic of Trump's willingness to mend fences: https:// justthenews.com/government/whi te-house/graham-was-one-many-hatchets-trumps-hatchet-graveyard-putting-country
-
----
-
-### [July 15, 2026 at 6:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116923602397013633)
-
-> Great News for America!
-> House passes Trump-supported bill to make daylight savings time permanent: https:// justthenews.com/government/con gress/house-passes-trump-supported-bill-make-daylight-savings-time-permanent
 <!-- DJT_POSTS_END -->
 
 ---
