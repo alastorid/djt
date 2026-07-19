@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 19 posts._
+_Last 3 days, newest first. 18 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -120,14 +120,6 @@ _Last 3 days, newest first. 19 posts._
 ### [July 16, 2026 at 12:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927888438883834)
 
 > With today’s announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world!
-
----
-
-### [July 16, 2026 at 12:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927792514499169)
-
-> https://www. instagram.com/reel/Da1tu08OPxD /?igsh=MWFmNXIxMzR3ZzBhbw==
-
-_**Deleted**_
 <!-- DJT_POSTS_END -->
 
 ---
