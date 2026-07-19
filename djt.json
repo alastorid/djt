@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-19T18:14:05.274Z",
-  "count": 533,
+  "updatedAt": "2026-07-19T18:19:16.028Z",
+  "count": 534,
   "posts": [
+    {
+      "id": "116948014934688647",
+      "createdAt": "2026-07-19T14:18:11-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116948014934688647",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Planting beautiful Maple and Oak Trees at the White House!",
+          "firstSeenAt": "2026-07-19T18:19:16.028Z"
+        }
+      ]
+    },
     {
       "id": "116947986461055239",
       "createdAt": "2026-07-19T14:10:56-04:00",
