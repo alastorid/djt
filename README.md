@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 16 posts._
+
+### [July 19, 2026 at 7:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116946506480346191)
+
+> Republicans should add Iran to the Russian Sanctions Bill. That’s what Lindsey wanted to do, and it was going to happen. IMPORTANT!!! President DJT
+
+---
 
 ### [July 19, 2026 at 7:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116946402540753531)
 

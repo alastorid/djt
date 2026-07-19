@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-19T11:30:06.371Z",
-  "count": 522,
+  "updatedAt": "2026-07-19T11:56:06.812Z",
+  "count": 523,
   "posts": [
+    {
+      "id": "116946506480346191",
+      "createdAt": "2026-07-19T07:54:33-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116946506480346191",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Republicans should add Iran to the Russian Sanctions Bill. That’s what Lindsey wanted to do, and it was going to happen. IMPORTANT!!! President DJT",
+          "firstSeenAt": "2026-07-19T11:56:06.812Z"
+        }
+      ]
+    },
     {
       "id": "116946402540753531",
       "createdAt": "2026-07-19T07:28:07-04:00",
