@@ -3,7 +3,26 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 20 posts._
+
+### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947974994666120)
+
+> Trump calls Pennsylvania ‘key’ to national defense renaissance: https:// justthenews.com/nation/states/ center-square/pennsylvania-called-key-national-defense-renaissance-trump-says
+
+---
+
+### [July 19, 2026 at 2:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947973927079025)
+
+> Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/
+
+---
+
+### [July 19, 2026 at 2:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947970927862123)
+
+> They do this, and the Republican Party is DEAD!
+> Key House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895
+
+---
 
 ### [July 19, 2026 at 10:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947019736199780)
 

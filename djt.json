@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-19T14:10:35.163Z",
-  "count": 524,
+  "updatedAt": "2026-07-19T18:08:55.894Z",
+  "count": 527,
   "posts": [
+    {
+      "id": "116947974994666120",
+      "createdAt": "2026-07-19T14:08:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947974994666120",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump calls Pennsylvania ‘key’ to national defense renaissance: https:// justthenews.com/nation/states/ center-square/pennsylvania-called-key-national-defense-renaissance-trump-says",
+          "firstSeenAt": "2026-07-19T18:08:55.894Z"
+        }
+      ]
+    },
+    {
+      "id": "116947973927079025",
+      "createdAt": "2026-07-19T14:07:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947973927079025",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/",
+          "firstSeenAt": "2026-07-19T18:08:55.894Z"
+        }
+      ]
+    },
+    {
+      "id": "116947970927862123",
+      "createdAt": "2026-07-19T14:06:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947970927862123",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "They do this, and the Republican Party is DEAD! \nKey House caucus leaders target Supreme Court, Senate filibuster: https://www. politico.com/live-updates/2026 /06/24/congress/dem-caucuses-target-scotus-00973895",
+          "firstSeenAt": "2026-07-19T18:08:55.894Z"
+        }
+      ]
+    },
     {
       "id": "116947019736199780",
       "createdAt": "2026-07-19T10:05:05-04:00",
