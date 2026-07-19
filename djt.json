@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-19T18:24:28.937Z",
-  "count": 535,
+  "updatedAt": "2026-07-19T18:29:39.535Z",
+  "count": 536,
   "posts": [
+    {
+      "id": "116948048561169364",
+      "createdAt": "2026-07-19T14:26:44-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116948048561169364",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "GUILTY! \nJack Smith spied on me in Congress — this illegal weaponization needs to end: https:// nypost.com/2026/07/15/opinion/ jack-smith-spied-on-me-in-congress-this-illegal-weaponization-needs-to-end/",
+          "firstSeenAt": "2026-07-19T18:29:39.535Z"
+        }
+      ]
+    },
     {
       "id": "116948025261561512",
       "createdAt": "2026-07-19T14:20:48-04:00",

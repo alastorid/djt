@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 29 posts._
+
+### [July 19, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948048561169364)
+
+> GUILTY!
+> Jack Smith spied on me in Congress — this illegal weaponization needs to end: https:// nypost.com/2026/07/15/opinion/ jack-smith-spied-on-me-in-congress-this-illegal-weaponization-needs-to-end/
+
+---
 
 ### [July 19, 2026 at 2:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948025261561512)
 
