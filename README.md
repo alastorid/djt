@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 17 posts._
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
@@ -114,12 +114,6 @@ _Last 3 days, newest first. 18 posts._
 ### [July 16, 2026 at 1:04 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927905183625323)
 
 > FREEDOM 250 GRAND PRIX🏎️🇺🇸🏁
-
----
-
-### [July 16, 2026 at 12:59 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116927888438883834)
-
-> With today’s announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world!
 <!-- DJT_POSTS_END -->
 
 ---
