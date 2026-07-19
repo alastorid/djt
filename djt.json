@@ -6,9 +6,105 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-19T18:08:55.894Z",
-  "count": 527,
+  "updatedAt": "2026-07-19T18:14:05.274Z",
+  "count": 533,
   "posts": [
+    {
+      "id": "116947986461055239",
+      "createdAt": "2026-07-19T14:10:56-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947986461055239",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116947984234570305 Jack Posobiec: “She said the quiet part out loud!”",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
+    {
+      "id": "116947979682929338",
+      "createdAt": "2026-07-19T14:09:13-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947979682929338",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "PRESIDENT TRUMP HIGHLIGHTS NEARLY $10 BILLION IN DEFENSE INVESTMENTS AT PENNSYLVANIA SUMMIT: https://www. rsbnetwork.com/news/president- trump-highlights-nearly-10-billion-in-defense-investments-at-pennsylvania-summit/",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
+    {
+      "id": "116947978783478510",
+      "createdAt": "2026-07-19T14:08:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947978783478510",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Pennsylvania defense summit leads to nearly $10 billion in defense contracts that will create thousands of jobs: https://www. washingtonexaminer.com/policy/ defense/4650426/pennsylvania-defense-summit-trump-contracts-jobs/",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
+    {
+      "id": "116947977880667502",
+      "createdAt": "2026-07-19T14:08:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947977880667502",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump says ‘proud American veterans’ will replace illegal immigrant truck drivers: https://www. washingtonexaminer.com/news/wh ite-house/4650629/trump-veterans-replace-illegal-immigrant-truck-drivers/",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
+    {
+      "id": "116947976850103217",
+      "createdAt": "2026-07-19T14:08:30-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947976850103217",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Touts $10 Billion Pa. Defense Investment: https://www. newsmax.com/newsfront/donald-t rump-defense-summit-pennsylvania/2026/07/15/id/1262982/",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
+    {
+      "id": "116947975944993549",
+      "createdAt": "2026-07-19T14:08:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116947975944993549",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump announces $10 billion for defense projects in Pennsylvania: https://www. washingtontimes.com/news/2026/ jul/15/trump-announces-10-billion-defense-projects-pennsylvania/",
+          "firstSeenAt": "2026-07-19T18:14:05.274Z"
+        }
+      ]
+    },
     {
       "id": "116947974994666120",
       "createdAt": "2026-07-19T14:08:01-04:00",
