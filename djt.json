@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-18T02:22:33.922Z",
-  "count": 521,
+  "updatedAt": "2026-07-19T11:30:06.371Z",
+  "count": 522,
   "posts": [
+    {
+      "id": "116946402540753531",
+      "createdAt": "2026-07-19T07:28:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116946402540753531",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump-style nationalism surges across globe. Will France be next with Le Pen reprise?\n https:// justthenews.com/government/whi te-house/trump-style-nationalism-continues-its-sweep-french-do-over-le-pe",
+          "firstSeenAt": "2026-07-19T11:30:06.371Z"
+        }
+      ]
+    },
     {
       "id": "116938579137506694",
       "createdAt": "2026-07-17T22:18:32-04:00",

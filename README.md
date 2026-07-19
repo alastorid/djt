@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 15 posts._
+
+### [July 19, 2026 at 7:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116946402540753531)
+
+> Trump-style nationalism surges across globe. Will France be next with Le Pen reprise?
+>  https:// justthenews.com/government/whi te-house/trump-style-nationalism-continues-its-sweep-french-do-over-le-pe
+
+---
 
 ### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
 
