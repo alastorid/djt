@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-20T16:41:09.808Z",
-  "count": 542,
+  "updatedAt": "2026-07-20T16:46:22.872Z",
+  "count": 543,
   "posts": [
+    {
+      "id": "116953296612438865",
+      "createdAt": "2026-07-20T12:41:23-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116953296612438865",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Every time Iran kills an American Soldier they will pay for that killing many times over! This directive has been passed on to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Daniel Caine, and every Leader in the Military. President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-20T16:46:22.872Z"
+        }
+      ]
+    },
     {
       "id": "116953279157877523",
       "createdAt": "2026-07-20T12:36:56-04:00",

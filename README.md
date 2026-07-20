@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 31 posts._
+
+### [July 20, 2026 at 12:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953296612438865)
+
+> Every time Iran kills an American Soldier they will pay for that killing many times over! This directive has been passed on to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Daniel Caine, and every Leader in the Military. President DONALD J. TRUMP
+
+---
 
 ### [July 20, 2026 at 12:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953279157877523)
 
