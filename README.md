@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 31 posts._
 
 ### [July 19, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949957911190936)
 
@@ -207,12 +207,6 @@ _Last 3 days, newest first. 32 posts._
 ### [July 17, 2026 at 8:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935415847765408)
 
 > Italian Embassy as fully renovated by a great American Patriot!!! This should be done to NEW YORK CITY! Needs so much loving care. D.C. is the best example. All cleaned up, and safe. Crime down 95%! President DJT
-
----
-
-### [July 17, 2026 at 7:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935174937259039)
-
-> Great reviews on speech last night. Big audience. Pass THE SAVE AMERICA ACT!!! Thank you! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
