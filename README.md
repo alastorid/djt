@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [July 19, 2026 at 8:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949510224898590)
+
+> Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today — He
+> "took the house down!" President DONALD J.
+> TRUMP
+
+---
 
 ### [July 19, 2026 at 8:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949495681903940)
 
