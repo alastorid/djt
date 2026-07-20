@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 30 posts._
 
 ### [July 19, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949957911190936)
 
@@ -201,12 +201,6 @@ _Last 3 days, newest first. 31 posts._
 ### [July 17, 2026 at 9:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935584368324192)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116932617277175999 Election integrity documents are available for review here: https://www. whitehouse.gov
-
----
-
-### [July 17, 2026 at 8:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935415847765408)
-
-> Italian Embassy as fully renovated by a great American Patriot!!! This should be done to NEW YORK CITY! Needs so much loving care. D.C. is the best example. All cleaned up, and safe. Crime down 95%! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
