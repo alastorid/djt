@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 30 posts._
+
+### [July 20, 2026 at 12:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953279157877523)
+
+> The World Cup turned out to be a spectacular SUCCESS! I want to thank all of those involved but, in particular, our GREAT Law Enforcement. The Respect that everyone has for them, together with their Love of our Country, kept this Great Championship the Safest and Most Spectacular World Cup in History, BY FAR! Thank you also to all others involved and, in particular, to young and dynamic Andrew Giuliani, working for the Government of the United States of America, and the fantastic President of FIFA, Gianni Infantino, on a job well done! Few people will ever be able to accomplish what he has done in elevating the World Cup to a level that nobody thought was possible. Congratulations to all! President DONALD J. TRUMP
+
+---
 
 ### [July 20, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953050956197142)
 
