@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [July 20, 2026 at 1:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953590033213088)
+
+> Great words of wisdom from Highly Respected James Carafano. Thank you James!
+>
+> “Our position in the Region is the strongest that it’s been since the end of World War II. We have been dealing with this from Jimmy Carter. Since the days of Jimmy Carter, we have never had a position in the Region this strong to create a better future for the Region and then, that means a safer America, and I think that this is the price we are paying — Trust me, it’s going to pay off for decades!”
+
+---
 
 ### [July 20, 2026 at 12:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953334292806992)
 
