@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 28 posts._
 
 ### [July 19, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949957911190936)
 
@@ -189,12 +189,6 @@ _Last 3 days, newest first. 29 posts._
 ### [July 17, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936914779266256)
 
 > It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. I hope Darline does this, in that there would be nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life and, should she accept, has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN. RUN, DARLINE, RUN! President DONALD J. TRUMP
-
----
-
-### [July 17, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116935620328114224)
-
-> The Reflecting Pool, so badly damaged by Deranged Vandals, has be emptied as the massive slash gets repaired. We got it through the great July Fourth Weekend. What kind of animals would do such a thing? We are looking for a Vandal Proof material, but such a thing should not have been necessary. The Scum in Court will hopefully be prosecuted to the MAX. President DJT
 <!-- DJT_POSTS_END -->
 
 ---
