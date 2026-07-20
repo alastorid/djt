@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 31 posts._
+
+### [July 19, 2026 at 8:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949495681903940)
+
+> Wonderful news! I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.
+> Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families. We will continue to bring Prices DOWN, just like Oil, Gas, Eggs, and Prescription Drugs, all of which are dropping FAST after the disaster we inherited from Sleepy Joe Biden. Other Grocery Chains must immediately follow the lead of these absolute Patriots at Giant Eagle and Walmart. Together, we will make America stronger and more affordable than ever before, and get rid of the stench and Inflation perpetrated on us by the Dumocrats and the Sleepy Joe Biden Administration! President DONALD J. TRUMP
+
+---
 
 ### [July 19, 2026 at 8:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949428377514667)
 
