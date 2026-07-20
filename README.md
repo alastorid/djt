@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [July 20, 2026 at 1:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953590033213088)
 
@@ -215,12 +215,6 @@ _Last 3 days, newest first. 33 posts._
 ### [July 17, 2026 at 3:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936952365066409)
 
 > We are holding Canada responsible for the fact that they are not properly maintaining their Forests, and Brush therein, and the United States is being unnecessarily invaded by filthy, polluted, and unhealthy air, the quality of which is dangerous, and totally unacceptable! I will call the Prime Minister during the day to find out what they are going to do about it. The cost is incalculable! Canada has refused to engage in basic Forest Management and Debris Removal, knowing that such refusal will lead to exactly this result. This is Willful Negligence, and becoming a yearly occurrence, costing the United States Billions of Dollars, which cost of this pollution must of necessity be added to the TARIFFS Canada is currently paying. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 17, 2026 at 3:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936914779266256)
-
-> It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. I hope Darline does this, in that there would be nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life and, should she accept, has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN. RUN, DARLINE, RUN! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
