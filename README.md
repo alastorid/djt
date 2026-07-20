@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 28 posts._
 
 ### [July 20, 2026 at 1:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953590033213088)
 
@@ -187,12 +187,6 @@ _Last 3 days, newest first. 29 posts._
 > Unfortunately, the system we have today falls catastrophically short of that standard. Tonight, I am announcing the immediate declassification and release of critical intelligence revealing shocking vulnerabilities in our election infrastructure.
 > This evidence shows that the election system we have is dangerously exposed to hacking, exploitation, and foreign interference. Just as disturbingly, this vital information has for many years been covered up and hidden from you, the American People, and that changes right now.
 > The documents we will release starting tonight have been gathered by the White House Government Transparency Task Force, along with the staff of the President’s Intelligence Advisory Board—supported by our top intelligence agency chiefs, who have all personally reviewed the findings we are presenting this evening, and fully confirmed their authenticity. You can see these documents for yourself at: https://www. whitehouse.gov/election-integr ity/
-
----
-
-### [July 17, 2026 at 3:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116936996023550699)
-
-> Such great news in June’s Inflation Numbers! Prices FELL by the most in a single month in over six years. The June CPI was below the forecast of every single Economist (67!) that Bloomberg polled. Prices were down across the board including for Gasoline, Electricity, Auto Insurance, Hotels, and Prescription Drugs. With strong Wage Growth and a decline in Prices in June, Real Wages rose a massive 0.8%. As Investment pours into our Country, Factory Construction surges, Manufacturing Jobs rise, and Prices fall, there is so much to be proud of — The Golden Age of America is here! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
