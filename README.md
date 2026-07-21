@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [July 21, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958077127443735)
+
+> The latest one of 52,000, plus, innocent protesters. Savages!!! When will the Dumocrats wake up??? President DJT
+
+---
 
 ### [July 21, 2026 at 8:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116957959265033006)
 
