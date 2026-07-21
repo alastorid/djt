@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [July 20, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116954623645571071)
 
@@ -163,12 +163,6 @@ _Last 3 days, newest first. 26 posts._
 
 > Trump-style nationalism surges across globe. Will France be next with Le Pen reprise?
 >  https:// justthenews.com/government/whi te-house/trump-style-nationalism-continues-its-sweep-french-do-over-le-pe
-
----
-
-### [July 17, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938579137506694)
-
-> Tim Sheehy is GREAT. A Winner!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
