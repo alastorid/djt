@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 26 posts._
+
+### [July 21, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116957942431800428)
+
+> Across the nation, Trump’s long-predicted high-tax exodus has a Midwest sequel: https:// justthenews.com/government/whi te-house/california-illinois-trumps-predicted-tax-apocalypse-has-midwest-sequel
+
+---
 
 ### [July 20, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116954623645571071)
 

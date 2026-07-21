@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-20T22:22:05.432Z",
-  "count": 546,
+  "updatedAt": "2026-07-21T12:25:39.726Z",
+  "count": 547,
   "posts": [
+    {
+      "id": "116957942431800428",
+      "createdAt": "2026-07-21T08:22:52-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116957942431800428",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Across the nation, Trump’s long-predicted high-tax exodus has a Midwest sequel: https:// justthenews.com/government/whi te-house/california-illinois-trumps-predicted-tax-apocalypse-has-midwest-sequel",
+          "firstSeenAt": "2026-07-21T12:25:39.726Z"
+        }
+      ]
+    },
     {
       "id": "116954623645571071",
       "createdAt": "2026-07-20T18:18:52-04:00",
