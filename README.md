@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 27 posts._
+
+### [July 21, 2026 at 8:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116957959265033006)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116957942431800428 Rich people and Companies are pouring out of Dumocrat run Blue States at levels never seen before! If this trend continues, these States will become the “Ghettos” of the Future — No people, no money, no hope. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+
+---
 
 ### [July 21, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116957942431800428)
 
