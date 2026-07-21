@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 30 posts._
+
+### [July 21, 2026 at 11:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958564034058314)
+
+> Trump Rx Delivers Massive Price Relief on Prescription Drug Costs: https:// amac.us/newsline/economy/trump rx-prescription-drug-savings-deliver-lower-costs-for-americans/
+
+---
+
+### [July 21, 2026 at 11:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958562322324112)
+
+> Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/
+
+---
 
 ### [July 21, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958077127443735)
 

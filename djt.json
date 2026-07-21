@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-21T13:01:59.273Z",
-  "count": 549,
+  "updatedAt": "2026-07-21T15:01:27.100Z",
+  "count": 551,
   "posts": [
+    {
+      "id": "116958564034058314",
+      "createdAt": "2026-07-21T11:00:57-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116958564034058314",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Rx Delivers Massive Price Relief on Prescription Drug Costs: https:// amac.us/newsline/economy/trump rx-prescription-drug-savings-deliver-lower-costs-for-americans/",
+          "firstSeenAt": "2026-07-21T15:01:27.100Z"
+        }
+      ]
+    },
+    {
+      "id": "116958562322324112",
+      "createdAt": "2026-07-21T11:00:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116958562322324112",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/",
+          "firstSeenAt": "2026-07-21T15:01:27.100Z"
+        }
+      ]
+    },
     {
       "id": "116958077127443735",
       "createdAt": "2026-07-21T08:57:08-04:00",
