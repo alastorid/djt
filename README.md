@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 27 posts._
 
 ### [July 20, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116954623645571071)
 
@@ -176,23 +176,6 @@ _Last 3 days, newest first. 29 posts._
 
 > Ensuring the integrity of our elections is fundamental to preserving trust in American democracy. Following the 2020 presidential election, concerns about potential irregularities prompted detailed examinations of voting processes, data security, and registration practices across multiple states…
 > Download documents and reports addressing key areas of election integrity, here: https://www. whitehouse.gov/election-integr ity/
-
----
-
-### [July 17, 2026 at 10:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938511106455297)
-
-> Newly declassified documents show that over a period of years starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files.
-> That information includes names, addresses, phone numbers, political party preferences, and other sensitive data that would be needed to register to vote, and engage in other nefarious activities.
-> This data loss presents an unprecedented election security nightmare. The intelligence even shows that China assigned a data exploitation unit specifically to this new project. https://www. whitehouse.gov/election-integr ity/
-
----
-
-### [July 17, 2026 at 9:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116938505608702872)
-
-> For many years, I have called for bold, swift, and decisive action to protect the integrity of America’s elections. Every American deserves to know that when they cast their vote, that vote will be counted accurately in a system that is secure—one where cheating and interference are not just difficult, but virtually impossible.
-> Unfortunately, the system we have today falls catastrophically short of that standard. Tonight, I am announcing the immediate declassification and release of critical intelligence revealing shocking vulnerabilities in our election infrastructure.
-> This evidence shows that the election system we have is dangerously exposed to hacking, exploitation, and foreign interference. Just as disturbingly, this vital information has for many years been covered up and hidden from you, the American People, and that changes right now.
-> The documents we will release starting tonight have been gathered by the White House Government Transparency Task Force, along with the staff of the President’s Intelligence Advisory Board—supported by our top intelligence agency chiefs, who have all personally reviewed the findings we are presenting this evening, and fully confirmed their authenticity. You can see these documents for yourself at: https://www. whitehouse.gov/election-integr ity/
 <!-- DJT_POSTS_END -->
 
 ---
