@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [July 21, 2026 at 11:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958572526754317)
+
+> Blame immigration chaos on Biden and Harris — not Trump: https:// nypost.com/2026/07/16/opinion/ blame-immigration-chaos-on-biden-and-harris-not-trump/
+
+---
+
+### [July 21, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958570470986474)
+
+> Why permanent daylight saving time may be better for your health: https:// nypost.com/health/health-benef its-of-daylight-savings-time/
+
+---
+
+### [July 21, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958568886511888)
+
+> Grassley: Democrats Who Weaponized DOJ Hate Blanche, Which Proves He’s A Good AG Pick: https:// thefederalist.com/2026/07/15/g rassley-democrats-who-weaponized-doj-hate-blanche-which-proves-hes-a-good-ag-pick/
+
+---
 
 ### [July 21, 2026 at 11:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958564034058314)
 

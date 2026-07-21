@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-21T15:01:27.100Z",
-  "count": 551,
+  "updatedAt": "2026-07-21T15:06:37.928Z",
+  "count": 554,
   "posts": [
+    {
+      "id": "116958572526754317",
+      "createdAt": "2026-07-21T11:03:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116958572526754317",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Blame immigration chaos on Biden and Harris — not Trump: https:// nypost.com/2026/07/16/opinion/ blame-immigration-chaos-on-biden-and-harris-not-trump/",
+          "firstSeenAt": "2026-07-21T15:06:37.928Z"
+        }
+      ]
+    },
+    {
+      "id": "116958570470986474",
+      "createdAt": "2026-07-21T11:02:35-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116958570470986474",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Why permanent daylight saving time may be better for your health: https:// nypost.com/health/health-benef its-of-daylight-savings-time/",
+          "firstSeenAt": "2026-07-21T15:06:37.928Z"
+        }
+      ]
+    },
+    {
+      "id": "116958568886511888",
+      "createdAt": "2026-07-21T11:02:11-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116958568886511888",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Grassley: Democrats Who Weaponized DOJ Hate Blanche, Which Proves He’s A Good AG Pick: https:// thefederalist.com/2026/07/15/g rassley-democrats-who-weaponized-doj-hate-blanche-which-proves-hes-a-good-ag-pick/",
+          "firstSeenAt": "2026-07-21T15:06:37.928Z"
+        }
+      ]
+    },
     {
       "id": "116958564034058314",
       "createdAt": "2026-07-21T11:00:57-04:00",
