@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [July 21, 2026 at 6:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116960425128744506)
+
+> Effective August 1st, 2026, all Generic Drugs being brought into the United States will continue to have a TARIFF of ZERO PERCENT for a two year period of time, after which the TARIFF will be raised to 100% for a one year period of time, and 200% thereafter. This is done in order to RESHORE Generic Pharmaceutical Production into America, with a penalty to those Companies that decide not to build Plant and Equipment within the stated period of time given to them. The objective of this Policy is to protect the people of the United States. The Policy on Patented, Branded, or Innovative Drugs, which has been so successful, will remain as is. Pharmaceutical Facilities are being built, at a level never seen before, all over the United States of America. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 21, 2026 at 4:44 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959913931409391)
 
