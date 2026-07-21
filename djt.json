@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-21T19:25:52.433Z",
-  "count": 555,
+  "updatedAt": "2026-07-21T19:56:56.675Z",
+  "count": 556,
   "posts": [
+    {
+      "id": "116959705309751797",
+      "createdAt": "2026-07-21T15:51:12-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116959705309751797",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Afghanistan War: 20 years, 2,000 DEAD.\nIraq War: 9 years, 4,600 DEAD.\nVietnam War: 19 years and 5 months, 58,220 DEAD.\nKorean War: 3 years and 1 month, 36,574 DEAD.\nVenezuela War: 1 day, 0 DEAD.\nIran Military Conflict: 4 months, 18 DEAD.",
+          "firstSeenAt": "2026-07-21T19:56:56.675Z"
+        }
+      ]
+    },
     {
       "id": "116959597656685206",
       "createdAt": "2026-07-21T15:23:49-04:00",

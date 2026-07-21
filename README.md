@@ -3,7 +3,18 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [July 21, 2026 at 3:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959705309751797)
+
+> Afghanistan War: 20 years, 2,000 DEAD.
+> Iraq War: 9 years, 4,600 DEAD.
+> Vietnam War: 19 years and 5 months, 58,220 DEAD.
+> Korean War: 3 years and 1 month, 36,574 DEAD.
+> Venezuela War: 1 day, 0 DEAD.
+> Iran Military Conflict: 4 months, 18 DEAD.
+
+---
 
 ### [July 21, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959597656685206)
 
