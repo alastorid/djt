@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 45 posts._
+
+### [July 22, 2026 at 5:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962896633563415)
+
+> Roma Daravi, former White House Deputy Comms Director, was great on FoxNews last night, as was Tiffany Brannon. Trace Gallagher is an amazing News Anchor, one of the very best! Get his great new book, @TraceGallagher
+
+---
 
 ### [July 21, 2026 at 11:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961572831779086)
 
