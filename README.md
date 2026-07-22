@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 
@@ -237,21 +237,6 @@ _Last 3 days, newest first. 39 posts._
 
 > GUILTY!
 > Jack Smith spied on me in Congress — this illegal weaponization needs to end: https:// nypost.com/2026/07/15/opinion/ jack-smith-spied-on-me-in-congress-this-illegal-weaponization-needs-to-end/
-
----
-
-### [July 19, 2026 at 2:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948025261561512)
-
-> From Greg Wischer at the United States Department of the Interior:
-> “Given POTUS’s direction to coat the WW2 Memorial fountains, we visited the “vault”—which is located underneath the memorial and contains all the plumbing, electricity, water treatment, and drainage equipment for the fountains.
-> The vault is a massive underground labyrinth and feels like a WW2 bunker—it is old, falling apart, and leaking in many places. Rusted out electrical boxes have water leaking into them, and as you’ll see in the photo below, one electrical box even has stalactites forming on it.
-> The Biden Admin left us a complete mess. It is a miracle that the fountains are actually working, but the National Park Service maintenance team has worked wonders to keep the fountains running.”
-
----
-
-### [July 19, 2026 at 2:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948014934688647)
-
-> Planting beautiful Maple and Oak Trees at the White House!
 <!-- DJT_POSTS_END -->
 
 ---
