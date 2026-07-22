@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 39 posts._
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 
@@ -252,54 +252,6 @@ _Last 3 days, newest first. 47 posts._
 ### [July 19, 2026 at 2:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948014934688647)
 
 > Planting beautiful Maple and Oak Trees at the White House!
-
----
-
-### [July 19, 2026 at 2:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947986461055239)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116947984234570305 Jack Posobiec: “She said the quiet part out loud!”
-
----
-
-### [July 19, 2026 at 2:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947979682929338)
-
-> PRESIDENT TRUMP HIGHLIGHTS NEARLY $10 BILLION IN DEFENSE INVESTMENTS AT PENNSYLVANIA SUMMIT: https://www. rsbnetwork.com/news/president- trump-highlights-nearly-10-billion-in-defense-investments-at-pennsylvania-summit/
-
----
-
-### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947978783478510)
-
-> Pennsylvania defense summit leads to nearly $10 billion in defense contracts that will create thousands of jobs: https://www. washingtonexaminer.com/policy/ defense/4650426/pennsylvania-defense-summit-trump-contracts-jobs/
-
----
-
-### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947977880667502)
-
-> Trump says ‘proud American veterans’ will replace illegal immigrant truck drivers: https://www. washingtonexaminer.com/news/wh ite-house/4650629/trump-veterans-replace-illegal-immigrant-truck-drivers/
-
----
-
-### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947976850103217)
-
-> Trump Touts $10 Billion Pa. Defense Investment: https://www. newsmax.com/newsfront/donald-t rump-defense-summit-pennsylvania/2026/07/15/id/1262982/
-
----
-
-### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947975944993549)
-
-> Trump announces $10 billion for defense projects in Pennsylvania: https://www. washingtontimes.com/news/2026/ jul/15/trump-announces-10-billion-defense-projects-pennsylvania/
-
----
-
-### [July 19, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947974994666120)
-
-> Trump calls Pennsylvania ‘key’ to national defense renaissance: https:// justthenews.com/nation/states/ center-square/pennsylvania-called-key-national-defense-renaissance-trump-says
-
----
-
-### [July 19, 2026 at 2:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116947973927079025)
-
-> Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/
 <!-- DJT_POSTS_END -->
 
 ---
