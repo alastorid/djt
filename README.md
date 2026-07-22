@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [July 21, 2026 at 9:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961148061262709)
+
+> Rigged Elections!!!
+
+---
 
 ### [July 21, 2026 at 9:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961030891139357)
 

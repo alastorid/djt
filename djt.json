@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-22T01:32:54.269Z",
-  "count": 559,
+  "updatedAt": "2026-07-22T02:03:50.455Z",
+  "count": 560,
   "posts": [
+    {
+      "id": "116961148061262709",
+      "createdAt": "2026-07-21T21:58:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116961148061262709",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Rigged Elections!!!",
+          "firstSeenAt": "2026-07-22T02:03:50.455Z"
+        }
+      ]
+    },
     {
       "id": "116961030891139357",
       "createdAt": "2026-07-21T21:28:18-04:00",
