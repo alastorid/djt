@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-22T10:05:18.392Z",
-  "count": 569,
+  "updatedAt": "2026-07-22T12:35:21.389Z",
+  "count": 571,
   "posts": [
+    {
+      "id": "116963651250041725",
+      "createdAt": "2026-07-22T08:34:42-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116963651250041725",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Heading to Dover Air Force Base to HONOR OUR HEROES! President DJT",
+          "firstSeenAt": "2026-07-22T12:35:21.389Z"
+        }
+      ]
+    },
+    {
+      "id": "116963640178728533",
+      "createdAt": "2026-07-22T08:31:53-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116963640178728533",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "MAGA CANDIDATES WON EVERYTHING LAST NIGHT IN ARIZONA, A COMPLETE SWEEP!!! I WON ARIZONA 18 MONTHS AGO. THE DUMOCRATS ARE DUMBFOUNDED. AFTER DECADES, ARIZONA IS BECOMING A REPUBLICAN STATE. CONGRATULATIONS TO ALL! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-22T12:35:21.389Z"
+        }
+      ]
+    },
     {
       "id": "116963046966861979",
       "createdAt": "2026-07-22T06:01:01-04:00",

@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [July 22, 2026 at 8:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963651250041725)
+
+> Heading to Dover Air Force Base to HONOR OUR HEROES! President DJT
+
+---
+
+### [July 22, 2026 at 8:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963640178728533)
+
+> MAGA CANDIDATES WON EVERYTHING LAST NIGHT IN ARIZONA, A COMPLETE SWEEP!!! I WON ARIZONA 18 MONTHS AGO. THE DUMOCRATS ARE DUMBFOUNDED. AFTER DECADES, ARIZONA IS BECOMING A REPUBLICAN STATE. CONGRATULATIONS TO ALL! President DONALD J. TRUMP
+
+---
 
 ### [July 22, 2026 at 6:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963046966861979)
 
