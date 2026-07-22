@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [July 22, 2026 at 6:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963046966861979)
+
+> A Crooked Election System!!! SAVE AMERICA!!!
+> NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem: https:// justthenews.com/politics-polic y/elections/state-motor-vehicle-system-registers-6600-non-citizens-vote-new-jersey
+
+---
 
 ### [July 22, 2026 at 5:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962993377590525)
 
