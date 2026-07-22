@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-21T22:58:01.412Z",
-  "count": 558,
+  "updatedAt": "2026-07-22T01:32:54.269Z",
+  "count": 559,
   "posts": [
+    {
+      "id": "116961030891139357",
+      "createdAt": "2026-07-21T21:28:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116961030891139357",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "These are the real facts. REPORT THEM!",
+          "firstSeenAt": "2026-07-22T01:32:54.269Z"
+        }
+      ]
+    },
     {
       "id": "116960425128744506",
       "createdAt": "2026-07-21T18:54:15-04:00",
