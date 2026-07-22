@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 36 posts._
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 
@@ -230,13 +230,6 @@ _Last 3 days, newest first. 37 posts._
 ### [July 19, 2026 at 8:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949428377514667)
 
 > The National Academy of Sciences has historically published analytical Scientific Manuals expressly for our Federal Judiciary. Of course, the Academy has been run by Radical Left Dumocrats who, it turns out, published fraudulent, biased, and misleading Manuals on Climate Change. These bogus Manuals were used by Judges to decide massive “Climate Change” Cases, and have created huge losses across our Country. These Manuals have been totally DISCREDITED. Our Nation’s Federal Judges deserve Facts and Science, not Political Fraud and False Science on Climate. With this TRUTH, I hereby order Federal Suspension and Debarment Officials to review this conduct. Our Taxpayers should not be funding Climate Fraud, and Judges should never have relied upon it. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 19, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116948048561169364)
-
-> GUILTY!
-> Jack Smith spied on me in Congress — this illegal weaponization needs to end: https:// nypost.com/2026/07/15/opinion/ jack-smith-spied-on-me-in-congress-this-illegal-weaponization-needs-to-end/
 <!-- DJT_POSTS_END -->
 
 ---
