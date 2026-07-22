@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 47 posts._
 
 ### [July 22, 2026 at 6:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963046966861979)
 
@@ -301,13 +301,6 @@ _Last 3 days, newest first. 48 posts._
 ### [July 19, 2026 at 7:54 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116946506480346191)
 
 > Republicans should add Iran to the Russian Sanctions Bill. That’s what Lindsey wanted to do, and it was going to happen. IMPORTANT!!! President DJT
-
----
-
-### [July 19, 2026 at 7:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116946402540753531)
-
-> Trump-style nationalism surges across globe. Will France be next with Le Pen reprise?
->  https:// justthenews.com/government/whi te-house/trump-style-nationalism-continues-its-sweep-french-do-over-le-pe
 <!-- DJT_POSTS_END -->
 
 ---
