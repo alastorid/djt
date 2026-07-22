@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [July 22, 2026 at 5:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962948048564200)
+
+> Thank you to Scott Presler for your hard work on Voter Registration. A BIG NIGHT FOR MAGA IN ARIZONA. ALL WINS!!!
+
+---
 
 ### [July 22, 2026 at 5:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962896633563415)
 
