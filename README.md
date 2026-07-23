@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 35 posts._
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 
@@ -224,12 +224,6 @@ _Last 3 days, newest first. 36 posts._
 
 > Wonderful news! I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.
 > Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families. We will continue to bring Prices DOWN, just like Oil, Gas, Eggs, and Prescription Drugs, all of which are dropping FAST after the disaster we inherited from Sleepy Joe Biden. Other Grocery Chains must immediately follow the lead of these absolute Patriots at Giant Eagle and Walmart. Together, we will make America stronger and more affordable than ever before, and get rid of the stench and Inflation perpetrated on us by the Dumocrats and the Sleepy Joe Biden Administration! President DONALD J. TRUMP
-
----
-
-### [July 19, 2026 at 8:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949428377514667)
-
-> The National Academy of Sciences has historically published analytical Scientific Manuals expressly for our Federal Judiciary. Of course, the Academy has been run by Radical Left Dumocrats who, it turns out, published fraudulent, biased, and misleading Manuals on Climate Change. These bogus Manuals were used by Judges to decide massive “Climate Change” Cases, and have created huge losses across our Country. These Manuals have been totally DISCREDITED. Our Nation’s Federal Judges deserve Facts and Science, not Political Fraud and False Science on Climate. With this TRUTH, I hereby order Federal Suspension and Debarment Officials to review this conduct. Our Taxpayers should not be funding Climate Fraud, and Judges should never have relied upon it. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
