@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 23, 2026 at 8:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969243226176328)
 
@@ -210,12 +210,6 @@ _Last 3 days, newest first. 34 posts._
 > Great words of wisdom from Highly Respected James Carafano. Thank you James!
 >
 > “Our position in the Region is the strongest that it’s been since the end of World War II. We have been dealing with this from Jimmy Carter. Since the days of Jimmy Carter, we have never had a position in the Region this strong to create a better future for the Region and then, that means a safer America, and I think that this is the price we are paying — Trust me, it’s going to pay off for decades!”
-
----
-
-### [July 20, 2026 at 12:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953334292806992)
-
-> Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America. He is fighting against the Islamic Republic of Iran, which recently killed 52,000 innocent protestors, and has spent the last 47 years killing American Soldiers, and others. The only ones that should be arrested are the people that led Iran into this unprecedented SPIRAL OF DEATH AND DESTRUCTION, something that should have been dealt with years ago, by previous Presidents! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
