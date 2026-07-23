@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [July 23, 2026 at 6:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971555718513784)
 
@@ -202,12 +202,6 @@ _Last 3 days, newest first. 33 posts._
 ### [July 21, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116957942431800428)
 
 > Across the nation, Trump’s long-predicted high-tax exodus has a Midwest sequel: https:// justthenews.com/government/whi te-house/california-illinois-trumps-predicted-tax-apocalypse-has-midwest-sequel
-
----
-
-### [July 20, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116954623645571071)
-
-> I had a very good conversation with the new Prime Minister of the United Kingdom, Andy Burnham. We discussed many subjects, including the outstanding relationship we have had with the UK. We will be meeting in the not too distant future for topics of mutual interest. The Prime Minister has got a big job ahead of him, but he will be able to do it and, of course, the U.S.A. will be there to help! We discussed North Sea Oil, Trade, the Military Alliance, Demining of the Hormuz Strait, and many other topics. The call was interesting, and went very well. I wished Prime Minister Burnham, GOOD LUCK AND GODSPEED! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
