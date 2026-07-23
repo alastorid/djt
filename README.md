@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 34 posts._
+
+### [July 22, 2026 at 9:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116966741803054909)
+
+> Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West: https://www. breitbart.com/politics/2026/07 /22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/
+
+---
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 

@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-22T13:01:17.114Z",
-  "count": 572,
+  "updatedAt": "2026-07-23T01:46:07.673Z",
+  "count": 573,
   "posts": [
+    {
+      "id": "116966741803054909",
+      "createdAt": "2026-07-22T21:40:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116966741803054909",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West: https://www. breitbart.com/politics/2026/07 /22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/",
+          "firstSeenAt": "2026-07-23T01:46:07.673Z"
+        }
+      ]
+    },
     {
       "id": "116963738416841583",
       "createdAt": "2026-07-22T08:56:52-04:00",
