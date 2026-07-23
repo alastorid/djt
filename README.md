@@ -3,7 +3,43 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971865115694289)
+
+> Rick Jackson, from the Great State of Georgia, very successfully campaigned for Governor, on being strong with “TRUMP,” and won, against a field of very talented and popular opponents, including an incredible guy, Burt Jones, who has a truly bright future ahead of him! Rick has been a very successful Businessman and Entrepreneur, and will now be a tremendous Governor, who will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Strengthen our Military/Veterans, Keep our Border SECURE, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment. Now is the time for all Republicans to unite behind Rick to ensure he has a tremendous Victory in November! Rick will work closely with me to enact America First Policies. He is a FANTASTIC person who everyone is very proud of, as am I. Rick Jackson has my Complete and Total Endorsement to be the next Governor of Georgia – HE WILL NEVER LET YOU DOWN!
+
+---
+
+### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971864522910409)
+
+> It is my Great Honor to endorse MAGA Patriot, Tim Fleming, who is running to be the next Secretary of State of the Incredible State of Georgia!
+>
+> A Highly Respected State Representative and Civic Leader, prior to running for Secretary of State, Tim has a strong record of being an America First Fighter for Election Integrity! A true MAGA Warrior, Tim understands that, ALL VOTERS MUST SHOW PHOTO VOTER I.D. (IDENTIFICATION!) AND, ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP IN ORDER TO VOTE! The Dumocrats love to CHEAT, and Tim will work tirelessly to Safeguard Georgia’s Elections. Tim will also focus on helping us continue to Grow the Economy, Promote our Amazing Farmers and Ranchers, Stop Migrant Crime, Keep Men out of Women’s Sports, and Defend our always under siege Second Amendment.
+>
+> Tim Fleming has my Complete and Total Endorsement to be the next Secretary of State of Georgia – HE WILL DO A FANTASTIC JOB, AND NEVER LET YOU DOWN!
+
+---
+
+### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971863913562523)
+
+> Greg Dolezal is a MAGA Warrior running for Lieutenant Governor to represent the Fantastic People of Georgia. He is strongly supported by my good friend, and the Peach State’s next Governor, Rick Jackson!
+>
+> A Highly Respected State Senator, Greg has dedicated his life to serving his Community. As your next Lieutenant Governor, Greg will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Advance Election Integrity, Ensure LAW AND ORDER, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. He will work brilliantly with Rick Jackson, and do great things, never seen before in Georgia!
+>
+> Greg Dolezal has my Complete and Total Endorsement to be the next Lieutenant Governor of Georgia — HE WILL NEVER LET YOU DOWN!
+
+---
+
+### [July 23, 2026 at 7:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971862681784017)
+
+> It is my Great Honor to endorse America First Patriot, Brian Strickland, who is running to be the next Attorney General of the Wonderful State of Georgia!
+>
+> A Proven Leader, Brian previously served as a Highly Respected State Senator and State Representative, delivering strong results for his Community. As your next Attorney General, Brian will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.
+>
+> Brian Strickland has my Complete and Total Endorsement to be the next Attorney General of Georgia — HE WILL NEVER LET YOU DOWN!
+
+---
 
 ### [July 23, 2026 at 6:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971555718513784)
 
