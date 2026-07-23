@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 22, 2026 at 9:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116966741803054909)
 
@@ -209,12 +209,6 @@ _Last 3 days, newest first. 34 posts._
 ### [July 20, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953050956197142)
 
 > Thank you to our Great Speaker, Mike Johnson, the House Budget Chairman, Jodey Arrington, and the members of the House Budget Committee, including Lloyd Smucker, Ron Estes, Andrew Clyde, Josh Brecheen, Erin Houchin, Mike Carey, Blake Moore, Jay Obernolte, Tom McClintock, and many others, for launching an effort to get AS MUCH of THE SAVE AMERICA ACT as possible in a Budget Bill, along with aid to our incredible Farmers, and funding for our Military. We need Voter Photo ID (Identification!), Proof of Citizenship and, hopefully, No Corrupt Mail In Ballots (except for illness, disability, Military, or travel). I am asking all House Republicans to VOTE YES this week on the Budget Resolution, which is an important first step towards getting a Budget Bill. House Republicans must UNIFY, and fight for THE SAVE AMERICA ACT! President DONALD J. TRUMP
-
----
-
-### [July 19, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949957911190936)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116949957118811451
 <!-- DJT_POSTS_END -->
 
 ---
