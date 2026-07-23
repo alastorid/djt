@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-23T03:08:50.708Z",
-  "count": 574,
+  "updatedAt": "2026-07-23T09:33:07.065Z",
+  "count": 575,
   "posts": [
+    {
+      "id": "116968591311441725",
+      "createdAt": "2026-07-23T05:31:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116968591311441725",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Justice at last??? \nHouse panel accuses Jack Smith of lying to Congress, urges DOJ to prosecute: https:// justthenews.com/government/con gress/jim-jordan-sends-jack-smith-criminal-referral-justice-department",
+          "firstSeenAt": "2026-07-23T09:33:07.065Z"
+        }
+      ]
+    },
     {
       "id": "116967081629708353",
       "createdAt": "2026-07-22T23:07:05-04:00",

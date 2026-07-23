@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [July 23, 2026 at 5:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116968591311441725)
+
+> Justice at last???
+> House panel accuses Jack Smith of lying to Congress, urges DOJ to prosecute: https:// justthenews.com/government/con gress/jim-jordan-sends-jack-smith-criminal-referral-justice-department
+
+---
 
 ### [July 22, 2026 at 11:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116967081629708353)
 
