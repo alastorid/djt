@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [July 23, 2026 at 6:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971555718513784)
+
+> Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 23, 2026 at 8:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969243226176328)
 
