@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
 
@@ -209,21 +209,6 @@ _Last 3 days, newest first. 35 posts._
 ### [July 19, 2026 at 10:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949957911190936)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116949957118811451
-
----
-
-### [July 19, 2026 at 8:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949510224898590)
-
-> Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today — He
-> "took the house down!" President DONALD J.
-> TRUMP
-
----
-
-### [July 19, 2026 at 8:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116949495681903940)
-
-> Wonderful news! I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.
-> Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families. We will continue to bring Prices DOWN, just like Oil, Gas, Eggs, and Prescription Drugs, all of which are dropping FAST after the disaster we inherited from Sleepy Joe Biden. Other Grocery Chains must immediately follow the lead of these absolute Patriots at Giant Eagle and Walmart. Together, we will make America stronger and more affordable than ever before, and get rid of the stench and Inflation perpetrated on us by the Dumocrats and the Sleepy Joe Biden Administration! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
