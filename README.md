@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [July 23, 2026 at 7:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969149016233329)
+
+> The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civil (Non-Enriched) Nuclear Facilities. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 23, 2026 at 5:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116968591311441725)
 
