@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [July 23, 2026 at 8:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969243226176328)
 
@@ -216,12 +216,6 @@ _Last 3 days, newest first. 35 posts._
 ### [July 20, 2026 at 12:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953334292806992)
 
 > Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America. He is fighting against the Islamic Republic of Iran, which recently killed 52,000 innocent protestors, and has spent the last 47 years killing American Soldiers, and others. The only ones that should be arrested are the people that led Iran into this unprecedented SPIRAL OF DEATH AND DESTRUCTION, something that should have been dealt with years ago, by previous Presidents! President DONALD J. TRUMP
-
----
-
-### [July 20, 2026 at 12:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953296612438865)
-
-> Every time Iran kills an American Soldier they will pay for that killing many times over! This directive has been passed on to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Daniel Caine, and every Leader in the Military. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
