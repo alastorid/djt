@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 35 posts._
 
 ### [July 23, 2026 at 8:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969243226176328)
 
@@ -222,12 +222,6 @@ _Last 3 days, newest first. 36 posts._
 ### [July 20, 2026 at 12:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953296612438865)
 
 > Every time Iran kills an American Soldier they will pay for that killing many times over! This directive has been passed on to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Daniel Caine, and every Leader in the Military. President DONALD J. TRUMP
-
----
-
-### [July 20, 2026 at 12:36 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116953279157877523)
-
-> The World Cup turned out to be a spectacular SUCCESS! I want to thank all of those involved but, in particular, our GREAT Law Enforcement. The Respect that everyone has for them, together with their Love of our Country, kept this Great Championship the Safest and Most Spectacular World Cup in History, BY FAR! Thank you also to all others involved and, in particular, to young and dynamic Andrew Giuliani, working for the Government of the United States of America, and the fantastic President of FIFA, Gianni Infantino, on a job well done! Few people will ever be able to accomplish what he has done in elevating the World Cup to a level that nobody thought was possible. Congratulations to all! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
