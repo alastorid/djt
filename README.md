@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 36 posts._
 
 ### [July 24, 2026 at 1:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976146307878077)
 
@@ -243,12 +243,6 @@ _Last 3 days, newest first. 37 posts._
 > Korean War: 3 years and 1 month, 36,574 DEAD.
 > Venezuela War: 1 day, 0 DEAD.
 > Iran Military Conflict: 4 months, 18 DEAD.
-
----
-
-### [July 21, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959597656685206)
-
-> After meeting with the President of Lebanon, Joseph Aoun, who has done a remarkable job working to transform his Country, I am hereby directing my Administration to allow all U.S. airline carriers to fly directly to Lebanon so that Americans can easily visit this beautiful land. Hopefully, other Countries will do the same. Enjoy! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
