@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [July 24, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975606621428184)
+
+> President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumstances, give or sell Weapons to the Islamic Republic of Iran — And that statement included Chinese Companies. Considering our relationship, I take him at his word and, besides, l am doing him very big favors, also. Likewise, President Putin, despite the horrible War going on in Ukraine (The relationship remains, as it does with President Zelenskyy), told me that he would not sell Weapons to Iran. He understands that I do not sell Weapons to Ukraine, but to NATO Countries. They pay full price, and how those Weapons are distributed, I have no idea. Therefore, two major Countries that people speak of often in terms of Iran are, in my opinion, not participating. If they did, it would be very bad for them — Certainly not in their best interests. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972989857630623)
 
