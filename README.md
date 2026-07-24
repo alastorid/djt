@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 35 posts._
 
 ### [July 24, 2026 at 1:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976146307878077)
 
@@ -232,17 +232,6 @@ _Last 3 days, newest first. 36 posts._
 ### [July 21, 2026 at 4:44 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959913931409391)
 
 > Thank you to all of the House Republicans who are supporting the first step towards getting as much of THE SAVE AMERICA ACT, as possible, in the Budget Bill, and to our Great Speaker, Mike Johnson. I am asking all House Republicans to VOTE YES on this very important Budget Resolution. I am watching the vote very closely, and hope Republicans can UNIFY to secure Elections against all forms of Foreign Country Interference, and Illegal Alien voting. President DONALD J. TRUMP
-
----
-
-### [July 21, 2026 at 3:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959705309751797)
-
-> Afghanistan War: 20 years, 2,000 DEAD.
-> Iraq War: 9 years, 4,600 DEAD.
-> Vietnam War: 19 years and 5 months, 58,220 DEAD.
-> Korean War: 3 years and 1 month, 36,574 DEAD.
-> Venezuela War: 1 day, 0 DEAD.
-> Iran Military Conflict: 4 months, 18 DEAD.
 <!-- DJT_POSTS_END -->
 
 ---
