@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972989857630623)
+
+> What a great guy, and baseball player!!! President DJT
+
+---
+
+### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972988583422969)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903
+
+---
+
+### [July 24, 2026 at 12:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972979528582177)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953
+
+---
 
 ### [July 23, 2026 at 9:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972245395063508)
 

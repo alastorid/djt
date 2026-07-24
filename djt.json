@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-24T01:05:15.003Z",
-  "count": 583,
+  "updatedAt": "2026-07-24T04:11:17.991Z",
+  "count": 586,
   "posts": [
+    {
+      "id": "116972989857630623",
+      "createdAt": "2026-07-24T00:09:38-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116972989857630623",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "What a great guy, and baseball player!!! President DJT",
+          "firstSeenAt": "2026-07-24T04:11:17.991Z"
+        }
+      ]
+    },
+    {
+      "id": "116972988583422969",
+      "createdAt": "2026-07-24T00:09:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116972988583422969",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903",
+          "firstSeenAt": "2026-07-24T04:11:17.991Z"
+        }
+      ]
+    },
+    {
+      "id": "116972979528582177",
+      "createdAt": "2026-07-24T00:07:00-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116972979528582177",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953",
+          "firstSeenAt": "2026-07-24T04:11:17.991Z"
+        }
+      ]
+    },
     {
       "id": "116972245395063508",
       "createdAt": "2026-07-23T21:00:18-04:00",
