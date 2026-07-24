@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [July 24, 2026 at 1:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976043318889040)
+
+> The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it’s not going to continue during the Trump Administration. The United States of America is not a “PIGGYBANK” for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of “ROBBING” American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP
+
+---
 
 ### [July 24, 2026 at 1:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976024406805765)
 
