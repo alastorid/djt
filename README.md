@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 34 posts._
+
+### [July 24, 2026 at 12:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975941256357814)
+
+> Canada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine, considering they are paying substantial TARIFFS to the United States, but the original Deal on the Bridge, which was terribly negotiated by a previous Administration, no longer stands. We changed the terms of the Deal so that the United States of America now gets 50% of the Profit. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 24, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975606621428184)
 
