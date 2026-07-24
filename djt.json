@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-23T23:27:05.908Z",
-  "count": 582,
+  "updatedAt": "2026-07-24T01:05:15.003Z",
+  "count": 583,
   "posts": [
+    {
+      "id": "116972245395063508",
+      "createdAt": "2026-07-23T21:00:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116972245395063508",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155 Very good!!! President DJT",
+          "firstSeenAt": "2026-07-24T01:05:15.003Z"
+        }
+      ]
+    },
     {
       "id": "116971865115694289",
       "createdAt": "2026-07-23T19:23:36-04:00",
