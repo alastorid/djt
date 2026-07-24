@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972989857630623)
 
@@ -214,36 +214,6 @@ _Last 3 days, newest first. 37 posts._
 ### [July 21, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116959597656685206)
 
 > After meeting with the President of Lebanon, Joseph Aoun, who has done a remarkable job working to transform his Country, I am hereby directing my Administration to allow all U.S. airline carriers to fly directly to Lebanon so that Americans can easily visit this beautiful land. Hopefully, other Countries will do the same. Enjoy! President DONALD J. TRUMP
-
----
-
-### [July 21, 2026 at 11:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958572526754317)
-
-> Blame immigration chaos on Biden and Harris — not Trump: https:// nypost.com/2026/07/16/opinion/ blame-immigration-chaos-on-biden-and-harris-not-trump/
-
----
-
-### [July 21, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958570470986474)
-
-> Why permanent daylight saving time may be better for your health: https:// nypost.com/health/health-benef its-of-daylight-savings-time/
-
----
-
-### [July 21, 2026 at 11:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958568886511888)
-
-> Grassley: Democrats Who Weaponized DOJ Hate Blanche, Which Proves He’s A Good AG Pick: https:// thefederalist.com/2026/07/15/g rassley-democrats-who-weaponized-doj-hate-blanche-which-proves-hes-a-good-ag-pick/
-
----
-
-### [July 21, 2026 at 11:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958564034058314)
-
-> Trump Rx Delivers Massive Price Relief on Prescription Drug Costs: https:// amac.us/newsline/economy/trump rx-prescription-drug-savings-deliver-lower-costs-for-americans/
-
----
-
-### [July 21, 2026 at 11:00 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116958562322324112)
-
-> Trump Announces Nearly $10 Billion in Defense Industrial Base Investments in Pennsylvania at McCormick’s Summit: https://www. breitbart.com/politics/2026/07 /15/trump-announces-nearly-10-billion-in-defense-industrial-base-investments-in-pennsylvania-at-mccormicks-summit/
 <!-- DJT_POSTS_END -->
 
 ---
