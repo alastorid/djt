@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-24T16:44:01.825Z",
-  "count": 588,
+  "updatedAt": "2026-07-24T17:04:57.865Z",
+  "count": 589,
   "posts": [
+    {
+      "id": "116976024406805765",
+      "createdAt": "2026-07-24T13:01:21-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116976024406805765",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you Prime Minister Radev! \nBulgaria Backs Trump, Approves US Air Base Support Despite Iran Threats: https://www. newsmax.com/newsfront/bulgaria -united-states-iran/2026/07/23/id/1263846/",
+          "firstSeenAt": "2026-07-24T17:04:57.865Z"
+        }
+      ]
+    },
     {
       "id": "116975941256357814",
       "createdAt": "2026-07-24T12:40:13-04:00",

@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [July 24, 2026 at 1:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976024406805765)
+
+> Thank you Prime Minister Radev!
+> Bulgaria Backs Trump, Approves US Air Base Support Despite Iran Threats: https://www. newsmax.com/newsfront/bulgaria -united-states-iran/2026/07/23/id/1263846/
+
+---
 
 ### [July 24, 2026 at 12:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975941256357814)
 
