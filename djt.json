@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-25T03:26:15.521Z",
-  "count": 593,
+  "updatedAt": "2026-07-25T03:36:46.992Z",
+  "count": 594,
   "posts": [
+    {
+      "id": "116978507306393239",
+      "createdAt": "2026-07-24T23:32:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116978507306393239",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https:// x.com/lauraloomer/status/20806 57818466586812?s=46",
+          "firstSeenAt": "2026-07-25T03:36:46.992Z"
+        }
+      ]
+    },
     {
       "id": "116978462876373589",
       "createdAt": "2026-07-24T23:21:29-04:00",

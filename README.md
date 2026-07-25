@@ -5,6 +5,12 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 31 posts._
 
+### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
+
+> https:// x.com/lauraloomer/status/20806 57818466586812?s=46
+
+---
+
 ### [July 24, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978462876373589)
 
 > Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https:// alaskabeacon.com/2026/07/23/al aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/
@@ -203,12 +209,6 @@ _Last 3 days, newest first. 31 posts._
 ### [July 21, 2026 at 11:45 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961571415704629)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961570518477700
-
----
-
-### [July 21, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961518130020934)
-
-> 35,152 is the new number just released by Homeland Security of non-citizens registered to vote in New Jersey. These are just the ones that got caught. The real numbers will prove to be many times this amount. They are all Dumocrats! Republicans, get smart and straighten out our Crooked Elections! Pass The Save America Act!!!
 <!-- DJT_POSTS_END -->
 
 ---
