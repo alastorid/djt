@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 30 posts._
 
 ### [July 24, 2026 at 4:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976838638860847)
 
@@ -203,12 +203,6 @@ _Last 3 days, newest first. 31 posts._
 ### [July 21, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961518130020934)
 
 > 35,152 is the new number just released by Homeland Security of non-citizens registered to vote in New Jersey. These are just the ones that got caught. The real numbers will prove to be many times this amount. They are all Dumocrats! Republicans, get smart and straighten out our Crooked Elections! Pass The Save America Act!!!
-
----
-
-### [July 21, 2026 at 11:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961438077640740)
-
-> https:// truthsocial.com/@realDonaldTru mp/116946506480346191
 <!-- DJT_POSTS_END -->
 
 ---
