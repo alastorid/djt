@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
@@ -172,13 +172,6 @@ _Last 3 days, newest first. 26 posts._
 ### [July 22, 2026 at 8:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963640178728533)
 
 > MAGA CANDIDATES WON EVERYTHING LAST NIGHT IN ARIZONA, A COMPLETE SWEEP!!! I WON ARIZONA 18 MONTHS AGO. THE DUMOCRATS ARE DUMBFOUNDED. AFTER DECADES, ARIZONA IS BECOMING A REPUBLICAN STATE. CONGRATULATIONS TO ALL! President DONALD J. TRUMP
-
----
-
-### [July 22, 2026 at 6:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963046966861979)
-
-> A Crooked Election System!!! SAVE AMERICA!!!
-> NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem: https:// justthenews.com/politics-polic y/elections/state-motor-vehicle-system-registers-6600-non-citizens-vote-new-jersey
 <!-- DJT_POSTS_END -->
 
 ---
