@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 31 posts._
+
+### [July 24, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978462876373589)
+
+> Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https:// alaskabeacon.com/2026/07/23/al aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/
+
+---
 
 ### [July 24, 2026 at 4:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976838638860847)
 
