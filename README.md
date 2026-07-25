@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 26 posts._
 
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
@@ -179,12 +179,6 @@ _Last 3 days, newest first. 27 posts._
 
 > A Crooked Election System!!! SAVE AMERICA!!!
 > NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem: https:// justthenews.com/politics-polic y/elections/state-motor-vehicle-system-registers-6600-non-citizens-vote-new-jersey
-
----
-
-### [July 22, 2026 at 5:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962993377590525)
-
-> Congratulations to Congressman Andy Biggs, who will be a GREAT Governor. Must now defeat a Radical Left Dumocrat, one of the worst governors in the Country, Katie Hobbs, who is weak on Crime, but strong on Raising Taxes. Go Andy, Go!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
