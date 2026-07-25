@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 28 posts._
 
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
@@ -191,12 +191,6 @@ _Last 3 days, newest first. 29 posts._
 ### [July 22, 2026 at 5:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962948048564200)
 
 > Thank you to Scott Presler for your hard work on Voter Registration. A BIG NIGHT FOR MAGA IN ARIZONA. ALL WINS!!!
-
----
-
-### [July 22, 2026 at 5:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962896633563415)
-
-> Roma Daravi, former White House Deputy Comms Director, was great on FoxNews last night, as was Tiffany Brannon. Trace Gallagher is an amazing News Anchor, one of the very best! Get his great new book, @TraceGallagher
 <!-- DJT_POSTS_END -->
 
 ---
