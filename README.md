@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 27 posts._
 
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
@@ -185,12 +185,6 @@ _Last 3 days, newest first. 28 posts._
 ### [July 22, 2026 at 5:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962993377590525)
 
 > Congratulations to Congressman Andy Biggs, who will be a GREAT Governor. Must now defeat a Radical Left Dumocrat, one of the worst governors in the Country, Katie Hobbs, who is weak on Crime, but strong on Raising Taxes. Go Andy, Go!!! President DJT
-
----
-
-### [July 22, 2026 at 5:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116962948048564200)
-
-> Thank you to Scott Presler for your hard work on Voter Registration. A BIG NIGHT FOR MAGA IN ARIZONA. ALL WINS!!!
 <!-- DJT_POSTS_END -->
 
 ---
