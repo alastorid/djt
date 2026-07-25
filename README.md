@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [July 24, 2026 at 4:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976838638860847)
 
@@ -216,12 +216,6 @@ _Last 3 days, newest first. 33 posts._
 
 > Mike Lindell would be a GREAT Governor. He loves Minnesota with all of his heart. President DJT
 > KSTP/SurveyUSA poll: Lindell, Tafoya increase their leads; Craig, Ellison margins shrink: https:// kstp.com/kstp-news/top-news/ks tp-surveyusa-poll-lindell-tafoya-increase-their-election-leads-craig-ellison-margins-shrink/
-
----
-
-### [July 21, 2026 at 9:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116961148061262709)
-
-> Rigged Elections!!!
 <!-- DJT_POSTS_END -->
 
 ---
