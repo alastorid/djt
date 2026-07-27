@@ -6,14 +6,14 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-27T20:25:02.916Z",
-  "count": 606,
+  "updatedAt": "2026-07-27T20:30:21.153Z",
+  "count": 609,
   "posts": [
     {
       "id": "116993810062084166",
-      "createdAt": "2026-07-27T20:24:00.000Z",
+      "createdAt": "2026-07-27T16:24:29-04:00",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/116993810062084166",
-      "currentVersion": 1,
+      "currentVersion": 2,
       "deleted": false,
       "deletedAt": null,
       "deletedDetectedAt": null,
@@ -22,6 +22,59 @@
           "version": 1,
           "text": "Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www.wsj.com/opinion/sen-ron-johnson-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c",
           "firstSeenAt": "2026-07-27T20:25:02.916Z"
+        },
+        {
+          "version": 2,
+          "text": "Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www. wsj.com/opinion/sen-ron-johnso n-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c",
+          "firstSeenAt": "2026-07-27T20:30:21.153Z"
+        }
+      ]
+    },
+    {
+      "id": "116993809640438974",
+      "createdAt": "2026-07-27T16:24:22-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993809640438974",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993808256006694",
+          "firstSeenAt": "2026-07-27T20:30:21.153Z"
+        }
+      ]
+    },
+    {
+      "id": "116993808256006694",
+      "createdAt": "2026-07-27T16:24:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993808256006694",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993807372928829",
+          "firstSeenAt": "2026-07-27T20:30:21.153Z"
+        }
+      ]
+    },
+    {
+      "id": "116993806932337687",
+      "createdAt": "2026-07-27T16:23:41-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993806932337687",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993805746480019",
+          "firstSeenAt": "2026-07-27T20:30:21.153Z"
         }
       ]
     },

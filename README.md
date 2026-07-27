@@ -3,11 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 17 posts._
 
 ### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993810062084166)
 
-> Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www.wsj.com/opinion/sen-ron-johnson-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c
+> Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www. wsj.com/opinion/sen-ron-johnso n-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c
+
+_Edited, 2 versions archived_
+
+---
+
+### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993809640438974)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993808256006694
+
+---
+
+### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993808256006694)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993807372928829
+
+---
+
+### [July 27, 2026 at 4:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993806932337687)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993805746480019
 
 ---
 
@@ -86,14 +106,6 @@ _Last 3 days, newest first. 15 posts._
 ### [July 24, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978462876373589)
 
 > Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https:// alaskabeacon.com/2026/07/23/al aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/
-
----
-
-### [July 24, 2026 at 4:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976838638860847)
-
-> Republican Kurt Alme is a terrific candidate for the U.S. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024. He loves the U.S.A., and is a truly Great American Patriot! Kurt is running against a Radical Left Democrat named Alani Bankhead, who loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas!
->
-> Kurt is one of the Strongest, and most Conservative, Republican Candidates in the Country, whereas his Opponent, Alani Bankhead, is a Radical Left Extremist, who will put our Country, and Safety, LAST. Kurt, on the other hand, will ALWAYS put Montana, and America, FIRST. Alani Bankhead is a Radical Left LUNATIC Dumocrat, whose values are not those of the people of Montana, or the United States of America — But the good news is that Kurt Alme is the PATRIOT that everyone is looking for, and has my Complete and Total Endorsement — KURT WILL NEVER LET YOU DOWN!
 <!-- DJT_POSTS_END -->
 
 ---
