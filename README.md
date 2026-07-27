@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 12 posts._
+_Last 3 days, newest first. 15 posts._
+
+### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993810062084166)
+
+> Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www.wsj.com/opinion/sen-ron-johnson-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c
+
+---
+
+### [July 27, 2026 at 4:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993805414058559)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993802814114985
+
+---
+
+### [July 27, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993802650087776)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993801329839445
+
+---
 
 ### [July 27, 2026 at 1:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993048026996953)
 

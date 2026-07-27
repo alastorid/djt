@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-27T17:26:55.549Z",
-  "count": 603,
+  "updatedAt": "2026-07-27T20:25:02.916Z",
+  "count": 606,
   "posts": [
+    {
+      "id": "116993810062084166",
+      "createdAt": "2026-07-27T20:24:00.000Z",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993810062084166",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www.wsj.com/opinion/sen-ron-johnson-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c",
+          "firstSeenAt": "2026-07-27T20:25:02.916Z"
+        }
+      ]
+    },
+    {
+      "id": "116993805414058559",
+      "createdAt": "2026-07-27T16:23:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993805414058559",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993802814114985",
+          "firstSeenAt": "2026-07-27T20:25:02.916Z"
+        }
+      ]
+    },
+    {
+      "id": "116993802650087776",
+      "createdAt": "2026-07-27T16:22:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116993802650087776",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993801329839445",
+          "firstSeenAt": "2026-07-27T20:25:02.916Z"
+        }
+      ]
+    },
     {
       "id": "116993048026996953",
       "createdAt": "2026-07-27T13:10:41-04:00",
