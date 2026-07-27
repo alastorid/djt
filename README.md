@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 26 posts._
+
+### [July 27, 2026 at 7:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994539588037223)
+
+> Taking down the scaffolding around the regilded Arts of War sculptures!
+
+---
+
+### [July 27, 2026 at 7:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994535807393646)
+
+> President Trump’s primetime address reaffirms election fraud and deep state as America’s greatest threat – with media willfully complicit: https://www. rsbnetwork.com/news/president- trumps-primetime-address-reaffirms-election-fraud-and-deep-state-as-americas-greatest-threat-with-media-willfully-complicit/
+
+---
 
 ### [July 27, 2026 at 7:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994504056726420)
 

@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-27T23:22:33.024Z",
-  "count": 616,
+  "updatedAt": "2026-07-27T23:32:53.306Z",
+  "count": 618,
   "posts": [
+    {
+      "id": "116994539588037223",
+      "createdAt": "2026-07-27T19:30:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994539588037223",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Taking down the scaffolding around the regilded Arts of War sculptures!",
+          "firstSeenAt": "2026-07-27T23:32:53.306Z"
+        }
+      ]
+    },
+    {
+      "id": "116994535807393646",
+      "createdAt": "2026-07-27T19:29:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994535807393646",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Trump’s primetime address reaffirms election fraud and deep state as America’s greatest threat – with media willfully complicit: https://www. rsbnetwork.com/news/president- trumps-primetime-address-reaffirms-election-fraud-and-deep-state-as-americas-greatest-threat-with-media-willfully-complicit/",
+          "firstSeenAt": "2026-07-27T23:32:53.306Z"
+        }
+      ]
+    },
     {
       "id": "116994504056726420",
       "createdAt": "2026-07-27T19:20:58-04:00",
