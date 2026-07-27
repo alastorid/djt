@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 18 posts._
+
+### [July 27, 2026 at 5:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994156371757363)
+
+> BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
 
 ### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993810062084166)
 
