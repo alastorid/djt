@@ -6,9 +6,105 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-27T21:53:36.022Z",
-  "count": 610,
+  "updatedAt": "2026-07-27T23:22:33.024Z",
+  "count": 616,
   "posts": [
+    {
+      "id": "116994504056726420",
+      "createdAt": "2026-07-27T19:20:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994504056726420",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. cnbc.com/video/2026/07/06/watc h-cnbcs-full-interview-with-invest-america-founder-brad-gerstner.html",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
+    {
+      "id": "116994503034214426",
+      "createdAt": "2026-07-27T19:20:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994503034214426",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump caps sensational 250th celebration with tribute to the glory of American freedom: https:// justthenews.com/politics-polic y/all-things-trump/trump-caps-sensational-250th-celebration-tribute-glory-america",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
+    {
+      "id": "116994500400281844",
+      "createdAt": "2026-07-27T19:20:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994500400281844",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "NVIDIA: Building in America, for America: https://www. nvidia.com/en-us/made-in-usa/",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
+    {
+      "id": "116994497445449017",
+      "createdAt": "2026-07-27T19:19:17-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994497445449017",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "NVIDIA and Partners Build in America, for America: https:// blogs.nvidia.com/blog/nvidia-a nd-partners-build-in-america-for-america/",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
+    {
+      "id": "116994496630944909",
+      "createdAt": "2026-07-27T19:19:05-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994496630944909",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran's family: https://www. foxnews.com/politics/trump-end orsed-congressional-candidate-pledges-entire-174k-salary-wounded-iraq-war-veterans-family",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
+    {
+      "id": "116994495434465622",
+      "createdAt": "2026-07-27T19:18:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116994495434465622",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Rep. Hamadeh: America First Has Never Meant America Alone: https://www. newsmax.com/politics/armenia-a zerbaijan-netanyahu/2026/06/29/id/1261240/",
+          "firstSeenAt": "2026-07-27T23:22:33.024Z"
+        }
+      ]
+    },
     {
       "id": "116994156371757363",
       "createdAt": "2026-07-27T17:52:33-04:00",
