@@ -3,7 +3,61 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 13 posts._
+
+### [July 27, 2026 at 1:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993048026996953)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993046455147795
+
+---
+
+### [July 27, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992794702989897)
+
+> https:// trumpaccounts.gov
+
+---
+
+### [July 27, 2026 at 12:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992790900768538)
+
+> https:// trumpaccounts.gov
+
+---
+
+### [July 27, 2026 at 12:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992786273183992)
+
+> Exclusive — President Donald Trump on Hard-Left Socialist Turn of ‘Dumocrats’: ‘Concept of Give Away Everything Ends up In Squalor, Crime, and Death’: https://www. breitbart.com/politics/2026/07 /03/exclusive-president-donald-trump-on-hard-left-socialist-turn-of-dumocrats-concept-of-give-away-everything-ends-up-in-squalor-crime-and-death/
+
+---
+
+### [July 27, 2026 at 12:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992785834552197)
+
+> https:// nypost.com/2026/06/26/opinion/ republicans-should-cheer-the-exit-of-sad-tucker-carlson/
+
+---
+
+### [July 27, 2026 at 9:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992125438554532)
+
+> Whichever Party Terminates the Filibuster FIRST will be the Party that survives and thrives. If the Dumocrats win this race, however, America will rapidly become nothing more than a Third World Nation! President DONALD J. TRUMP
+
+---
+
+### [July 27, 2026 at 9:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992066632190700)
+
+> John Thune should not allow the United States Senate to “leave town” until it passes The Save America Act or, far better still, TERMINATES THE FILIBUSTER, where Republicans can then quickly pass everything they ever dreamed of, including a full and deep throated SAVE AMERICA ACT, the Budget, and the ever looming Debt Ceiling disaster, 1929! The Dumocrats will do it on day one, and can’t believe how lucky they got with this Senate leadership. Remember, stupidity always brings LOSING & DEATH! President DJT
+
+---
+
+### [July 27, 2026 at 1:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116990282989174946)
+
+> The Midterm Meltdown: https:// pro.paradigmnewsletters.org/p/ awn_midtermmeltdown_0626/LAWN6750/
+
+---
+
+### [July 26, 2026 at 9:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116989452475906419)
+
+> Congressman Brandon Gill (Texas!) was Fantastic tonight on the Trey Gowdy Show, especially as he talked about Deranged Jack Smith and his illegitimate Witch Hunt. The Deranged One stone cold lied before Congress, and worse. He destroyed many lives. Hopefully he will be treated accordingly! President DJT
+
+---
 
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
@@ -32,146 +86,6 @@ _Last 3 days, newest first. 25 posts._
 > Congratulations to our GREAT Speaker, Mike Johnson, and the House Republicans for their MAJOR success in taking the first step towards passing the Budget Bill. Thank you to our terrific Chairman, Jodey Arrington, Chip Roy, Michelle Fishbach, Virginia Foxx, Jason Smith, Mike Rogers, GT Thompson, Bryan Steil, our incredible Whip, Tom Emmer, Majority Leader, Steve Scalise, and all those who came together to take this important step.
 >
 > This will be one of the most consequential Bills in America’s History. Strengthening our powerful Military, providing aid for our Farmers and, most importantly, as much of THE SAVE AMERICA ACT as possible. Our Voters will be extremely happy — And even impressed! I am asking that the Senate adopt a Budget Resolution, which can pass with a simple Majority, before leaving for the August recess. We are ready to work side-by-side with the Senate to get this done for the American People! President DONALD J. TRUMP
-
----
-
-### [July 24, 2026 at 1:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976043318889040)
-
-> The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it’s not going to continue during the Trump Administration. The United States of America is not a “PIGGYBANK” for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of “ROBBING” American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP
-
----
-
-### [July 24, 2026 at 1:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116976024406805765)
-
-> Thank you Prime Minister Radev!
-> Bulgaria Backs Trump, Approves US Air Base Support Despite Iran Threats: https://www. newsmax.com/newsfront/bulgaria -united-states-iran/2026/07/23/id/1263846/
-
----
-
-### [July 24, 2026 at 12:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975941256357814)
-
-> Canada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine, considering they are paying substantial TARIFFS to the United States, but the original Deal on the Bridge, which was terribly negotiated by a previous Administration, no longer stands. We changed the terms of the Deal so that the United States of America now gets 50% of the Profit. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 24, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116975606621428184)
-
-> President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumstances, give or sell Weapons to the Islamic Republic of Iran — And that statement included Chinese Companies. Considering our relationship, I take him at his word and, besides, l am doing him very big favors, also. Likewise, President Putin, despite the horrible War going on in Ukraine (The relationship remains, as it does with President Zelenskyy), told me that he would not sell Weapons to Iran. He understands that I do not sell Weapons to Ukraine, but to NATO Countries. They pay full price, and how those Weapons are distributed, I have no idea. Therefore, two major Countries that people speak of often in terms of Iran are, in my opinion, not participating. If they did, it would be very bad for them — Certainly not in their best interests. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972989857630623)
-
-> What a great guy, and baseball player!!! President DJT
-
----
-
-### [July 24, 2026 at 12:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972988583422969)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903
-
----
-
-### [July 24, 2026 at 12:07 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972979528582177)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953
-
----
-
-### [July 23, 2026 at 9:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116972245395063508)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155 Very good!!! President DJT
-
----
-
-### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971865115694289)
-
-> Rick Jackson, from the Great State of Georgia, very successfully campaigned for Governor, on being strong with “TRUMP,” and won, against a field of very talented and popular opponents, including an incredible guy, Burt Jones, who has a truly bright future ahead of him! Rick has been a very successful Businessman and Entrepreneur, and will now be a tremendous Governor, who will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Strengthen our Military/Veterans, Keep our Border SECURE, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment. Now is the time for all Republicans to unite behind Rick to ensure he has a tremendous Victory in November! Rick will work closely with me to enact America First Policies. He is a FANTASTIC person who everyone is very proud of, as am I. Rick Jackson has my Complete and Total Endorsement to be the next Governor of Georgia – HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971864522910409)
-
-> It is my Great Honor to endorse MAGA Patriot, Tim Fleming, who is running to be the next Secretary of State of the Incredible State of Georgia!
->
-> A Highly Respected State Representative and Civic Leader, prior to running for Secretary of State, Tim has a strong record of being an America First Fighter for Election Integrity! A true MAGA Warrior, Tim understands that, ALL VOTERS MUST SHOW PHOTO VOTER I.D. (IDENTIFICATION!) AND, ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP IN ORDER TO VOTE! The Dumocrats love to CHEAT, and Tim will work tirelessly to Safeguard Georgia’s Elections. Tim will also focus on helping us continue to Grow the Economy, Promote our Amazing Farmers and Ranchers, Stop Migrant Crime, Keep Men out of Women’s Sports, and Defend our always under siege Second Amendment.
->
-> Tim Fleming has my Complete and Total Endorsement to be the next Secretary of State of Georgia – HE WILL DO A FANTASTIC JOB, AND NEVER LET YOU DOWN!
-
----
-
-### [July 23, 2026 at 7:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971863913562523)
-
-> Greg Dolezal is a MAGA Warrior running for Lieutenant Governor to represent the Fantastic People of Georgia. He is strongly supported by my good friend, and the Peach State’s next Governor, Rick Jackson!
->
-> A Highly Respected State Senator, Greg has dedicated his life to serving his Community. As your next Lieutenant Governor, Greg will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Advance Election Integrity, Ensure LAW AND ORDER, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. He will work brilliantly with Rick Jackson, and do great things, never seen before in Georgia!
->
-> Greg Dolezal has my Complete and Total Endorsement to be the next Lieutenant Governor of Georgia — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 23, 2026 at 7:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971862681784017)
-
-> It is my Great Honor to endorse America First Patriot, Brian Strickland, who is running to be the next Attorney General of the Wonderful State of Georgia!
->
-> A Proven Leader, Brian previously served as a Highly Respected State Senator and State Representative, delivering strong results for his Community. As your next Attorney General, Brian will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.
->
-> Brian Strickland has my Complete and Total Endorsement to be the next Attorney General of Georgia — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 23, 2026 at 6:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116971555718513784)
-
-> Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 23, 2026 at 8:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969243226176328)
-
-> A year ago the United States of America attacked, very powerfully, the Houthis, for their interference with commerce and trade, by shooting at ships. Since that time, and during our conflict with Iran, they have acted very responsibly. Unfortunately, now they are starting up again, shooting at two Saudi Arabian ships last night. Please let this TRUTH serve to represent that if they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves, who I am very disappointed with in that they have, until now, acted very professionally and smart. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 23, 2026 at 7:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116969149016233329)
-
-> The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civil (Non-Enriched) Nuclear Facilities. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 23, 2026 at 5:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116968591311441725)
-
-> Justice at last???
-> House panel accuses Jack Smith of lying to Congress, urges DOJ to prosecute: https:// justthenews.com/government/con gress/jim-jordan-sends-jack-smith-criminal-referral-justice-department
-
----
-
-### [July 22, 2026 at 11:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116967081629708353)
-
-> https://www. instagram.com/p/DbBSMG8jqBx/
-
----
-
-### [July 22, 2026 at 9:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116966741803054909)
-
-> Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West: https://www. breitbart.com/politics/2026/07 /22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/
-
----
-
-### [July 22, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963738416841583)
-
-> From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT, including those located next to, or in, the Capital City of Tehran. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 22, 2026 at 8:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963651250041725)
-
-> Heading to Dover Air Force Base to HONOR OUR HEROES! President DJT
-
----
-
-### [July 22, 2026 at 8:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116963640178728533)
-
-> MAGA CANDIDATES WON EVERYTHING LAST NIGHT IN ARIZONA, A COMPLETE SWEEP!!! I WON ARIZONA 18 MONTHS AGO. THE DUMOCRATS ARE DUMBFOUNDED. AFTER DECADES, ARIZONA IS BECOMING A REPUBLICAN STATE. CONGRATULATIONS TO ALL! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
