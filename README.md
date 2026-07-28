@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 62 posts._
+
+### [July 28, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998782313244681)
+
+> Trump Rallies Around 'Trump Accounts' During Ga. Speech: https://www. newsmax.com/newsfront/donald-t rump-georgia-rally-investment-accounts/2026/07/22/id/1263753/
+
+---
+
+### [July 28, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998780287502025)
+
+> Trump touts explosive early growth of new child savings accounts: https://www. washingtontimes.com/news/2026/ jul/22/trump-touts-explosive-early-growth-new-child-savings-accounts/
+
+---
 
 ### [July 28, 2026 at 1:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998775699194439)
 

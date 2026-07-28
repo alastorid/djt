@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-28T17:28:56.322Z",
-  "count": 654,
+  "updatedAt": "2026-07-28T17:34:11.219Z",
+  "count": 656,
   "posts": [
+    {
+      "id": "116998782313244681",
+      "createdAt": "2026-07-28T13:28:59-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116998782313244681",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Rallies Around 'Trump Accounts' During Ga. Speech: https://www. newsmax.com/newsfront/donald-t rump-georgia-rally-investment-accounts/2026/07/22/id/1263753/",
+          "firstSeenAt": "2026-07-28T17:34:11.219Z"
+        }
+      ]
+    },
+    {
+      "id": "116998780287502025",
+      "createdAt": "2026-07-28T13:28:28-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116998780287502025",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump touts explosive early growth of new child savings accounts: https://www. washingtontimes.com/news/2026/ jul/22/trump-touts-explosive-early-growth-new-child-savings-accounts/",
+          "firstSeenAt": "2026-07-28T17:34:11.219Z"
+        }
+      ]
+    },
     {
       "id": "116998775699194439",
       "createdAt": "2026-07-28T13:27:18-04:00",
