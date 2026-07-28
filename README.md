@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 27 posts._
 
 ### [July 27, 2026 at 10:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116995133068341490)
 
@@ -166,12 +166,6 @@ _Edited, 2 versions archived_
 ### [July 24, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978507306393239)
 
 > https:// x.com/lauraloomer/status/20806 57818466586812?s=46
-
----
-
-### [July 24, 2026 at 11:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116978462876373589)
-
-> Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https:// alaskabeacon.com/2026/07/23/al aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/
 <!-- DJT_POSTS_END -->
 
 ---
