@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-27T23:53:33.811Z",
-  "count": 619,
+  "updatedAt": "2026-07-28T02:04:19.151Z",
+  "count": 620,
   "posts": [
+    {
+      "id": "116995133068341490",
+      "createdAt": "2026-07-27T22:00:56-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116995133068341490",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Confirm Todd Blanche without delay: https://www. washingtontimes.com/news/2026/ jul/23/confirm-todd-blanche-without-delay/",
+          "firstSeenAt": "2026-07-28T02:04:19.151Z"
+        }
+      ]
+    },
     {
       "id": "116994607783678326",
       "createdAt": "2026-07-27T19:47:21-04:00",

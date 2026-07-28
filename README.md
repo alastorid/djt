@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [July 27, 2026 at 10:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116995133068341490)
+
+> Confirm Todd Blanche without delay: https://www. washingtontimes.com/news/2026/ jul/23/confirm-todd-blanche-without-delay/
+
+---
 
 ### [July 27, 2026 at 7:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994607783678326)
 
