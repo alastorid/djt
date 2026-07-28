@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-28T13:55:02.161Z",
-  "count": 648,
+  "updatedAt": "2026-07-28T17:08:05.503Z",
+  "count": 649,
   "posts": [
+    {
+      "id": "116998688330805629",
+      "createdAt": "2026-07-28T13:05:05-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/116998688330805629",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-07-28T17:08:05.503Z"
+        }
+      ]
+    },
     {
       "id": "116997936589719290",
       "createdAt": "2026-07-28T09:53:55-04:00",

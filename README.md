@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 54 posts._
+_Last 3 days, newest first. 55 posts._
+
+### [July 28, 2026 at 1:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998688330805629)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP
+
+---
 
 ### [July 28, 2026 at 9:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997936589719290)
 
