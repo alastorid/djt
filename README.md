@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 70 posts._
+_Last 3 days, newest first. 71 posts._
+
+### [July 29, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117005562901056692)
+
+> Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP
+
+---
 
 ### [July 29, 2026 at 7:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117003098657536803)
 
