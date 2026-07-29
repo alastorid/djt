@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 68 posts._
+_Last 3 days, newest first. 69 posts._
+
+### [July 28, 2026 at 9:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000591530452774)
+
+> Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a simple Majority threshold. GET IT DONE! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [July 28, 2026 at 8:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000553480023765)
 
