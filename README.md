@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 65 posts._
+_Last 3 days, newest first. 67 posts._
+
+### [July 28, 2026 at 8:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000544407681188)
+
+> Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives. Had a very good meeting! Obviously, many important subjects were discussed. President DONALD J. TRUMP
+
+---
+
+### [July 28, 2026 at 8:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000535893705645)
+
+> Great Honor to meet with President Zelenskyy of Ukraine. Many things were discussed. The meeting went very well! President DONALD J. TRUMP
+
+---
 
 ### [July 28, 2026 at 8:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000461200836192)
 
