@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 64 posts._
+_Last 3 days, newest first. 65 posts._
+
+### [July 28, 2026 at 8:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000461200836192)
+
+> Fauci told everyone he was a great basketball player, so I assumed that he would be easily able to throw a ball to Home Plate. It turned out that he was a phony on that, just like he was on everything else (See below!). He was a terrible “athlete,” and this is, by far, the worst throw I have ever seen in years of watching first pitches! President DONALD J. TRUMP
+
+---
 
 ### [July 28, 2026 at 7:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000284640096040)
 
