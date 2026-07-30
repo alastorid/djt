@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 58 posts._
 
 ### [July 30, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117010030683816088)
 
@@ -358,12 +358,6 @@ _Last 3 days, newest first. 59 posts._
 ### [July 27, 2026 at 7:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994495434465622)
 
 > Rep. Hamadeh: America First Has Never Meant America Alone: https://www. newsmax.com/politics/armenia-a zerbaijan-netanyahu/2026/06/29/id/1261240/
-
----
-
-### [July 27, 2026 at 5:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994156371757363)
-
-> BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
