@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 70 posts._
+_Last 3 days, newest first. 69 posts._
 
 ### [July 29, 2026 at 9:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117006290013696288)
 
@@ -426,12 +426,6 @@ _Edited, 2 versions archived_
 ### [July 27, 2026 at 9:16 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992125438554532)
 
 > Whichever Party Terminates the Filibuster FIRST will be the Party that survives and thrives. If the Dumocrats win this race, however, America will rapidly become nothing more than a Third World Nation! President DONALD J. TRUMP
-
----
-
-### [July 27, 2026 at 9:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992066632190700)
-
-> John Thune should not allow the United States Senate to “leave town” until it passes The Save America Act or, far better still, TERMINATES THE FILIBUSTER, where Republicans can then quickly pass everything they ever dreamed of, including a full and deep throated SAVE AMERICA ACT, the Budget, and the ever looming Debt Ceiling disaster, 1929! The Dumocrats will do it on day one, and can’t believe how lucky they got with this Senate leadership. Remember, stupidity always brings LOSING & DEATH! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
