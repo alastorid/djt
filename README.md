@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 54 posts._
 
 ### [July 30, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117011460046411651)
 
@@ -344,42 +344,6 @@ _Last 3 days, newest first. 60 posts._
 ### [July 27, 2026 at 7:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994535807393646)
 
 > President Trump’s primetime address reaffirms election fraud and deep state as America’s greatest threat – with media willfully complicit: https://www. rsbnetwork.com/news/president- trumps-primetime-address-reaffirms-election-fraud-and-deep-state-as-americas-greatest-threat-with-media-willfully-complicit/
-
----
-
-### [July 27, 2026 at 7:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994504056726420)
-
-> https://www. cnbc.com/video/2026/07/06/watc h-cnbcs-full-interview-with-invest-america-founder-brad-gerstner.html
-
----
-
-### [July 27, 2026 at 7:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994503034214426)
-
-> Trump caps sensational 250th celebration with tribute to the glory of American freedom: https:// justthenews.com/politics-polic y/all-things-trump/trump-caps-sensational-250th-celebration-tribute-glory-america
-
----
-
-### [July 27, 2026 at 7:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994500400281844)
-
-> NVIDIA: Building in America, for America: https://www. nvidia.com/en-us/made-in-usa/
-
----
-
-### [July 27, 2026 at 7:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994497445449017)
-
-> NVIDIA and Partners Build in America, for America: https:// blogs.nvidia.com/blog/nvidia-a nd-partners-build-in-america-for-america/
-
----
-
-### [July 27, 2026 at 7:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994496630944909)
-
-> Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran's family: https://www. foxnews.com/politics/trump-end orsed-congressional-candidate-pledges-entire-174k-salary-wounded-iraq-war-veterans-family
-
----
-
-### [July 27, 2026 at 7:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994495434465622)
-
-> Rep. Hamadeh: America First Has Never Meant America Alone: https://www. newsmax.com/politics/armenia-a zerbaijan-netanyahu/2026/06/29/id/1261240/
 <!-- DJT_POSTS_END -->
 
 ---
