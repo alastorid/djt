@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 72 posts._
+_Last 3 days, newest first. 71 posts._
 
 ### [July 29, 2026 at 9:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117006290013696288)
 
@@ -438,12 +438,6 @@ _Edited, 2 versions archived_
 ### [July 27, 2026 at 1:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116990282989174946)
 
 > The Midterm Meltdown: https:// pro.paradigmnewsletters.org/p/ awn_midtermmeltdown_0626/LAWN6750/
-
----
-
-### [July 26, 2026 at 9:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116989452475906419)
-
-> Congressman Brandon Gill (Texas!) was Fantastic tonight on the Trey Gowdy Show, especially as he talked about Deranged Jack Smith and his illegitimate Witch Hunt. The Deranged One stone cold lied before Congress, and worse. He destroyed many lives. Hopefully he will be treated accordingly! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
