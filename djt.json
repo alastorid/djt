@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-30T15:19:13.520Z",
-  "count": 667,
+  "updatedAt": "2026-07-30T17:13:58.702Z",
+  "count": 668,
   "posts": [
+    {
+      "id": "117010030683816088",
+      "createdAt": "2026-07-30T13:09:36-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117010030683816088",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&t=1016s&pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&ra=m",
+          "firstSeenAt": "2026-07-30T17:13:58.702Z"
+        }
+      ]
+    },
     {
       "id": "117009581290419286",
       "createdAt": "2026-07-30T11:15:19-04:00",

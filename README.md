@@ -5,6 +5,12 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 65 posts._
 
+### [July 30, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117010030683816088)
+
+> President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&t=1016s&pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&ra=m
+
+---
+
 ### [July 30, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117009581290419286)
 
 > Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greatest Attorney Generals of All Time. However, John Cornyn, of Texas, and Thom Tillis, of North Carolina, both of whom I refused to Endorse, and whose political careers have been ended by my action, are refusing to vote for this Great Nominee, who will remain, in any event, as Acting. Remember, both Cornyn and Tillis voted for Merrick Garland, and others, too numerous to mention. I have no objection to temporarily withdrawing Todd’s name, if they do not do the right thing, and putting him back after Cornyn and Tillis are out of office. President DONALD J. TRUMP
@@ -396,12 +402,6 @@ _Edited, 2 versions archived_
 ### [July 27, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993802650087776)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993801329839445
-
----
-
-### [July 27, 2026 at 1:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993048026996953)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993046455147795
 <!-- DJT_POSTS_END -->
 
 ---
