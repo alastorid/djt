@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 71 posts._
+_Last 3 days, newest first. 70 posts._
 
 ### [July 29, 2026 at 9:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117006290013696288)
 
@@ -432,12 +432,6 @@ _Edited, 2 versions archived_
 ### [July 27, 2026 at 9:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992066632190700)
 
 > John Thune should not allow the United States Senate to “leave town” until it passes The Save America Act or, far better still, TERMINATES THE FILIBUSTER, where Republicans can then quickly pass everything they ever dreamed of, including a full and deep throated SAVE AMERICA ACT, the Budget, and the ever looming Debt Ceiling disaster, 1929! The Dumocrats will do it on day one, and can’t believe how lucky they got with this Senate leadership. Remember, stupidity always brings LOSING & DEATH! President DJT
-
----
-
-### [July 27, 2026 at 1:27 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116990282989174946)
-
-> The Midterm Meltdown: https:// pro.paradigmnewsletters.org/p/ awn_midtermmeltdown_0626/LAWN6750/
 <!-- DJT_POSTS_END -->
 
 ---
