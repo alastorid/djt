@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-30T22:29:03.168Z",
-  "count": 669,
+  "updatedAt": "2026-07-30T23:15:51.954Z",
+  "count": 670,
   "posts": [
+    {
+      "id": "117011460046411651",
+      "createdAt": "2026-07-30T19:13:06-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117011460046411651",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "GREAT new song by Steve Gruber & The Freedom Project!\n https:// youtu.be/9rHJoI3Ge6U?is=zDTIM8 6DSa4d5qbv",
+          "firstSeenAt": "2026-07-30T23:15:51.954Z"
+        }
+      ]
+    },
     {
       "id": "117011270507732212",
       "createdAt": "2026-07-30T18:24:54-04:00",

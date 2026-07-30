@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [July 30, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117011460046411651)
+
+> GREAT new song by Steve Gruber & The Freedom Project!
+>  https:// youtu.be/9rHJoI3Ge6U?is=zDTIM8 6DSa4d5qbv
+
+---
 
 ### [July 30, 2026 at 6:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117011270507732212)
 
