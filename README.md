@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 69 posts._
+_Last 3 days, newest first. 66 posts._
 
 ### [July 30, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117009581290419286)
 
@@ -408,24 +408,6 @@ _Edited, 2 versions archived_
 ### [July 27, 2026 at 12:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992794702989897)
 
 > https:// trumpaccounts.gov
-
----
-
-### [July 27, 2026 at 12:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992790900768538)
-
-> https:// trumpaccounts.gov
-
----
-
-### [July 27, 2026 at 12:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992786273183992)
-
-> Exclusive — President Donald Trump on Hard-Left Socialist Turn of ‘Dumocrats’: ‘Concept of Give Away Everything Ends up In Squalor, Crime, and Death’: https://www. breitbart.com/politics/2026/07 /03/exclusive-president-donald-trump-on-hard-left-socialist-turn-of-dumocrats-concept-of-give-away-everything-ends-up-in-squalor-crime-and-death/
-
----
-
-### [July 27, 2026 at 12:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116992785834552197)
-
-> https:// nypost.com/2026/06/26/opinion/ republicans-should-cheer-the-exit-of-sad-tucker-carlson/
 <!-- DJT_POSTS_END -->
 
 ---
