@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-29T22:18:12.903Z",
-  "count": 665,
+  "updatedAt": "2026-07-30T01:20:12.650Z",
+  "count": 666,
   "posts": [
+    {
+      "id": "117006290013696288",
+      "createdAt": "2026-07-29T21:18:18-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117006290013696288",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Thank you Abe! President DJT",
+          "firstSeenAt": "2026-07-30T01:20:12.650Z"
+        }
+      ]
+    },
     {
       "id": "117005562901056692",
       "createdAt": "2026-07-29T18:13:23-04:00",
