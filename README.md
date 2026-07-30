@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 65 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [July 30, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117010030683816088)
 
@@ -364,44 +364,6 @@ _Last 3 days, newest first. 65 posts._
 ### [July 27, 2026 at 5:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116994156371757363)
 
 > BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993810062084166)
-
-> Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do: https://www. wsj.com/opinion/sen-ron-johnso n-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c
-
-_Edited, 2 versions archived_
-
----
-
-### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993809640438974)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993808256006694
-
----
-
-### [July 27, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993808256006694)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993807372928829
-
----
-
-### [July 27, 2026 at 4:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993806932337687)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993805746480019
-
----
-
-### [July 27, 2026 at 4:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993805414058559)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993802814114985
-
----
-
-### [July 27, 2026 at 4:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116993802650087776)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116993801329839445
 <!-- DJT_POSTS_END -->
 
 ---
