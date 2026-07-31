@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
 
@@ -272,24 +272,6 @@ _Last 3 days, newest first. 45 posts._
 ### [July 28, 2026 at 9:45 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997902816278620)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997900955280692
-
----
-
-### [July 28, 2026 at 9:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997884149863801)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997883102335738
-
----
-
-### [July 28, 2026 at 9:39 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997881553384817)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997880805050814
-
----
-
-### [July 28, 2026 at 9:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997864608476768)
-
-> ANDREW GIULIANI: How President Trump’s World Cup vision showed America at its very best: https://www. foxnews.com/opinion/andrew-giu liani-president-trumps-world-cup-vision-showed-america-very-best
 <!-- DJT_POSTS_END -->
 
 ---
