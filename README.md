@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 33 posts._
 
 ### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
 
@@ -218,48 +218,6 @@ _Last 3 days, newest first. 40 posts._
 ### [July 28, 2026 at 9:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997925928882045)
 
 > Exclusive — Andrew Giuliani: World Cup Was ‘Just the Start’ of America’s ‘Golden Age of Sports’: https://www. breitbart.com/sports/2026/07/2 1/exclusive-andrew-giuliani-world-cup-was-just-the-start-of-americas-golden-age-of-sports/
-
----
-
-### [July 28, 2026 at 9:49 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997917894077171)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997915992497491
-
----
-
-### [July 28, 2026 at 9:48 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997915992497491)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997914591056746
-
----
-
-### [July 28, 2026 at 9:48 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997914591056746)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997913009839733
-
----
-
-### [July 28, 2026 at 9:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997913009839733)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997911252543548
-
----
-
-### [July 28, 2026 at 9:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997911252543548)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997909765930913
-
----
-
-### [July 28, 2026 at 9:47 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997909765930913)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997908473797212
-
----
-
-### [July 28, 2026 at 9:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997908473797212)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997904456604109
 <!-- DJT_POSTS_END -->
 
 ---
