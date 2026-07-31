@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 23 posts._
 
 ### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
 
@@ -155,69 +155,6 @@ _Last 3 days, newest first. 33 posts._
 ### [July 28, 2026 at 1:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998688330805629)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP
-
----
-
-### [July 28, 2026 at 9:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997936589719290)
-
-> ‘Up Like a Rocket!’ CNN Data Guru Says Lindsey Graham’s Sister Is Now ‘Clear Favorite’ to Win Primary: https://www. mediaite.com/media/news/up-lik e-a-rocket-cnn-data-guru-says-lindsey-grahams-sister-is-now-clear-favorite-to-win-primary/
-
----
-
-### [July 28, 2026 at 9:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997935355911269)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997934475409421
-
----
-
-### [July 28, 2026 at 9:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997934475409421)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116997933680774362
-
----
-
-### [July 28, 2026 at 9:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997933680774362)
-
-> https://www. nist.gov/news-events/news/2026 /07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
-
----
-
-### [July 28, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997932764326375)
-
-> She only went public because she was caught!
-> Software vendor disputes NJ governor's ‘glitch’ claim, says state approves foreigners on voter roll: https:// justthenews.com/nation/states/ software-vendor-disputes-nj-governors-glitch-claim-says-state-approved-foreigners
-
----
-
-### [July 28, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997931035441050)
-
-> MIKE DAVIS: Why criminal referral of Jack Smith was 100% justified: https://www. foxnews.com/opinion/mike-davis -why-criminal-referral-jack-smith-100-percent-justified
-
----
-
-### [July 28, 2026 at 9:52 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997929936049893)
-
-> It was a Rigged Election that we must learn from. Never forget!
->  https://www. dailymail.com/news/article-159 93893/Trump-2020-election-win-biden-poll.html
-
----
-
-### [July 28, 2026 at 9:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997928439760348)
-
-> Lil Wayne Praises Trump for Building White House Ballroom: ‘I’m So Glad!’
->  https://www. mediaite.com/media/lil-wayne-p raises-trump-for-building-white-house-ballroom-im-so-glad/
-
----
-
-### [July 28, 2026 at 9:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997927517547120)
-
-> Confirm Todd Blanche without delay: https://www. washingtontimes.com/news/2026/ jul/23/confirm-todd-blanche-without-delay/
-
----
-
-### [July 28, 2026 at 9:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997925928882045)
-
-> Exclusive — Andrew Giuliani: World Cup Was ‘Just the Start’ of America’s ‘Golden Age of Sports’: https://www. breitbart.com/sports/2026/07/2 1/exclusive-andrew-giuliani-world-cup-was-just-the-start-of-americas-golden-age-of-sports/
 <!-- DJT_POSTS_END -->
 
 ---
