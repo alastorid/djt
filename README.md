@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [July 30, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117011460046411651)
 
@@ -320,12 +320,6 @@ _Last 3 days, newest first. 51 posts._
 ### [July 28, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997857033014116)
 
 > IRS Chief Bisignano Touts $99M in Payments Stopped: https://www. realclearpolitics.com/articles /2026/07/22/irs_chief_says_99m_in_payments_to_dead_people_stopped_154359.html
-
----
-
-### [July 27, 2026 at 10:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116995133068341490)
-
-> Confirm Todd Blanche without delay: https://www. washingtontimes.com/news/2026/ jul/23/confirm-todd-blanche-without-delay/
 <!-- DJT_POSTS_END -->
 
 ---
