@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 16 posts._
 
 ### [July 31, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117015146759027639)
 
@@ -113,48 +113,6 @@ _Last 3 days, newest first. 23 posts._
 ### [July 28, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000281218088963)
 
 > THE MASSIE MASSACRE in the Great Commonwealth of Kentucky has had a really great impact on Senator Rand Paul who will be running in two years. He’s been terrific, lately! President DJT
-
----
-
-### [July 28, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998782313244681)
-
-> Trump Rallies Around 'Trump Accounts' During Ga. Speech: https://www. newsmax.com/newsfront/donald-t rump-georgia-rally-investment-accounts/2026/07/22/id/1263753/
-
----
-
-### [July 28, 2026 at 1:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998780287502025)
-
-> Trump touts explosive early growth of new child savings accounts: https://www. washingtontimes.com/news/2026/ jul/22/trump-touts-explosive-early-growth-new-child-savings-accounts/
-
----
-
-### [July 28, 2026 at 1:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998775699194439)
-
-> Trump: ‘With communism, everything turns to s***’: https://www. washingtonexaminer.com/news/wh ite-house/4659752/trump-communism-dont-think-anybody-wants-that-georgia-remarks/
-
----
-
-### [July 28, 2026 at 1:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998774304633594)
-
-> Trump blasts Jon Ossoff, 'communist' Democrats in Georgia speech: https:// justthenews.com/politics-polic y/all-things-trump/trump-blasts-jon-ossoff-communist-democrats-georgia-speech
-
----
-
-### [July 28, 2026 at 1:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998772846859723)
-
-> Trump holds hands with toddler and mocks ‘Pee-wee Herman look-alike’ Jon Ossoff at Georgia Trump Accounts rally: https:// nypost.com/2026/07/22/us-news/ trump-holds-hands-with-toddler-and-mocks-pee-wee-jon-ossoff-at-georgia-trump-accounts-rally/
-
----
-
-### [July 28, 2026 at 1:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998771507248785)
-
-> Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One: https://www. foxnews.com/politics/trump-pay s-emotional-tribute-fallen-army-lt-tyler-feehan-flying-grieving-family-air-force-one
-
----
-
-### [July 28, 2026 at 1:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998766458372558)
-
-> Tariffs pull, USMCA pushes: Toyota to Texas: https:// thehill.com/opinion/white-hous e/5965989-toyota-texas-tacoma-tariffs-impact/
 <!-- DJT_POSTS_END -->
 
 ---
