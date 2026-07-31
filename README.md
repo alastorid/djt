@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 23 posts._
 
 ### [July 31, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117015146759027639)
 
@@ -155,12 +155,6 @@ _Last 3 days, newest first. 24 posts._
 ### [July 28, 2026 at 1:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998766458372558)
 
 > Tariffs pull, USMCA pushes: Toyota to Texas: https:// thehill.com/opinion/white-hous e/5965989-toyota-texas-tacoma-tariffs-impact/
-
----
-
-### [July 28, 2026 at 1:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/116998688330805629)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
