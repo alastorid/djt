@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 45 posts._
 
 ### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
 
@@ -290,42 +290,6 @@ _Last 3 days, newest first. 51 posts._
 ### [July 28, 2026 at 9:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997864608476768)
 
 > ANDREW GIULIANI: How President Trump’s World Cup vision showed America at its very best: https://www. foxnews.com/opinion/andrew-giu liani-president-trumps-world-cup-vision-showed-america-very-best
-
----
-
-### [July 28, 2026 at 9:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997863543813488)
-
-> Trump Rallies in Georgia, Touting the Trump Accounts, New Policies, and Key Economic Wins: https:// redstate.com/jenniferoo/2026/0 7/22/trump-campaigns-in-georgia-for-mike-collins-touts-save-america-act-and-trump-accounts-n2204655
-
----
-
-### [July 28, 2026 at 9:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997862617667443)
-
-> BIG CROWDS SHOW UP FOR PRESIDENT TRUMP IN MARIETTA, GEORGIA: https://www. rsbnetwork.com/news/big-crowds -show-up-for-president-trump-in-marietta-georgia/
-
----
-
-### [July 28, 2026 at 9:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997860600714900)
-
-> Social Security Commissioner: ‘We’re Going to Stay at It’ After Latest $99 Million in Fraud Uncovered: https://www. breitbart.com/politics/2026/07 /21/social-security-commissioner-were-going-to-stay-at-it-after-latest-99-million-in-fraud-uncovered/
-
----
-
-### [July 28, 2026 at 9:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997858987769069)
-
-> Treasury stopped nearly $100M in taxpayer money from going to dead people after new gov’t measure implemented: https:// nypost.com/2026/07/21/us-news/ treasury-stopped-nearly-100-million-in-taxpayer-money-from-going-to-dead-people/
-
----
-
-### [July 28, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997857989413713)
-
-> Trump’s IRS CEO reveals scrub of Social Security database found 10% of recipients erroneously listed: https:// nypost.com/2026/07/22/us-news/ trumps-irs-chief-reveals-scrub-of-social-security-database-found-10-of-recipients-erroneously-listed/
-
----
-
-### [July 28, 2026 at 9:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/116997857033014116)
-
-> IRS Chief Bisignano Touts $99M in Payments Stopped: https://www. realclearpolitics.com/articles /2026/07/22/irs_chief_says_99m_in_payments_to_dead_people_stopped_154359.html
 <!-- DJT_POSTS_END -->
 
 ---
