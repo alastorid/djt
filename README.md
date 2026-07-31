@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 16 posts._
 
 ### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
 
@@ -113,12 +113,6 @@ _Last 3 days, newest first. 17 posts._
 ### [July 28, 2026 at 7:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000284640096040)
 
 > Congratulations to the Great Jay Clayton on his confirmation by the United States Senate, to be the next Director of National Intelligence. Jay is outstanding in every way, and will do a spectacular job as Director! President DONALD J. TRUMP
-
----
-
-### [July 28, 2026 at 7:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000281218088963)
-
-> THE MASSIE MASSACRE in the Great Commonwealth of Kentucky has had a really great impact on Senator Rand Paul who will be running in two years. He’s been terrific, lately! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
