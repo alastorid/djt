@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 10 posts._
+_Last 3 days, newest first. 11 posts._
+
+### [July 31, 2026 at 9:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117017726186229508)
+
+> Federal Appeals Court Rejects Bid to Block Trump’s Mail Voting Restrictions: https://www. theepochtimes.com/us/federal-a ppeals-court-rejects-bid-to-block-trumps-mail-voting-restrictions-6068410
+
+---
 
 ### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
 

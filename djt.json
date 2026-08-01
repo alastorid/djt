@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-07-31T20:11:42.781Z",
-  "count": 673,
+  "updatedAt": "2026-08-01T01:50:17.290Z",
+  "count": 674,
   "posts": [
+    {
+      "id": "117017726186229508",
+      "createdAt": "2026-07-31T21:46:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117017726186229508",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Federal Appeals Court Rejects Bid to Block Trump’s Mail Voting Restrictions: https://www. theepochtimes.com/us/federal-a ppeals-court-rejects-bid-to-block-trumps-mail-voting-restrictions-6068410",
+          "firstSeenAt": "2026-08-01T01:50:17.290Z"
+        }
+      ]
+    },
     {
       "id": "117016403652131870",
       "createdAt": "2026-07-31T16:10:20-04:00",
