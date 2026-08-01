@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 17 posts._
 
 ### [August 1, 2026 at 2:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021663417295585)
 
@@ -114,12 +114,6 @@ _Last 3 days, newest first. 18 posts._
 ### [July 29, 2026 at 9:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117006290013696288)
 
 > Thank you Abe! President DJT
-
----
-
-### [July 29, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117005562901056692)
-
-> Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
