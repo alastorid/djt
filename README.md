@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 11 posts._
+_Last 3 days, newest first. 12 posts._
+
+### [August 1, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117020029291674756)
+
+> If Senators Cornyn and Tillis, both upset because I wouldn’t Endorse them (they lost, and quit, respectively!), aren’t going to approve Todd Blanche, one of the most respected professionals, according to everybody, in the Country, to be the United States Attorney General, then I will keep Todd as Acting A.G., and push hard to get the Anti-Weaponization Bill, which takes care of those who have been so badly treated by the Crooked Joe Biden (and Obuma!) Administration (I get nothing, although I was treated horribly!), PASSED. Todd Blanche was a voice of reason! It will immediately be back on the table, and I will get it done. Thank you for your attention to this matter! President DJT
+
+---
 
 ### [July 31, 2026 at 9:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117017726186229508)
 
