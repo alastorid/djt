@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 12 posts._
+_Last 3 days, newest first. 14 posts._
+
+### [August 1, 2026 at 12:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021283621973335)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021276346508609 Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!
+
+---
+
+### [August 1, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021276346508609)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022
+
+---
 
 ### [August 1, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021210137447022)
 

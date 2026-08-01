@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-01T16:33:59.643Z",
-  "count": 676,
+  "updatedAt": "2026-08-01T16:54:50.416Z",
+  "count": 678,
   "posts": [
+    {
+      "id": "117021283621973335",
+      "createdAt": "2026-08-01T12:51:22-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117021283621973335",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021276346508609 Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
+          "firstSeenAt": "2026-08-01T16:54:50.416Z"
+        }
+      ]
+    },
+    {
+      "id": "117021276346508609",
+      "createdAt": "2026-08-01T12:49:31-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117021276346508609",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022",
+          "firstSeenAt": "2026-08-01T16:54:50.416Z"
+        }
+      ]
+    },
     {
       "id": "117021210137447022",
       "createdAt": "2026-08-01T12:32:41-04:00",
