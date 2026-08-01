@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-01T16:54:50.416Z",
-  "count": 678,
+  "updatedAt": "2026-08-01T17:47:02.664Z",
+  "count": 679,
   "posts": [
+    {
+      "id": "117021491521539896",
+      "createdAt": "2026-08-01T13:44:14-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117021491521539896",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT",
+          "firstSeenAt": "2026-08-01T17:47:02.664Z"
+        }
+      ]
+    },
     {
       "id": "117021283621973335",
       "createdAt": "2026-08-01T12:51:22-04:00",

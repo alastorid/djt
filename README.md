@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 15 posts._
+
+### [August 1, 2026 at 1:44 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021491521539896)
+
+> Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT
+
+---
 
 ### [August 1, 2026 at 12:51 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021283621973335)
 
