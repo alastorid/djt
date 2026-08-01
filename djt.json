@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-01T18:18:06.196Z",
-  "count": 681,
+  "updatedAt": "2026-08-01T18:33:41.272Z",
+  "count": 682,
   "posts": [
+    {
+      "id": "117021663417295585",
+      "createdAt": "2026-08-01T14:27:57-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117021663417295585",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Trump is fixing our wonderful White House, just like he is fixing our Country!",
+          "firstSeenAt": "2026-08-01T18:33:41.272Z"
+        }
+      ]
+    },
     {
       "id": "117021602773641695",
       "createdAt": "2026-08-01T14:12:32-04:00",
