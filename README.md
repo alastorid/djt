@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 14 posts._
 
 ### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
 
@@ -101,12 +101,6 @@ _Last 3 days, newest first. 15 posts._
 ### [July 28, 2026 at 8:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000535893705645)
 
 > Great Honor to meet with President Zelenskyy of Ukraine. Many things were discussed. The meeting went very well! President DONALD J. TRUMP
-
----
-
-### [July 28, 2026 at 8:35 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000461200836192)
-
-> Fauci told everyone he was a great basketball player, so I assumed that he would be easily able to throw a ball to Home Plate. It turned out that he was a phony on that, just like he was on everything else (See below!). He was a terrible “athlete,” and this is, by far, the worst throw I have ever seen in years of watching first pitches! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
