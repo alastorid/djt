@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 12 posts._
+_Last 3 days, newest first. 11 posts._
 
 ### [August 1, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117020029291674756)
 
@@ -78,13 +78,6 @@ _Last 3 days, newest first. 12 posts._
 ### [July 29, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117005562901056692)
 
 > Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP
-
----
-
-### [July 29, 2026 at 7:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117003098657536803)
-
-> Many more people died of Covid under the Biden Administration than under the Trump Administration. “Operation Warp Speed” was a SPECTACULAR SUCCESS, in fact, many say, one of the most successful things ever done by an American President. I overrode Fauci on this. His ideas were CRAZY! Also, I said from the beginning that the Virus came from the Wuhan Laboratory in China. Fauci strongly disagreed, always trying to protect China. I Inherited Fauci, who was there since the 1980’s, but with each passing day, relied less and less on him. He made too many bad calls, like on MASKS. Remember at the beginning he was an anti-masker. He then switched to a super-masker. In any event I didn’t let him shut the Country down, although he wanted to. I went the Federalist way, and let the governors decide. The Republican governors did a much better job than the Dumocrats. Fauci was largely taken out of play, and then along came Sleepy Joe Biden, who made Fauci a “King!” I called Biden to tell him Fauci was no good, either didn’t have a clue, or was dishonest. The call was well received, but sadly,
-> not acted on. Biden went on to give Fauci vast destructive power. The rest is history! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
