@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 12 posts._
 
 ### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
 
@@ -89,18 +89,6 @@ _Last 3 days, newest first. 14 posts._
 > From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. His opponent, Kristen McDonald Rivet, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Amir will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.
 >
 > Amir Hassan has my Complete and Total Endorsement to be the next Representative from Michigan’s 8th Congressional District — HE WILL NEVER LET YOU DOWN!
-
----
-
-### [July 28, 2026 at 8:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000544407681188)
-
-> Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives. Had a very good meeting! Obviously, many important subjects were discussed. President DONALD J. TRUMP
-
----
-
-### [July 28, 2026 at 8:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117000535893705645)
-
-> Great Honor to meet with President Zelenskyy of Ukraine. Many things were discussed. The meeting went very well! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
