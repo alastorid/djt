@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 16 posts._
+_Last 3 days, newest first. 17 posts._
+
+### [August 1, 2026 at 2:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021602773641695)
+
+> Because of President Donald J. Trump, Oil Exports are SURGING!
+
+---
 
 ### [August 1, 2026 at 2:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021572940495076)
 
