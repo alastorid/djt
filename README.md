@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [August 2, 2026 at 12:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026832680116899)
 
@@ -144,12 +144,6 @@ _Last 3 days, newest first. 23 posts._
 > CONGRATULATIONS TO ALL ON THIS AMAZING DEVELOPMENT, THAT EVERYBODY SAID COULD NEVER BE ACHIEVED!
 > DONALD J. TRUMP
 > President of the United States of America
-
----
-
-### [July 30, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117010030683816088)
-
-> President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&t=1016s&pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&ra=m
 <!-- DJT_POSTS_END -->
 
 ---
