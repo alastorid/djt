@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [August 2, 2026 at 2:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117027337618143949)
 
@@ -128,13 +128,6 @@ _Last 3 days, newest first. 22 posts._
 ### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
 
 > John Cornyn never had a problem with the so called “Fund,” which will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and illegally destroyed by the Crooked Joe Biden Administration, until after I decided to Endorse and Support his Republican Primary opponent in Texas, who easily won the Nomination for the United States Senate. Perhaps there has never been a group of people treated so badly in our Nation’s history. They are suffering still, many ruined, and I felt that they should be given compensation for what has been done to them. I gave up any payments for myself, which would have been substantial, including for the illegal and unprecedented raid on Mar-a-Lago, my home in Florida, even though many legal experts, and others, including John Cornyn, said it was a shocking and disgusting display of “weaponization” against me. Such an event has never happened before, and hopefully will never happen again! I will always feel that these victims of government abuse should be paid back for what they were forced to endure, their lives have been ruined! Millions of people agree with me, as was proven in my landslide Presidential win, where this was a major subject of debate, and so did John Cornyn, until he lost his Election to an opponent that I Endorsed. Todd Blanche, a good man, should be immediately approved as U.S. Attorney General. Thank you for your attention to this matter! President DONALD J. TRUMP
-
----
-
-### [July 30, 2026 at 7:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117011460046411651)
-
-> GREAT new song by Steve Gruber & The Freedom Project!
->  https:// youtu.be/9rHJoI3Ge6U?is=zDTIM8 6DSa4d5qbv
 <!-- DJT_POSTS_END -->
 
 ---
