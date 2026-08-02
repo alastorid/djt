@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 19 posts._
+_Last 3 days, newest first. 20 posts._
+
+### [August 2, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026026144388651)
+
+> 'PO'd' Evers vows to resist any FBI effort to seize Milwaukee ballots: https://www. jsonline.com/story/news/politi cs/2026/03/11/tony-evers-vows-to-resist-any-effort-to-seize-2020-milwaukee-ballots/89097930007/
+
+---
 
 ### [August 2, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117025646575450964)
 
