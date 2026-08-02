@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [August 2, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026031118146577)
 
@@ -144,12 +144,6 @@ _Last 3 days, newest first. 23 posts._
 ### [July 30, 2026 at 1:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117010030683816088)
 
 > President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&t=1016s&pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&ra=m
-
----
-
-### [July 30, 2026 at 11:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117009581290419286)
-
-> Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greatest Attorney Generals of All Time. However, John Cornyn, of Texas, and Thom Tillis, of North Carolina, both of whom I refused to Endorse, and whose political careers have been ended by my action, are refusing to vote for this Great Nominee, who will remain, in any event, as Acting. Remember, both Cornyn and Tillis voted for Merrick Garland, and others, too numerous to mention. I have no objection to temporarily withdrawing Todd’s name, if they do not do the right thing, and putting him back after Cornyn and Tillis are out of office. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
