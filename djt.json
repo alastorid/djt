@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-02T02:08:14.590Z",
-  "count": 683,
+  "updatedAt": "2026-08-02T11:25:13.345Z",
+  "count": 685,
   "posts": [
+    {
+      "id": "117025646575450964",
+      "createdAt": "2026-08-02T07:20:56-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117025646575450964",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump's new NIH chief outlines sweeping reforms like new pandemic playbook, vaccine injury body: https:// justthenews.com/government/fed eral-agencies/trumps-new-nih-chief-outlines-sweeping-reforms-such-new-pandemic",
+          "firstSeenAt": "2026-08-02T11:25:13.345Z"
+        }
+      ]
+    },
+    {
+      "id": "117025644223308461",
+      "createdAt": "2026-08-02T07:20:20-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117025644223308461",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump administration creating ‘incubators’ to develop new tech to counter drone terror attacks: https:// justthenews.com/government/sec urity/combatting-fury-skies-drone-warfare-necessitates-new-protection-technology",
+          "firstSeenAt": "2026-08-02T11:25:13.345Z"
+        }
+      ]
+    },
     {
       "id": "117023461141824050",
       "createdAt": "2026-08-01T22:05:08-04:00",

@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 19 posts._
+
+### [August 2, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117025646575450964)
+
+> Trump's new NIH chief outlines sweeping reforms like new pandemic playbook, vaccine injury body: https:// justthenews.com/government/fed eral-agencies/trumps-new-nih-chief-outlines-sweeping-reforms-such-new-pandemic
+
+---
+
+### [August 2, 2026 at 7:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117025644223308461)
+
+> Trump administration creating ‘incubators’ to develop new tech to counter drone terror attacks: https:// justthenews.com/government/sec urity/combatting-fury-skies-drone-warfare-necessitates-new-protection-technology
+
+---
 
 ### [August 1, 2026 at 10:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117023461141824050)
 
