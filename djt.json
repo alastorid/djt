@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-02T13:04:17.587Z",
-  "count": 689,
+  "updatedAt": "2026-08-02T16:27:02.719Z",
+  "count": 690,
   "posts": [
+    {
+      "id": "117026832680116899",
+      "createdAt": "2026-08-02T12:22:34-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117026832680116899",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. energy.gov/articles/secretary- wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
+          "firstSeenAt": "2026-08-02T16:27:02.719Z"
+        }
+      ]
+    },
     {
       "id": "117026031118146577",
       "createdAt": "2026-08-02T08:58:43-04:00",

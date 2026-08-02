@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [August 2, 2026 at 12:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026832680116899)
+
+> https://www. energy.gov/articles/secretary- wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline
+
+---
 
 ### [August 2, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026031118146577)
 
