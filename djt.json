@@ -6,9 +6,57 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-02T12:58:59.865Z",
-  "count": 686,
+  "updatedAt": "2026-08-02T13:04:17.587Z",
+  "count": 689,
   "posts": [
+    {
+      "id": "117026031118146577",
+      "createdAt": "2026-08-02T08:58:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117026031118146577",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Why I Put President Trump's Name on Palm Beach's Airport: https:// townhall.com/columnists/meg-we inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374",
+          "firstSeenAt": "2026-08-02T13:04:17.587Z"
+        }
+      ]
+    },
+    {
+      "id": "117026028607181563",
+      "createdAt": "2026-08-02T08:58:05-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117026028607181563",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump’s Energy Triumph: https://www. wsj.com/opinion/trumps-energy- triumph-82e4b953",
+          "firstSeenAt": "2026-08-02T13:04:17.587Z"
+        }
+      ]
+    },
+    {
+      "id": "117026027292723194",
+      "createdAt": "2026-08-02T08:57:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117026027292723194",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Mexico's Problem: https://www. billoreilly.com/b/Mexicos-Prob lem/-45344169968241838.html",
+          "firstSeenAt": "2026-08-02T13:04:17.587Z"
+        }
+      ]
+    },
     {
       "id": "117026026144388651",
       "createdAt": "2026-08-02T08:57:27-04:00",

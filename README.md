@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [August 2, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026031118146577)
+
+> Why I Put President Trump's Name on Palm Beach's Airport: https:// townhall.com/columnists/meg-we inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374
+
+---
+
+### [August 2, 2026 at 8:58 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026028607181563)
+
+> Trump’s Energy Triumph: https://www. wsj.com/opinion/trumps-energy- triumph-82e4b953
+
+---
+
+### [August 2, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026027292723194)
+
+> Mexico's Problem: https://www. billoreilly.com/b/Mexicos-Prob lem/-45344169968241838.html
+
+---
 
 ### [August 2, 2026 at 8:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026026144388651)
 
