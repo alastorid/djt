@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [August 3, 2026 at 3:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033273093832896)
+
+> I just spoke with the Governor of Missouri, Mike Kehoe, an outstanding guy, and told him I am approving 24.5 Million Dollars for the severe storms, winds, tornadoes, and flooding they have experienced. Missouri is in good hands with the Governor, Senators Eric Schmitt and Josh Hawley, and fantastic Chair of the House Ways and Means Committee, Jason Smith. God bless you all! President DONALD J. TRUMP
+
+---
 
 ### [August 3, 2026 at 11:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117032272228248086)
 
