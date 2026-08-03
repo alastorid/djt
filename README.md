@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 22 posts._
+
+### [August 3, 2026 at 11:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117032272228248086)
+
+> Iranian Leadership is unbelievably duplicitous! They ask for a meeting, some would say “beg,” talks begin, with more scheduled in the immediate future, and they say, openly and proudly, that they’re not having any discussions, that nothing is being talked about, and they’re only dealing with “Oman.” They then go on to give their usual blather in saying, the Strait of Hormuz will be operated powerfully by them, when it is already completely controlled by the United States Navy and our “Blockade” or, as some say, “The United States Wall of Steel!” Nothing gets through to Iran, unless we want it to, and nothing will get through, unless a Deal, or Total Surrender, is accomplished. Whether Iran wants to admit it or not, we are, in fact, talking of a solution to a problem that they have caused, for decades. It is very simple, IRAN WILL NEVER HAVE A NUCLEAR WEAPON! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [August 3, 2026 at 9:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117031897808226413)
 
