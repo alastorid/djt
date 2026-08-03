@@ -3,7 +3,151 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [August 3, 2026 at 6:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033891468891637)
+
+> Congresswoman Lisa McClain is a Fantastic Advocate for the Great People of Michigan’s 9th Congressional District!
+>
+> As the Chair of the House Republican Conference, Lisa is doing a truly fantastic job advancing our America First Agenda. She is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Lisa McClain has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR LISA – SHE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033890371243581)
+
+> It is my Great Honor to endorse Amir Hassan, who is running to represent the fantastic people of Michigan’s 8th Congressional District!
+>
+> From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. His opponent, Kristen McDonald Rivet, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Amir will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Amir Hassan has my Complete and Total Endorsement to be the next Representative from Michigan’s 8th Congressional District. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR AMIR – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033887964832175)
+
+> Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!
+>
+> Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Support Law Enforcement, Stand with our Military/Vets, and Protect our always under siege Second Amendment. Together, we will ensure PEACE THROUGH STRENGTH.
+>
+> Tom Barrett has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR TOM – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033885856786257)
+
+> Congressman Tim Walberg is an incredible Representative of Michigan's 5th Congressional District!
+>
+> As Chair of the House Education Committee, Tim is working hard to Advance School Choice, Deliver the Best Education Solutions for our Children, and Defend Parental Rights. Tim is also relentlessly focused on helping us Keep our Border SECURE, Stop Migrant Crime, Support our Great Military/Vets, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment.
+>
+> Tim Walberg has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR TIM – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033881126948690)
+
+> Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District!
+>
+> As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Champion our Great Farmers and Agriculture, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Additionally, Bill is fighting tirelessly to Keep our Border SECURE, Strengthen our Incredible Military/Vets, and Protect our always under siege Second Amendment.
+>
+> Bill is doing a truly FANTASTIC job representing Southwest Michigan, and has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR BILL – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033879705646897)
+
+> Congressman John Moolenaar is an incredible Representative for the fantastic people of Michigan’s 2nd Congressional District!
+>
+> As the Chairman of the Select Committee on the CCP, John is fighting tirelessly to put our Country’s Interests, FIRST! He is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> John Moolenaar has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JOHN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033878445500893)
+
+> Congressman Jack Bergman is a Tremendous Champion for the Great People of Michigan's 1st Congressional District!
+>
+> A retired Lieutenant General of the U.S. Marine Corps, Jack bravely served our Nation in combat, and continues to make our Country proud in Congress. Jack is fighting tirelessly to Champion our Amazing Farmers and Ranchers, Advocate for the Working Men and Women of Michigan, Promote MADE IN THE U.S.A., Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Jack Bergman has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JACK – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033877183084463)
+
+> America First Patriot Mike Rogers is running for U.S. Senate in the Great State of Michigan, a State I love and WON BIG!
+>
+> From the U.S. Army to Congress, Mike has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Senate. As your next Senator, Mike will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR MIKE – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033875954997766)
+
+> It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan!
+>
+> A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respected U.S. Congressman, John has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State, and our Nation. As your next Governor, John will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Brave Military/Veterans, Safeguard our Elections, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Michigan.
+>
+> John James has my Complete and Total Endorsement to be the next Governor of Michigan. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JOHN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
+
+### [August 3, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033874840729919)
+
+> Congressman Ron Estes is a Tremendous Champion for Kansas’ 4th Congressional District!
+>
+> A Fifth Generation Kansan, Ron served as State Treasurer for six years prior to becoming a very distinguished and respected U.S. Congressman. He is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Ron Estes has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR RON – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/kansas/
+
+---
+
+### [August 3, 2026 at 6:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033873531492760)
+
+> Congressman Derek Schmidt is an incredible Representative of Kansas’ 2nd Congressional District!
+>
+> A fifth generation Kansan, Derek served as State Attorney General for 12 years prior to becoming a distinguished and Highly Respected Congressman. In Congress, he is fighting tirelessly to Champion our Great Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Derek Schmidt has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR DEREK – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/kansas/
+
+---
+
+### [August 3, 2026 at 6:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033872292019458)
+
+> Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas’ “Big First” Congressional District!
+>
+> A fifth generation Farmer, Tracey is a strong and effective Voice for American Agriculture. In Congress, he is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Tracey Mann has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR TRACEY – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/kansas/
+
+---
 
 ### [August 3, 2026 at 6:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033868905874467)
 
