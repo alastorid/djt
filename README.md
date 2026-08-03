@@ -3,7 +3,33 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [August 3, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117034028758585872)
+
+> Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “Home” State, which I love and won SIX times, including with 6.1 Million Votes in 2024, the most in History (BY FAR)!   Wilton is a Fifth Generation Floridian, lifelong Egg Farmer, successful Businessman, former President of the State Senate, and now, as Agriculture Commissioner, has served the Sunshine State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Wilton is an incredibly effective Voice for Florida Agriculture, and our amazing Farmers and Ranchers. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment.   Commissioner Wilton Simpson has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!
+
+---
+
+### [August 3, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117034028243368433)
+
+> Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!   A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Help Secure our already Secure Southern Border, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.   Ashley Moody has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!
+
+---
+
+### [August 3, 2026 at 6:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117034019722581517)
+
+> Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.   James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment.   James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!
+
+---
+
+### [August 3, 2026 at 6:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117034018510245019)
+
+> Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.
+> I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER! Byron has a great wife, Erika, and three beautiful sons. They are very proud of him! As Governor, Byron will have a BIG Voice, and work closely with me to advance our America First Agenda. He will fight tirelessly to help Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military, Protect our Veterans, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment.
+> Byron Donalds will be a truly Great and Powerful Governor for Florida, and has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!
+
+---
 
 ### [August 3, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033930949223051)
 
