@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-03T20:29:16.007Z",
-  "count": 700,
+  "updatedAt": "2026-08-03T20:34:33.970Z",
+  "count": 701,
   "posts": [
+    {
+      "id": "117033476616816431",
+      "createdAt": "2026-08-03T16:32:12-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117033476616816431",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "From Greg Wischer at the United States Department of the Interior: \n“The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution. \nDrawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the \"Blue Book,\" became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”",
+          "firstSeenAt": "2026-08-03T20:34:33.970Z"
+        }
+      ]
+    },
     {
       "id": "117033446548192867",
       "createdAt": "2026-08-03T16:24:34-04:00",

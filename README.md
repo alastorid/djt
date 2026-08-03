@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 28 posts._
+
+### [August 3, 2026 at 4:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033476616816431)
+
+> From Greg Wischer at the United States Department of the Interior:
+> “The statue of Baron Friedrich Wilhelm von Steuben in Lafayette Park was cleaned and waxed by the National Park Service. Dedicated in 1910 in a ceremony attended by President William Howard Taft, the 10-foot-tall bronze statue atop a 15-foot granite pedestal depicts von Steuben inspecting American troops at Valley Forge in 1778 during the American Revolution.
+> Drawing on his experience as a Prussian army officer and former aide-de-camp to Frederick the Great, von Steuben brought discipline, organization, and professionalism to the Continental Army. His 1779 training manual, known as the "Blue Book," became the Army's first standardized training manual. Later in the war, he contributed to the Southern Campaign and commanded one of George Washington's divisions during the Siege of Yorktown.”
+
+---
 
 ### [August 3, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033446548192867)
 
