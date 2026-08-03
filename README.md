@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 21 posts._
+_Last 3 days, newest first. 20 posts._
 
 ### [August 2, 2026 at 2:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117027337618143949)
 
@@ -122,12 +122,6 @@ _Last 3 days, newest first. 21 posts._
 ### [July 31, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117015146759027639)
 
 > I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP
-
----
-
-### [July 31, 2026 at 7:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117014253232654593)
-
-> John Cornyn never had a problem with the so called “Fund,” which will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and illegally destroyed by the Crooked Joe Biden Administration, until after I decided to Endorse and Support his Republican Primary opponent in Texas, who easily won the Nomination for the United States Senate. Perhaps there has never been a group of people treated so badly in our Nation’s history. They are suffering still, many ruined, and I felt that they should be given compensation for what has been done to them. I gave up any payments for myself, which would have been substantial, including for the illegal and unprecedented raid on Mar-a-Lago, my home in Florida, even though many legal experts, and others, including John Cornyn, said it was a shocking and disgusting display of “weaponization” against me. Such an event has never happened before, and hopefully will never happen again! I will always feel that these victims of government abuse should be paid back for what they were forced to endure, their lives have been ruined! Millions of people agree with me, as was proven in my landslide Presidential win, where this was a major subject of debate, and so did John Cornyn, until he lost his Election to an opponent that I Endorsed. Todd Blanche, a good man, should be immediately approved as U.S. Attorney General. Thank you for your attention to this matter! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
