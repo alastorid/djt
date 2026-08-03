@@ -3,7 +3,87 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 57 posts._
+
+### [August 3, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033930949223051)
+
+> Congressman Michael Baumgartner is an incredible Representative of Washington’s 5th Congressional District!
+>
+> Michael served as the Treasurer of Spokane County for six years prior to becoming a distinguished and Highly Respected Congressman. In Congress, he is working hard to Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Michael Baumgartner has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR MICHAEL – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/washington /
+
+---
+
+### [August 3, 2026 at 6:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033925451969299)
+
+> It is my Great Honor to endorse America First Patriot, Amanda McKinney, who is running to represent the wonderful people of Washington’s 4th Congressional District.
+>
+> A very successful Business Executive, Civic Leader, and Highly Respected Yakima County Commissioner, Amanda has dedicated her life to serving her Community. As your next Congresswoman, Amanda will fight tirelessly to Grow our Economy, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.
+>
+> Amanda McKinney has my Complete and Total Endorsement to be the next Representative from Washington’s 4th Congressional District. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR AMANDA – SHE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/washington /
+
+---
+
+### [August 3, 2026 at 6:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033924489592618)
+
+> It is my Great Honor to endorse Highly Respected State Senator, and brave U.S. Navy Veteran, John Braun, who is running to represent the amazing people of Washington’s 3rd Congressional District.
+>
+> John is running against Marie Gluesenkamp Perez, a true Radical Left Extremist with a Track Record that REEKS, and who does not represent the Values of Southwestern Washington. Marie Gluesenkamp Perez wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and wants to take away your Second Amendment, meaning, your guns. Sadly, she voted against the Biggest Tax Cut in History, and fought ferociously to knock out Rural Healthcare, a big factor in Washington’s 3rd Congressional District.
+>
+> In contrast, John Braun fights tirelessly to Advance Pro Growth Policies, Unleash American Energy DOMINANCE, and Prioritize CLEAN AIR, CLEAN WATER, AND CLEAN SOIL FOR ALL WASHINGTONIANS. In Congress, John will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Support our Great Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> John Braun has my Complete and Total Endorsement to be the next Representative from Washington's 3rd Congressional District. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JOHN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/washington /
+
+---
+
+### [August 3, 2026 at 6:25 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033923287204711)
+
+> Congressman Morgan Griffith is a Fantastic Advocate for Virginia’s 9th Congressional District!
+>
+> As a Member of the POWERFUL House Energy and Commerce Committee, Morgan is working tirelessly to Unleash American Energy DOMINANCE, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. He is also relentlessly focused on helping us Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment.
+>
+> Morgan Griffith has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR MORGAN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/virginia/
+
+---
+
+### [August 3, 2026 at 6:25 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033922042586234)
+
+> Congressman Ben Cline is a Tremendous Champion for Virginia’s 6th Congressional District!
+>
+> A former State Legislator and Criminal Prosecutor, Ben knows the Wisdom and Courage it takes to ensure LAW AND ORDER, strongly support our Great Heroes in Law Enforcement, and champion our wonderful Military and Veterans. In Congress, Ben is also working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.
+>
+> Ben Cline has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR BEN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/virginia/
+
+---
+
+### [August 3, 2026 at 6:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033919904177970)
+
+> Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH. John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JOHN – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/virginia/
+
+---
+
+### [August 3, 2026 at 6:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033913654735171)
+
+> It is my Great Honor to endorse MAGA Warrior, Rick Brattin, who is running to represent the wonderful people of Missouri’s 5th Congressional District! Rick is strongly supported by many of the greatest America First Patriots in Missouri, including Governor Mike Kehoe, and Congressmen Jason Smith, Bob Onder, and Eric Burlison, among others!
+>
+> From bravely fighting for the U.S. Marine Corps, to strongly representing his community as a State Senator, Rick has served his State and Nation with great distinction, and will bring that same Fighting Spirit to the U.S. Congress. Everywhere Rick Brattin has gone, he has been respected! As your next Congressman, Rick will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment, which I have flawlessly fought to protect for many years.
+>
+> Rick Brattin has my Complete and Total Endorsement to be the next Representative from Missouri’s 5th Congressional District – RICK WILL NEVER LET YOU DOWN!
+
+---
 
 ### [August 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033900758405336)
 
