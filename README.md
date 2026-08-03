@@ -3,7 +3,101 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 50 posts._
+
+### [August 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033900758405336)
+
+> Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District!
+>
+> A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment.
+>
+> Jen Kiggans has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JEN – SHE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/virginia/
+
+---
+
+### [August 3, 2026 at 6:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033899560211292)
+
+> Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!
+> As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.
+> Rob Wittman has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR ROB – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/virginia/
+
+---
+
+### [August 3, 2026 at 6:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033897687451404)
+
+> Congressman Jason Smith is an America First Patriot, who is doing a fantastic job representing Missouri’s 8th Congressional District!
+>
+> As the Chairman of the POWERFUL House Ways & Means Committee, Jason knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Grow our Economy, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. He is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Jason Smith has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR JASON – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/missouri/
+
+---
+
+### [August 3, 2026 at 6:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033896607570421)
+
+> Congressman Eric Burlison is a MAGA Warrior who is doing an incredible job representing Missouri’s 7th Congressional District!
+>
+> A successful Businessman, Civic Leader, and State Legislator, prior to becoming a Highly Respected Congressman, Eric has dedicated his life to serving his Community. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.
+>
+> Eric Burlison has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR ERIC – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/missouri/
+
+---
+
+### [August 3, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033895585327258)
+
+> Congressman Mark Alford is an America First Patriot, who is doing a fantastic job representing Missouri’s 4th Congressional District!
+>
+> Mark worked for 35 years as a local News Anchor, and his coverage was Honest and Fair, unlike the Corrupt Fake News, which continues to divide and destroy our Great Country. In Congress, Mark is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Mark Alford has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR MARK – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/missouri/
+
+---
+
+### [August 3, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033894613199392)
+
+> Congressman Bob Onder is a MAGA Warrior who is doing a fantastic job representing Missouri’s 3rd Congressional District!
+>
+> A Proven Leader, Bob has served his Community as a Physician, Attorney, and Highly Respected State Legislator, prior to becoming a distinguished Congressman. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Dr. Bob Onder has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR BOB – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/missouri/
+
+---
+
+### [August 3, 2026 at 6:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033893622205159)
+
+> Congresswoman Ann Wagner is doing an incredible job representing the amazing people of Missouri’s 2nd Congressional District!
+>
+> As the Chair of the Financial Services Subcommittee on Capital Markets, Ann knows the AMERICA FIRST Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is fighting tirelessly to Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.
+>
+> Ann Wagner has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR ANN – SHE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/missouri/
+
+---
+
+### [August 3, 2026 at 6:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033892511562262)
+
+> It is my Great Honor to endorse America First Patriot, “Captain” Mike Bouchard, who is running to represent the wonderful people of Michigan’s 10th Congressional District!
+>
+> A Third Generation Michigander, Brave U.S. Army Veteran, and Bronze Star Recipient, Mike has served his State and Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. As your next Congressman, Mike will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our incredible Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.
+>
+> Mike Bouchard has my Complete and Total Endorsement to be the next Representative from Michigan’s 10th Congressional District. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR MIKE – HE WILL NEVER LET YOU DOWN!
+>
+> Find your Voting Location here: https:// swampthevoteusa.com/michigan/
+
+---
 
 ### [August 3, 2026 at 6:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033891468891637)
 
