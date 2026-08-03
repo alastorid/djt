@@ -3,7 +3,29 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 26 posts._
+
+### [August 3, 2026 at 4:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033378956434362)
+
+> Congresswoman Carol Miller is an incredible Representative for the Great People of West Virginia’s 1st Congressional District!
+> Carol is a Fierce Advocate for our America First Agenda. In Congress, she is fighting tirelessly to Secure our Border, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Incredible Military/Vets, Champion American Energy, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH.
+> Carol Miller has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!
+
+---
+
+### [August 3, 2026 at 4:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033376349965103)
+
+> Congressman Riley Moore is a tremendous America First Representative for the Wonderful People of West Virginia’s 2nd Congressional District!
+> In Congress, Riley is working tirelessly to Grow the Economy, Cut Taxes, Strongly Uphold the Rule of Law, Stop Migrant Crime, Secure our Border, Support our Incredible Military/Vets, and Defend our always under siege Second Amendment.
+> Riley Moore has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!
+
+---
+
+### [August 3, 2026 at 4:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033372616516237)
+
+> Senator Shelley Moore Capito is doing a tremendous job representing the Wonderful People of West Virginia, a State I love and WON BIG in 2016, 2020, and 2024!   As the Chair of the Senate Environment and Public Works Committee, Shelley is working to advance Pro Growth policies, unleash America’s Energy Dominance, and prioritize Clean Air, Clean Water, Clean Soil, and BEAUTIFUL, CLEAN COAL for ALL Americans. Shelley is fighting tirelessly to Grow the Economy, Secure the Border, Stop Migrant Crime, Support our Great Military/Vets, and Defend our always under siege Second Amendment.   Senator Shelley Moore Capito has my Complete and Total Endorsement for Re-Election — SHE WILL NOT LET YOU DOWN!
+
+---
 
 ### [August 3, 2026 at 3:40 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033273093832896)
 
