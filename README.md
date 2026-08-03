@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 21 posts._
 
 ### [August 3, 2026 at 9:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117031897808226413)
 
@@ -128,12 +128,6 @@ _Last 3 days, newest first. 22 posts._
 ### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
 
 > What’s happening with Spain, with tens of thousands of Illegal Immigrants invading it, happened in the United States during the Sleepy Joe Biden Administration, and it will happen again, only worse, if the Dumocrats ever again gain power. DON’T LET OUR COUNTRY BE DESTROYED. VOTE REPUBLICAN, AND BE PROUD OF THE U.S.A. President DONALD J. TRUMP
-
----
-
-### [July 31, 2026 at 10:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117015146759027639)
-
-> I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
