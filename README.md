@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 26 posts._
+
+### [August 3, 2026 at 4:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033403203108907)
+
+> These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP
+
+---
 
 ### [August 3, 2026 at 4:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033378956434362)
 

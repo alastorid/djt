@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-03T20:08:24.473Z",
-  "count": 698,
+  "updatedAt": "2026-08-03T20:18:52.657Z",
+  "count": 699,
   "posts": [
+    {
+      "id": "117033403203108907",
+      "createdAt": "2026-08-03T16:13:32-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117033403203108907",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "These are the missing children, and we’re not being helped at all by Sanctuary Cities. They’re going out of their way to make sure the children remain missing! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-08-03T20:18:52.657Z"
+        }
+      ]
+    },
     {
       "id": "117033378956434362",
       "createdAt": "2026-08-03T16:07:22-04:00",
