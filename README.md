@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 27 posts._
+
+### [August 3, 2026 at 4:24 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033446548192867)
+
+> I just spoke with Patrick Morrisey, the GREAT Governor of West Virginia, a State I love and WON BIG, with Record Setting Votes, three times, and told him I am approving 4.5 Million Dollars for severe storms, winds, tornadoes, flooding, landslides, and mudslides they experienced, and are still recovering from. West Virginia is represented strongly by the Governor, Senators Jim Justice and Shelley Moore Capito, along with Members of Congress, Riley Moore and Carol Miller. I LOVE WEST VIRGINIA! President DONALD J. TRUMP
+
+---
 
 ### [August 3, 2026 at 4:13 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033403203108907)
 
