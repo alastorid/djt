@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [August 3, 2026 at 4:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117033378956434362)
 
@@ -156,12 +156,6 @@ _Last 3 days, newest first. 26 posts._
 ### [July 31, 2026 at 9:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117017726186229508)
 
 > Federal Appeals Court Rejects Bid to Block Trump’s Mail Voting Restrictions: https://www. theepochtimes.com/us/federal-a ppeals-court-rejects-bid-to-block-trumps-mail-voting-restrictions-6068410
-
----
-
-### [July 31, 2026 at 4:10 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117016403652131870)
-
-> What’s happening with Spain, with tens of thousands of Illegal Immigrants invading it, happened in the United States during the Sleepy Joe Biden Administration, and it will happen again, only worse, if the Dumocrats ever again gain power. DON’T LET OUR COUNTRY BE DESTROYED. VOTE REPUBLICAN, AND BE PROUD OF THE U.S.A. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
