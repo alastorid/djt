@@ -5,6 +5,16 @@ things that washed up recently.
 <!-- DJT_POSTS_START -->
 _Last 3 days, newest first. 82 posts._
 
+### [August 4, 2026 at 2:05 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117038561113354682)
+
+> “MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan is fantastic, and strongly supported by many of our Greatest Warriors, including future Senator Harriet Hageman!
+>
+> A Sixth Generation Wyomingite, and Wyoming’s very popular Superintendent of Public Instruction, Megan has dedicated her life to serving her Community. As your next Governor, Megan will work tirelessly to Champion Wyoming Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment.
+>
+> Megan Degenfelder has my Complete and Total Endorsement — She is a fantastic person, and will never let you down!
+
+---
+
 ### [August 4, 2026 at 1:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117038423985609551)
 
 > It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!
@@ -668,12 +678,6 @@ _Last 3 days, newest first. 82 posts._
 ### [August 1, 2026 at 2:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021602773641695)
 
 > Because of President Donald J. Trump, Oil Exports are SURGING!
-
----
-
-### [August 1, 2026 at 2:04 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021572940495076)
-
-> The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!
 <!-- DJT_POSTS_END -->
 
 ---
