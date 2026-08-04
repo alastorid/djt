@@ -3,7 +3,26 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 84 posts._
+_Last 3 days, newest first. 85 posts._
+
+### [August 4, 2026 at 6:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039543091617698)
+
+> HAPPY 236th BIRTHDAY TO THE UNITED STATES COAST GUARD!
+>
+> Today we honor the incredible Men and Women of the United States Coast Guard, who protect our Borders, defend our Homeland, save countless American lives, and have done an AMAZING job taking deadly drugs off our streets before they can poison and kill our Citizens. America is SAFER because of their Courage and Devotion. We are very proud of them!
+>
+> Under my Administration and, with the tremendous leadership of Secretary of Homeland Security, Markwayne Mullin, we are rebuilding the Coast Guard like never before. The FIRST of 11 new Arctic Security Cutters that I ordered will be delivered in 2028, ensuring American Strength, Sovereignty, and Security in the Arctic for generations to come.
+>
+> Congress must FULLY SUPPORT and FULLY FUND the United States Coast Guard so they can continue carrying out this vital Mission. Thank you to Senators Dan Sullivan, Rick Scott, Katie Britt, and Tommy Tuberville for your outstanding leadership and your unwavering support of America's Coast Guard.
+>
+> To every Coast Guardsman, Active Duty, Reserve, Civilian, Auxiliary, Veteran, and your wonderful Families — THANK YOU for your Service to our Great Nation.
+>
+> SEMPER PARATUS!
+>
+> DONALD J. TRUMP
+> President of the United States of America
+
+---
 
 ### [August 4, 2026 at 5:42 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039413442491515)
 
