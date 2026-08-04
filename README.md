@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 83 posts._
+
+### [August 4, 2026 at 5:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039401914044983)
+
+> My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history, a totally secure Border, a giant Victory in Venezuela, the Denuclearization of Iran, unparalleled respect and success throughout the World, and much more? Don’t believe the Radical Left’s Fake Poll numbers. They are Crooked and Corrupt, just like the Country Destroying Dumocrats are Crooked and Corrupt. VOTE REPUBLICAN FOR GREATNESS IN AMERICA! Thank you for your attention to this matter! President DJT
+
+---
 
 ### [August 4, 2026 at 4:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039164487763760)
 
