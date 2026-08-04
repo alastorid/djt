@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-04T14:46:42.725Z",
-  "count": 760,
+  "updatedAt": "2026-08-04T17:35:25.541Z",
+  "count": 761,
   "posts": [
+    {
+      "id": "117038423985609551",
+      "createdAt": "2026-08-04T13:30:23-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117038423985609551",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!",
+          "firstSeenAt": "2026-08-04T17:35:25.541Z"
+        }
+      ]
+    },
     {
       "id": "117037774053730880",
       "createdAt": "2026-08-04T10:45:06-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 83 posts._
+
+### [August 4, 2026 at 1:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117038423985609551)
+
+> It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!
+
+---
 
 ### [August 4, 2026 at 10:45 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037774053730880)
 
