@@ -3,7 +3,22 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 81 posts._
+_Last 3 days, newest first. 82 posts._
+
+### [August 4, 2026 at 4:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039164487763760)
+
+> Manufacturing is BOOMING! Factory activity just hit its fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for SEVEN straight months. American Manufacturing is BACK!
+>
+> The Stock Market is at an ALL TIME HIGH, and setting Record after Record because Investors know America is WINNING!
+>
+> American Exports are on FIRE. U.S. Goods Exports have now topped 200 BILLION DOLLARS for the fifth consecutive month, and we are on pace for nearly 2.5 TRILLION DOLLARS in Goods Exports this year — Numbers nobody thought possible just two years ago.
+>
+> The Fake News and the Dumocrats are doing everything they can to distract people’s thoughts from these MASSIVE Successes, but it’s getting harder and harder for them to do. With TRILLIONS OF DOLLARS of new Investment pouring into the United States, and more Factories, more Construction, and more High Paying Jobs on the way, the results are impossible to hide.
+>
+> This is the GOLDEN AGE OF AMERICA, and we’re just getting started. We’re already achieving heights that nobody thought possible — and the biggest Victories are still ahead!
+> President DONALD J. TRUMP
+
+---
 
 ### [August 4, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117038574177461795)
 
