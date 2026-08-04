@@ -6,9 +6,121 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-04T14:36:16.114Z",
-  "count": 750,
+  "updatedAt": "2026-08-04T14:41:30.069Z",
+  "count": 757,
   "posts": [
+    {
+      "id": "117037747381813246",
+      "createdAt": "2026-08-04T10:38:19-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037747381813246",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz: https://www. breitbart.com/politics/2026/08 /02/trump-deal-imminent-iran-talks-restart-monday-hormuz-denuclearization/",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037745974010552",
+      "createdAt": "2026-08-04T10:37:58-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037745974010552",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "FIRST ON FOX: DHS points to ‘common sense’ reason for collapsing crime: ‘No surprise’: https://www. foxnews.com/politics/dhs-point s-common-sense-reason-collapsing-crime-no-surprise",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037745032634968",
+      "createdAt": "2026-08-04T10:37:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037745032634968",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "American Manufacturing Expands At Fastest Pace Since 2022: https://www. breitbart.com/economy/2026/08/ 03/american-manufacturing-expands-at-fastest-pace-since-2022/",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037743827019674",
+      "createdAt": "2026-08-04T10:37:25-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037743827019674",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push: https://www. foxnews.com/politics/first-fox -trump-open-direct-line-military-families-ground-up-readiness-push",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037742747950916",
+      "createdAt": "2026-08-04T10:37:08-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037742747950916",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70: https://www. foxnews.com/outkick-sports/pre sident-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037741500436364",
+      "createdAt": "2026-08-04T10:36:49-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037741500436364",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "US steel production exceeds Japan's for first time in 26 years: https:// asia.nikkei.com/business/mater ials/us-steel-production-exceeds-japan-s-for-first-time-in-26-years",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
+    {
+      "id": "117037739319710599",
+      "createdAt": "2026-08-04T10:36:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117037739319710599",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge: https://www. newsmax.com/newsfront/united-a uto-workers-tariffs-hiring-surge/2026/03/11/id/1249195/",
+          "firstSeenAt": "2026-08-04T14:41:30.069Z"
+        }
+      ]
+    },
     {
       "id": "117037732571630429",
       "createdAt": "2026-08-04T10:34:33-04:00",
