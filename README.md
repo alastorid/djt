@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 83 posts._
+_Last 3 days, newest first. 82 posts._
 
 ### [August 4, 2026 at 2:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117038574177461795)
 
@@ -678,12 +678,6 @@ _Last 3 days, newest first. 83 posts._
 ### [August 1, 2026 at 2:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021663417295585)
 
 > President Trump is fixing our wonderful White House, just like he is fixing our Country!
-
----
-
-### [August 1, 2026 at 2:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021602773641695)
-
-> Because of President Donald J. Trump, Oil Exports are SURGING!
 <!-- DJT_POSTS_END -->
 
 ---
