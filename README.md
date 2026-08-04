@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 82 posts._
+_Last 3 days, newest first. 85 posts._
+
+### [August 4, 2026 at 10:45 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037774053730880)
+
+> It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. She accepted, as there is nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life, and has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
+
+### [August 4, 2026 at 10:43 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037767956003670)
+
+> Campus free speech hits 20-year high under Trump administration: https://www. washingtontimes.com/news/2026/ aug/3/fire-report-finds-free-speech-improving-colleges-trump-administration/
+
+---
+
+### [August 4, 2026 at 10:41 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037761167355357)
+
+> McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026: https://www. bloomberg.com/news/articles/20 26-08-03/mcmahon-asks-colleges-to-pledge-campus-reforms-by-end-of-2026
+
+---
 
 ### [August 4, 2026 at 10:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037747381813246)
 
