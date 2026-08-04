@@ -3,7 +3,21 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 87 posts._
+_Last 3 days, newest first. 89 posts._
+
+### [August 4, 2026 at 6:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039621730674599)
+
+> The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today:
+>  https:// amazon.com/Why-Quit-Dems-confe ssions-Republican/dp/1510789367
+
+---
+
+### [August 4, 2026 at 6:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039619696525479)
+
+> It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today:
+>  https://www. amazon.com/Blue-Collar-Conserv ative-Reagan-Trump/dp/1960452258
+
+---
 
 ### [August 4, 2026 at 6:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039604712486897)
 
