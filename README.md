@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 89 posts._
+_Last 3 days, newest first. 91 posts._
+
+### [August 4, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039691941169240)
+
+> For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn’t train on land that was deemed “off limits” to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [August 4, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039688725255148)
+
+> Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!
+
+---
 
 ### [August 4, 2026 at 6:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039621730674599)
 
