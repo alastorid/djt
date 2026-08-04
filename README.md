@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 62 posts._
+
+### [August 4, 2026 at 7:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117036911689923818)
+
+> Justice Department touts 'largest denaturalization effort ever' with 25 cases filed in two weeks: https:// justthenews.com/government/cou rts-law/justice-department-touts-largest-denaturalization-effort-ever-25-cases-filed
+
+---
 
 ### [August 3, 2026 at 7:12 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117034106669602255)
 

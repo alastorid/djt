@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-03T23:16:42.835Z",
-  "count": 735,
+  "updatedAt": "2026-08-04T11:07:34.654Z",
+  "count": 736,
   "posts": [
+    {
+      "id": "117036911689923818",
+      "createdAt": "2026-08-04T07:05:48-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117036911689923818",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Justice Department touts 'largest denaturalization effort ever' with 25 cases filed in two weeks: https:// justthenews.com/government/cou rts-law/justice-department-touts-largest-denaturalization-effort-ever-25-cases-filed",
+          "firstSeenAt": "2026-08-04T11:07:34.654Z"
+        }
+      ]
+    },
     {
       "id": "117034106669602255",
       "createdAt": "2026-08-03T19:12:26-04:00",
