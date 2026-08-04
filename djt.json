@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-04T21:41:36.405Z",
-  "count": 765,
+  "updatedAt": "2026-08-04T21:46:47.533Z",
+  "count": 766,
   "posts": [
+    {
+      "id": "117039413442491515",
+      "createdAt": "2026-08-04T17:42:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117039413442491515",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269 The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
+          "firstSeenAt": "2026-08-04T21:46:47.533Z"
+        }
+      ]
+    },
     {
       "id": "117039401914044983",
       "createdAt": "2026-08-04T17:39:05-04:00",
