@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 85 posts._
+_Last 3 days, newest first. 84 posts._
 
 ### [August 4, 2026 at 10:45 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037774053730880)
 
@@ -686,12 +686,6 @@ _Last 3 days, newest first. 85 posts._
 ### [August 1, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021276346508609)
 
 > RT: https://truthsocial.com/users/realDonaldTrump/statuses/117021210137447022
-
----
-
-### [August 1, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117021210137447022)
-
-> I disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool. I don’t know what she was thinking? To me, it was a pure case of VANDALISM, that included the grass, which had a big 86 47 emblazoned in giant letters on it, and other elements of the surrounding area. There may have been some contractor difficulty, but the major damage was caused by VANDALS! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
