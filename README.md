@@ -3,7 +3,91 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 61 posts._
+_Last 3 days, newest first. 75 posts._
+
+### [August 4, 2026 at 10:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037732571630429)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037728296880147 https://www. washingtonpost.com/opinions/20 26/01/02/donald-trump-accomplishments-2025-marc-thiessen/
+
+---
+
+### [August 4, 2026 at 10:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037728296880147)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037726036845745
+
+---
+
+### [August 4, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037726036845745)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037725001903200
+
+---
+
+### [August 4, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037725001903200)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037724158359073
+
+---
+
+### [August 4, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037724158359073)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037723384292468
+
+---
+
+### [August 4, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037723384292468)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037722599617401
+
+---
+
+### [August 4, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037722599617401)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037721730474336
+
+---
+
+### [August 4, 2026 at 10:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037721730474336)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037720903744942
+
+---
+
+### [August 4, 2026 at 10:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037720903744942)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719906423391
+
+---
+
+### [August 4, 2026 at 10:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037719906423391)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719027916190
+
+---
+
+### [August 4, 2026 at 10:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037719027916190)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037718122207687
+
+---
+
+### [August 4, 2026 at 10:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037718122207687)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611
+
+---
+
+### [August 4, 2026 at 10:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037716920827611)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107
+
+---
+
+### [August 4, 2026 at 10:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117037715892419107)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037714164609248
+
+---
 
 ### [August 4, 2026 at 7:05 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117036911689923818)
 
