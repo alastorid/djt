@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 85 posts._
+_Last 3 days, newest first. 86 posts._
+
+### [August 5, 2026 at 9:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043133534824966)
+
+> Wayne County (Detroit) in Michigan is one of the most corrupt voting areas in the United States, if not the World. It is strictly Third World! Miracles happen in Wayne County, including more votes being cast than there are voters, by a lot. Therefore, the Communist, who is not liked in Detroit, is potentially in “Vote Counter” trouble. The Radical Left Socialist has a real shot, and don’t discount all of those fake mail-in ballots that will “surprisingly” show up at the last moment. Get ready for another Rigged Election. In November we must VOTE FOR MIKE ROGERS, and make Michigan TOO BIG TO RIG. God Bless America! President DJT
+
+---
 
 ### [August 5, 2026 at 12:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117041037772264187)
 
