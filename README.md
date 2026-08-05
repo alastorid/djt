@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 86 posts._
+_Last 3 days, newest first. 85 posts._
 
 ### [August 5, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043300198873853)
 
@@ -721,12 +721,6 @@ _Last 3 days, newest first. 86 posts._
 ### [August 3, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117031820986118471)
 
 > My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history, a totally secure Border, a giant Victory in Venezuela, the Denuclearization of Iran, unparalleled respect and success throughout the World, and much more? Don’t believe the Radical Left’s Fake Poll numbers. They are Crooked and Corrupt, just like the Country Destroying Dumocrats are Crooked and Corrupt. VOTE REPUBLICAN FOR GREATNESS IN AMERICA! Thank you for your attention to this matter! President DJT
-
----
-
-### [August 2, 2026 at 2:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117027337618143949)
-
-> The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
