@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 87 posts._
+_Last 3 days, newest first. 86 posts._
 
 ### [August 5, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043300198873853)
 
@@ -727,12 +727,6 @@ _Last 3 days, newest first. 87 posts._
 ### [August 2, 2026 at 2:30 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117027337618143949)
 
 > The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP
-
----
-
-### [August 2, 2026 at 12:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117026832680116899)
-
-> https://www. energy.gov/articles/secretary- wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline
 <!-- DJT_POSTS_END -->
 
 ---
