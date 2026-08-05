@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 86 posts._
+_Last 3 days, newest first. 87 posts._
+
+### [August 5, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043300198873853)
+
+> Great news for the Republican Party. El-Sayed, a Communist loser who hates Jews and Israel, is the projected winner in his race with the Socialist. As usual, the Polls were way off on this one. She was not expected to do nearly as well as she did. Now, the Dumocrats crazy policies will only get worse!
+
+---
 
 ### [August 5, 2026 at 9:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043133534824966)
 
