@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-04T22:54:38.012Z",
-  "count": 773,
+  "updatedAt": "2026-08-05T04:39:54.810Z",
+  "count": 774,
   "posts": [
+    {
+      "id": "117041037772264187",
+      "createdAt": "2026-08-05T00:35:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117041037772264187",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Scott Bessent interviewed by Joe Kernen!\n https://www. cnbc.com/video/2026/08/04/watc h-cnbcs-full-interview-with-treasury-secretary-scott-bessent.html",
+          "firstSeenAt": "2026-08-05T04:39:54.810Z"
+        }
+      ]
+    },
     {
       "id": "117039691941169240",
       "createdAt": "2026-08-04T18:52:51-04:00",

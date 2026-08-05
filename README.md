@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 90 posts._
+_Last 3 days, newest first. 91 posts._
+
+### [August 5, 2026 at 12:35 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117041037772264187)
+
+> Scott Bessent interviewed by Joe Kernen!
+>  https://www. cnbc.com/video/2026/08/04/watc h-cnbcs-full-interview-with-treasury-secretary-scott-bessent.html
+
+---
 
 ### [August 4, 2026 at 6:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117039691941169240)
 
