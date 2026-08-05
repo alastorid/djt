@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-05T14:15:40.389Z",
-  "count": 776,
+  "updatedAt": "2026-08-05T20:17:32.758Z",
+  "count": 777,
   "posts": [
+    {
+      "id": "117044740155920219",
+      "createdAt": "2026-08-05T16:16:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117044740155920219",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28. All they talked about was the one, and that’s why they call it the FAKE NEWS! President DJT",
+          "firstSeenAt": "2026-08-05T20:17:32.758Z"
+        }
+      ]
+    },
     {
       "id": "117043300198873853",
       "createdAt": "2026-08-05T10:10:28-04:00",

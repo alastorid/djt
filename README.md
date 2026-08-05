@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 85 posts._
+_Last 3 days, newest first. 86 posts._
+
+### [August 5, 2026 at 4:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117044740155920219)
+
+> I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28. All they talked about was the one, and that’s why they call it the FAKE NEWS! President DJT
+
+---
 
 ### [August 5, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117043300198873853)
 
