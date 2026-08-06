@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 86 posts._
+_Last 3 days, newest first. 87 posts._
+
+### [August 5, 2026 at 8:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117045731075584614)
+
+> Michael Moore, the failed political “pundit” who has been losing to me for years, was ranting that, “We lost in 2024, and just can’t take it anymore.” No Michael, just get used to more losing! You’ve been a Loser all your life, and nothing’s going to change. Abdul, your new Communist Comrade, will not be able to save you. He knows you are a failed LOWLIFE, and he wants to pick up where you have left. For thousands of years, the concept of Communist Policies have never worked, and they’re not going to work now, especially under the tremendous transformational SUCCESS that the Trump Administration has brought forth, for the entire World to see and follow — Best Economic Numbers, EVER, Best Trade Numbers, Best Export Numbers, Biggest Investment in our Country, and on, and on. This is the Golden Age of America, and a small group of misfits, like you, Abdul, and others, won’t be able to destroy it, and change the course of History in so doing. It’s too big, it’s too powerful, and it’s too good. See you on the Political Battlefield. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+
+---
 
 ### [August 5, 2026 at 4:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117044740155920219)
 
