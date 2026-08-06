@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 88 posts._
+_Last 3 days, newest first. 89 posts._
+
+### [August 6, 2026 at 12:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117046698987056229)
+
+> The U.S. has massive amounts of “munitions,” especially of certain types. Additionally, large amounts are being manufactured and shipped to the U.S. as needed. Defense companies are building the largest number of plants and factories in our country’s history. The “leakers” of these treasonous statements are being hunted down. Long term jail sentences will be sought! President DJT
+
+---
 
 ### [August 6, 2026 at 12:03 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117046573969365289)
 
