@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 90 posts._
+_Last 3 days, newest first. 89 posts._
 
 ### [August 6, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117046722881418522)
 
@@ -745,12 +745,6 @@ _Last 3 days, newest first. 90 posts._
 ### [August 3, 2026 at 9:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117031897808226413)
 
 > Mike Wirth, Chairman and CEO of Chevron, just gave, in an interview with the fabulous Maria Bartiromo, all of the reasons that his company is doing so well. The only thing he conveniently forgot to mention is that, without the genius, foresight, strength, and stability, of the TRUMP Administration, the Oil Industry, and our Country itself, would be DEAD! As an example, they threw Mike and Chevron out of Venezuela, but now their back, far bigger and stronger than ever before, expecting to make a fortune! That goes for other Oil Companies as well…and get your consumer (retail!) Oil Prices DOWN, NOW! Thank you for your attention to this matter. President DJT
-
----
-
-### [August 3, 2026 at 9:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117031820986118471)
-
-> My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history, a totally secure Border, a giant Victory in Venezuela, the Denuclearization of Iran, unparalleled respect and success throughout the World, and much more? Don’t believe the Radical Left’s Fake Poll numbers. They are Crooked and Corrupt, just like the Country Destroying Dumocrats are Crooked and Corrupt. VOTE REPUBLICAN FOR GREATNESS IN AMERICA! Thank you for your attention to this matter! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
