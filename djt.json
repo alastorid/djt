@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-06T00:32:38.100Z",
-  "count": 778,
+  "updatedAt": "2026-08-06T04:06:20.253Z",
+  "count": 779,
   "posts": [
+    {
+      "id": "117046573969365289",
+      "createdAt": "2026-08-06T00:03:02-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117046573969365289",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "So beautiful! D.C. is better than ever. Tender, loving care! President DJT",
+          "firstSeenAt": "2026-08-06T04:06:20.253Z"
+        }
+      ]
+    },
     {
       "id": "117045731075584614",
       "createdAt": "2026-08-05T20:28:41-04:00",
