@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 89 posts._
+_Last 3 days, newest first. 90 posts._
+
+### [August 6, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117046722881418522)
+
+> Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red: https:// justthenews.com/politics-polic y/elections/cash-king-republicans-bankroll-midterms-democrat-coffers-are-red
+
+---
 
 ### [August 6, 2026 at 12:34 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117046698987056229)
 

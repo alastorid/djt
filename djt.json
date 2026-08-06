@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-08-06T04:37:31.736Z",
-  "count": 780,
+  "updatedAt": "2026-08-06T04:42:43.921Z",
+  "count": 781,
   "posts": [
+    {
+      "id": "117046722881418522",
+      "createdAt": "2026-08-06T00:40:54-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117046722881418522",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red: https:// justthenews.com/politics-polic y/elections/cash-king-republicans-bankroll-midterms-democrat-coffers-are-red",
+          "firstSeenAt": "2026-08-06T04:42:43.921Z"
+        }
+      ]
+    },
     {
       "id": "117046698987056229",
       "createdAt": "2026-08-06T00:34:50-04:00",
