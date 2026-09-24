@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 15 posts._
+
+### [September 24, 2026 at 3:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327681306671844)
+
+> President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: https://www. youtube.com/watch?v=Oh05NJy_Sa M
+
+---
 
 ### [September 24, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327644914730355)
 

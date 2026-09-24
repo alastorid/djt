@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-24T19:26:50.269Z",
-  "count": 795,
+  "updatedAt": "2026-09-24T19:37:09.926Z",
+  "count": 796,
   "posts": [
+    {
+      "id": "117327681306671844",
+      "createdAt": "2026-09-24T15:32:20-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117327681306671844",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: https://www. youtube.com/watch?v=Oh05NJy_Sa M",
+          "firstSeenAt": "2026-09-24T19:37:09.926Z"
+        }
+      ]
+    },
     {
       "id": "117327644914730355",
       "createdAt": "2026-09-24T15:23:04-04:00",
