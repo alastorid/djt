@@ -3,7 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 10 posts._
+_Last 3 days, newest first. 14 posts._
+
+### [September 24, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327644914730355)
+
+> Military Review with the President of China and Madame Peng: https://www. youtube.com/watch?v=lUe8vwhnjb k
+
+---
+
+### [September 24, 2026 at 3:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327644146401995)
+
+> Silent Drill Platoon Review with the President of China and Madame Peng: https://www. youtube.com/watch?v=LliHi0rYUY 0
+
+---
+
+### [September 24, 2026 at 3:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327643319552969)
+
+> President Trump and the President of China Deliver Remarks: https://www. youtube.com/watch?v=KroMEOZ8oF o
+
+---
+
+### [September 24, 2026 at 3:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327642327005783)
+
+> President Trump and the First Lady Greet the President of China and Madame Peng: https://www. youtube.com/watch?v=EWdAEh9NeO s
+
+---
 
 ### [September 24, 2026 at 9:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326213046216794)
 
