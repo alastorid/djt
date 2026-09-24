@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 16 posts._
+_Last 3 days, newest first. 17 posts._
+
+### [September 24, 2026 at 7:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117328536706468024)
+
+> Jim Copenhaver, a true American Patriot, has passed away — A tremendous loss! More than two years ago in Butler, Pennsylvania, a crazed gunman attempted to stifle our America First Movement. Instead, Jim and so many other wonderful Patriots who love our Country, stood united in defense of our shared values of Freedom, Liberty, and Justice. After being wounded while protecting his family, Jim showed tremendous bravery, courageously continuing to FIGHT, FIGHT, FIGHT, and maintaining a positive spirit despite unimaginable hardships. His indelible legacy of love and devotion will forever endure. Our hearts and prayers are with the Copenhaver family, especially his incredible wife Marianne. God bless you all! President DONALD J. TRUMP
+
+---
 
 ### [September 24, 2026 at 4:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327988960070739)
 
