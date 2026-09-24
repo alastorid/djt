@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 16 posts._
+
+### [September 24, 2026 at 4:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327988960070739)
+
+> CNN and MSDNC’s Ratings have dropped considerably. The primary reason is NO CREDIBILITY! They only write badly about a man who won the Election IN A GIANT LANDSLIDE, winning all 7 Swing States, the Popular Vote, and 86% of the Counties, etc., and whose Popularity has grown because of the unprecedented SUCCESS our Country is having on both the World Stage, and at home. CNN and MSDNC, to show you how fake they are, today refused to cover one of the Biggest and Most Beautiful Events to take place in many years, the arrival at the White House of the Highly Respected President of China, Xi Jinping, and his beautiful wife, Madam Peng. The event was magnificent — Actually made for Television but, because they’re Fake News, and because they knew how good it would be, they didn’t want credit to be given to “TRUMP,” they refused to be there. That’s why they have such poor Ratings. Tonight’s State Dinner at the White House, for President Xi, will be spectacular! The Media will be in attendance. President DONALD J. TRUMP
+
+---
 
 ### [September 24, 2026 at 3:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327681306671844)
 
