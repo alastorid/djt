@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 18 posts._
+
+### [September 25, 2026 at 6:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117331168888375355)
+
+> God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP
+
+---
 
 ### [September 24, 2026 at 7:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117328536706468024)
 

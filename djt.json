@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-24T23:14:47.451Z",
-  "count": 798,
+  "updatedAt": "2026-09-25T10:23:45.618Z",
+  "count": 799,
   "posts": [
+    {
+      "id": "117331168888375355",
+      "createdAt": "2026-09-25T06:19:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117331168888375355",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-09-25T10:23:45.618Z"
+        }
+      ]
+    },
     {
       "id": "117328536706468024",
       "createdAt": "2026-09-24T19:09:52-04:00",
