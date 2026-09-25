@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 21 posts._
+
+### [September 25, 2026 at 1:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117332812545704813)
+
+> President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP
+
+---
 
 ### [September 25, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117332704655075384)
 
