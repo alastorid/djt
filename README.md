@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 19 posts._
+
+### [September 25, 2026 at 8:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117331749278785253)
+
+> Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT
+
+---
 
 ### [September 25, 2026 at 6:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117331168888375355)
 
