@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-26T10:53:05.054Z",
-  "count": 817,
+  "updatedAt": "2026-09-26T12:16:27.346Z",
+  "count": 818,
   "posts": [
+    {
+      "id": "117337288574793449",
+      "createdAt": "2026-09-26T08:15:35-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117337288574793449",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+          "firstSeenAt": "2026-09-26T12:16:27.346Z"
+        }
+      ]
+    },
     {
       "id": "117336958253518518",
       "createdAt": "2026-09-26T06:51:35-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [September 26, 2026 at 8:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337288574793449)
+
+> A MUST SEE ON THE CLIMATE HOAX. President DJT
+
+---
 
 ### [September 26, 2026 at 6:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336958253518518)
 
