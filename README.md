@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [September 26, 2026 at 3:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338936999613227)
 
@@ -307,12 +307,6 @@ _Last 3 days, newest first. 43 posts._
 ### [September 23, 2026 at 8:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117323148147220269)
 
 > BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP
-
----
-
-### [September 23, 2026 at 3:44 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117322065119445871)
-
-> The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
