@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 43 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [September 26, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339693977416746)
+
+> A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!
+
+---
 
 ### [September 26, 2026 at 5:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339537275478198)
 
