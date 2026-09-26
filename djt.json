@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-25T18:17:11.444Z",
-  "count": 803,
+  "updatedAt": "2026-09-26T00:51:38.431Z",
+  "count": 804,
   "posts": [
+    {
+      "id": "117334585893103406",
+      "createdAt": "2026-09-25T20:48:15-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117334585893103406",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "This is where we send our Killers, Drug Dealers, and Thugs. It’s why Murder, and other Crimes in America, is at Record Lows! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-09-26T00:51:38.431Z"
+        }
+      ]
+    },
     {
       "id": "117333027652824076",
       "createdAt": "2026-09-25T14:11:59-04:00",

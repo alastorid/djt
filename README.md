@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 22 posts._
+_Last 3 days, newest first. 23 posts._
+
+### [September 25, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117334585893103406)
+
+> This is where we send our Killers, Drug Dealers, and Thugs. It’s why Murder, and other Crimes in America, is at Record Lows! President DONALD J. TRUMP
+
+---
 
 ### [September 25, 2026 at 2:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117333027652824076)
 
