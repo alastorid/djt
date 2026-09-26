@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [September 26, 2026 at 5:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339537275478198)
+
+> https://www. washingtonpost.com/politics/20 26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/
+
+---
 
 ### [September 26, 2026 at 3:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338936999613227)
 

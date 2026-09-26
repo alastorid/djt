@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-26T19:21:09.967Z",
-  "count": 824,
+  "updatedAt": "2026-09-26T21:51:45.140Z",
+  "count": 825,
   "posts": [
+    {
+      "id": "117339537275478198",
+      "createdAt": "2026-09-26T17:47:27-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117339537275478198",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "https://www. washingtonpost.com/politics/20 26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/",
+          "firstSeenAt": "2026-09-26T21:51:45.140Z"
+        }
+      ]
+    },
     {
       "id": "117338936999613227",
       "createdAt": "2026-09-26T15:14:48-04:00",
