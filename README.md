@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [September 26, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337317276437965)
+
+> FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT
+
+---
 
 ### [September 26, 2026 at 8:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337298336162712)
 
