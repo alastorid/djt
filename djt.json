@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-26T10:32:25.697Z",
-  "count": 813,
+  "updatedAt": "2026-09-26T10:37:35.945Z",
+  "count": 815,
   "posts": [
+    {
+      "id": "117336883864922392",
+      "createdAt": "2026-09-26T06:32:40-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117336883864922392",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https:// justthenews.com/government/fed eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse",
+          "firstSeenAt": "2026-09-26T10:37:35.945Z"
+        }
+      ]
+    },
+    {
+      "id": "117336881513699850",
+      "createdAt": "2026-09-26T06:32:04-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117336881513699850",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': https:// justthenews.com/politics-polic y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it",
+          "firstSeenAt": "2026-09-26T10:37:35.945Z"
+        }
+      ]
+    },
     {
       "id": "117336880365536098",
       "createdAt": "2026-09-26T06:31:46-04:00",

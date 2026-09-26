@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 34 posts._
+
+### [September 26, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336883864922392)
+
+> Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https:// justthenews.com/government/fed eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse
+
+---
+
+### [September 26, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336881513699850)
+
+> Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': https:// justthenews.com/politics-polic y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it
+
+---
 
 ### [September 26, 2026 at 6:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336880365536098)
 
