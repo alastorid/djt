@@ -3,7 +3,15 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [September 26, 2026 at 3:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338936999613227)
+
+> BIG DAY FOR AMERICAN AUTO WORKERS AND CAR BUYERS! I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and Pete Boot-EDGE-EDGE's ridiculous EV Mandate. The Dumocrats cost our Great Auto Manufacturers $Billions, forced Americans into cars they never wanted, and wasted Billions on Chargers that were never built.
+> These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore. Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!
+> Under my Administration, over 100 $Billion is being invested in American Autos, and that's just the beginning. The Plants are coming back, and Jobs are returning, to Michigan, Ohio, Indiana, South Carolina, and all over our Country. Thank you to our Great Secretaries of Transportation and Commerce, Sean Duffy and Howard Lutnick. AMERICA IS BACK. MAKE AMERICA GREAT AGAIN!!! President DONALD J. TRUMP
+
+---
 
 ### [September 26, 2026 at 2:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338873310369293)
 
