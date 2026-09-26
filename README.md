@@ -3,7 +3,20 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [September 26, 2026 at 6:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336958253518518)
+
+> Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!
+> Defiant White House slaps down journalists: 'Access is a privilege - not a right': https:// justthenews.com/politics-polic y/defiant-white-house-slaps-down-journalists-access-privilege-not-right
+
+---
+
+### [September 26, 2026 at 6:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336955762275361)
+
+> Animal welfare groups praise Trump administration for more moves to reduce animal testing: https:// justthenews.com/government/fed eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce
+
+---
 
 ### [September 26, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336883864922392)
 
