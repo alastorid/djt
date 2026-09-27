@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 40 posts._
 
 ### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
 
@@ -295,12 +295,6 @@ _Last 3 days, newest first. 41 posts._
 ### [September 24, 2026 at 8:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326044871082645)
 
 > Midterm Fact Check: Don’t believe the economic doomers: https://www. foxnews.com/video/640551536111 2
-
----
-
-### [September 24, 2026 at 8:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326000129865390)
-
-> I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
