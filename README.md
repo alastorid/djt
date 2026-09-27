@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 41 posts._
+_Last 3 days, newest first. 42 posts._
+
+### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
+
+> More people working in the United States right now than at any point in the History of our Country! President DJT
+
+---
 
 ### [September 26, 2026 at 8:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117340294147897033)
 

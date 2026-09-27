@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-27T01:03:59.970Z",
-  "count": 827,
+  "updatedAt": "2026-09-27T12:12:24.382Z",
+  "count": 828,
   "posts": [
+    {
+      "id": "117342927581199006",
+      "createdAt": "2026-09-27T08:09:39-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117342927581199006",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "More people working in the United States right now than at any point in the History of our Country! President DJT",
+          "firstSeenAt": "2026-09-27T12:12:24.382Z"
+        }
+      ]
+    },
     {
       "id": "117340294147897033",
       "createdAt": "2026-09-26T20:59:56-04:00",
