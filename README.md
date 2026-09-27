@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 38 posts._
 
 ### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
 
@@ -247,54 +247,6 @@ _Last 3 days, newest first. 40 posts._
 ### [September 24, 2026 at 9:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326213046216794)
 
 > Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP
-
----
-
-### [September 24, 2026 at 8:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326047233268228)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117326044871082645 This is a survey of people in business — the S&P Flash Survey — of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth.
->
-> Composite Index — Services + Manufacturing, 62 month high!
->
-> Manufacturing — 53 month high!
->
-> Services — 52 month high!
->
-> This is the “HOTTEST” Economy in the World — and the Media is working overtime for the Democrats to convince Voters that the opposite is true.
->
-> For working people, a “HOT” Economy is good because it gives them more wage leverage, and more flexibility to get better jobs.
->
-> The Media is trying to cover up how well things are going before the Midterms, just to help Democrats. The truth is something everyone should be celebrating. The Economy IS putting Americans back to work. Real median incomes are the highest on record!
->
-> Let's not forget: Biden inflation in August 2022 was over 8 percent.
->
-> If you ignore the (predictable) boomerang ‘growth’ Biden got immediately after the COVID period, Trump's Second Term would be the fastest Growth since 2015.
->
-> We’re supposed to stop all of this momentum, halt all this progress, to turn things over to the bozos who will simply launch investigations, and try to reverse it all?
->
-> Americans are getting richer. Businesses are investing and growing.
-> Democrat and NeverTrump Predictions that turned out to be WRONG:
->
-> — Businesses are NOT abandoning the U.S.
->
-> — Deporting illegals did NOT tank the Economy.
->
-> — Tariffs didn’t slow down the Economy.
->
-> — Cutting the Federal workforce didn’t hurt us either.
->
-> — Other countries didn’t “leave us behind.”
->
-> — Oil didn’t go to $200 a barrel.
->
-> Gas prices will be coming down and, if you stick with us, America will continue to be the strongest, freest Country on God’s Green Earth!
->  https://www. pmi.spglobal.com/Public/Home/P ressRelease/ed177f50167b4203ac490a961ea706be
-
----
-
-### [September 24, 2026 at 8:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326044871082645)
-
-> Midterm Fact Check: Don’t believe the economic doomers: https://www. foxnews.com/video/640551536111 2
 <!-- DJT_POSTS_END -->
 
 ---
