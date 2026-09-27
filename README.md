@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
 
@@ -301,12 +301,6 @@ _Last 3 days, newest first. 42 posts._
 ### [September 24, 2026 at 8:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326000129865390)
 
 > I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
-
----
-
-### [September 24, 2026 at 8:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117325981350058861)
-
-> The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
