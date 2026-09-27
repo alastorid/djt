@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 37 posts._
 
 ### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
 
@@ -241,12 +241,6 @@ _Last 3 days, newest first. 38 posts._
 ### [September 24, 2026 at 3:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327642327005783)
 
 > President Trump and the First Lady Greet the President of China and Madame Peng: https://www. youtube.com/watch?v=EWdAEh9NeO s
-
----
-
-### [September 24, 2026 at 9:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117326213046216794)
-
-> Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
