@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [September 27, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117343672160611130)
 
@@ -223,18 +223,6 @@ _Last 3 days, newest first. 36 posts._
 ### [September 24, 2026 at 3:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327681306671844)
 
 > President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: https://www. youtube.com/watch?v=Oh05NJy_Sa M
-
----
-
-### [September 24, 2026 at 3:23 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327644914730355)
-
-> Military Review with the President of China and Madame Peng: https://www. youtube.com/watch?v=lUe8vwhnjb k
-
----
-
-### [September 24, 2026 at 3:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327644146401995)
-
-> Silent Drill Platoon Review with the President of China and Madame Peng: https://www. youtube.com/watch?v=LliHi0rYUY 0
 <!-- DJT_POSTS_END -->
 
 ---
