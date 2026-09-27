@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 32 posts._
 
 ### [September 27, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117343672160611130)
 
@@ -211,12 +211,6 @@ _Last 3 days, newest first. 33 posts._
 ### [September 24, 2026 at 7:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117328536706468024)
 
 > Jim Copenhaver, a true American Patriot, has passed away — A tremendous loss! More than two years ago in Butler, Pennsylvania, a crazed gunman attempted to stifle our America First Movement. Instead, Jim and so many other wonderful Patriots who love our Country, stood united in defense of our shared values of Freedom, Liberty, and Justice. After being wounded while protecting his family, Jim showed tremendous bravery, courageously continuing to FIGHT, FIGHT, FIGHT, and maintaining a positive spirit despite unimaginable hardships. His indelible legacy of love and devotion will forever endure. Our hearts and prayers are with the Copenhaver family, especially his incredible wife Marianne. God bless you all! President DONALD J. TRUMP
-
----
-
-### [September 24, 2026 at 4:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117327988960070739)
-
-> CNN and MSDNC’s Ratings have dropped considerably. The primary reason is NO CREDIBILITY! They only write badly about a man who won the Election IN A GIANT LANDSLIDE, winning all 7 Swing States, the Popular Vote, and 86% of the Counties, etc., and whose Popularity has grown because of the unprecedented SUCCESS our Country is having on both the World Stage, and at home. CNN and MSDNC, to show you how fake they are, today refused to cover one of the Biggest and Most Beautiful Events to take place in many years, the arrival at the White House of the Highly Respected President of China, Xi Jinping, and his beautiful wife, Madam Peng. The event was magnificent — Actually made for Television but, because they’re Fake News, and because they knew how good it would be, they didn’t want credit to be given to “TRUMP,” they refused to be there. That’s why they have such poor Ratings. Tonight’s State Dinner at the White House, for President Xi, will be spectacular! The Media will be in attendance. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
