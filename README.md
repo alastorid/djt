@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 41 posts._
 
 ### [September 26, 2026 at 8:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117340294147897033)
 
@@ -301,12 +301,6 @@ _Last 3 days, newest first. 42 posts._
 ### [September 24, 2026 at 8:20 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117325981350058861)
 
 > The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT
-
----
-
-### [September 24, 2026 at 7:24 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117325763597478758)
-
-> A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
