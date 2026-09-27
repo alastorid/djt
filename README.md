@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 42 posts._
+_Last 3 days, newest first. 43 posts._
+
+### [September 26, 2026 at 8:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117340294147897033)
+
+> We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT
+
+---
 
 ### [September 26, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339693977416746)
 
