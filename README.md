@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 44 posts._
+_Last 3 days, newest first. 42 posts._
 
 ### [September 26, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339693977416746)
 
@@ -307,18 +307,6 @@ _Last 3 days, newest first. 44 posts._
 ### [September 24, 2026 at 7:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117325728133569564)
 
 > The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.
-
----
-
-### [September 23, 2026 at 8:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117323155721195611)
-
-> The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP
-
----
-
-### [September 23, 2026 at 8:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117323148147220269)
-
-> BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
