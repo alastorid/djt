@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 38 posts._
+
+### [September 28, 2026 at 7:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348541943680165)
+
+> Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!
+
+---
 
 ### [September 28, 2026 at 7:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348516464234551)
 

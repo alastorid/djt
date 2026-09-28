@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-28T11:54:54.868Z",
-  "count": 836,
+  "updatedAt": "2026-09-28T12:00:08.866Z",
+  "count": 837,
   "posts": [
+    {
+      "id": "117348541943680165",
+      "createdAt": "2026-09-28T07:57:28-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117348541943680165",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!",
+          "firstSeenAt": "2026-09-28T12:00:08.866Z"
+        }
+      ]
+    },
     {
       "id": "117348516464234551",
       "createdAt": "2026-09-28T07:50:59-04:00",
