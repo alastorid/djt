@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 37 posts._
+
+### [September 28, 2026 at 7:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348516464234551)
+
+> Kevin Roberts, Heritage Foundation & Heritage Action President, and also, a fabulous guy, was fantastic on FoxNews this morning. The topic was Fake Polls and how well the Republicans are going to do in the upcoming Midterms. Thank you, Kevin. I’ll be out there spending money, and helping every one of them get elected. I won most of these places, often by a landslide. MAGA, pretend I am on the ballot. Don’t let them open your Borders, and allow crime to again flourish. KEEP AMERICA GREAT!!! President DJT
+
+---
 
 ### [September 28, 2026 at 7:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348468544269011)
 
