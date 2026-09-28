@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348445059479367)
+
+> Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https:// justthenews.com/government/whi te-house/supreme-court-cisa
+
+---
+
+### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348443536619757)
+
+> Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: https:// justthenews.com/government/con gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and
+
+---
 
 ### [September 27, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117343672160611130)
 

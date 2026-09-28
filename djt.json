@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-27T15:24:19.387Z",
-  "count": 829,
+  "updatedAt": "2026-09-28T11:34:09.625Z",
+  "count": 831,
   "posts": [
+    {
+      "id": "117348445059479367",
+      "createdAt": "2026-09-28T07:32:49-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117348445059479367",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https:// justthenews.com/government/whi te-house/supreme-court-cisa",
+          "firstSeenAt": "2026-09-28T11:34:09.625Z"
+        }
+      ]
+    },
+    {
+      "id": "117348443536619757",
+      "createdAt": "2026-09-28T07:32:26-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117348443536619757",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: https:// justthenews.com/government/con gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and",
+          "firstSeenAt": "2026-09-28T11:34:09.625Z"
+        }
+      ]
+    },
     {
       "id": "117343672160611130",
       "createdAt": "2026-09-27T11:19:01-04:00",
