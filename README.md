@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 37 posts._
+_Last 3 days, newest first. 36 posts._
 
 ### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
 
@@ -235,12 +235,6 @@ _Last 3 days, newest first. 37 posts._
 ### [September 25, 2026 at 2:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117333027652824076)
 
 > Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP
-
----
-
-### [September 25, 2026 at 1:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117332812545704813)
-
-> President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
