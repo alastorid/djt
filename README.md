@@ -3,7 +3,31 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [September 28, 2026 at 7:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348468544269011)
+
+> “The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, however!!! President DJT
+
+---
+
+### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348448650549090)
+
+> Two-tiered justice: Local DAs shield noncitizens from immigration consequences: https:// justthenews.com/nation/crime/t wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences
+
+---
+
+### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348447516971896)
+
+> Justice Department charges four aliens in Pennsylvania with election fraud: https:// justthenews.com/government/fed eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud
+
+---
+
+### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348446365820888)
+
+> SCOTUS reinstates Trump's voter citizenship verification rules: https:// justthenews.com/government/cou rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules
+
+---
 
 ### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348445059479367)
 
