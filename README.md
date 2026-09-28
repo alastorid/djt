@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 36 posts._
+
+### [September 28, 2026 at 5:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117350810719202305)
+
+> Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP
+
+---
 
 ### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
 

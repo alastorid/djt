@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-28T12:05:22.309Z",
-  "count": 838,
+  "updatedAt": "2026-09-28T21:38:08.378Z",
+  "count": 839,
   "posts": [
+    {
+      "id": "117350810719202305",
+      "createdAt": "2026-09-28T17:34:27-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117350810719202305",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-09-28T21:38:08.378Z"
+        }
+      ]
+    },
     {
       "id": "117348562110206457",
       "createdAt": "2026-09-28T08:02:36-04:00",
