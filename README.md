@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 36 posts._
+_Last 3 days, newest first. 35 posts._
 
 ### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
 
@@ -229,12 +229,6 @@ _Last 3 days, newest first. 36 posts._
 ### [September 25, 2026 at 8:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117334585893103406)
 
 > This is where we send our Killers, Drug Dealers, and Thugs. It’s why Murder, and other Crimes in America, is at Record Lows! President DONALD J. TRUMP
-
----
-
-### [September 25, 2026 at 2:11 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117333027652824076)
-
-> Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
