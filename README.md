@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 38 posts._
 
 ### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
 
@@ -247,12 +247,6 @@ _Last 3 days, newest first. 39 posts._
 ### [September 25, 2026 at 12:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117332704655075384)
 
 > Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP
-
----
-
-### [September 25, 2026 at 8:46 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117331749278785253)
-
-> Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT
 <!-- DJT_POSTS_END -->
 
 ---
