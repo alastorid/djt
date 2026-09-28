@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
+
+> Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT
+
+---
 
 ### [September 28, 2026 at 7:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348541943680165)
 
