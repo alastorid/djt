@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-09-29T12:32:25.155Z",
-  "count": 841,
+  "updatedAt": "2026-09-29T21:02:16.083Z",
+  "count": 842,
   "posts": [
+    {
+      "id": "117356339820644146",
+      "createdAt": "2026-09-29T17:00:34-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117356339820644146",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Iran Has Lost Control of the Strait: https:// x.com/BurggrabenH/status/21043 61288000221497",
+          "firstSeenAt": "2026-09-29T21:02:16.083Z"
+        }
+      ]
+    },
     {
       "id": "117354335756073765",
       "createdAt": "2026-09-29T08:30:54-04:00",

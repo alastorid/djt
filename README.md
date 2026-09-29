@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 18 posts._
+
+### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
+
+> Iran Has Lost Control of the Strait: https:// x.com/BurggrabenH/status/21043 61288000221497
+
+---
 
 ### [September 29, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117354335756073765)
 
