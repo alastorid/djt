@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
+
+> The Protect College Sport Act just passed in the U.S. hSenate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked with him, on a job well done!
+
+---
 
 ### [September 28, 2026 at 5:34 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117350810719202305)
 
