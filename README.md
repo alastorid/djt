@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 21 posts._
+
+### [September 29, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117354335756073765)
+
+> From a great journalist! President DJT
+
+---
 
 ### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
 
