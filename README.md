@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
 
@@ -167,55 +167,6 @@ _Last 3 days, newest first. 33 posts._
 ### [September 26, 2026 at 6:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336955762275361)
 
 > Animal welfare groups praise Trump administration for more moves to reduce animal testing: https:// justthenews.com/government/fed eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce
-
----
-
-### [September 26, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336883864922392)
-
-> Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https:// justthenews.com/government/fed eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse
-
----
-
-### [September 26, 2026 at 6:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336881513699850)
-
-> Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': https:// justthenews.com/politics-polic y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it
-
----
-
-### [September 26, 2026 at 6:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336880365536098)
-
-> Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https:// justthenews.com/accountability /political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data
-
----
-
-### [September 26, 2026 at 6:31 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336878808999802)
-
-> Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: https:// justthenews.com/government/whi te-house/trump-0
-
----
-
-### [September 26, 2026 at 6:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336875720742753)
-
-> White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: https:// justthenews.com/government/whi te-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news
-
----
-
-### [September 26, 2026 at 6:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336873800272630)
-
-> Fantastic news for America!
-> SCOTUS reinstates Trump's voter citizenship verification rules: https:// justthenews.com/government/cou rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules
-
----
-
-### [September 26, 2026 at 6:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336867875974840)
-
-> Justice Department charges four aliens in Pennsylvania with election fraud: https:// justthenews.com/government/fed eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud
-
----
-
-### [September 26, 2026 at 6:28 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336866629561228)
-
-> Two-tiered justice: Local DAs shield noncitizens from immigration consequences: https:// justthenews.com/nation/crime/t wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences
 <!-- DJT_POSTS_END -->
 
 ---
