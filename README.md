@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 35 posts._
+_Last 3 days, newest first. 34 posts._
 
 ### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
 
@@ -223,12 +223,6 @@ _Last 3 days, newest first. 35 posts._
 
 > A big WIN for Republicans!!!
 > Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https:// justthenews.com/government/whi te-house/supreme-court-cisa
-
----
-
-### [September 25, 2026 at 11:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117335133781136092)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117335132934731885
 <!-- DJT_POSTS_END -->
 
 ---
