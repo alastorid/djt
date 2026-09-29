@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 20 posts._
+_Last 3 days, newest first. 18 posts._
 
 ### [September 29, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117354335756073765)
 
@@ -112,30 +112,6 @@ _Last 3 days, newest first. 20 posts._
 > BIG DAY FOR AMERICAN AUTO WORKERS AND CAR BUYERS! I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and Pete Boot-EDGE-EDGE's ridiculous EV Mandate. The Dumocrats cost our Great Auto Manufacturers $Billions, forced Americans into cars they never wanted, and wasted Billions on Chargers that were never built.
 > These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore. Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!
 > Under my Administration, over 100 $Billion is being invested in American Autos, and that's just the beginning. The Plants are coming back, and Jobs are returning, to Michigan, Ohio, Indiana, South Carolina, and all over our Country. Thank you to our Great Secretaries of Transportation and Commerce, Sean Duffy and Howard Lutnick. AMERICA IS BACK. MAKE AMERICA GREAT AGAIN!!! President DONALD J. TRUMP
-
----
-
-### [September 26, 2026 at 2:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338873310369293)
-
-> The American People elected me to deliver HISTORIC Economic Results, and now, I have a new responsibility, reporting our incredible results because the Fake News refuses to do it.
->
-> S&P Global reported this week that U.S. Business Growth is at its HIGHEST LEVEL IN MORE THAN FIVE YEARS and, if you take out the distorted COVID Reopening figures, the mark goes back even further.
->
-> What does that mean? MORE ORDERS, MORE OUTPUT, MORE AMERICAN WORKERS BEING HIRED. Manufacturing is growing, Businesses are expanding, and Demand is STRONG.
->
-> And there’s more: U.S. REAL MEDIAN HOUSEHOLD INCOME is now the HIGHEST EVER RECORDED. The United States Poverty Rate is at its LOWEST LEVEL ON RECORD. U.S. Goods Exports in 2026 are on pace for their HIGHEST LEVEL IN HISTORY, and Trillions and Trillions of Dollars of new Investments are pouring into the United States.
->
-> If anyone else were President, this would be all the Media would talk about. But because no one ever wants to give me credit, no one is talking about these Historic Numbers.
->
-> Business is growing. Americans are earning more money than ever before, Poverty is at its All Time Lowest Level, and Exports are surging!
->
-> The FAKE NEWS and DUMOCRATS hate these reports, and these Record Setting Numbers. They hate the TRUTH, and they hate the Great Success that our Country is having. Just look at the Numbers — THE BEST IN HISTORY. VOTE FOR REPUBLICAN AND “TRUMP” CANDIDATES IN THE MIDTERMS. WE HAVE ALREADY MADE AMERICA GREAT AGAIN, BUT NOW WE WILL REACH NEW LEVELS OF GREATNESS. IT IS MY HONOR TO BE YOUR PRESIDENT, DURING SUCH AN EXCITING TIME! President DONALD J. TRUMP
-
----
-
-### [September 26, 2026 at 2:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338872385629287)
-
-> At the Tennessee vs. Texas Game! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
