@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 23 posts._
+_Last 3 days, newest first. 22 posts._
 
 ### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
 
@@ -148,12 +148,6 @@ _Last 3 days, newest first. 23 posts._
 ### [September 26, 2026 at 8:18 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337298336162712)
 
 > IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT
-
----
-
-### [September 26, 2026 at 8:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337288574793449)
-
-> A MUST SEE ON THE CLIMATE HOAX. President DJT
 <!-- DJT_POSTS_END -->
 
 ---
