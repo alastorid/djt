@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 17 posts._
 
 ### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
 
@@ -104,12 +104,6 @@ _Last 3 days, newest first. 18 posts._
 ### [September 26, 2026 at 6:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339693977416746)
 
 > A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can’t do this!
-
----
-
-### [September 26, 2026 at 5:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339537275478198)
-
-> https://www. washingtonpost.com/politics/20 26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/
 <!-- DJT_POSTS_END -->
 
 ---
