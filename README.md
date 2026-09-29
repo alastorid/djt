@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 18 posts._
+_Last 3 days, newest first. 17 posts._
 
 ### [September 29, 2026 at 8:30 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117354335756073765)
 
@@ -104,14 +104,6 @@ _Last 3 days, newest first. 18 posts._
 ### [September 26, 2026 at 5:47 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117339537275478198)
 
 > https://www. washingtonpost.com/politics/20 26/09/23/after-publicly-criticizing-trump-rep-mara-elvira-salazar-faces-backlash/
-
----
-
-### [September 26, 2026 at 3:14 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117338936999613227)
-
-> BIG DAY FOR AMERICAN AUTO WORKERS AND CAR BUYERS! I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and Pete Boot-EDGE-EDGE's ridiculous EV Mandate. The Dumocrats cost our Great Auto Manufacturers $Billions, forced Americans into cars they never wanted, and wasted Billions on Chargers that were never built.
-> These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore. Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!
-> Under my Administration, over 100 $Billion is being invested in American Autos, and that's just the beginning. The Plants are coming back, and Jobs are returning, to Michigan, Ohio, Indiana, South Carolina, and all over our Country. Thank you to our Great Secretaries of Transportation and Commerce, Sean Duffy and Howard Lutnick. AMERICA IS BACK. MAKE AMERICA GREAT AGAIN!!! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
