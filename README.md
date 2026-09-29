@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 25 posts._
+_Last 3 days, newest first. 23 posts._
 
 ### [September 28, 2026 at 10:33 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117351985093810875)
 
@@ -154,19 +154,6 @@ _Last 3 days, newest first. 25 posts._
 ### [September 26, 2026 at 8:15 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117337288574793449)
 
 > A MUST SEE ON THE CLIMATE HOAX. President DJT
-
----
-
-### [September 26, 2026 at 6:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336958253518518)
-
-> Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!
-> Defiant White House slaps down journalists: 'Access is a privilege - not a right': https:// justthenews.com/politics-polic y/defiant-white-house-slaps-down-journalists-access-privilege-not-right
-
----
-
-### [September 26, 2026 at 6:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117336955762275361)
-
-> Animal welfare groups praise Trump administration for more moves to reduce animal testing: https:// justthenews.com/government/fed eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce
 <!-- DJT_POSTS_END -->
 
 ---
