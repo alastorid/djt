@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 13 posts._
+_Last 3 days, newest first. 14 posts._
+
+### [September 30, 2026 at 12:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117360881299832502)
+
+> Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP
+
+---
 
 ### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
 
