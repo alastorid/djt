@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 13 posts._
 
 ### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
 
@@ -80,12 +80,6 @@ _Last 3 days, newest first. 14 posts._
 ### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348443536619757)
 
 > Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: https:// justthenews.com/government/con gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and
-
----
-
-### [September 27, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117343672160611130)
-
-> The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
