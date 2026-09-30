@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 14 posts._
+_Last 3 days, newest first. 15 posts._
+
+### [September 30, 2026 at 12:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117361036176846921)
+
+> Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP
+
+---
 
 ### [September 30, 2026 at 12:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117360881299832502)
 
