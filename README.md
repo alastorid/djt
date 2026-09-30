@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 14 posts._
 
 ### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
 
@@ -86,12 +86,6 @@ _Last 3 days, newest first. 15 posts._
 ### [September 27, 2026 at 11:19 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117343672160611130)
 
 > The Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions. Thank you to the Governor, and all of the Great People of Missouri, who are fighting so hard for Fairness and Election Security. Such tremendous Spirit and Love of our Country. I won Missouri BIG, all three times, and I couldn’t be more proud of doing so. A great place — I love you all! President DONALD J. TRUMP
-
----
-
-### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
-
-> More people working in the United States right now than at any point in the History of our Country! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
