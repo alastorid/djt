@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 15 posts._
+_Last 3 days, newest first. 16 posts._
+
+### [September 30, 2026 at 1:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117361125172345134)
+
+> Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide!
+> Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP
+
+---
 
 ### [September 30, 2026 at 12:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117361036176846921)
 
