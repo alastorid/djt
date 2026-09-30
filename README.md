@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 16 posts._
+_Last 3 days, newest first. 15 posts._
 
 ### [September 29, 2026 at 5:00 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117356339820644146)
 
@@ -92,12 +92,6 @@ _Last 3 days, newest first. 16 posts._
 ### [September 27, 2026 at 8:09 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117342927581199006)
 
 > More people working in the United States right now than at any point in the History of our Country! President DJT
-
----
-
-### [September 26, 2026 at 8:59 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117340294147897033)
-
-> We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
