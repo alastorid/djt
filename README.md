@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 25 posts._
 
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
@@ -171,12 +171,6 @@ _Last 3 days, newest first. 26 posts._
 ### [September 28, 2026 at 8:02 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348562110206457)
 
 > Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT
-
----
-
-### [September 28, 2026 at 7:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348541943680165)
-
-> Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!
 <!-- DJT_POSTS_END -->
 
 ---
