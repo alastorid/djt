@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 28 posts._
 
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
@@ -189,18 +189,6 @@ _Last 3 days, newest first. 30 posts._
 ### [September 28, 2026 at 7:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348468544269011)
 
 > “The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, however!!! President DJT
-
----
-
-### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348448650549090)
-
-> Two-tiered justice: Local DAs shield noncitizens from immigration consequences: https:// justthenews.com/nation/crime/t wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences
-
----
-
-### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348447516971896)
-
-> Justice Department charges four aliens in Pennsylvania with election fraud: https:// justthenews.com/government/fed eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud
 <!-- DJT_POSTS_END -->
 
 ---
