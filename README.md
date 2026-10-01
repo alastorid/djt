@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [September 30, 2026 at 11:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363530938149737)
+
+> Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https:// justthenews.com/government/whi te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-whe
+
+---
+
+### [September 30, 2026 at 11:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363529555626519)
+
+> Another leftist race narrative bites the dust: Mississippi hanging edition: https:// justthenews.com/nation/another -radical-left-narrative-bites-dust-mississippi-hangin-editio
+
+---
+
+### [September 30, 2026 at 11:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363528339371665)
+
+> Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https:// justthenews.com/accountability /political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be
+
+---
 
 ### [September 30, 2026 at 10:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363266224228487)
 
