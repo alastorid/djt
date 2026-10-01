@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 28 posts._
+_Last 3 days, newest first. 29 posts._
+
+### [October 1, 2026 at 1:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366933918841897)
+
+> I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP
+
+---
 
 ### [October 1, 2026 at 1:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366845448721312)
 

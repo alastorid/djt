@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-01T17:37:48.563Z",
-  "count": 866,
+  "updatedAt": "2026-10-01T17:58:41.456Z",
+  "count": 867,
   "posts": [
+    {
+      "id": "117366933918841897",
+      "createdAt": "2026-10-01T13:54:47-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117366933918841897",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-01T17:58:41.456Z"
+        }
+      ]
+    },
     {
       "id": "117366845448721312",
       "createdAt": "2026-10-01T13:32:17-04:00",
