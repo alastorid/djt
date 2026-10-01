@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
+
+> Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP
+
+---
 
 ### [September 30, 2026 at 11:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363530938149737)
 
