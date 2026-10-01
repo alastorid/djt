@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 30 posts._
 
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
@@ -201,24 +201,6 @@ _Last 3 days, newest first. 33 posts._
 ### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348447516971896)
 
 > Justice Department charges four aliens in Pennsylvania with election fraud: https:// justthenews.com/government/fed eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud
-
----
-
-### [September 28, 2026 at 7:33 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348446365820888)
-
-> SCOTUS reinstates Trump's voter citizenship verification rules: https:// justthenews.com/government/cou rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules
-
----
-
-### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348445059479367)
-
-> Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https:// justthenews.com/government/whi te-house/supreme-court-cisa
-
----
-
-### [September 28, 2026 at 7:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348443536619757)
-
-> Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: https:// justthenews.com/government/con gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and
 <!-- DJT_POSTS_END -->
 
 ---
