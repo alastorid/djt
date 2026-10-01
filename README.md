@@ -3,7 +3,30 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 17 posts._
+_Last 3 days, newest first. 18 posts._
+
+### [September 30, 2026 at 8:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117362870737690439)
+
+> In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year.
+> We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers.
+> First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country.
+> Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska.
+> Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex
+> as. This will bring tremendous new, reliable Power Capacity to Texas.
+> These are the kinds of Projects that can transform America for Generations — MORE POWER, MORE CONSTRUCTION, MORE MANUFACTURING, MORE ENERGY SECURITY, and major new opportunities for American Workers.
+> These Projects will support the TRILLIONS OF DOLLARS of Investment that have come into the United States under my Administration, including for Advanced Manufacturing, Semiconductors, and all of the Great Industries of the Future. We are building that capacity HERE, in THE UNITED STATES OF AMERICA, and the Projects announced today will help power us for Generations to come.
+> These Deals are driven by our Trade Deals. REAL INVESTMENT, REAL PROJECTS, REAL CAPACITY, and REAL JOBS in America.
+> AMERICA IS BUILDING AGAIN! President DONALD J. TRUMP
+> In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year.
+> We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers.
+> First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country.
+> Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska.
+> Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex
+> as. This will bring tremendous new, reliable Power Capacity to Texas.
+> These are the kinds of Projects that can transform America for Generations — MORE POWER, MORE CONSTRUCTION, MORE MANUFACTURING, MORE ENERGY SECURITY, and major new opportunities for American Workers.
+> These Projects will support the TRILLIONS OF DOLLARS of Investment that have come into the United States under my Administration, including for Advanced Manufacturing, Semiconductors, and all of the Great Industries o
+
+---
 
 ### [September 30, 2026 at 3:48 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117361716972225267)
 
