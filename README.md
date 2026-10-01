@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 26 posts._
+_Last 3 days, newest first. 27 posts._
+
+### [October 1, 2026 at 12:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366588767807179)
+
+> I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP
+
+---
 
 ### [October 1, 2026 at 11:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366474576378383)
 
