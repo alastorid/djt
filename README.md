@@ -3,7 +3,56 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 19 posts._
+_Last 3 days, newest first. 27 posts._
+
+### [September 30, 2026 at 10:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363260871717815)
+
+> EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump:
+>  https:// thefederalist.com/2026/09/28/e xclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/
+
+---
+
+### [September 30, 2026 at 10:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363258929059499)
+
+> Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: https:// nypost.com/2026/09/28/world-ne ws/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/
+
+---
+
+### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363257382134049)
+
+> Trump administration reinstates sexual misconduct rule for schools: https://www. politico.com/news/2026/09/28/t rump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990
+
+---
+
+### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363255844500237)
+
+> US finalizes new lower fuel economy standards in boost for gas-powered vehicles: https://www. reuters.com/business/autos-tra nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/
+
+---
+
+### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363254598194638)
+
+> Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: https:// nypost.com/2026/09/27/us-news/ irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/
+
+---
+
+### [September 30, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363252945698992)
+
+> Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: https://www. foxnews.com/outkick-sports/tea m-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit
+
+---
+
+### [September 30, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363251732231828)
+
+> Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: https:// nypost.com/2026/09/26/us-news/ trump-met-cheered-at-university-of-tennessee-ut-football-game/
+
+---
+
+### [September 30, 2026 at 10:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363250174439013)
+
+> Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: https:// nypost.com/2026/09/25/us-news/ trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/
+
+---
 
 ### [September 30, 2026 at 9:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363089683591337)
 
