@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 24 posts._
+_Last 3 days, newest first. 25 posts._
+
+### [October 1, 2026 at 11:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366396669364721)
+
+> I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP
+
+---
 
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
