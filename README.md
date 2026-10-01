@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 26 posts._
 
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
@@ -177,12 +177,6 @@ _Last 3 days, newest first. 27 posts._
 ### [September 28, 2026 at 7:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348541943680165)
 
 > Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!
-
----
-
-### [September 28, 2026 at 7:50 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117348516464234551)
-
-> Kevin Roberts, Heritage Foundation & Heritage Action President, and also, a fabulous guy, was fantastic on FoxNews this morning. The topic was Fake Polls and how well the Republicans are going to do in the upcoming Midterms. Thank you, Kevin. I’ll be out there spending money, and helping every one of them get elected. I won most of these places, often by a landslide. MAGA, pretend I am on the ballot. Don’t let them open your Borders, and allow crime to again flourish. KEEP AMERICA GREAT!!! President DJT
 <!-- DJT_POSTS_END -->
 
 ---
