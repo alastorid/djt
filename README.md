@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 29 posts._
+_Last 3 days, newest first. 30 posts._
+
+### [October 1, 2026 at 2:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117367105128831509)
+
+> Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP
+
+---
 
 ### [October 1, 2026 at 1:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366933918841897)
 
