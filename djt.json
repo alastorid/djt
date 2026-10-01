@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-01T02:21:56.270Z",
-  "count": 856,
+  "updatedAt": "2026-10-01T02:27:05.538Z",
+  "count": 858,
   "posts": [
+    {
+      "id": "117363266224228487",
+      "createdAt": "2026-09-30T22:22:03-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117363266224228487",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: https://www. axios.com/2026/09/28/hegseth-e lections-security-order",
+          "firstSeenAt": "2026-10-01T02:27:05.538Z"
+        }
+      ]
+    },
+    {
+      "id": "117363264569974249",
+      "createdAt": "2026-09-30T22:21:37-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117363264569974249",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: https:// dailycaller.com/2026/09/28/tru mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/",
+          "firstSeenAt": "2026-10-01T02:27:05.538Z"
+        }
+      ]
+    },
     {
       "id": "117363260871717815",
       "createdAt": "2026-09-30T22:20:41-04:00",

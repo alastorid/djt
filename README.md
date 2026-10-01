@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 27 posts._
+_Last 3 days, newest first. 29 posts._
+
+### [September 30, 2026 at 10:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363266224228487)
+
+> Exclusive: Hegseth directs Defense Dept. to fight foreigners who "meddle" in U.S. elections: https://www. axios.com/2026/09/28/hegseth-e lections-security-order
+
+---
+
+### [September 30, 2026 at 10:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363264569974249)
+
+> Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: https:// dailycaller.com/2026/09/28/tru mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/
+
+---
 
 ### [September 30, 2026 at 10:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363260871717815)
 
