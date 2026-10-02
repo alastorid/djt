@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 31 posts._
+_Last 3 days, newest first. 32 posts._
+
+### [October 2, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117369458827039533)
+
+> America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP
+
+---
 
 ### [October 2, 2026 at 12:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117369363664701946)
 

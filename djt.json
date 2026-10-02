@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-02T04:16:37.473Z",
-  "count": 871,
+  "updatedAt": "2026-10-02T04:42:32.659Z",
+  "count": 872,
   "posts": [
+    {
+      "id": "117369458827039533",
+      "createdAt": "2026-10-02T00:36:54-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117369458827039533",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-02T04:42:32.659Z"
+        }
+      ]
+    },
     {
       "id": "117369363664701946",
       "createdAt": "2026-10-02T00:12:42-04:00",
