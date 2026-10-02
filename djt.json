@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-02T12:41:30.137Z",
-  "count": 874,
+  "updatedAt": "2026-10-02T14:05:00.995Z",
+  "count": 875,
   "posts": [
+    {
+      "id": "117371677010048663",
+      "createdAt": "2026-10-02T10:01:01-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117371677010048663",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT",
+          "firstSeenAt": "2026-10-02T14:05:00.995Z"
+        }
+      ]
+    },
     {
       "id": "117371353802794328",
       "createdAt": "2026-10-02T08:38:49-04:00",

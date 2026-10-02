@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 33 posts._
+_Last 3 days, newest first. 34 posts._
+
+### [October 2, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117371677010048663)
+
+> Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT
+
+---
 
 ### [October 2, 2026 at 8:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117371353802794328)
 
