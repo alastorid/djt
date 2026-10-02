@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-02T07:29:51.445Z",
-  "count": 873,
+  "updatedAt": "2026-10-02T12:41:30.137Z",
+  "count": 874,
   "posts": [
+    {
+      "id": "117371353802794328",
+      "createdAt": "2026-10-02T08:38:49-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117371353802794328",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-02T12:41:30.137Z"
+        }
+      ]
+    },
     {
       "id": "117369900687288624",
       "createdAt": "2026-10-02T02:29:16-04:00",

@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 32 posts._
+_Last 3 days, newest first. 33 posts._
+
+### [October 2, 2026 at 8:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117371353802794328)
+
+> I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP
+
+---
 
 ### [October 2, 2026 at 2:29 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117369900687288624)
 
