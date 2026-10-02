@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 30 posts._
+_Last 3 days, newest first. 31 posts._
+
+### [October 1, 2026 at 8:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117368375016362939)
+
+> I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP
+
+---
 
 ### [October 1, 2026 at 7:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117368288137760987)
 
