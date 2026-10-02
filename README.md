@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 34 posts._
+_Last 3 days, newest first. 35 posts._
+
+### [October 2, 2026 at 5:16 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117373388463106981)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625 Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo" James, to represent the State in the highly controversial Cornell University rape case?
+
+---
 
 ### [October 2, 2026 at 2:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117372767454121009)
 

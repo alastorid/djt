@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-02T18:39:31.632Z",
-  "count": 876,
+  "updatedAt": "2026-10-02T21:20:01.264Z",
+  "count": 877,
   "posts": [
+    {
+      "id": "117373388463106981",
+      "createdAt": "2026-10-02T17:16:16-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117373388463106981",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625 Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?",
+          "firstSeenAt": "2026-10-02T21:20:01.264Z"
+        }
+      ]
+    },
     {
       "id": "117372767454121009",
       "createdAt": "2026-10-02T14:38:20-04:00",
