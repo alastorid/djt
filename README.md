@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 49 posts._
+
+### [October 2, 2026 at 11:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374886219696225)
+
+> The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorney General Todd Blanche clearly stated that the Justice Department will investigate any and all evidence of wrongdoing. As this week’s Inspector General report detailed, this project is Hundreds of Millions of Dollars over budget, and way behind schedule, due to a total lack of leadership, oversight, and competence, of Jerome “Too Late” Powell. I look forward to learning the results of the professional audit and the DOJ investigation! Thank you for your attention to this matter. President DJT
+
+---
+
+### [October 2, 2026 at 11:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374885656415148)
+
+> MAGA miles: Babin proposes I-47 from Port Arthur to Montana in honor of President Trump: https:// kfdm.com/news/local/maga-miles -babin-proposes-i-47-from-port-arthur-to-montana-in-honor-of-president-trump
+
+---
 
 ### [October 2, 2026 at 11:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374770773184530)
 
