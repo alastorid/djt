@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [October 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117379305275420977)
+
+> HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117378383081064996)
 
