@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T02:59:20.422Z",
-  "count": 886,
+  "updatedAt": "2026-10-03T03:04:29.893Z",
+  "count": 887,
   "posts": [
+    {
+      "id": "117374748527788857",
+      "createdAt": "2026-10-02T23:02:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117374748527788857",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T03:04:29.893Z"
+        }
+      ]
+    },
     {
       "id": "117374727722154598",
       "createdAt": "2026-10-02T22:56:51-04:00",
