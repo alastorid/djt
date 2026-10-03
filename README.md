@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [October 3, 2026 at 9:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377141739477104)
+
+> Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool — Whether you vote early, absentee, by mail, or in-person, we must “swamp” the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+>  https:// swampthevoteusa.com/
+
+---
 
 ### [October 3, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377086414457258)
 
