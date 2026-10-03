@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 38 posts._
+_Last 3 days, newest first. 39 posts._
+
+### [October 2, 2026 at 10:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374668986690985)
+
+> “Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: https://www. undeniablewindfalls.com
+
+---
 
 ### [October 2, 2026 at 10:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374608656541990)
 
