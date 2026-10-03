@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 50 posts._
+
+### [October 3, 2026 at 7:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117376675283821396)
+
+> Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: https:// rumble.com/v7gauli-roger-stone -donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html
+
+---
 
 ### [October 2, 2026 at 11:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374886219696225)
 

@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T03:40:38.701Z",
-  "count": 891,
+  "updatedAt": "2026-10-03T11:16:06.413Z",
+  "count": 892,
   "posts": [
+    {
+      "id": "117376675283821396",
+      "createdAt": "2026-10-03T07:12:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117376675283821396",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: https:// rumble.com/v7gauli-roger-stone -donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html",
+          "firstSeenAt": "2026-10-03T11:16:06.413Z"
+        }
+      ]
+    },
     {
       "id": "117374886219696225",
       "createdAt": "2026-10-02T23:37:10-04:00",
