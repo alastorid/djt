@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 62 posts._
+_Last 3 days, newest first. 61 posts._
 
 ### [October 3, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377462448761419)
 
@@ -395,12 +395,6 @@ _Last 3 days, newest first. 62 posts._
 ### [September 30, 2026 at 12:54 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117361036176846921)
 
 > Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP
-
----
-
-### [September 30, 2026 at 12:15 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117360881299832502)
-
-> Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
