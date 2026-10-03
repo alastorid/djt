@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T13:15:38.781Z",
-  "count": 902,
+  "updatedAt": "2026-10-03T14:02:51.959Z",
+  "count": 903,
   "posts": [
+    {
+      "id": "117377342230461037",
+      "createdAt": "2026-10-03T10:01:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117377342230461037",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T14:02:51.959Z"
+        }
+      ]
+    },
     {
       "id": "117377141739477104",
       "createdAt": "2026-10-03T09:10:46-04:00",

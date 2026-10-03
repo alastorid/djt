@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [October 3, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377342230461037)
+
+> Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 9:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377141739477104)
 
