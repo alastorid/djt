@@ -3,7 +3,14 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 39 posts._
+_Last 3 days, newest first. 40 posts._
+
+### [October 2, 2026 at 10:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374710858193847)
+
+> Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve unprecedented results, in record time. Nothing is impossible when met by American Grit and Spirit — THE BEST IS YET TO COME! Preorder your copy today:
+>  https://www. amazon.com/Americas-Golden-Age -Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0
+
+---
 
 ### [October 2, 2026 at 10:41 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374668986690985)
 
