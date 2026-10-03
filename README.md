@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 55 posts._
+_Last 3 days, newest first. 57 posts._
+
+### [October 3, 2026 at 8:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377072350009409)
+
+> Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
+
+### [October 3, 2026 at 8:51 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377066566644744)
+
+> Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 7:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117376855501150171)
 

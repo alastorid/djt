@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T12:02:38.027Z",
-  "count": 897,
+  "updatedAt": "2026-10-03T12:55:01.748Z",
+  "count": 899,
   "posts": [
+    {
+      "id": "117377072350009409",
+      "createdAt": "2026-10-03T08:53:07-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117377072350009409",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T12:55:01.748Z"
+        }
+      ]
+    },
+    {
+      "id": "117377066566644744",
+      "createdAt": "2026-10-03T08:51:39-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117377066566644744",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T12:55:01.748Z"
+        }
+      ]
+    },
     {
       "id": "117376855501150171",
       "createdAt": "2026-10-03T07:57:58-04:00",
