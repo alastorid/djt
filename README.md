@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 59 posts._
+_Last 3 days, newest first. 60 posts._
+
+### [October 3, 2026 at 1:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117378226674711107)
+
+> If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn’t have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so. That is really putting Arkansas FIRST, and I know, because, unlike Tom, I won that Great State, three times, and by almost 40 points! Additionally, it would be a very nice and easy WIN for the Republican Party, in particular, the Republican Senate, a place where we could use some WINS! The House approved, long ago, “The Sunshine Protection Act,” by a very Bipartisan Vote, 308 to 117. It has been held up in the Senate, a place where things go to die, by Tom Cotton, for months! — And for what, other than “ego?” The reason that it was terminated in the past was that certain Congressmen and Senators, from long ago, used it as a “negotiating chip” for far more important Legislation — And they got plenty! Everybody loved it, but it was given up in order to get bigger, better, and more consequential “things.” Give the Republican Party a Senatorial WIN, for a change! Thank you to Speaker of the House Mike Johnson, and all Members of the House of Representatives, both Republican and Democrat, who so overwhelmingly approved “The No More Ridiculous Changing of Your Clocks Act,” and who so strongly want their “SUN” in the afternoon, rather than the early morning — Loved by Farmers, Sportsman, and Sports (Copy of PGA TOUR letter below!). Daylight Saving Time is 65-35 in the Polls but, why wouldn’t it be — Who wouldn’t want more “SUN” in the afternoon than in the morning? It’s even been proven to be better in stopping CRIME, something of which I have done an Historic job because, CRIMINALS DON’T LIKE WORKING IN THE LIGHT. Not wanting to change your many Clocks, including for Church Steeples and Municipal Buildings is, however, a 100% issue. TAKE THE WIN TOM, JUST TAKE THE WIN! YOU NEED IT, AND SO DOES OUR BELOVED REPUBLICAN PARTY! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 10:32 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377462448761419)
 
