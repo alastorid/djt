@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 61 posts._
+
+### [October 3, 2026 at 2:26 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117378383081064996)
+
+> I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 1:46 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117378226674711107)
 
