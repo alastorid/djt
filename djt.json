@@ -6,9 +6,41 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T12:55:01.748Z",
-  "count": 899,
+  "updatedAt": "2026-10-03T13:00:10.980Z",
+  "count": 901,
   "posts": [
+    {
+      "id": "117377086414457258",
+      "createdAt": "2026-10-03T08:56:42-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117377086414457258",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T13:00:10.980Z"
+        }
+      ]
+    },
+    {
+      "id": "117377074810245973",
+      "createdAt": "2026-10-03T08:53:45-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117377074810245973",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-03T13:00:10.980Z"
+        }
+      ]
+    },
     {
       "id": "117377072350009409",
       "createdAt": "2026-10-03T08:53:07-04:00",

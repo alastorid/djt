@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 59 posts._
+
+### [October 3, 2026 at 8:56 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377086414457258)
+
+> If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP
+
+---
+
+### [October 3, 2026 at 8:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377074810245973)
+
+> PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP
+
+---
 
 ### [October 3, 2026 at 8:53 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117377072350009409)
 
