@@ -3,7 +3,19 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 47 posts._
+
+### [October 2, 2026 at 11:07 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374770773184530)
+
+> DC CVS Stores Are No Longer Locking Up Items Thanks to President Trump's Crime Crackdown: https:// townhall.com/news/amy-curtis/2 026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686
+
+---
+
+### [October 2, 2026 at 11:06 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374767217423174)
+
+> The Democrat Social Agenda would cost Americans TRILLIONS of Dollars if they were elected to Office. America as we know it would be completely destroyed, and make us a Third World Country. We can’t let that happen. VOTE REPUBLICAN!  Find out all the details in a new report by the much respected Council of Economic Advisers:  https://www. whitehouse.gov/releases/2026/1 0/new-report-dsa-policies-would-cost-americans-trillions/
+
+---
 
 ### [October 2, 2026 at 11:02 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374748527788857)
 
