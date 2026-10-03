@@ -3,7 +3,37 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 40 posts._
+_Last 3 days, newest first. 44 posts._
+
+### [October 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374727722154598)
+
+> I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts. This money will come from the Medicare Improvement Fund, a pointless “Slush Fund” that has only been used by Dumocrats in Congress to pay for the Waste, Fraud, and Abuse for their Special Interest friends, and drive up Healthcare costs. We are finally using this Fund, along with my Most Favored Nations Deals, to substantially LOWER costs for our Seniors. I pledged to protect and preserve Medicare and Social Security, which were on the verge of RUIN by Joe Biden, who foolishly and maliciously let tens of millions of Illegal Aliens into our Country, and we are doing just that for America’s Seniors. This is separate from the equally substantial Refund “Checks” we are sending to One Million Americans who were overcharged for their Unaffordable Care Act plans by Joe Biden.
+> Because I delivered on this very important issue for the American People, they can also rest assured the highly popular $5,000 Trump Dividend will be distributed to every U.S. Citizen if, and when, the Republicans win the Midterm Elections! Thank you for your attention to this matter. President DONALD J. TRUMP
+
+---
+
+### [October 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374725939253690)
+
+> Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!
+> Cindy has honorably served the Fantastic People of Oklahoma as State Auditor with a proven Record of SUCCESS, and I know she will continue doing a tremendous job as State Treasurer. A true MAGA Warrior, Cindy understands the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.
+> Cindy Byrd has my Complete and Total Endorsement to be the next State Treasurer of Oklahoma — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
+
+### [October 2, 2026 at 10:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374724750816439)
+
+> It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!
+> As Chief Counsel to Alabama’s Attorney General, Katherine has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her wonderful State, and our Nation. As your next Attorney General, Katherine will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.
+> Katherine Robertson has my Complete and Total Endorsement to be the next Attorney General of Alabama — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP
+
+---
+
+### [October 2, 2026 at 10:55 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374723143795331)
+
+> Dr. Marc Siegel has written a beautiful new book, “The Angels Among Us: How God’s Messengers Play a Role in Healing.” Through the power of individual stories, Marc puts “coincidences” into the proper perspective, and reminds us that there is a Higher Power behind the scenes, working all things together for GOOD. Preorder your copy today!
+>  https:// a.co/d/08KliTCr
+
+---
 
 ### [October 2, 2026 at 10:52 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117374710858193847)
 
