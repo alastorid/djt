@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 4, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383038391721832)
+
+> Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: https:// justthenews.com/nation/economy /top-positive-us-economic-indicators-mainstream-media-not-reporting
+
+---
 
 ### [October 4, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382805901356540)
 

@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-04T13:15:41.851Z",
-  "count": 912,
+  "updatedAt": "2026-10-04T14:12:31.198Z",
+  "count": 913,
   "posts": [
+    {
+      "id": "117383038391721832",
+      "createdAt": "2026-10-04T10:10:22-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117383038391721832",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: https:// justthenews.com/nation/economy /top-positive-us-economic-indicators-mainstream-media-not-reporting",
+          "firstSeenAt": "2026-10-04T14:12:31.198Z"
+        }
+      ]
+    },
     {
       "id": "117382805901356540",
       "createdAt": "2026-10-04T09:11:14-04:00",
