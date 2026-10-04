@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [October 4, 2026 at 4:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117384612085223868)
 
@@ -320,12 +320,6 @@ _Last 3 days, newest first. 52 posts._
 ### [October 1, 2026 at 8:01 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117368375016362939)
 
 > I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP
-
----
-
-### [October 1, 2026 at 7:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117368288137760987)
-
-> To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
