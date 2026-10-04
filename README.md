@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 57 posts._
+_Last 3 days, newest first. 49 posts._
 
 ### [October 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117379305275420977)
 
@@ -304,55 +304,6 @@ _Last 3 days, newest first. 57 posts._
 ### [September 30, 2026 at 11:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363528339371665)
 
 > Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https:// justthenews.com/accountability /political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be
-
----
-
-### [September 30, 2026 at 10:22 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363266224228487)
-
-> Exclusive: Hegseth directs Defense Dept. to fight foreigners who "meddle" in U.S. elections: https://www. axios.com/2026/09/28/hegseth-e lections-security-order
-
----
-
-### [September 30, 2026 at 10:21 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363264569974249)
-
-> Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: https:// dailycaller.com/2026/09/28/tru mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/
-
----
-
-### [September 30, 2026 at 10:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363260871717815)
-
-> EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump:
->  https:// thefederalist.com/2026/09/28/e xclusive-jack-smiths-team-ignored-attorney-client-and-speech-or-debate-privileges-to-get-trump/
-
----
-
-### [September 30, 2026 at 10:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363258929059499)
-
-> Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: https:// nypost.com/2026/09/28/world-ne ws/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/
-
----
-
-### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363257382134049)
-
-> Trump administration reinstates sexual misconduct rule for schools: https://www. politico.com/news/2026/09/28/t rump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990
-
----
-
-### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363255844500237)
-
-> US finalizes new lower fuel economy standards in boost for gas-powered vehicles: https://www. reuters.com/business/autos-tra nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/
-
----
-
-### [September 30, 2026 at 10:19 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363254598194638)
-
-> Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: https:// nypost.com/2026/09/27/us-news/ irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/
-
----
-
-### [September 30, 2026 at 10:18 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363252945698992)
-
-> Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: https://www. foxnews.com/outkick-sports/tea m-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit
 <!-- DJT_POSTS_END -->
 
 ---
