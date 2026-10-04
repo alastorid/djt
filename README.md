@@ -3,7 +3,22 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 53 posts._
+
+### [October 4, 2026 at 10:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383043797111826)
+
+> The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP
+> From Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”
+
+---
+
+### [October 4, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383040827830000)
+
+> Deranged Jack Smith is a Crooked Prosecutor! President DJT
+> Ex-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:
+>  https:// justthenews.com/government/fed eral-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power
+
+---
 
 ### [October 4, 2026 at 10:10 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383038391721832)
 
