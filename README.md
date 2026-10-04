@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [October 4, 2026 at 2:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383979597248683)
 
@@ -314,12 +314,6 @@ _Last 3 days, newest first. 51 posts._
 ### [October 1, 2026 at 7:39 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117368288137760987)
 
 > To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP
-
----
-
-### [October 1, 2026 at 2:38 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117367105128831509)
-
-> Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
