@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-03T22:26:03.825Z",
-  "count": 907,
+  "updatedAt": "2026-10-04T12:23:25.808Z",
+  "count": 908,
   "posts": [
+    {
+      "id": "117382611360859686",
+      "createdAt": "2026-10-04T08:21:46-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117382611360859686",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?",
+          "firstSeenAt": "2026-10-04T12:23:25.808Z"
+        }
+      ]
+    },
     {
       "id": "117379305275420977",
       "createdAt": "2026-10-03T18:20:59-04:00",

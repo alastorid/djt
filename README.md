@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 45 posts._
+_Last 3 days, newest first. 46 posts._
+
+### [October 4, 2026 at 8:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382611360859686)
+
+> How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?
+
+---
 
 ### [October 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117379305275420977)
 
