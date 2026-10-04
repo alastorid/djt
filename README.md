@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 4, 2026 at 1:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383740615004316)
+
+> The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP
+
+---
 
 ### [October 4, 2026 at 10:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383043797111826)
 
