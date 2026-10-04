@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 4, 2026 at 2:09 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383979597248683)
+
+> A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP
+
+---
 
 ### [October 4, 2026 at 1:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383899651030960)
 

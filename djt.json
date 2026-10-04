@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-04T17:50:38.859Z",
-  "count": 917,
+  "updatedAt": "2026-10-04T18:11:18.146Z",
+  "count": 918,
   "posts": [
+    {
+      "id": "117383979597248683",
+      "createdAt": "2026-10-04T14:09:43-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117383979597248683",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
+          "firstSeenAt": "2026-10-04T18:11:18.146Z"
+        }
+      ]
+    },
     {
       "id": "117383899651030960",
       "createdAt": "2026-10-04T13:49:24-04:00",
