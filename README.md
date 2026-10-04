@@ -3,7 +3,26 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 46 posts._
+_Last 3 days, newest first. 49 posts._
+
+### [October 4, 2026 at 8:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382616783706638)
+
+> Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence
+> Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [October 4, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382615512488588)
+
+> I am pleased to announce that John Coale, Esq., a great lawyer and my incredibly successful Envoy for Belarus, will be my new Nominee for Special Presidential Envoy for Hostage Affairs, with the rank of Ambassador. John has already secured the return of over 65 Americans and Allied Citizens from Belarus over the last year, and negotiated the release of more than 800 political prisoners from multiple countries in Eastern Europe. He will work tirelessly in this new post to bring American Citizens home. Adam Boehler, who has done an incredible job, bringing back 196 hostages, will continue to assist in other matters, as Senior Advisor. Thank you for your attention to this matter! President DONALD J. TRUMP
+
+---
+
+### [October 4, 2026 at 8:22 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382613951699157)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893 Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP
+
+---
 
 ### [October 4, 2026 at 8:21 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382611360859686)
 
