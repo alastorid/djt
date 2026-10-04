@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 50 posts._
+
+### [October 4, 2026 at 9:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382805901356540)
+
+> Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really happening with our great Republican Party. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at FoxNews! Other networks are reporting about these Rallies, and really positively, like “crazy!” Our people want to see our Rallies, and reports on our Rallies, on FoxNews, or they will very quickly stop watching (like I am doing right now!). Fix spends more time talking to Communists, Socialists, and Dumocrats, often without rebuttal, and MAGA is not, to put it mildly, happy. We don’t like stupid Jessica Tarlov, and all of the others, that are forced down MAGA’S throats. These Rallies are the hottest things out there, tremendous love in those sold out arenas, and nothing shows up on Fox! Also, phenomenal ratings for those that properly report. Who makes these decisions at FoxNews? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover “TRUMP.” She’ll end up bigger and better than ever - watch! Cover our “happenings,” and not the opposition to Greatness for America, or FoxNews will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again! Thank you for your attention to this matter! President DJT
+
+---
 
 ### [October 4, 2026 at 8:23 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117382616783706638)
 
