@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 60 posts._
+_Last 3 days, newest first. 59 posts._
 
 ### [October 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117379305275420977)
 
@@ -365,12 +365,6 @@ _Last 3 days, newest first. 60 posts._
 ### [September 30, 2026 at 10:17 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363250174439013)
 
 > Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: https:// nypost.com/2026/09/25/us-news/ trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/
-
----
-
-### [September 30, 2026 at 9:37 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363089683591337)
-
-> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903
 <!-- DJT_POSTS_END -->
 
 ---
