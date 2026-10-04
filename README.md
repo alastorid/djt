@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 52 posts._
+_Last 3 days, newest first. 51 posts._
 
 ### [October 4, 2026 at 10:11 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383043797111826)
 
@@ -320,12 +320,6 @@ _Last 3 days, newest first. 52 posts._
 ### [October 1, 2026 at 12:27 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366588767807179)
 
 > I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern District of North Carolina and, as an attorney in the U.S. Marine Corps. Brian graduated from Davidson College (where he starred at Varsity Baseball!), and the University of Richmond School of Law. Before earning his Law Degree, Brian worked for the late Senator Jesse Helms. With the strong support of both of North Carolina’s Senators, Ted Budd and Thom Tillis, and Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley, Brian will continue to strongly protect and defend the Constitution on the Federal Bench. Congratulations Brian! President DONALD J. TRUMP
-
----
-
-### [October 1, 2026 at 11:57 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117366474576378383)
-
-> I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office’s Violent Crimes Section, and is also a member of the U.S. Army JAG Corps. A graduate of Dartmouth College and Duke University School of Law, Phil previously clerked for Judge Terrence Boyle on the Eastern District of North Carolina, and has always delivered strong results for the Great People of North Carolina. Phil has earned the backing of both of his State’s Senators, Ted Budd and Thom Tillis and, additionally, is strongly recommended by Republican Candidate for United States Senate, and former Head of the Republican Party, Michael Whatley. North Carolina can count on Phil to protect Law and Order — He will not let you down. Congratulations Phil! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
