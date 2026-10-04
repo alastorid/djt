@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 46 posts._
 
 ### [October 3, 2026 at 6:20 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117379305275420977)
 
@@ -286,24 +286,6 @@ _Last 3 days, newest first. 49 posts._
 ### [October 1, 2026 at 12:40 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363810994521058)
 
 > Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural planning and design. It is about time that The Boeing Company, which builds, by far, the finest commercial airliners in the sky, was given credit for this airplane’s incredible “genius!” To Kelly Ortberg, and all of his officers and associates at Boeing, congratulations on a job well done!!! President DONALD J. TRUMP
-
----
-
-### [September 30, 2026 at 11:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363530938149737)
-
-> Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https:// justthenews.com/government/whi te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-whe
-
----
-
-### [September 30, 2026 at 11:29 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363529555626519)
-
-> Another leftist race narrative bites the dust: Mississippi hanging edition: https:// justthenews.com/nation/another -radical-left-narrative-bites-dust-mississippi-hangin-editio
-
----
-
-### [September 30, 2026 at 11:28 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117363528339371665)
-
-> Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https:// justthenews.com/accountability /political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be
 <!-- DJT_POSTS_END -->
 
 ---
