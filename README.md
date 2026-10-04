@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 4, 2026 at 1:49 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383899651030960)
+
+> Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https:// justthenews.com/government/whi te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio
+
+---
 
 ### [October 4, 2026 at 1:08 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117383740615004316)
 

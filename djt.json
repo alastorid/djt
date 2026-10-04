@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-04T17:13:44.232Z",
-  "count": 916,
+  "updatedAt": "2026-10-04T17:50:38.859Z",
+  "count": 917,
   "posts": [
+    {
+      "id": "117383899651030960",
+      "createdAt": "2026-10-04T13:49:24-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117383899651030960",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https:// justthenews.com/government/whi te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
+          "firstSeenAt": "2026-10-04T17:50:38.859Z"
+        }
+      ]
+    },
     {
       "id": "117383740615004316",
       "createdAt": "2026-10-04T13:08:57-04:00",
