@@ -3,7 +3,25 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 5, 2026 at 1:58 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117389597190725188)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380 The Fake News New York Times “reported” on my Great, PACKED Rally in Ohio that, “the place was not full. Some upper sections were almost completely empty.” In actuality, thousands of people were unable to get in. The Arena was totally MAXED OUT, including all upper sections. What does happen at all of my SOLD OUT Rallies, is that the people in the upper sections tend to migrate down to the Main Floor — The “migration” process always happens! The Times knows this, and so does everyone else. I never have empty seats — Never have, and never will! Because of their dishonesty, I have cinematographers shooting the various Arenas where I speak, in that some of the Fake News likes to dishonestly report lies and untruths. In actuality, my Events for very good Republican Politicians are probably more crowded than ever. There are no empty seats, there haven’t been for years, and there never will be. The Rallies are “HOTTER” than ever. They are all “happenings,” and they never happened before, and will never be duplicated again. The Networks refuse, however, under any circumstances, to show the Crowds, but you can hear the thunderous applause, and know that it represents thousands and thousands of people. Watch tonight, for example, in the Great State of Nebraska, where I’ll be heading soon. See you later! President DONALD J. TRUMP
+
+---
+
+### [October 5, 2026 at 1:57 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117389593495407380)
+
+> RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241 The Ohio Arena was already full to the brim — And yet these people were still trying to get in. The New York Times said, “There were empty seats” when, in fact, there were none, and thousands of people had to be turned away. The New York Times, and many other Artificial Media Outlets, should be arrested for their dishonesty and disservice to our Country. When Bernie Sanders has 500 to 1,000 people, they make it sound like it’s the biggest event that ever took place. When PRESIDENT DONALD J. TRUMP has 50,000 people, they make it sound like nobody showed up! President DONALD J. TRUMP
+
+---
+
+### [October 5, 2026 at 1:56 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117389589417251241)
+
+> Pictures attached! President DJT
+
+---
 
 ### [October 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117389259991976695)
 
