@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 47 posts._
+_Last 3 days, newest first. 48 posts._
+
+### [October 5, 2026 at 12:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117389259991976695)
+
+> What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, "Refineries," where Russia's are being blown up by Ukraine, and where ours are being closed up, in Blue States, like California, by the Dumocrats. President DONALD J. TRUMP
+
+---
 
 ### [October 5, 2026 at 1:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386635456194100)
 
