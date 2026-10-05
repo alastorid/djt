@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 50 posts._
+_Last 3 days, newest first. 51 posts._
+
+### [October 4, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386191183722432)
+
+> 125 Million People voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate. Voting in America is CORRUPT!!! President DJT
+
+---
 
 ### [October 4, 2026 at 4:50 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117384612085223868)
 
