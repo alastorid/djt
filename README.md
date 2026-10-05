@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 49 posts._
+_Last 3 days, newest first. 48 posts._
 
 ### [October 5, 2026 at 1:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386635456194100)
 
@@ -302,12 +302,6 @@ _Last 3 days, newest first. 49 posts._
 ### [October 2, 2026 at 10:01 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117371677010048663)
 
 > Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT
-
----
-
-### [October 2, 2026 at 8:38 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117371353802794328)
-
-> I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
