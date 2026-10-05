@@ -6,9 +6,25 @@
     "https://trumpstruth.org/"
   ],
   "recentOverlapHours": 24,
-  "updatedAt": "2026-10-05T03:34:34.067Z",
-  "count": 921,
+  "updatedAt": "2026-10-05T10:35:19.375Z",
+  "count": 922,
   "posts": [
+    {
+      "id": "117386635456194100",
+      "createdAt": "2026-10-05T01:25:09-04:00",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117386635456194100",
+      "currentVersion": 1,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedDetectedAt": null,
+      "versions": [
+        {
+          "version": 1,
+          "text": "Exclusive — President of Cyprus: ‘Sky Is the Limit’ for Bilateral Relations with USA, Trump Has ‘Unique Advantage’ in Negotiations Because ‘You Know Where You Stand’ with POTUS: https://www. breitbart.com/politics/2026/10 /04/exclusive-president-of-cyprus-sky-is-the-limit-for-bilateral-relations-with-usa-trump-has-unique-advantage-in-negotiations-because-you-know-whe/",
+          "firstSeenAt": "2026-10-05T10:35:19.375Z"
+        }
+      ]
+    },
     {
       "id": "117386191183722432",
       "createdAt": "2026-10-04T23:32:10-04:00",

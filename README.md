@@ -3,7 +3,13 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 48 posts._
+_Last 3 days, newest first. 49 posts._
+
+### [October 5, 2026 at 1:25 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386635456194100)
+
+> Exclusive — President of Cyprus: ‘Sky Is the Limit’ for Bilateral Relations with USA, Trump Has ‘Unique Advantage’ in Negotiations Because ‘You Know Where You Stand’ with POTUS: https://www. breitbart.com/politics/2026/10 /04/exclusive-president-of-cyprus-sky-is-the-limit-for-bilateral-relations-with-usa-trump-has-unique-advantage-in-negotiations-because-you-know-whe/
+
+---
 
 ### [October 4, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386191183722432)
 
