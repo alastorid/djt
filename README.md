@@ -3,7 +3,7 @@
 things that washed up recently.
 
 <!-- DJT_POSTS_START -->
-_Last 3 days, newest first. 51 posts._
+_Last 3 days, newest first. 50 posts._
 
 ### [October 4, 2026 at 11:32 PM EDT](https://truthsocial.com/@realDonaldTrump/posts/117386191183722432)
 
@@ -314,12 +314,6 @@ _Last 3 days, newest first. 51 posts._
 ### [October 2, 2026 at 12:36 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117369458827039533)
 
 > America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP
-
----
-
-### [October 2, 2026 at 12:12 AM EDT](https://truthsocial.com/@realDonaldTrump/posts/117369363664701946)
-
-> Republicans in the Senate have to get moving on what I call the “No More Changing of Clocks Act,” officially known as The Sunshine Protection Act, a ridiculous Clock changing process that takes place twice a year, costs our Country a fortune, is bad for Crime, stress on people, Sports, and just about everything else you can imagine. Even the highly respected PGA Commissioner, Brian Rolapp, needs it for the completion of Golf Tournaments in the Winter, when they just plain run out of sunlight. People don’t want to go around changing their Clocks anymore and, besides, far and away, most people like having an hour of extra sunlight in the evening, rather than in the morning. The House has passed this Bill, 308-117, on July 14, 2026, with Great Bipartisan support. Both Democrats and Republicans want it to happen. It’s now up to the U.S. Senate where it would be another Great Bipartisan Victory. Unfortunately, it’s being held up by Senator Tom Cotton, of Arkansas, for reasons unknown. People are sick and tired of having to change their Clocks twice a year. Even most farmers would rather have additional time in the evening to harvest their crops. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown, conclusively, that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Boost the Sports, Fitness, Tourism, Retail, and Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change it again. But importantly, with a 100% approval rating, is that NOBODY wants to change their Clocks twice a year. This is an issue that Republicans, Democrats, and Independents can unite behind! President DONALD J. TRUMP
 <!-- DJT_POSTS_END -->
 
 ---
